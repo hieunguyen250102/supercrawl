@@ -1,0 +1,72 @@
+# Config khởi điểm cho metruyencv — CHƯA kiểm tra trực tiếp trên trang thật.
+# Site này render bằng JS và có chương VIP, nên:
+#   1) python -m crawler login metruyencv     (đăng nhập bằng tay 1 lần)
+#   2) python -m crawler probe <url truyện>   (sửa selector nào chưa khớp)
+#   3) python -m crawler crawl <url truyện>
+
+name: metruyencv
+match:
+  - metruyencv.com
+  - metruyenchu.com
+  - metruyencv.info
+
+render: true              # cần chạy JS
+
+fetch:
+  concurrency: 2          # nhẹ tay vì mỗi request là một page thật
+  delay: [1.2, 2.5]
+  retries: 3
+  timeout: 60000
+  wait_until: domcontentloaded
+
+detect:
+  novel_url: '/truyen/[^/]+/?$'
+  listing_url: '/(the-loai|danh-sach|tim-kiem)'
+
+listing:
+  novel_links:
+    - "div.novel-list .novel-title > a"
+    - 'a[href*="/truyen/"].novel-title'
+  pages:
+    url_pattern: "{url}?page={page}"
+    max: 200
+
+novel:
+  title: ["h1.novel-title", "h1"]
+  author: ['a[href*="/tac-gia"]', "li.author a"]
+  status: ["div.novel-status", "li.status"]
+  genres: 'a[href*="/the-loai/"]'
+  description: ["div.content.readmore", "div.novel-description"]
+  cover: ["div.novel-cover img@src", 'meta[property="og:image"]@content']
+  chapter_links:
+    - "ul#chapter-list li a"
+    - 'a[href*="/chuong-"]'
+  chapter_order: asc
+  chapter_pages:
+    url_pattern: "{url}?page={page}"
+    max: 300
+  wait_for: "a[href*='/chuong-']"
+
+chapter:
+  title: ["h2.chapter-title", ".chapter-title", "h1"]
+  content: ["#chapter-detail", "div.break-words", "div.chapter-content"]
+  remove:
+    - "[class*=ads]"
+    - "[id*=ads]"
+    - ".chapter-nav"
+  strip_lines:
+    - '(?i)metruyen'
+  locked:
+    - ".buy-chapter"
+    - "button[data-buy]"
+    - ".chapter-locked"
+  min_length: 80
+  wait_for: "#chapter-detail, div.break-words"
+
+auth:
+  login_url: "https://metruyencv.com/dang-nhap"
+  probe_url: "https://metruyencv.com/"
+  logged_in:
+    - 'a[href*="/dang-xuat"]'
+    - ".user-avatar"
+    - 'a[href*="/tai-khoan"]'

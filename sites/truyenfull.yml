@@ -1,0 +1,56 @@
+# Config khởi điểm cho truyenfull — CHƯA kiểm tra trực tiếp trên trang thật.
+# Chạy `python -m crawler probe <url>` rồi sửa lại selector nào báo "(không khớp)".
+
+name: truyenfull
+match:
+  - truyenfull.vn
+  - truyenfull.com
+  - truyenfull.io
+
+render: false
+
+fetch:
+  concurrency: 3
+  delay: [0.7, 1.5]
+  retries: 3
+
+detect:
+  novel_url: '^https?://[^/]+/[^/]+/?$'
+  listing_url: '/(the-loai|danh-sach|tim-kiem|tac-gia)/'
+
+listing:
+  novel_links:
+    - "div.list-truyen h3.truyen-title > a"
+    - "div.list-truyen .row h3 > a"
+  pages:
+    url_pattern: "{url}/trang-{page}/"
+    max: 200
+
+novel:
+  title: ["h3.title", 'h1[itemprop="name"]']
+  author: ['a[itemprop="author"]', "div.info a[href*=tac-gia]"]
+  status: ["span.text-primary", "div.info span.text-success"]
+  genres: 'a[itemprop="genre"]'
+  description: ["div.desc-text", 'div[itemprop="description"]']
+  cover: ["div.book img@src", 'img[itemprop="image"]@src']
+  chapter_links:
+    - "ul.list-chapter li > a"
+    - "div#list-chapter ul li a"
+  chapter_order: asc
+  chapter_pages:
+    url_pattern: "{url}/trang-{page}/#list-chapter"
+    max: 300
+
+chapter:
+  title: ["a.chapter-title", "h2 .chapter-title", ".chapter-title"]
+  content: ["#chapter-c", "div.chapter-c"]
+  remove:
+    - ".ads"
+    - ".ads-responsive"
+    - "[class*=ads]"
+    - "[id*=ads]"
+    - ".text-center"
+  strip_lines:
+    - '(?i)truyenfull'
+    - '(?i)^\s*(chương|chapter)\s*(trước|sau|kế)\s*$'
+  min_length: 80

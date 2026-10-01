@@ -1,0 +1,82 @@
+# ===========================================================================
+#  Template config site. Copy thành sites/<ten-site>.yml rồi điền selector.
+#  File bắt đầu bằng "_" không được nạp, nên file này an toàn để làm mẫu.
+#
+#  Cú pháp selector:
+#    "div.book img"         -> lấy TEXT của phần tử đầu tiên khớp
+#    "div.book img@src"     -> lấy attribute src (tự fallback data-src / data-original)
+#    ["a.x", "h1.y"]        -> danh sách: thử lần lượt, dùng cái đầu tiên khớp
+#    Chỉ hỗ trợ CSS selector (như jQuery), không hỗ trợ XPath.
+#
+#  Dò selector bằng:  python -m crawler probe <url>
+# ===========================================================================
+
+name: ten-site            # tên dùng cho state/profile, nên trùng tên file
+match:                    # domain nào thì dùng config này
+  - ten-site.com
+  - www.ten-site.com
+
+# false = chỉ tải HTML (nhanh, đủ cho hầu hết site truyện)
+# true  = mở page thật và chạy JavaScript (site Vue/React, hoặc chương VIP)
+render: false
+
+fetch:
+  concurrency: 3          # số request song song
+  delay: [0.6, 1.4]       # giãn cách ngẫu nhiên giữa 2 request (giây)
+  retries: 3
+  timeout: 45000          # ms
+  wait_until: domcontentloaded   # chỉ dùng khi render: true
+  wait_for: null          # selector phải xuất hiện trước khi lấy HTML (render: true)
+  block_resources: true   # chặn ảnh/font/video khi render -> nhanh hơn
+  # headers:
+  #   Referer: https://ten-site.com/
+
+# Nhận dạng URL để biết crawl kiểu gì. Bỏ trống -> tool tự đoán bằng selector.
+detect:
+  novel_url: '/truyen/[^/]+/?$'
+  listing_url: '/(the-loai|danh-sach|tim-kiem)/'
+
+# ---- Trang danh sách truyện (thể loại, tìm kiếm, top...) ------------------
+listing:
+  novel_links: "div.list-truyen h3.truyen-title > a"
+  pages:
+    # Chọn MỘT trong hai cách phân trang:
+    next: "ul.pagination li.active + li > a"    # selector link "trang sau"
+    # url_pattern: "{url}/trang-{page}/"        # hoặc ghép URL theo số trang
+    max: 200              # chặn trên số trang mỗi lần chạy
+    start: 1
+
+# ---- Trang giới thiệu truyện --------------------------------------------
+novel:
+  title: "h3.title"
+  author: 'a[itemprop="author"]'
+  status: "span.text-primary"
+  genres: 'a[itemprop="genre"]'
+  description: "div.desc-text"
+  cover: "div.book img@src"
+  chapter_links: "ul.list-chapter li > a"
+  chapter_order: asc      # asc = chương 1 ở đầu; desc = mới nhất ở đầu (tool sẽ đảo lại)
+  chapter_pages:
+    url_pattern: "{url}/trang-{page}/"
+    # next: "ul.pagination li.active + li > a"
+    max: 300
+
+# ---- Trang nội dung chương ----------------------------------------------
+chapter:
+  title: ["a.chapter-title", "h2 .chapter-title", "h1"]
+  content: "#chapter-c"
+  remove:                 # xoá khỏi khối nội dung trước khi lấy text
+    - ".ads"
+    - ".ads-responsive"
+    - "div[class*=banner]"
+  strip_lines:            # regex Python, khớp dòng nào thì bỏ dòng đó
+    - '(?i)ten-site\.com'
+  locked: ".chapter-locked, .vip-notice"   # có selector này = chương VIP/bị khoá
+  min_length: 50          # text ngắn hơn -> coi như tải lỗi
+
+# ---- Đăng nhập bằng tay (chương VIP / site bắt login) --------------------
+# Chạy: python -m crawler login ten-site
+auth:
+  login_url: "https://ten-site.com/dang-nhap"
+  probe_url: "https://ten-site.com/"
+  logged_in: "a.logout, .user-avatar"      # thấy selector này = đang đăng nhập

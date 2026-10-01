@@ -1,0 +1,75 @@
+# rookies.vn — Laravel + Inertia.js.
+#
+# Trang là SPA nhưng KHÔNG cần chạy JavaScript: toàn bộ dữ liệu đã nằm sẵn
+# trong thuộc tính data-page của <div id="app"> ngay ở response đầu tiên.
+# Vì vậy config dùng source: json và các đường dẫn trong JSON thay cho CSS selector.
+#
+# Cấu trúc JSON (kiểm chứng ngày 2026-09-30):
+#   Trang danh sách  -> props.novels.list_novels        (paginator Laravel)
+#   Trang truyện     -> props.novels.novels_detail      (+ novels_chapters_detail)
+#   Trang chương     -> props.novels.chapter_detail     (content là HTML)
+#   URL truyện       -> /truyen/{friendly_link}
+#   URL chương       -> /truyen/{slug-truyen}/{chapter_id}
+
+name: rookies
+match:
+  - rookies.vn
+
+source: json
+json:
+  container: '#app@data-page'
+  unescape: false      # parser đã giải mã &quot; trong attribute rồi
+
+render: false          # dữ liệu có sẵn trong HTML, không cần mở page thật
+
+fetch:
+  concurrency: 3
+  delay: [0.8, 1.6]
+  retries: 3
+  timeout: 60000
+
+detect:
+  # Trang truyện: /truyen/<slug>, trừ các slug là danh mục
+  novel_url: '^https?://rookies\.vn/truyen/(?!(?:mien-phi|tra-phi|hot|hoan-thanh)(?:[/?]|$))[^/?]+/?$'
+  listing_url: '/truyen/(mien-phi|tra-phi|hot|hoan-thanh)'
+
+listing:
+  novel_links:
+    list: props.novels.list_novels.data
+    url: "https://rookies.vn/truyen/{friendly_link}"
+    title: "{title}"
+  pages:
+    next: props.novels.list_novels.next_page_url
+    max: 800           # site có ~727 trang truyện miễn phí
+
+novel:
+  title: props.novels.novels_detail.title
+  author: props.novels.novels_detail.user.username
+  status:
+    path: props.novels.novels_detail.is_complete
+    map: {1: "Hoàn thành", 0: "Đang ra"}
+  genres: props.novels.novels_detail.novels_filter[].title
+  description: props.novels.novels_detail.short
+  cover:
+    tpl: "https://rookies.vn/uploads/{props.novels.novels_detail.picture}"
+  chapter_links:
+    list: props.novels.novels_detail.novels_chapters_detail
+    # lấy slug từ payload, không lấy từ URL: trang chương cũng có novels_detail
+    url: "https://rookies.vn/truyen/{props.novels.novels_detail.friendly_link}/{id}"
+    title: "{title}"
+  chapter_order: asc   # show_order tăng dần, chương 1 nằm đầu
+
+chapter:
+  title: props.novels.chapter_detail.title
+  content:
+    path: props.novels.chapter_detail.content
+    unescape: true     # HTML của chương bị escape thêm một lớp trong JSON
+  # Chương trả phí chưa mua thì content rỗng -> báo lỗi rõ ràng thay vì file rỗng
+  locked:
+    path: props.novels.chapter_detail.content
+    empty: true
+  min_length: 50
+
+auth:
+  login_url: "https://rookies.vn/dang-nhap"
+  probe_url: "https://rookies.vn/"
