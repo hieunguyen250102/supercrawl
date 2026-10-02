@@ -1,0 +1,1956 @@
+{
+  "site": "rookies",
+  "listings": {
+    "80e176c2b06b9dd2": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=1",
+      "page": 3,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=4",
+      "finished": false,
+      "novels_seen": 30,
+      "novels_done": [
+        "https://rookies.vn/truyen/qua-doi-diu-dang",
+        "https://rookies.vn/truyen/vet-sang-tu-bong-toi",
+        "https://rookies.vn/truyen/moi-hong-ben-ma-nguoi-thuong",
+        "https://rookies.vn/truyen/nhung-vi-sao-toi-loi",
+        "https://rookies.vn/truyen/truoc-khi-anh-den",
+        "https://rookies.vn/truyen/sao-anh-nghi-la-khong-kha-thi",
+        "https://rookies.vn/truyen/du-phong-phi-vu-1",
+        "https://rookies.vn/truyen/buc-thu-mua-ha-1",
+        "https://rookies.vn/truyen/bad-boy-yeu-nham-bad-girl",
+        "https://rookies.vn/truyen/chanh-mat-ong",
+        "https://rookies.vn/truyen/tien-nu-ma-hong-1",
+        "https://rookies.vn/truyen/cach-ha-guc-ban-cung",
+        "https://rookies.vn/truyen/buc-ky-hoa-khong-dau",
+        "https://rookies.vn/truyen/mua-thu-trang-dong",
+        "https://rookies.vn/truyen/say-em",
+        "https://rookies.vn/truyen/doi-ban-cung-tien-1",
+        "https://rookies.vn/truyen/khuc-dan-khanh-ha",
+        "https://rookies.vn/truyen/dong-qua-xuan-den",
+        "https://rookies.vn/truyen/hon-the-la-tre-con",
+        "https://rookies.vn/truyen/hanh-lang-hai-lop",
+        "https://rookies.vn/truyen/cau-ca-hom-nay-cai-ta-quy-chinh"
+      ]
+    },
+    "35647008b69beb22": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=0",
+      "page": 3,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=4",
+      "finished": false,
+      "novels_seen": 40,
+      "novels_done": [
+        "https://rookies.vn/truyen/qua-doi-diu-dang",
+        "https://rookies.vn/truyen/an-trong-hon-lua-manh-tinh-nam-phuong",
+        "https://rookies.vn/truyen/ngon-den-ngoai-khoi-1",
+        "https://rookies.vn/truyen/mua-bao-thu",
+        "https://rookies.vn/truyen/tinh-quan",
+        "https://rookies.vn/truyen/summer-is-calling",
+        "https://rookies.vn/truyen/anh-den-duoi-bau-troi-sao",
+        "https://rookies.vn/truyen/thanh-am-diu-dang",
+        "https://rookies.vn/truyen/hoa-no-trai-mua",
+        "https://rookies.vn/truyen/gia-dung-dan-1",
+        "https://rookies.vn/truyen/vet-sang-tu-bong-toi",
+        "https://rookies.vn/truyen/moi-hong-ben-ma-nguoi-thuong",
+        "https://rookies.vn/truyen/nhung-vi-sao-toi-loi",
+        "https://rookies.vn/truyen/truoc-khi-anh-den",
+        "https://rookies.vn/truyen/sao-anh-nghi-la-khong-kha-thi",
+        "https://rookies.vn/truyen/du-phong-phi-vu-1",
+        "https://rookies.vn/truyen/buc-thu-mua-ha-1",
+        "https://rookies.vn/truyen/bad-boy-yeu-nham-bad-girl",
+        "https://rookies.vn/truyen/chanh-mat-ong",
+        "https://rookies.vn/truyen/tien-nu-ma-hong-1",
+        "https://rookies.vn/truyen/cach-ha-guc-ban-cung",
+        "https://rookies.vn/truyen/buc-ky-hoa-khong-dau",
+        "https://rookies.vn/truyen/mua-thu-trang-dong",
+        "https://rookies.vn/truyen/say-em",
+        "https://rookies.vn/truyen/doi-ban-cung-tien-1"
+      ]
+    },
+    "b4cbfe0db78a4ff0": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=2",
+      "page": 2,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=4",
+      "finished": false,
+      "novels_seen": 20,
+      "novels_done": [
+        "https://rookies.vn/truyen/vet-sang-tu-bong-toi",
+        "https://rookies.vn/truyen/moi-hong-ben-ma-nguoi-thuong",
+        "https://rookies.vn/truyen/nhung-vi-sao-toi-loi",
+        "https://rookies.vn/truyen/truoc-khi-anh-den",
+        "https://rookies.vn/truyen/sao-anh-nghi-la-khong-kha-thi",
+        "https://rookies.vn/truyen/du-phong-phi-vu-1",
+        "https://rookies.vn/truyen/buc-thu-mua-ha-1",
+        "https://rookies.vn/truyen/bad-boy-yeu-nham-bad-girl",
+        "https://rookies.vn/truyen/chanh-mat-ong",
+        "https://rookies.vn/truyen/tien-nu-ma-hong-1",
+        "https://rookies.vn/truyen/cach-ha-guc-ban-cung",
+        "https://rookies.vn/truyen/buc-ky-hoa-khong-dau",
+        "https://rookies.vn/truyen/mua-thu-trang-dong",
+        "https://rookies.vn/truyen/say-em",
+        "https://rookies.vn/truyen/doi-ban-cung-tien-1",
+        "https://rookies.vn/truyen/khuc-dan-khanh-ha",
+        "https://rookies.vn/truyen/dong-qua-xuan-den",
+        "https://rookies.vn/truyen/hon-the-la-tre-con",
+        "https://rookies.vn/truyen/hanh-lang-hai-lop",
+        "https://rookies.vn/truyen/cau-ca-hom-nay-cai-ta-quy-chinh"
+      ]
+    },
+    "7986eb8d5bd1894e": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=3",
+      "page": 2,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=5",
+      "finished": false,
+      "novels_seen": 20,
+      "novels_done": [
+        "https://rookies.vn/truyen/cach-ha-guc-ban-cung",
+        "https://rookies.vn/truyen/buc-ky-hoa-khong-dau",
+        "https://rookies.vn/truyen/mua-thu-trang-dong",
+        "https://rookies.vn/truyen/say-em",
+        "https://rookies.vn/truyen/doi-ban-cung-tien-1",
+        "https://rookies.vn/truyen/khuc-dan-khanh-ha",
+        "https://rookies.vn/truyen/dong-qua-xuan-den",
+        "https://rookies.vn/truyen/hon-the-la-tre-con",
+        "https://rookies.vn/truyen/hanh-lang-hai-lop",
+        "https://rookies.vn/truyen/cau-ca-hom-nay-cai-ta-quy-chinh",
+        "https://rookies.vn/truyen/ki-uc-ton-dong-giua-long-thanh-xuan",
+        "https://rookies.vn/truyen/mong-chung-minh",
+        "https://rookies.vn/truyen/azraelis-thien-than-vo-tri",
+        "https://rookies.vn/truyen/phuong-phap-bao-ve-anh-trai-cua-nu-chinh-1",
+        "https://rookies.vn/truyen/cach-pha-huy-hoc-sinh-he-chuyen-full",
+        "https://rookies.vn/truyen/nguoi-dan-dat",
+        "https://rookies.vn/truyen/gl-nhiet-do-curie",
+        "https://rookies.vn/truyen/khai-vi-tinh-yeu",
+        "https://rookies.vn/truyen/phia-sau-quan-phuc-1",
+        "https://rookies.vn/truyen/tinh-the-nay-tinh-the"
+      ]
+    },
+    "5161172dd11ab8b1": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=4",
+      "page": 2,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=6",
+      "finished": false,
+      "novels_seen": 20,
+      "novels_done": [
+        "https://rookies.vn/truyen/cau-ca-hom-nay-cai-ta-quy-chinh",
+        "https://rookies.vn/truyen/mong-chung-minh",
+        "https://rookies.vn/truyen/azraelis-thien-than-vo-tri",
+        "https://rookies.vn/truyen/phuong-phap-bao-ve-anh-trai-cua-nu-chinh-1",
+        "https://rookies.vn/truyen/cach-pha-huy-hoc-sinh-he-chuyen-full",
+        "https://rookies.vn/truyen/nguoi-dan-dat",
+        "https://rookies.vn/truyen/gl-nhiet-do-curie",
+        "https://rookies.vn/truyen/khai-vi-tinh-yeu",
+        "https://rookies.vn/truyen/phia-sau-quan-phuc-1",
+        "https://rookies.vn/truyen/tinh-the-nay-tinh-the",
+        "https://rookies.vn/truyen/mat-ngot-khong-bang-moi-em",
+        "https://rookies.vn/truyen/di-thuc-huyet-ky",
+        "https://rookies.vn/truyen/mot-chu-la-yeu-hai-chu-la-em",
+        "https://rookies.vn/truyen/not-ruoi-son-noi-duoi-mat-trai",
+        "https://rookies.vn/truyen/sau-anh-chieu-ta-chi-con-doi-ta",
+        "https://rookies.vn/truyen/sao-the-be",
+        "https://rookies.vn/truyen/em-la-anh-ban-mai-ruc-ro",
+        "https://rookies.vn/truyen/mang-dep-thu-tien-nha",
+        "https://rookies.vn/truyen/gio-hat-tren-doi",
+        "https://rookies.vn/truyen/chi-vi-mot-lan-em-khoc"
+      ]
+    },
+    "d011e1a52caa1acf": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=5",
+      "page": 2,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=7",
+      "finished": false,
+      "novels_seen": 20,
+      "novels_done": [
+        "https://rookies.vn/truyen/mat-ngot-khong-bang-moi-em",
+        "https://rookies.vn/truyen/di-thuc-huyet-ky",
+        "https://rookies.vn/truyen/mot-chu-la-yeu-hai-chu-la-em",
+        "https://rookies.vn/truyen/not-ruoi-son-noi-duoi-mat-trai",
+        "https://rookies.vn/truyen/sau-anh-chieu-ta-chi-con-doi-ta",
+        "https://rookies.vn/truyen/sao-the-be",
+        "https://rookies.vn/truyen/em-la-anh-ban-mai-ruc-ro",
+        "https://rookies.vn/truyen/mang-dep-thu-tien-nha",
+        "https://rookies.vn/truyen/gio-hat-tren-doi",
+        "https://rookies.vn/truyen/chi-vi-mot-lan-em-khoc",
+        "https://rookies.vn/truyen/noi-tuong-tu-dong-day-from-loser-to-lover",
+        "https://rookies.vn/truyen/chiec-thuyen-giay",
+        "https://rookies.vn/truyen/vung-biet-lap-2",
+        "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu",
+        "https://rookies.vn/truyen/tu-hoa",
+        "https://rookies.vn/truyen/van-kiep-thanh-xuan-1",
+        "https://rookies.vn/truyen/mua-ha-cua-toi-1",
+        "https://rookies.vn/truyen/bao-boi-cua-toan-tinh-te",
+        "https://rookies.vn/truyen/mong-tinh-love-dreams",
+        "https://rookies.vn/truyen/nam-dai-thang-rong-tung-co-nguoi-doi-mong"
+      ]
+    },
+    "dd631a4012e2830d": {
+      "url": "https://rookies.vn/truyen/mien-phi?page=6",
+      "page": 13,
+      "next_url": "https://rookies.vn/truyen/mien-phi?page=19",
+      "finished": false,
+      "novels_seen": 140,
+      "novels_done": [
+        "https://rookies.vn/truyen/noi-tuong-tu-dong-day-from-loser-to-lover",
+        "https://rookies.vn/truyen/chiec-thuyen-giay",
+        "https://rookies.vn/truyen/vung-biet-lap-2",
+        "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu",
+        "https://rookies.vn/truyen/tu-hoa",
+        "https://rookies.vn/truyen/van-kiep-thanh-xuan-1",
+        "https://rookies.vn/truyen/mua-ha-cua-toi-1",
+        "https://rookies.vn/truyen/bao-boi-cua-toan-tinh-te",
+        "https://rookies.vn/truyen/mong-tinh-love-dreams",
+        "https://rookies.vn/truyen/nam-dai-thang-rong-tung-co-nguoi-doi-mong",
+        "https://rookies.vn/truyen/dam-vinh-hung-x-jack",
+        "https://rookies.vn/truyen/duyen-lanh-thuan-y",
+        "https://rookies.vn/truyen/hanh-trinh-xuyen-nhanh-cua-tieu-mi-nhan",
+        "https://rookies.vn/truyen/tan-so-rung-dong-lap-lanh",
+        "https://rookies.vn/truyen/mot-dem-say-ruou-toi-ket-hon-cung-truc-ma",
+        "https://rookies.vn/truyen/lao-dai-nghe-noi-anh-da-yeu-toi",
+        "https://rookies.vn/truyen/phai-long-1",
+        "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen",
+        "https://rookies.vn/truyen/giot-le-cuoi-mua-ha",
+        "https://rookies.vn/truyen/sau-tam-rem-son",
+        "https://rookies.vn/truyen/roi-khoi-nguoi-toi-yeu",
+        "https://rookies.vn/truyen/van-kiep-tim-nhau",
+        "https://rookies.vn/truyen/nay-lop-truong-to-biet-tay-cua-cau-roi",
+        "https://rookies.vn/truyen/dang-sau-co-quy",
+        "https://rookies.vn/truyen/giao-uoc-tra-thu-voi-ac-ma-1",
+        "https://rookies.vn/truyen/bdsm-sp-su-ton-tai-duy-nhat",
+        "https://rookies.vn/truyen/gian-nhan-ke-truy-hon",
+        "https://rookies.vn/truyen/gap-em-vao-ngay-nang-ha",
+        "https://rookies.vn/truyen/lua-ren-tren-lung-hoa",
+        "https://rookies.vn/truyen/lam-duong-lac-loi",
+        "https://rookies.vn/truyen/ven-nghia-tram-nam",
+        "https://rookies.vn/truyen/em-ve-va-ao-cho-anh",
+        "https://rookies.vn/truyen/he-thong-cai-tao-can-ba",
+        "https://rookies.vn/truyen/cam-do-vu-son-thanh",
+        "https://rookies.vn/truyen/om-mot-moi-tuong-tu",
+        "https://rookies.vn/truyen/trung-duc-luu-lac-tong-cong-np",
+        "https://rookies.vn/truyen/tinh-yeu-cuong-nhiet",
+        "https://rookies.vn/truyen/bach-hon-quy-nhan",
+        "https://rookies.vn/truyen/khong-cho-cau-chong-cu",
+        "https://rookies.vn/truyen/bl-story-o",
+        "https://rookies.vn/truyen/khoi-nghieng-lung-troi",
+        "https://rookies.vn/truyen/nua-doi-gap-go-nua-doi-buong-2",
+        "https://rookies.vn/truyen/vinh-biet-nu-than-1",
+        "https://rookies.vn/truyen/vuong-phi-khon-kheo-cua-thanh-vuong",
+        "https://rookies.vn/truyen/cao-h-giam-cam-the-tu",
+        "https://rookies.vn/truyen/ai-mang-ve-sau-lia-xa-mua-ha",
+        "https://rookies.vn/truyen/co-dau-xao-quyet",
+        "https://rookies.vn/truyen/fergus-mortem-1-ke-vong-than",
+        "https://rookies.vn/truyen/nhoe-doi-mi-em",
+        "https://rookies.vn/truyen/loi-thi-tham-cua-the-gioi-ben-kia",
+        "https://rookies.vn/truyen/mat-troi-khong-con-lan-tren-dia-cau-1",
+        "https://rookies.vn/truyen/hoi-uc-thanh-xuan-tuoi-dep-cua-chung-ta",
+        "https://rookies.vn/truyen/lieu-anh-mat-ay-co-tung-huong-ve-em",
+        "https://rookies.vn/truyen/manh-tinh-vat-vai",
+        "https://rookies.vn/truyen/gian-nhan-ho-uoc-nguyen",
+        "https://rookies.vn/truyen/thien-ha-man-vu",
+        "https://rookies.vn/truyen/ai-muon-lam-cameo-trong-hoat-canh-kinh-di",
+        "https://rookies.vn/truyen/he-thong-cong-duc-muon-toi-cuu-nam-phu",
+        "https://rookies.vn/truyen/ben-goi-vanh-tai-cham-toc-mai",
+        "https://rookies.vn/truyen/chuyen-tinh-tay-ba-sao-thanh-minh-doi-ta-1",
+        "https://rookies.vn/truyen/ky-duyen-huyen-su-1",
+        "https://rookies.vn/truyen/tinh-trai-anh-ngoc-quyen-khoi-suong",
+        "https://rookies.vn/truyen/mi-muc-tong-tinh",
+        "https://rookies.vn/truyen/tiem-vang-ma-khong-mo-ban-ngay",
+        "https://rookies.vn/truyen/anh-ay-khong-biet-toi-sap-chet",
+        "https://rookies.vn/truyen/ban-cung-ban-5",
+        "https://rookies.vn/truyen/mat-troi-tinh-giac-1",
+        "https://rookies.vn/truyen/dieu-diu-dang-nhat",
+        "https://rookies.vn/truyen/bau-troi-cua-em",
+        "https://rookies.vn/truyen/noi-anh-nhin-om-lay-mot-vi-sao",
+        "https://rookies.vn/truyen/mua-bui-day-troi",
+        "https://rookies.vn/truyen/nghi-hoa-tinh-quan",
+        "https://rookies.vn/truyen/mot-doi-thuong-em",
+        "https://rookies.vn/truyen/vay-nguoc",
+        "https://rookies.vn/truyen/chung-ta-vao-ngay-ha-nam-ay",
+        "https://rookies.vn/truyen/chi-can-la-em-muon-mot-chut-cung-khong-sao",
+        "https://rookies.vn/truyen/toi-la-ket-cuc-ma-kich-ban-khong-co",
+        "https://rookies.vn/truyen/du-an-cam-ngot",
+        "https://rookies.vn/truyen/oan-hon-nguoi-ca",
+        "https://rookies.vn/truyen/tu-dung-sa-vao-tinh-yeu-cua-ong-chu-hoang",
+        "https://rookies.vn/truyen/ke-ngoai-toc",
+        "https://rookies.vn/truyen/khong-nhuong-bo",
+        "https://rookies.vn/truyen/phuong-linh-anh-kiet",
+        "https://rookies.vn/truyen/sap-bay",
+        "https://rookies.vn/truyen/mau-don-cua-da-thu",
+        "https://rookies.vn/truyen/tinh-dau-thanh-mai",
+        "https://rookies.vn/truyen/mua-mua-nam-ay-co-cau-uat-kim-huong",
+        "https://rookies.vn/truyen/tieu-thu-meo-cua-anh",
+        "https://rookies.vn/truyen/van-lan-ngoanh-lai-van-la-anh",
+        "https://rookies.vn/truyen/cuoi-gio",
+        "https://rookies.vn/truyen/azraelis-triet-gia-be-con",
+        "https://rookies.vn/truyen/bach-hop-di-giua-troi-sao-ha-quan",
+        "https://rookies.vn/truyen/hoa-gao-nho-tieng-mua-xa",
+        "https://rookies.vn/truyen/duoi-canh-vet-xanh-la-sac-co-va-dom-nang",
+        "https://rookies.vn/truyen/om-nhung-mong-mo-di-qua-tuoi-tre",
+        "https://rookies.vn/truyen/mot-doi-danh-cho-mo",
+        "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai",
+        "https://rookies.vn/truyen/dai-viet-bach-quy-su-luc",
+        "https://rookies.vn/truyen/tram-xang-ngay-dong-chi",
+        "https://rookies.vn/truyen/mot-chu-tinh",
+        "https://rookies.vn/truyen/bl-nui-rong-song-dai",
+        "https://rookies.vn/truyen/noi-quy-dang-so-tai-trang-vien",
+        "https://rookies.vn/truyen/hac-dau-dinh",
+        "https://rookies.vn/truyen/mot-doi-theo-duoi",
+        "https://rookies.vn/truyen/ca-ca-nguoi-dung-nhu-vay-18",
+        "https://rookies.vn/truyen/nhat-quy-nhi-ma-thu-ba-thang-bi-1",
+        "https://rookies.vn/truyen/chi-dai-xin-tha-mang",
+        "https://rookies.vn/truyen/anh-sang-giua-dam-tro-tan",
+        "https://rookies.vn/truyen/cau-xanh-tham-huong-trau",
+        "https://rookies.vn/truyen/tren-tau-blackburn-linh-gac-x-dan-duong",
+        "https://rookies.vn/truyen/hon-trau-goi-mong",
+        "https://rookies.vn/truyen/ma-em-thom-vi-ngot-moi-anh-1",
+        "https://rookies.vn/truyen/hoang-thuc-khong-biet-xau-ho",
+        "https://rookies.vn/truyen/nhan-hoi",
+        "https://rookies.vn/truyen/chung-cu-424",
+        "https://rookies.vn/truyen/tham-yeu-1",
+        "https://rookies.vn/truyen/neu-huong-duong-con-no",
+        "https://rookies.vn/truyen/van-luon-nho-em",
+        "https://rookies.vn/truyen/aphrodisia-eaob",
+        "https://rookies.vn/truyen/trong-mat-anh-em-thay-nang-thieu-thoi-1",
+        "https://rookies.vn/truyen/cau-la-mat-troi-cua-to",
+        "https://rookies.vn/truyen/vuon-day-sao",
+        "https://rookies.vn/truyen/mat-em-hoa-sao-troi",
+        "https://rookies.vn/truyen/anh-trang-khong-thuoc-ve-toi",
+        "https://rookies.vn/truyen/hoi-uc-cua-nhung-hon-song",
+        "https://rookies.vn/truyen/tarot-ky-sinh",
+        "https://rookies.vn/truyen/sat-thu-ga-mo-va-phuc-hoi-su-top-1-sever",
+        "https://rookies.vn/truyen/bi-an-song-sinh",
+        "https://rookies.vn/truyen/bong-benh-ben-choi-xanh",
+        "https://rookies.vn/truyen/than-chu-cua-toi-la-omega-lichaeng-abo"
+      ]
+    }
+  },
+  "novels": {
+    "dd021591ae69c181": {
+      "url": "https://rookies.vn/truyen/qua-doi-diu-dang",
+      "title": "Quá Đỗi Dịu Dàng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Quá Đỗi Dịu Dàng",
+      "chapters": 76,
+      "done": 76,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-09-30T22:36:02+07:00"
+    },
+    "2776e6c26605752d": {
+      "url": "https://rookies.vn/truyen/an-trong-hon-lua-manh-tinh-nam-phuong",
+      "title": "Ẩn Trong Hồn Lụa Mảnh Tình Nam Phương",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ẩn Trong Hồn Lụa Mảnh Tình Nam Phương",
+      "chapters": 170,
+      "done": 170,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-09-30T22:44:11+07:00"
+    },
+    "2935abb032446b51": {
+      "url": "https://rookies.vn/truyen/ngon-den-ngoai-khoi-1",
+      "title": "Ngọn Đèn Ngoài Khơi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ngọn Đèn Ngoài Khơi",
+      "chapters": 119,
+      "done": 119,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-09-30T22:48:11+07:00"
+    },
+    "a2b1cd7a0d4e30a3": {
+      "url": "https://rookies.vn/truyen/mua-bao-thu",
+      "title": "Mùa Báo Thù (đang chỉnh sửa)",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mùa Báo Thù (đang chỉnh sửa)",
+      "chapters": 95,
+      "done": 95,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-09-30T22:52:06+07:00"
+    },
+    "b6f269bf5ad8ea6d": {
+      "url": "https://rookies.vn/truyen/tinh-quan",
+      "title": "TÌNH QUÂN",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\TÌNH QUÂN",
+      "chapters": 95,
+      "done": 95,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-09-30T22:56:38+07:00"
+    },
+    "6ae695a540a3e7fd": {
+      "url": "https://rookies.vn/truyen/summer-is-calling",
+      "title": "Gió Bắc Thổi Qua Má Em (The Northern Wind Kissed Your Cheek)",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gió Bắc Thổi Qua Má Em (The Northern Wind Kissed Your Cheek)",
+      "chapters": 271,
+      "done": 271,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-10-01T17:26:52+07:00"
+    },
+    "a35facdc5ec8fdb0": {
+      "url": "https://rookies.vn/truyen/anh-den-duoi-bau-troi-sao",
+      "title": "[FULL] Ánh Đèn Dưới Bầu Trời Sao",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Ánh Đèn Dưới Bầu Trời Sao",
+      "chapters": 41,
+      "done": 41,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-10-01T17:27:54+07:00"
+    },
+    "518b8076e811bd4c": {
+      "url": "https://rookies.vn/truyen/thanh-am-diu-dang",
+      "title": "Thanh Âm Dịu Dàng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Thanh Âm Dịu Dàng",
+      "chapters": 57,
+      "done": 57,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-10-01T17:29:19+07:00"
+    },
+    "0159064857a9602f": {
+      "url": "https://rookies.vn/truyen/hoa-no-trai-mua",
+      "title": "Hoa Nở Trái Mùa",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hoa Nở Trái Mùa",
+      "chapters": 195,
+      "done": 195,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-10-01T17:33:28+07:00"
+    },
+    "799460ba6521c110": {
+      "url": "https://rookies.vn/truyen/gia-dung-dan-1",
+      "title": "Giả Đứng Đắn",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Giả Đứng Đắn",
+      "chapters": 69,
+      "done": 69,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=0",
+      "updated_at": "2026-10-01T17:34:59+07:00"
+    },
+    "a41f3538531f2809": {
+      "url": "https://rookies.vn/truyen/vet-sang-tu-bong-toi",
+      "title": "Vệt Sáng Từ Bóng Tối",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vệt Sáng Từ Bóng Tối",
+      "chapters": 128,
+      "done": 128,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:01+07:00"
+    },
+    "de8efac202bea9a9": {
+      "url": "https://rookies.vn/truyen/moi-hong-ben-ma-nguoi-thuong",
+      "title": "Môi Hồng Bên Má Người Thương",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Môi Hồng Bên Má Người Thương",
+      "chapters": 40,
+      "done": 40,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:05+07:00"
+    },
+    "990ac1ed014f5b1e": {
+      "url": "https://rookies.vn/truyen/nhung-vi-sao-toi-loi",
+      "title": "Những vì sao tội lỗi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Những vì sao tội lỗi",
+      "chapters": 77,
+      "done": 77,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:06+07:00"
+    },
+    "e822395b77efaece": {
+      "url": "https://rookies.vn/truyen/truoc-khi-anh-den",
+      "title": "[FULL] TRƯỚC KHI ANH ĐẾN",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] TRƯỚC KHI ANH ĐẾN",
+      "chapters": 60,
+      "done": 60,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:10+07:00"
+    },
+    "4ee403b0a03ffb7c": {
+      "url": "https://rookies.vn/truyen/sao-anh-nghi-la-khong-kha-thi",
+      "title": "[FULL] Sao Anh Nghĩ Là Không Khả Thi?",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Sao Anh Nghĩ Là Không Khả Thi",
+      "chapters": 53,
+      "done": 53,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:13+07:00"
+    },
+    "335276c82f8d5031": {
+      "url": "https://rookies.vn/truyen/du-phong-phi-vu-1",
+      "title": "Du Phong Phi Vũ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Du Phong Phi Vũ",
+      "chapters": 73,
+      "done": 73,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:15+07:00"
+    },
+    "0dc8027f09c64c02": {
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1",
+      "title": "Gửi Thanh Xuân Vào Nắng Hạ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gửi Thanh Xuân Vào Nắng Hạ",
+      "chapters": 54,
+      "done": 54,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:17+07:00"
+    },
+    "e38c920ee8c4217d": {
+      "url": "https://rookies.vn/truyen/bad-boy-yeu-nham-bad-girl",
+      "title": "(Full) Bad Boy Yêu Nhầm Bad Girl",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\(Full) Bad Boy Yêu Nhầm Bad Girl",
+      "chapters": 120,
+      "done": 120,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:18+07:00"
+    },
+    "c7c07789b97365bb": {
+      "url": "https://rookies.vn/truyen/chanh-mat-ong",
+      "title": "[ĐANG SỬA] CHANH MẬT ONG",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[ĐANG SỬA] CHANH MẬT ONG",
+      "chapters": 55,
+      "done": 55,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:20+07:00"
+    },
+    "35fe96b51978cb03": {
+      "url": "https://rookies.vn/truyen/tien-nu-ma-hong-1",
+      "title": "Tiên Nữ Má Hồng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tiên Nữ Má Hồng",
+      "chapters": 52,
+      "done": 52,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=2",
+      "updated_at": "2026-10-01T18:49:21+07:00"
+    },
+    "2f3b47f24778a83b": {
+      "url": "https://rookies.vn/truyen/cach-ha-guc-ban-cung",
+      "title": "Cách Hạ Gục Bạn Cùng Lớp",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Cách Hạ Gục Bạn Cùng Lớp",
+      "chapters": 36,
+      "done": 36,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:09+07:00"
+    },
+    "9158379dfec3cce8": {
+      "url": "https://rookies.vn/truyen/buc-ky-hoa-khong-dau",
+      "title": "Bức Ký Họa Không Đầu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bức Ký Họa Không Đầu",
+      "chapters": 31,
+      "done": 31,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:11+07:00"
+    },
+    "df0ee1dc0bc9e067": {
+      "url": "https://rookies.vn/truyen/mua-thu-trang-dong",
+      "title": "Mưa Thu, Trăng Đông",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mưa Thu, Trăng Đông",
+      "chapters": 66,
+      "done": 66,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:13+07:00"
+    },
+    "9c06af8240b1bfc3": {
+      "url": "https://rookies.vn/truyen/say-em",
+      "title": "[Full] Lạc Vào Mắt Em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Lạc Vào Mắt Em",
+      "chapters": 69,
+      "done": 69,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:16+07:00"
+    },
+    "518a7a96f18fca83": {
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1",
+      "title": "Đôi \"Bạn\" Cùng Tiến",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Đôi Bạn Cùng Tiến",
+      "chapters": 83,
+      "done": 83,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:18+07:00"
+    },
+    "c6c6e85fed16237a": {
+      "url": "https://rookies.vn/truyen/khuc-dan-khanh-ha",
+      "title": "Khúc đàn khánh hạ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Khúc đàn khánh hạ",
+      "chapters": 22,
+      "done": 22,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:19+07:00"
+    },
+    "a834718673b0ee69": {
+      "url": "https://rookies.vn/truyen/dong-qua-xuan-den",
+      "title": "(FULL) Đông qua xuân đến",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\(FULL) Đông qua xuân đến",
+      "chapters": 56,
+      "done": 56,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:21+07:00"
+    },
+    "89d6c04cdf0cee8a": {
+      "url": "https://rookies.vn/truyen/hon-the-la-tre-con",
+      "title": "Hôn Thê Là Trẻ Con",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hôn Thê Là Trẻ Con",
+      "chapters": 166,
+      "done": 166,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:22+07:00"
+    },
+    "6d87a0e6e6f93bc4": {
+      "url": "https://rookies.vn/truyen/hanh-lang-hai-lop",
+      "title": "[FULL] HÀNH LANG HAI LỚP",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] HÀNH LANG HAI LỚP",
+      "chapters": 54,
+      "done": 54,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:50:24+07:00"
+    },
+    "6617364fe7838dd2": {
+      "url": "https://rookies.vn/truyen/cau-ca-hom-nay-cai-ta-quy-chinh",
+      "title": "Đá Nát Nung Vôi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Đá Nát Nung Vôi",
+      "chapters": 60,
+      "done": 60,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:12+07:00"
+    },
+    "847a2a5b8e4bef88": {
+      "url": "https://rookies.vn/truyen/ki-uc-ton-dong-giua-long-thanh-xuan",
+      "title": "[BL] Kí Ức Tồn Đọng Giữa Dòng Thanh Xuân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] Kí Ức Tồn Đọng Giữa Dòng Thanh Xuân",
+      "chapters": 47,
+      "done": 47,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=3",
+      "updated_at": "2026-10-01T18:51:28+07:00"
+    },
+    "14445bbf90c8207f": {
+      "url": "https://rookies.vn/truyen/mong-chung-minh",
+      "title": "Mộng Chúng Mình",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mộng Chúng Mình",
+      "chapters": 41,
+      "done": 41,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:13+07:00"
+    },
+    "6514ee03175b38e6": {
+      "url": "https://rookies.vn/truyen/azraelis-thien-than-vo-tri",
+      "title": "[Full] Azraelis Thiên Thần Vô Tri",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Azraelis Thiên Thần Vô Tri",
+      "chapters": 90,
+      "done": 90,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:14+07:00"
+    },
+    "ef0416ef035a90c5": {
+      "url": "https://rookies.vn/truyen/phuong-phap-bao-ve-anh-trai-cua-nu-chinh-1",
+      "title": "Phương Pháp Bảo Vệ Anh Trai Của Nữ Chính",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Phương Pháp Bảo Vệ Anh Trai Của Nữ Chính",
+      "chapters": 208,
+      "done": 208,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:17+07:00"
+    },
+    "436560ee50a309e4": {
+      "url": "https://rookies.vn/truyen/cach-pha-huy-hoc-sinh-he-chuyen-full",
+      "title": "Cách Phá Hủy Học Sinh Hệ Chuyên [FULL]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Cách Phá Hủy Học Sinh Hệ Chuyên [FULL]",
+      "chapters": 33,
+      "done": 33,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:19+07:00"
+    },
+    "54ba9b3e8a13bbd0": {
+      "url": "https://rookies.vn/truyen/nguoi-dan-dat",
+      "title": "Người Dẫn Dắt",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Người Dẫn Dắt",
+      "chapters": 128,
+      "done": 128,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:21+07:00"
+    },
+    "7aa172ecbb170604": {
+      "url": "https://rookies.vn/truyen/gl-nhiet-do-curie",
+      "title": "[GL] Nhiệt Độ Curie",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[GL] Nhiệt Độ Curie",
+      "chapters": 47,
+      "done": 47,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:23+07:00"
+    },
+    "d1f5d10112eb8898": {
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu",
+      "title": "Khai Vị Tình Yêu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Khai Vị Tình Yêu",
+      "chapters": 7,
+      "done": 7,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:25+07:00"
+    },
+    "b20d0cb6de3db1aa": {
+      "url": "https://rookies.vn/truyen/phia-sau-quan-phuc-1",
+      "title": "Phía sau quân phục",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Phía sau quân phục",
+      "chapters": 39,
+      "done": 39,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:27+07:00"
+    },
+    "79d26a333bc6e1e7": {
+      "url": "https://rookies.vn/truyen/tinh-the-nay-tinh-the",
+      "title": "Tình Thế Này Tình Thế!",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tình Thế Này Tình Thế!",
+      "chapters": 58,
+      "done": 58,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=4",
+      "updated_at": "2026-10-01T19:12:28+07:00"
+    },
+    "085c19ad6b9b8df9": {
+      "url": "https://rookies.vn/truyen/mat-ngot-khong-bang-moi-em",
+      "title": "[FULL] Mật Ngọt Không Bằng Môi Em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Mật Ngọt Không Bằng Môi Em",
+      "chapters": 39,
+      "done": 39,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:23+07:00"
+    },
+    "c8e4b9be4f1c6261": {
+      "url": "https://rookies.vn/truyen/di-thuc-huyet-ky",
+      "title": "Dị Thức Huyết Ký",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Dị Thức Huyết Ký",
+      "chapters": 87,
+      "done": 87,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:25+07:00"
+    },
+    "0d881792a3cc6439": {
+      "url": "https://rookies.vn/truyen/mot-chu-la-yeu-hai-chu-la-em",
+      "title": "Một Chữ Là Yêu, Hai Chữ Là Em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Một Chữ Là Yêu, Hai Chữ Là Em",
+      "chapters": 10,
+      "done": 10,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:26+07:00"
+    },
+    "5889d20b203eadb5": {
+      "url": "https://rookies.vn/truyen/not-ruoi-son-noi-duoi-mat-trai",
+      "title": "[BL] NỐT RUỒI SON NƠI ĐUÔI MẮT TRÁI",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] NỐT RUỒI SON NƠI ĐUÔI MẮT TRÁI",
+      "chapters": 43,
+      "done": 43,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:27+07:00"
+    },
+    "e01df136bcbe72fd": {
+      "url": "https://rookies.vn/truyen/sau-anh-chieu-ta-chi-con-doi-ta",
+      "title": "Sau ánh chiều tà, chỉ còn đôi ta",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Sau ánh chiều tà, chỉ còn đôi ta",
+      "chapters": 28,
+      "done": 28,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:29+07:00"
+    },
+    "96f24a11093e0b08": {
+      "url": "https://rookies.vn/truyen/sao-the-be",
+      "title": "Sao Thế Bé?",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Sao Thế Bé",
+      "chapters": 16,
+      "done": 16,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:31+07:00"
+    },
+    "917eeaddc60e205a": {
+      "url": "https://rookies.vn/truyen/em-la-anh-ban-mai-ruc-ro",
+      "title": "Em Là Ánh Dương Rực Rỡ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Em Là Ánh Dương Rực Rỡ",
+      "chapters": 56,
+      "done": 56,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:33+07:00"
+    },
+    "5b254d68297a1a1d": {
+      "url": "https://rookies.vn/truyen/mang-dep-thu-tien-nha",
+      "title": "Mang Dép Thu Tiền Nhà",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mang Dép Thu Tiền Nhà",
+      "chapters": 13,
+      "done": 13,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:35+07:00"
+    },
+    "d8e35cc900d59c68": {
+      "url": "https://rookies.vn/truyen/gio-hat-tren-doi",
+      "title": "Gió Hát Trên Đồi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gió Hát Trên Đồi",
+      "chapters": 130,
+      "done": 130,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:36+07:00"
+    },
+    "ba20980b4cddd0a5": {
+      "url": "https://rookies.vn/truyen/chi-vi-mot-lan-em-khoc",
+      "title": "Chỉ vì một lần em khóc",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Chỉ vì một lần em khóc",
+      "chapters": 75,
+      "done": 75,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=5",
+      "updated_at": "2026-10-01T19:38:37+07:00"
+    },
+    "e3ce501d89a24491": {
+      "url": "https://rookies.vn/truyen/noi-tuong-tu-dong-day-from-loser-to-lover",
+      "title": "Nơi Tương Tư Đong Đầy - from Loser to Lover",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nơi Tương Tư Đong Đầy - from Loser to Lover",
+      "chapters": 65,
+      "done": 65,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:34+07:00"
+    },
+    "79c4ca44afbc46d0": {
+      "url": "https://rookies.vn/truyen/chiec-thuyen-giay",
+      "title": "Chiếc Thuyền Giấy",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Chiếc Thuyền Giấy",
+      "chapters": 22,
+      "done": 22,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:36+07:00"
+    },
+    "1c070dc198d493c0": {
+      "url": "https://rookies.vn/truyen/vung-biet-lap-2",
+      "title": "Vùng Biệt Lập",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vùng Biệt Lập",
+      "chapters": 27,
+      "done": 27,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:39+07:00"
+    },
+    "122ed3f898baafe1": {
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu",
+      "title": "Tiếng Lòng Ngậm Bóng Chiều",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tiếng Lòng Ngậm Bóng Chiều",
+      "chapters": 54,
+      "done": 54,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:41+07:00"
+    },
+    "c57bcc60d2ee9a0e": {
+      "url": "https://rookies.vn/truyen/tu-hoa",
+      "title": "[BL] TỰ HỌA",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] TỰ HỌA",
+      "chapters": 45,
+      "done": 45,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:43+07:00"
+    },
+    "f44b7174a52d2ae3": {
+      "url": "https://rookies.vn/truyen/van-kiep-thanh-xuan-1",
+      "title": "[FULL] Vạn Kiếp Thanh Xuân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Vạn Kiếp Thanh Xuân",
+      "chapters": 58,
+      "done": 58,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:44+07:00"
+    },
+    "54775151e48721c0": {
+      "url": "https://rookies.vn/truyen/mua-ha-cua-toi-1",
+      "title": "[Full] Mùa hạ của tôi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Mùa hạ của tôi",
+      "chapters": 19,
+      "done": 19,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:46+07:00"
+    },
+    "f958c3b51f68a765": {
+      "url": "https://rookies.vn/truyen/bao-boi-cua-toan-tinh-te",
+      "title": "Bảo Bối Của Toàn Tinh Tế",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bảo Bối Của Toàn Tinh Tế",
+      "chapters": 102,
+      "done": 102,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:48+07:00"
+    },
+    "ce628f706de7f676": {
+      "url": "https://rookies.vn/truyen/mong-tinh-love-dreams",
+      "title": "Mộng Tình (Love Dreams)",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mộng Tình (Love Dreams)",
+      "chapters": 82,
+      "done": 82,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:50+07:00"
+    },
+    "1158ce282c549f47": {
+      "url": "https://rookies.vn/truyen/nam-dai-thang-rong-tung-co-nguoi-doi-mong",
+      "title": "Năm Dài Tháng Rộng, Từng Có Người Đợi Mong",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Năm Dài Tháng Rộng, Từng Có Người Đợi Mong",
+      "chapters": 12,
+      "done": 12,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:51:51+07:00"
+    },
+    "fc30ef91f9f0fccb": {
+      "url": "https://rookies.vn/truyen/dam-vinh-hung-x-jack",
+      "title": "[Đàm Vĩnh Hưng x Jack] Tổng tài bá đạo theo đuổi vợ yêu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Đàm Vĩnh Hưng x Jack] Tổng tài bá đạo theo đuổi vợ yêu",
+      "chapters": 5,
+      "done": 5,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:52:00+07:00"
+    },
+    "43de6a28e1649966": {
+      "url": "https://rookies.vn/truyen/duyen-lanh-thuan-y",
+      "title": "Duyên Lành Thuận Ý",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Duyên Lành Thuận Ý",
+      "chapters": 51,
+      "done": 51,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:53:09+07:00"
+    },
+    "4be7332683e8331b": {
+      "url": "https://rookies.vn/truyen/hanh-trinh-xuyen-nhanh-cua-tieu-mi-nhan",
+      "title": "Hành Trình Xuyên Nhanh Của Tiểu Mĩ Nhân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hành Trình Xuyên Nhanh Của Tiểu Mĩ Nhân",
+      "chapters": 3,
+      "done": 3,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:53:15+07:00"
+    },
+    "bb3c5f5f29f80454": {
+      "url": "https://rookies.vn/truyen/tan-so-rung-dong-lap-lanh",
+      "title": "TẦN SỐ RUNG ĐỘNG LẤP LÁNH",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\TẦN SỐ RUNG ĐỘNG LẤP LÁNH",
+      "chapters": 18,
+      "done": 18,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:53:38+07:00"
+    },
+    "0a9f353c272dfae6": {
+      "url": "https://rookies.vn/truyen/mot-dem-say-ruou-toi-ket-hon-cung-truc-ma",
+      "title": "MỘT ĐÊM SAY RƯỢU, TÔI KẾT HÔN CÙNG TRÚC MÃ!",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\MỘT ĐÊM SAY RƯỢU, TÔI KẾT HÔN CÙNG TRÚC MÃ!",
+      "chapters": 17,
+      "done": 17,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:54:01+07:00"
+    },
+    "065cbb56a84d67fc": {
+      "url": "https://rookies.vn/truyen/lao-dai-nghe-noi-anh-da-yeu-toi",
+      "title": "Lão Đại, Nghe Nói Anh Đã Yêu Tôi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Lão Đại, Nghe Nói Anh Đã Yêu Tôi",
+      "chapters": 10,
+      "done": 10,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:54:18+07:00"
+    },
+    "3afde6b666f65846": {
+      "url": "https://rookies.vn/truyen/phai-long-1",
+      "title": "Phải Lòng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Phải Lòng",
+      "chapters": 33,
+      "done": 33,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:55:00+07:00"
+    },
+    "17825baefac5bf6e": {
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen",
+      "title": "BRENNEN",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\BRENNEN",
+      "chapters": 40,
+      "done": 40,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:55:53+07:00"
+    },
+    "d8135c5e9ff368f1": {
+      "url": "https://rookies.vn/truyen/giot-le-cuoi-mua-ha",
+      "title": "[FULL] Giọt Lệ Cuối Mùa Hạ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Giọt Lệ Cuối Mùa Hạ",
+      "chapters": 86,
+      "done": 86,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:57:39+07:00"
+    },
+    "6da3b75debc878b0": {
+      "url": "https://rookies.vn/truyen/sau-tam-rem-son",
+      "title": "Sau tấm rèm son",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Sau tấm rèm son",
+      "chapters": 55,
+      "done": 55,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T19:58:47+07:00"
+    },
+    "48e8153860fd4e4e": {
+      "url": "https://rookies.vn/truyen/roi-khoi-nguoi-toi-yeu",
+      "title": "Rời Khỏi Người Tôi Yêu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Rời Khỏi Người Tôi Yêu",
+      "chapters": 60,
+      "done": 60,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:00:05+07:00"
+    },
+    "b51454f0696da1ca": {
+      "url": "https://rookies.vn/truyen/van-kiep-tim-nhau",
+      "title": "[FULL] Vạn Kiếp Tìm Nhau",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Vạn Kiếp Tìm Nhau",
+      "chapters": 71,
+      "done": 71,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:01:45+07:00"
+    },
+    "bbae16ad441f2d44": {
+      "url": "https://rookies.vn/truyen/nay-lop-truong-to-biet-tay-cua-cau-roi",
+      "title": "Này Lớp Trưởng, Tớ Biết \"Tẩy\" Của Cậu Rồi!",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Này Lớp Trưởng, Tớ Biết Tẩy Của Cậu Rồi!",
+      "chapters": 87,
+      "done": 87,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:03:35+07:00"
+    },
+    "67b970d3d93de677": {
+      "url": "https://rookies.vn/truyen/dang-sau-co-quy",
+      "title": "Đằng Sau Có Quỷ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Đằng Sau Có Quỷ",
+      "chapters": 6,
+      "done": 6,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:03:45+07:00"
+    },
+    "422a010af702afd1": {
+      "url": "https://rookies.vn/truyen/giao-uoc-tra-thu-voi-ac-ma-1",
+      "title": "Giao Ước Bất Tử",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Giao Ước Bất Tử",
+      "chapters": 197,
+      "done": 197,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:07:43+07:00"
+    },
+    "f487c87d547eff33": {
+      "url": "https://rookies.vn/truyen/bdsm-sp-su-ton-tai-duy-nhat",
+      "title": "[ BDSM - SP ] Sự Tồn Tại Duy Nhất",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[ BDSM - SP ] Sự Tồn Tại Duy Nhất",
+      "chapters": 8,
+      "done": 8,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:07:55+07:00"
+    },
+    "284dddd12bbf61f8": {
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon",
+      "title": "Gian Nhân - Kẻ Truy Hồn",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gian Nhân - Kẻ Truy Hồn",
+      "chapters": 72,
+      "done": 72,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:09:26+07:00"
+    },
+    "eb7e93f23358de9b": {
+      "url": "https://rookies.vn/truyen/gap-em-vao-ngay-nang-ha",
+      "title": "Gặp Em Vào Ngày Nắng Hạ [Đang chỉnh sửa]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gặp Em Vào Ngày Nắng Hạ [Đang chỉnh sửa]",
+      "chapters": 3,
+      "done": 3,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:09:32+07:00"
+    },
+    "67de111264d01e4e": {
+      "url": "https://rookies.vn/truyen/lua-ren-tren-lung-hoa",
+      "title": "Lửa Rèn Trên Lưng Hoa",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Lửa Rèn Trên Lưng Hoa",
+      "chapters": 39,
+      "done": 39,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:10:19+07:00"
+    },
+    "5479145b6731a648": {
+      "url": "https://rookies.vn/truyen/lam-duong-lac-loi",
+      "title": "FULL | LẦM ĐƯỜNG LẠC LỐI",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\FULL LẦM ĐƯỜNG LẠC LỐI",
+      "chapters": 93,
+      "done": 93,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:12:14+07:00"
+    },
+    "ebf80168030f3e8b": {
+      "url": "https://rookies.vn/truyen/ven-nghia-tram-nam",
+      "title": "Vẹn nghĩa trăm năm",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vẹn nghĩa trăm năm",
+      "chapters": 42,
+      "done": 42,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:13:10+07:00"
+    },
+    "ef4ed70af647f3cf": {
+      "url": "https://rookies.vn/truyen/em-ve-va-ao-cho-anh",
+      "title": "Em Về Vá Áo Cho Anh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Em Về Vá Áo Cho Anh",
+      "chapters": 68,
+      "done": 68,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:14:39+07:00"
+    },
+    "04b5479fe06b68f1": {
+      "url": "https://rookies.vn/truyen/he-thong-cai-tao-can-ba",
+      "title": "Hệ Thống Cải Tạo Cặn Bã",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hệ Thống Cải Tạo Cặn Bã",
+      "chapters": 170,
+      "done": 170,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:23:46+07:00"
+    },
+    "eecd8d33c59c05b6": {
+      "url": "https://rookies.vn/truyen/cam-do-vu-son-thanh",
+      "title": "CÁM DỖ - Vũ Sơn Thanh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\CÁM DỖ - Vũ Sơn Thanh",
+      "chapters": 32,
+      "done": 32,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:24:30+07:00"
+    },
+    "d45a81a4c11fe47f": {
+      "url": "https://rookies.vn/truyen/om-mot-moi-tuong-tu",
+      "title": "[Đang sửa] Ôm Một Mối Tương Tư",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Đang sửa] Ôm Một Mối Tương Tư",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:25:00+07:00"
+    },
+    "15167828ba404ea8": {
+      "url": "https://rookies.vn/truyen/trung-duc-luu-lac-tong-cong-np",
+      "title": "Trùng đực lưu lạc [ Tổng công NP]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Trùng đực lưu lạc [ Tổng công NP]",
+      "chapters": 46,
+      "done": 46,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:25:58+07:00"
+    },
+    "548a308f02a1e871": {
+      "url": "https://rookies.vn/truyen/tinh-yeu-cuong-nhiet",
+      "title": "Tình Yêu Cuồng Nhiệt",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tình Yêu Cuồng Nhiệt",
+      "chapters": 22,
+      "done": 22,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:26:26+07:00"
+    },
+    "3059e4844711f6cf": {
+      "url": "https://rookies.vn/truyen/bach-hon-quy-nhan",
+      "title": "Bạch Hồn Quỷ Nhân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bạch Hồn Quỷ Nhân",
+      "chapters": 57,
+      "done": 57,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:27:37+07:00"
+    },
+    "aaf8725e2772d27a": {
+      "url": "https://rookies.vn/truyen/khong-cho-cau-chong-cu",
+      "title": "Không Cho Cậu Chống Cự",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Không Cho Cậu Chống Cự",
+      "chapters": 48,
+      "done": 48,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:28:37+07:00"
+    },
+    "54ef679584fddbd8": {
+      "url": "https://rookies.vn/truyen/bl-story-o",
+      "title": "[BL] STORY - O",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] STORY - O",
+      "chapters": 11,
+      "done": 11,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:28:54+07:00"
+    },
+    "aa2ac8e66fec2f63": {
+      "url": "https://rookies.vn/truyen/khoi-nghieng-lung-troi",
+      "title": "[Full] Khói Nghiêng Lưng Trời",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Khói Nghiêng Lưng Trời",
+      "chapters": 53,
+      "done": 53,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:30:08+07:00"
+    },
+    "252b92258dc8c851": {
+      "url": "https://rookies.vn/truyen/nua-doi-gap-go-nua-doi-buong-2",
+      "title": "Nửa đời gặp gỡ nửa đời buông",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nửa đời gặp gỡ nửa đời buông",
+      "chapters": 22,
+      "done": 22,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:30:38+07:00"
+    },
+    "c997d073b54820ac": {
+      "url": "https://rookies.vn/truyen/vinh-biet-nu-than-1",
+      "title": "Vĩnh Biệt Nữ Thần",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vĩnh Biệt Nữ Thần",
+      "chapters": 23,
+      "done": 23,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:31:10+07:00"
+    },
+    "9f572c4c3b9b2f64": {
+      "url": "https://rookies.vn/truyen/vuong-phi-khon-kheo-cua-thanh-vuong",
+      "title": "Vương Phi Khôn Khéo Của Thanh Vương",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vương Phi Khôn Khéo Của Thanh Vương",
+      "chapters": 200,
+      "done": 200,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:35:27+07:00"
+    },
+    "c569606e5648bd5c": {
+      "url": "https://rookies.vn/truyen/cao-h-giam-cam-the-tu",
+      "title": "[Cao H] Giam Cầm Thê Tử",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Cao H] Giam Cầm Thê Tử",
+      "chapters": 10,
+      "done": 10,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:35:42+07:00"
+    },
+    "58c98012870dac91": {
+      "url": "https://rookies.vn/truyen/ai-mang-ve-sau-lia-xa-mua-ha",
+      "title": "Ai Mang Ve Sầu Lìa Xa Mùa Hạ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ai Mang Ve Sầu Lìa Xa Mùa Hạ",
+      "chapters": 32,
+      "done": 32,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:36:25+07:00"
+    },
+    "3cfd8b3406fa37af": {
+      "url": "https://rookies.vn/truyen/co-dau-xao-quyet",
+      "title": "Cô Dâu Xảo Quyệt",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Cô Dâu Xảo Quyệt",
+      "chapters": 14,
+      "done": 14,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:36:45+07:00"
+    },
+    "ce7e4c9bf9698bd7": {
+      "url": "https://rookies.vn/truyen/fergus-mortem-1-ke-vong-than",
+      "title": "Fergus Mortem 1: Kẻ Vong Thân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Fergus Mortem 1 Kẻ Vong Thân",
+      "chapters": 55,
+      "done": 55,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:37:51+07:00"
+    },
+    "a5d6ae995b5fc6a6": {
+      "url": "https://rookies.vn/truyen/nhoe-doi-mi-em",
+      "title": "Nhòe Đôi Mi Em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nhòe Đôi Mi Em",
+      "chapters": 32,
+      "done": 32,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:38:33+07:00"
+    },
+    "710aca5ac8104363": {
+      "url": "https://rookies.vn/truyen/loi-thi-tham-cua-the-gioi-ben-kia",
+      "title": "Lời Thì Thầm Của Vận Mệnh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Lời Thì Thầm Của Vận Mệnh",
+      "chapters": 4,
+      "done": 4,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:38:41+07:00"
+    },
+    "9191c1c7f5a34135": {
+      "url": "https://rookies.vn/truyen/mat-troi-khong-con-lan-tren-dia-cau-1",
+      "title": "Mây Magellan của tôi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mây Magellan của tôi",
+      "chapters": 30,
+      "done": 30,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:39:23+07:00"
+    },
+    "8295533f3b389ae7": {
+      "url": "https://rookies.vn/truyen/hoi-uc-thanh-xuan-tuoi-dep-cua-chung-ta",
+      "title": "[BL] Hồi Ức Thanh Xuân Tươi Đẹp Của Chúng Ta",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] Hồi Ức Thanh Xuân Tươi Đẹp Của Chúng Ta",
+      "chapters": 17,
+      "done": 17,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:39:47+07:00"
+    },
+    "1715fdde80453741": {
+      "url": "https://rookies.vn/truyen/lieu-anh-mat-ay-co-tung-huong-ve-em",
+      "title": "Liệu ánh mắt ấy có từng hướng về em?",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Liệu ánh mắt ấy có từng hướng về em",
+      "chapters": 39,
+      "done": 39,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:40:40+07:00"
+    },
+    "d679ceb8b164f079": {
+      "url": "https://rookies.vn/truyen/manh-tinh-vat-vai",
+      "title": "Mảnh Tình Vắt Vai",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mảnh Tình Vắt Vai",
+      "chapters": 40,
+      "done": 40,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:41:32+07:00"
+    },
+    "e5042cc0a94c0fd5": {
+      "url": "https://rookies.vn/truyen/gian-nhan-ho-uoc-nguyen",
+      "title": "Gian Nhân - Hồ Ước Nguyện",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gian Nhân - Hồ Ước Nguyện",
+      "chapters": 43,
+      "done": 43,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:42:31+07:00"
+    },
+    "ec878005f5d5bc61": {
+      "url": "https://rookies.vn/truyen/thien-ha-man-vu",
+      "title": "Thiên Hạ Mạn Vũ - Quyển 1.",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Thiên Hạ Mạn Vũ - Quyển 1",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:43:50+07:00"
+    },
+    "a202018cef9ae0b2": {
+      "url": "https://rookies.vn/truyen/ai-muon-lam-cameo-trong-hoat-canh-kinh-di",
+      "title": "Ai Muốn Làm Cameo Trong Hoạt Cảnh Kinh Dị?",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ai Muốn Làm Cameo Trong Hoạt Cảnh Kinh Dị",
+      "chapters": 93,
+      "done": 93,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:46:27+07:00"
+    },
+    "76280f9750589260": {
+      "url": "https://rookies.vn/truyen/he-thong-cong-duc-muon-toi-cuu-nam-phu",
+      "title": "Hệ Thống Công Đức Muốn Tôi Cứu Nam Phụ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hệ Thống Công Đức Muốn Tôi Cứu Nam Phụ",
+      "chapters": 170,
+      "done": 170,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:50:36+07:00"
+    },
+    "2ade006b4ffdccde": {
+      "url": "https://rookies.vn/truyen/ben-goi-vanh-tai-cham-toc-mai",
+      "title": "Bên Gối Vành Tai Chạm Tóc Mai",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bên Gối Vành Tai Chạm Tóc Mai",
+      "chapters": 100,
+      "done": 100,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:52:46+07:00"
+    },
+    "591b0e65fe49c8bc": {
+      "url": "https://rookies.vn/truyen/chuyen-tinh-tay-ba-sao-thanh-minh-doi-ta-1",
+      "title": "Hạ Gục Tình Địch Dấu Yêu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hạ Gục Tình Địch Dấu Yêu",
+      "chapters": 19,
+      "done": 19,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:54:05+07:00"
+    },
+    "5b9154537e306fdc": {
+      "url": "https://rookies.vn/truyen/ky-duyen-huyen-su-1",
+      "title": "Kỳ Duyên Huyền Sử",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Kỳ Duyên Huyền Sử",
+      "chapters": 52,
+      "done": 52,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:55:14+07:00"
+    },
+    "3b59426e05db7c5a": {
+      "url": "https://rookies.vn/truyen/tinh-trai-anh-ngoc-quyen-khoi-suong",
+      "title": "(Tình trai) Ánh Ngọc Quyện Khói Sương",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\(Tình trai) Ánh Ngọc Quyện Khói Sương",
+      "chapters": 49,
+      "done": 49,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:56:31+07:00"
+    },
+    "220337abf3f698d3": {
+      "url": "https://rookies.vn/truyen/mi-muc-tong-tinh",
+      "title": "Mi Mục Tống Tình",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mi Mục Tống Tình",
+      "chapters": 69,
+      "done": 69,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:58:18+07:00"
+    },
+    "8770d3dfec380a76": {
+      "url": "https://rookies.vn/truyen/tiem-vang-ma-khong-mo-ban-ngay",
+      "title": "Tiệm vàng mã không mở ban ngày",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tiệm vàng mã không mở ban ngày",
+      "chapters": 32,
+      "done": 32,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:59:09+07:00"
+    },
+    "0314d5f72c94d2ed": {
+      "url": "https://rookies.vn/truyen/anh-ay-khong-biet-toi-sap-chet",
+      "title": "Anh Ấy Không Biết Tôi Sắp Chết!",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Anh Ấy Không Biết Tôi Sắp Chết!",
+      "chapters": 26,
+      "done": 26,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T20:59:45+07:00"
+    },
+    "ef096a2b31ff3dc3": {
+      "url": "https://rookies.vn/truyen/ban-cung-ban-5",
+      "title": "Bạn Cùng Bàn",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bạn Cùng Bàn",
+      "chapters": 71,
+      "done": 71,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:01:13+07:00"
+    },
+    "e26a72f17682a02b": {
+      "url": "https://rookies.vn/truyen/mat-troi-tinh-giac-1",
+      "title": "Mặt Trời Tỉnh Giấc 1",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mặt Trời Tỉnh Giấc 1",
+      "chapters": 78,
+      "done": 78,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:03:04+07:00"
+    },
+    "40d7765222730c77": {
+      "url": "https://rookies.vn/truyen/dieu-diu-dang-nhat",
+      "title": "Nghe Nói Cậu Rất Thích Tắm Biển?",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nghe Nói Cậu Rất Thích Tắm Biển",
+      "chapters": 64,
+      "done": 64,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:04:43+07:00"
+    },
+    "991dd13d43affb37": {
+      "url": "https://rookies.vn/truyen/bau-troi-cua-em",
+      "title": "[DROP] Bầu Trời Của Em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[DROP] Bầu Trời Của Em",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:05:18+07:00"
+    },
+    "692d1d362df4c9d8": {
+      "url": "https://rookies.vn/truyen/noi-anh-nhin-om-lay-mot-vi-sao",
+      "title": "Nơi Ánh Nhìn Ôm Lấy Một Vì Sao",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nơi Ánh Nhìn Ôm Lấy Một Vì Sao",
+      "chapters": 16,
+      "done": 16,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:05:53+07:00"
+    },
+    "55b0cc39c740b1ab": {
+      "url": "https://rookies.vn/truyen/mua-bui-day-troi",
+      "title": "Gặp anh trong con ngõ nhỏ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Gặp anh trong con ngõ nhỏ",
+      "chapters": 42,
+      "done": 42,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:06:49+07:00"
+    },
+    "a25cd5adf63f076b": {
+      "url": "https://rookies.vn/truyen/nghi-hoa-tinh-quan",
+      "title": "[Full] Nghi Họa Tình Quân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Nghi Họa Tình Quân",
+      "chapters": 80,
+      "done": 80,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:08:30+07:00"
+    },
+    "7d83c4795a1aa81a": {
+      "url": "https://rookies.vn/truyen/mot-doi-thuong-em",
+      "title": "Ôm mình anh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ôm mình anh",
+      "chapters": 56,
+      "done": 56,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:09:39+07:00"
+    },
+    "0b88e6a65cebeaa9": {
+      "url": "https://rookies.vn/truyen/vay-nguoc",
+      "title": "Vảy Ngược",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vảy Ngược",
+      "chapters": 90,
+      "done": 90,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:11:40+07:00"
+    },
+    "a6f46d8d2ba9df87": {
+      "url": "https://rookies.vn/truyen/chung-ta-vao-ngay-ha-nam-ay",
+      "title": "[TẠM DỪNG ĐĂNG TẢI] Rung Động Ngày Hạ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[TẠM DỪNG ĐĂNG TẢI] Rung Động Ngày Hạ",
+      "chapters": 34,
+      "done": 34,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:12:23+07:00"
+    },
+    "bb9a5333bebc0cbf": {
+      "url": "https://rookies.vn/truyen/chi-can-la-em-muon-mot-chut-cung-khong-sao",
+      "title": "Chỉ Cần Là Em, Muộn Một Chút Cũng Không Sao!",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Chỉ Cần Là Em, Muộn Một Chút Cũng Không Sao!",
+      "chapters": 120,
+      "done": 120,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:15:09+07:00"
+    },
+    "26660a6602d5ab66": {
+      "url": "https://rookies.vn/truyen/toi-la-ket-cuc-ma-kich-ban-khong-co",
+      "title": "Tôi là kết cục mà kịch bản không có",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tôi là kết cục mà kịch bản không có",
+      "chapters": 21,
+      "done": 21,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:15:40+07:00"
+    },
+    "24baecb62ad18ba9": {
+      "url": "https://rookies.vn/truyen/du-an-cam-ngot",
+      "title": "DỰ ÁN: CAM NGỌT",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\DỰ ÁN CAM NGỌT",
+      "chapters": 26,
+      "done": 26,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:16:14+07:00"
+    },
+    "0273b8feccc980c4": {
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca",
+      "title": "Oan Hồn Người Cá",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Oan Hồn Người Cá",
+      "chapters": 14,
+      "done": 14,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:16:33+07:00"
+    },
+    "eeb7e653f925049d": {
+      "url": "https://rookies.vn/truyen/tu-dung-sa-vao-tinh-yeu-cua-ong-chu-hoang",
+      "title": "Tự Dưng Sa Vào Tình Yêu Của Ông Chủ Hoàng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tự Dưng Sa Vào Tình Yêu Của Ông Chủ Hoàng",
+      "chapters": 144,
+      "done": 144,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:22:11+07:00"
+    },
+    "503a385cd1c973da": {
+      "url": "https://rookies.vn/truyen/ke-ngoai-toc",
+      "title": "Kẻ Ngoại Tộc",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Kẻ Ngoại Tộc",
+      "chapters": 66,
+      "done": 66,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:23:30+07:00"
+    },
+    "c244f859ab639779": {
+      "url": "https://rookies.vn/truyen/khong-nhuong-bo",
+      "title": "[BL] Không Nhượng Bộ (Đang chỉnh sửa)",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[BL] Không Nhượng Bộ (Đang chỉnh sửa)",
+      "chapters": 79,
+      "done": 79,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:25:18+07:00"
+    },
+    "9447bf83e100c63f": {
+      "url": "https://rookies.vn/truyen/phuong-linh-anh-kiet",
+      "title": "Phương Linh Anh Kiệt",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Phương Linh Anh Kiệt",
+      "chapters": 44,
+      "done": 44,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:26:15+07:00"
+    },
+    "66b1c556cd3307d3": {
+      "url": "https://rookies.vn/truyen/sap-bay",
+      "title": "(Đang chỉnh sửa) Sập bẫy",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\(Đang chỉnh sửa) Sập bẫy",
+      "chapters": 83,
+      "done": 83,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:28:23+07:00"
+    },
+    "ebfa5081b4283b5b": {
+      "url": "https://rookies.vn/truyen/mau-don-cua-da-thu",
+      "title": "Mẫu Đơn của Dã Thú",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mẫu Đơn của Dã Thú",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:28:56+07:00"
+    },
+    "5a826356cda6af19": {
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai",
+      "title": "Tình Đầu Thanh Mai",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tình Đầu Thanh Mai",
+      "chapters": 7,
+      "done": 7,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:29:08+07:00"
+    },
+    "62fe77419aac98af": {
+      "url": "https://rookies.vn/truyen/mua-mua-nam-ay-co-cau-uat-kim-huong",
+      "title": "Người Lạ Quen Thuộc Của Tôi - Chyn Mai",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Người Lạ Quen Thuộc Của Tôi - Chyn Mai",
+      "chapters": 23,
+      "done": 23,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:29:39+07:00"
+    },
+    "379a838ad2a0d327": {
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh",
+      "title": "Tiểu Thư Mèo Của Anh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Tiểu Thư Mèo Của Anh",
+      "chapters": 80,
+      "done": 80,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:31:19+07:00"
+    },
+    "dc90c22badf7430b": {
+      "url": "https://rookies.vn/truyen/van-lan-ngoanh-lai-van-la-anh",
+      "title": "Vạn Lần Ngoảnh Lại Vẫn Là Anh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vạn Lần Ngoảnh Lại Vẫn Là Anh",
+      "chapters": 17,
+      "done": 17,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:31:42+07:00"
+    },
+    "8a88d62b349e0213": {
+      "url": "https://rookies.vn/truyen/cuoi-gio",
+      "title": "Cưỡi Gió",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Cưỡi Gió",
+      "chapters": 185,
+      "done": 185,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:36:25+07:00"
+    },
+    "b43b086682c0f605": {
+      "url": "https://rookies.vn/truyen/azraelis-triet-gia-be-con",
+      "title": "Azraelis Triết Gia Bé Con",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Azraelis Triết Gia Bé Con",
+      "chapters": 73,
+      "done": 73,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:37:56+07:00"
+    },
+    "7c0075de8ebaa614": {
+      "url": "https://rookies.vn/truyen/bach-hop-di-giua-troi-sao-ha-quan",
+      "title": "Bách hợp | Đi Giữa Trời Sao - Hạ Quân",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bách hợp Đi Giữa Trời Sao - Hạ Quân",
+      "chapters": 70,
+      "done": 70,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:39:25+07:00"
+    },
+    "ce51dc3314fe8be6": {
+      "url": "https://rookies.vn/truyen/hoa-gao-nho-tieng-mua-xa",
+      "title": "Hoa gạo nhớ tiếng mưa xa",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hoa gạo nhớ tiếng mưa xa",
+      "chapters": 33,
+      "done": 33,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:40:09+07:00"
+    },
+    "dcf602a931b315a5": {
+      "url": "https://rookies.vn/truyen/duoi-canh-vet-xanh-la-sac-co-va-dom-nang",
+      "title": "Dưới Cánh Vẹt Xanh Là Sắc Cỏ Và Đốm Nắng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Dưới Cánh Vẹt Xanh Là Sắc Cỏ Và Đốm Nắng",
+      "chapters": 31,
+      "done": 31,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:41:01+07:00"
+    },
+    "6278a71d5e66317c": {
+      "url": "https://rookies.vn/truyen/ban-hit-doc-quyen",
+      "title": "Bản Hit Độc Quyền",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Bản Hit Độc Quyền",
+      "chapters": 30,
+      "done": 29,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:41:40+07:00"
+    },
+    "1a8d1b2a9e3dc0f8": {
+      "url": "https://rookies.vn/truyen/om-nhung-mong-mo-di-qua-tuoi-tre",
+      "title": "Ôm những mộng mơ đi qua tuổi trẻ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ôm những mộng mơ đi qua tuổi trẻ",
+      "chapters": 16,
+      "done": 16,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:42:02+07:00"
+    },
+    "ab2d95a79f58c168": {
+      "url": "https://rookies.vn/truyen/mot-doi-danh-cho-mo",
+      "title": "Một Đời Dành Cho Mợ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Một Đời Dành Cho Mợ",
+      "chapters": 105,
+      "done": 105,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:44:15+07:00"
+    },
+    "6c3caab2112e6086": {
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai",
+      "title": "Góp Nhặt Từng Hạt Sao Mai",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Góp Nhặt Từng Hạt Sao Mai",
+      "chapters": 49,
+      "done": 49,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:45:18+07:00"
+    },
+    "c75b186da9a944f0": {
+      "url": "https://rookies.vn/truyen/dai-viet-bach-quy-su-luc",
+      "title": "Đại Việt Bách Qủy Sự Lục",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Đại Việt Bách Qủy Sự Lục",
+      "chapters": 15,
+      "done": 15,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:45:38+07:00"
+    },
+    "2b42fd74df2a4460": {
+      "url": "https://rookies.vn/truyen/tram-xang-ngay-dong-chi",
+      "title": "Trạm Xăng Ngày Đông Chí",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Trạm Xăng Ngày Đông Chí",
+      "chapters": 4,
+      "done": 4,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:45:50+07:00"
+    },
+    "b1633bd3bc19e191": {
+      "url": "https://rookies.vn/truyen/mot-chu-tinh",
+      "title": "Một Chữ Tình",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Một Chữ Tình",
+      "chapters": 15,
+      "done": 15,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:46:12+07:00"
+    },
+    "be8fd177acb35ff4": {
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai",
+      "title": "[FULL][BL] NÚI RỘNG SÔNG DÀI",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL][BL] NÚI RỘNG SÔNG DÀI",
+      "chapters": 63,
+      "done": 63,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:47:34+07:00"
+    },
+    "30b5466ce745c886": {
+      "url": "https://rookies.vn/truyen/noi-quy-dang-so-tai-trang-vien",
+      "title": "Nội Quy Đáng Sợ Tại Trang Viên",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nội Quy Đáng Sợ Tại Trang Viên",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:48:07+07:00"
+    },
+    "4cab402731195e94": {
+      "url": "https://rookies.vn/truyen/hac-dau-dinh",
+      "title": "Hạc đầu đình",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hạc đầu đình",
+      "chapters": 37,
+      "done": 37,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:48:54+07:00"
+    },
+    "0b6089e9110d7c91": {
+      "url": "https://rookies.vn/truyen/mot-doi-theo-duoi",
+      "title": "Một đời theo đuổi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Một đời theo đuổi",
+      "chapters": 20,
+      "done": 20,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:49:22+07:00"
+    },
+    "614a74116c295186": {
+      "url": "https://rookies.vn/truyen/ca-ca-nguoi-dung-nhu-vay-18",
+      "title": "Ca Ca Ngươi... Đừng Như Vậy 18+",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ca Ca Ngươi... Đừng Như Vậy 18+",
+      "chapters": 30,
+      "done": 30,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:50:01+07:00"
+    },
+    "912a5545d27d5629": {
+      "url": "https://rookies.vn/truyen/nhat-quy-nhi-ma-thu-ba-thang-bi-1",
+      "title": "Nhất Quỷ Nhì Ma Thứ Ba Thằng Bí",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nhất Quỷ Nhì Ma Thứ Ba Thằng Bí",
+      "chapters": 61,
+      "done": 61,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:51:18+07:00"
+    },
+    "1cb2cf2d2bad1339": {
+      "url": "https://rookies.vn/truyen/chi-dai-xin-tha-mang",
+      "title": "(HOÀN THÀNH) Chị đại xin tha mạng",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\(HOÀN THÀNH) Chị đại xin tha mạng",
+      "chapters": 80,
+      "done": 80,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:52:59+07:00"
+    },
+    "1e68fe7a9758045e": {
+      "url": "https://rookies.vn/truyen/anh-sang-giua-dam-tro-tan",
+      "title": "Ánh Sáng Giữa Đám Tro Tàn",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ánh Sáng Giữa Đám Tro Tàn",
+      "chapters": 11,
+      "done": 11,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:53:18+07:00"
+    },
+    "fdd4d79fbd23025a": {
+      "url": "https://rookies.vn/truyen/cau-xanh-tham-huong-trau",
+      "title": "CAU XANH THẮM HƯƠNG TRẦU",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\CAU XANH THẮM HƯƠNG TRẦU",
+      "chapters": 54,
+      "done": 54,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:54:53+07:00"
+    },
+    "4273374cd9666e99": {
+      "url": "https://rookies.vn/truyen/tren-tau-blackburn-linh-gac-x-dan-duong",
+      "title": "BLACKBURN [Lính gác x Hướng đạo]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\BLACKBURN [Lính gác x Hướng đạo]",
+      "chapters": 21,
+      "done": 21,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:55:21+07:00"
+    },
+    "f4947703d45ff134": {
+      "url": "https://rookies.vn/truyen/hon-trau-goi-mong",
+      "title": "Hồn Trầu Gọi Mộng [ Đang Chỉnh Sửa ]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hồn Trầu Gọi Mộng [ Đang Chỉnh Sửa ]",
+      "chapters": 52,
+      "done": 52,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:56:28+07:00"
+    },
+    "bdcb58d77654a492": {
+      "url": "https://rookies.vn/truyen/ma-em-thom-vi-ngot-moi-anh-1",
+      "title": "Má Em Thơm Vị Ngọt Môi Anh",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Má Em Thơm Vị Ngọt Môi Anh",
+      "chapters": 36,
+      "done": 36,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:57:16+07:00"
+    },
+    "d095d29a8b352c74": {
+      "url": "https://rookies.vn/truyen/hoang-thuc-khong-biet-xau-ho",
+      "title": "Hoàng Thúc Không Biết Xấu Hổ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hoàng Thúc Không Biết Xấu Hổ",
+      "chapters": 101,
+      "done": 101,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T21:59:22+07:00"
+    },
+    "01ae719fb624d264": {
+      "url": "https://rookies.vn/truyen/nhan-hoi",
+      "title": "Nhạn Hồi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nhạn Hồi",
+      "chapters": 31,
+      "done": 31,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:00:03+07:00"
+    },
+    "d7e73fc54a4a290f": {
+      "url": "https://rookies.vn/truyen/chung-cu-424",
+      "title": "Chung cư 424",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Chung cư 424",
+      "chapters": 33,
+      "done": 33,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:00:48+07:00"
+    },
+    "8c686184c8280c6a": {
+      "url": "https://rookies.vn/truyen/tham-yeu-1",
+      "title": "Thầm Yêu",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Thầm Yêu",
+      "chapters": 70,
+      "done": 70,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:02:15+07:00"
+    },
+    "efb2e06720e0b907": {
+      "url": "https://rookies.vn/truyen/neu-huong-duong-con-no",
+      "title": "Nếu Hướng Dương Còn Nở",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Nếu Hướng Dương Còn Nở",
+      "chapters": 15,
+      "done": 15,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:02:35+07:00"
+    },
+    "32f191463d991847": {
+      "url": "https://rookies.vn/truyen/van-luon-nho-em",
+      "title": "Vẫn luôn nhớ em",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Vẫn luôn nhớ em",
+      "chapters": 25,
+      "done": 25,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:03:09+07:00"
+    },
+    "d2a340b64e6cb6bb": {
+      "url": "https://rookies.vn/truyen/aphrodisia-eaob",
+      "title": "APHRODISIA - BOYLOVE",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\APHRODISIA - BOYLOVE",
+      "chapters": 2,
+      "done": 2,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:03:16+07:00"
+    },
+    "71913d89cbf2083b": {
+      "url": "https://rookies.vn/truyen/trong-mat-anh-em-thay-nang-thieu-thoi-1",
+      "title": "[FULL] Trong mắt anh em thấy nắng thiếu thời",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[FULL] Trong mắt anh em thấy nắng thiếu thời",
+      "chapters": 58,
+      "done": 58,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:04:32+07:00"
+    },
+    "82f8e16ab4066d1b": {
+      "url": "https://rookies.vn/truyen/cau-la-mat-troi-cua-to",
+      "title": "Cậu Là Mặt Trời Của Tớ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Cậu Là Mặt Trời Của Tớ",
+      "chapters": 72,
+      "done": 72,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:06:01+07:00"
+    },
+    "661247605d4f2051": {
+      "url": "https://rookies.vn/truyen/vuon-day-sao",
+      "title": "[Full] Vườn đầy sao",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\[Full] Vườn đầy sao",
+      "chapters": 13,
+      "done": 13,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:06:19+07:00"
+    },
+    "40b680a30b2d184f": {
+      "url": "https://rookies.vn/truyen/mat-em-hoa-sao-troi",
+      "title": "Mắt em hoá sao trời",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Mắt em hoá sao trời",
+      "chapters": 47,
+      "done": 47,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:07:30+07:00"
+    },
+    "69c0b527b7abe959": {
+      "url": "https://rookies.vn/truyen/anh-trang-khong-thuoc-ve-toi",
+      "title": "Ánh Trăng Không Thuộc Về Tôi",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Ánh Trăng Không Thuộc Về Tôi",
+      "chapters": 64,
+      "done": 64,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:08:46+07:00"
+    },
+    "2e42caaa9bfea236": {
+      "url": "https://rookies.vn/truyen/hoi-uc-cua-nhung-hon-song",
+      "title": "Hồi Ức Của Những Hồn Sông",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Hồi Ức Của Những Hồn Sông",
+      "chapters": 12,
+      "done": 12,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:09:03+07:00"
+    },
+    "6144c2ee6160591c": {
+      "url": "https://rookies.vn/truyen/tarot-ky-sinh",
+      "title": "TAROT KÝ SINH 1: Đội Đặc Nhiệm Vũ Trụ",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\TAROT KÝ SINH 1 Đội Đặc Nhiệm Vũ Trụ",
+      "chapters": 18,
+      "done": 18,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:09:29+07:00"
+    },
+    "923ce8ee1f1be2b7": {
+      "url": "https://rookies.vn/truyen/sat-thu-ga-mo-va-phuc-hoi-su-top-1-sever",
+      "title": "Sát Thủ Gà Mờ Và Phục Hồi Sư Tóp 1 Sever",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Sát Thủ Gà Mờ Và Phục Hồi Sư Tóp 1 Sever",
+      "chapters": 19,
+      "done": 19,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:09:54+07:00"
+    },
+    "5c7b904c11af9cc2": {
+      "url": "https://rookies.vn/truyen/bi-an-song-sinh",
+      "title": "BÍ ẨN SONG SINH",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\BÍ ẨN SONG SINH",
+      "chapters": 32,
+      "done": 32,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:10:35+07:00"
+    },
+    "c2d3e8a3ddce6054": {
+      "url": "https://rookies.vn/truyen/bong-benh-ben-choi-xanh",
+      "title": "BỒNG BỀNH BÊN CHỒI XANH",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\BỒNG BỀNH BÊN CHỒI XANH",
+      "chapters": 21,
+      "done": 21,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:11:04+07:00"
+    },
+    "b81deb6344b66848": {
+      "url": "https://rookies.vn/truyen/than-chu-cua-toi-la-omega-lichaeng-abo",
+      "title": "Thân Chủ Của Tôi Là Omega [ABO]",
+      "folder": "D:\\workspace\\supercrawl\\truyen-crawler\\output\\Thân Chủ Của Tôi Là Omega [ABO]",
+      "chapters": 15,
+      "done": 15,
+      "from_listing": "https://rookies.vn/truyen/mien-phi?page=6",
+      "updated_at": "2026-10-01T22:11:26+07:00"
+    }
+  },
+  "updated_at": "2026-10-01T22:11:26+07:00"
+}

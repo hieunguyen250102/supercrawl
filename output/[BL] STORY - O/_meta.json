@@ -1,0 +1,105 @@
+{
+  "url": "https://rookies.vn/truyen/bl-story-o",
+  "site": "rookies",
+  "title": "[BL] STORY - O",
+  "author": "wasuthornwave",
+  "status": "Đang ra",
+  "genres": [
+    "Nhẹ nhàng",
+    "Truyện sáng tác",
+    "Nam x Nam",
+    "Hiện đại",
+    "Bị ngăn cấm",
+    "Oneshot",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Đam mỹ",
+    "Kết SE"
+  ],
+  "description": "Tình cảm luôn là một chủ đề phong phú và đa dạng trong văn học và nghệ thuật. Đây là những oneshot đến từ đời thực, đa phần sẽ là những oneshot SE (Sad Ending) và BE (Bittersweet Ending) mời bạn đến trải nghiệm những cung bậc cảm xúc khác nhau của tình yêu - từ ngọt ngào, lãng mạn cho đến đau khổ, nuối tiếc. Mỗi câu chuyện là một hành trình riêng biệt, nơi mà tình cảm được thể hiện qua những góc nhìn đa dạng, khắc họa sâu sắc những khoảnh khắc đáng nhớ và những kết thúc không hoàn hảo nhưng đầy ý nghĩa. Hy vọng rằng, qua mỗi oneshot này, bạn sẽ tìm thấy sự đồng cảm và cảm nhận được vẻ đẹp của tình yêu dù cho nó không trọn vẹn.",
+  "cover": "https://rookies.vn/uploads/user/17839NHuD/novels/2024_05/BLSTORY_O_1716185715.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Đổi Hạnh Phúc Lấy Cô Đơn",
+      "url": "https://rookies.vn/truyen/bl-story-o/21556",
+      "file": "0001 - Đổi Hạnh Phúc Lấy Cô Đơn.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Bình Yên: Cảm Ơn Vì Đã Không Đợi Nhau",
+      "url": "https://rookies.vn/truyen/bl-story-o/21585",
+      "file": "0002 - Bình Yên Cảm Ơn Vì Đã Không Đợi Nhau.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chúng Ta Rồi Sẽ Hạnh Phúc",
+      "url": "https://rookies.vn/truyen/bl-story-o/21648",
+      "file": "0003 - Chúng Ta Rồi Sẽ Hạnh Phúc.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "EXIT SIGN",
+      "url": "https://rookies.vn/truyen/bl-story-o/21692",
+      "file": "0004 - EXIT SIGN.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Không Muốn Đợi Đến Sau Này",
+      "url": "https://rookies.vn/truyen/bl-story-o/21723",
+      "file": "0005 - Không Muốn Đợi Đến Sau Này.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Tình Đơn Phương Mãi Chẳng Hồi Đáp",
+      "url": "https://rookies.vn/truyen/bl-story-o/21922",
+      "file": "0006 - Tình Đơn Phương Mãi Chẳng Hồi Đáp.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Hẹn Nhau Ở Kiếp Sau (1)",
+      "url": "https://rookies.vn/truyen/bl-story-o/22016",
+      "file": "0007 - Hẹn Nhau Ở Kiếp Sau (1).txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Hẹn Nhau Ở Kiếp Sau (2)",
+      "url": "https://rookies.vn/truyen/bl-story-o/22224",
+      "file": "0008 - Hẹn Nhau Ở Kiếp Sau (2).txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Hẹn Nhau Ở Kiếp Sau (3)",
+      "url": "https://rookies.vn/truyen/bl-story-o/22225",
+      "file": "0009 - Hẹn Nhau Ở Kiếp Sau (3).txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Hẹn Nhau Ở Kiếp Sau (4)",
+      "url": "https://rookies.vn/truyen/bl-story-o/22350",
+      "file": "0010 - Hẹn Nhau Ở Kiếp Sau (4).txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Hẹn Nhau Nơi Cuối Trời",
+      "url": "https://rookies.vn/truyen/bl-story-o/23495",
+      "file": "0011 - Hẹn Nhau Nơi Cuối Trời.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T20:28:39+07:00",
+  "updated_at": "2026-10-01T20:28:54+07:00",
+  "chapter_count": 11,
+  "done_count": 11
+}

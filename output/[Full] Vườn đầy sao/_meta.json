@@ -1,0 +1,123 @@
+{
+  "url": "https://rookies.vn/truyen/vuon-day-sao",
+  "site": "rookies",
+  "title": "[Full] Vườn đầy sao",
+  "author": "103393785248740955341",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện Đời thường",
+    "Truyện ngắn",
+    "Nhẹ nhàng",
+    "Trong sáng",
+    "Học sinh",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nữ",
+    "Việt Nam",
+    "Hiện đại",
+    "Truyện Ngôn tình",
+    "Kết OE",
+    "Tuyển Tác 2024"
+  ],
+  "description": "\"Tôi gặp anh vào một đêm đầy sao và cũng tạm biệt anh dưới những ngôi sao ấy. Bình lặng, không ai hay biết.\"\n\nBìa: Giao",
+  "cover": "https://rookies.vn/uploads/user/63524kaDu/novels/2026_07/FullVnysao_1785369341.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chương 1.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33529",
+      "file": "0001 - Chương 1.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 2.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33528",
+      "file": "0002 - Chương 2.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 3.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33530",
+      "file": "0003 - Chương 3.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 4.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33533",
+      "file": "0004 - Chương 4.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 5.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33534",
+      "file": "0005 - Chương 5.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 6.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33651",
+      "file": "0006 - Chương 6.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 7.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33652",
+      "file": "0007 - Chương 7.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 8.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33653",
+      "file": "0008 - Chương 8.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 9.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33989",
+      "file": "0009 - Chương 9.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 10.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33990",
+      "file": "0010 - Chương 10.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 11.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/33991",
+      "file": "0011 - Chương 11.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 12.",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/34065",
+      "file": "0012 - Chương 12.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 13 ( Hết )",
+      "url": "https://rookies.vn/truyen/vuon-day-sao/34066",
+      "file": "0013 - Chương 13 ( Hết ).txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T22:06:02+07:00",
+  "updated_at": "2026-10-01T22:06:19+07:00",
+  "chapter_count": 13,
+  "done_count": 13
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai",
+  "site": "rookies",
+  "title": "Tình Đầu Thanh Mai",
+  "author": "101749357185623626115",
+  "status": "Đang ra",
+  "genres": [
+    "Ngọt ngào",
+    "Truyện sáng tác",
+    "Tổng giám đốc/Chủ tịch",
+    "Nam x Nữ",
+    "Thành thị",
+    "Hiện đại",
+    "Thanh mai trúc mã",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Ngôn tình",
+    "Kết HE",
+    "Tiểu thuyết"
+  ],
+  "description": "Lương Hồng và Chung Nhất Y là thanh mai trúc mã, cũng là cặp đôi oan gia đầy thú vị. Ban đầu, hai người ngày càng xa cách, nhưng trong bữa tiệc độc thân trước đám cưới của người bạn thân, sau nhiều lần gặp gỡ, tình cảm giữa họ dần nảy sinh.",
+  "cover": "https://rookies.vn/uploads/user/31363tnTR/novels/2024_11/TnhuThanhMai_1732205229.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chương 1: Qua đêm cùng thanh mai",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/29815",
+      "file": "0001 - Chương 1 Qua đêm cùng thanh mai.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 2: Tắm chung[H]",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/29820",
+      "file": "0002 - Chương 2 Tắm chung[H].txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 3: Thay đồ",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/29817",
+      "file": "0003 - Chương 3 Thay đồ.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 4: em đã quên mình nói gì rồi sao?",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/29818",
+      "file": "0004 - Chương 4 em đã quên mình nói gì rồi sao.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 5: No chưa[H nhẹ]",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/29819",
+      "file": "0005 - Chương 5 No chưa[H nhẹ].txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 6: Bắt nạt cô[H]",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/30201",
+      "file": "0006 - Chương 6 Bắt nạt cô[H].txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 7: Nhảy cặp",
+      "url": "https://rookies.vn/truyen/tinh-dau-thanh-mai/30270",
+      "file": "0007 - Chương 7 Nhảy cặp.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:28:58+07:00",
+  "updated_at": "2026-10-01T21:29:08+07:00",
+  "chapter_count": 7,
+  "done_count": 7
+}

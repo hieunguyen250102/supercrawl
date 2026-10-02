@@ -1,0 +1,475 @@
+{
+  "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai",
+  "site": "rookies",
+  "title": "[FULL][BL] NÚI RỘNG SÔNG DÀI",
+  "author": "Hặn nò",
+  "status": "Hoàn thành",
+  "genres": [
+    "Lãng mạn",
+    "Nhẹ nhàng",
+    "Học sinh",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nam",
+    "Việt Nam",
+    "Hiện đại",
+    "Thanh mai trúc mã",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Đam mỹ",
+    "Kết HE",
+    "Tiểu thuyết",
+    "Truyện Trùng sinh",
+    "Start To Star"
+  ],
+  "description": "Thanh Sơn Trường Giang - Núi rộng sông dài\n\n\"Sơn thủy hữu tương phùng\"\n-----\nTác giả: Đông Chí (bút danh cũ: Hặn)",
+  "cover": "https://rookies.vn/uploads/user/174309heSt/novels/2026_09/FULLBLNIRNGSNGDI_1790215372.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Lời chào",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111601",
+      "file": "0001 - Lời chào.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "CHƯƠNG 1: THÁNG NĂM, MÙA LÚA CHÍN, NGÀY MẤT ANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111064",
+      "file": "0002 - CHƯƠNG 1 THÁNG NĂM, MÙA LÚA CHÍN, NGÀY MẤT ANH.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "CHƯƠNG 2: CUỐN SỔ XANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111066",
+      "file": "0003 - CHƯƠNG 2 CUỐN SỔ XANH.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "CHƯƠNG 3: HỮU DUYÊN THIÊN LÝ NĂNG TƯƠNG NGỘ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111067",
+      "file": "0004 - CHƯƠNG 3 HỮU DUYÊN THIÊN LÝ NĂNG TƯƠNG NGỘ.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "CHƯƠNG 4: TẾT TRUNG THU RƯỚC ĐÈN ĐI CHƠI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111078",
+      "file": "0005 - CHƯƠNG 4 TẾT TRUNG THU RƯỚC ĐÈN ĐI CHƠI.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "CHƯƠNG 5: NGƯỜI MẤT KHÔNG ĐI ĐÂU CẢ.",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111582",
+      "file": "0006 - CHƯƠNG 5 NGƯỜI MẤT KHÔNG ĐI ĐÂU CẢ.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "CHƯƠNG 6: TRI KỈ TỪNG LÀ OAN GIA",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111616",
+      "file": "0007 - CHƯƠNG 6 TRI KỈ TỪNG LÀ OAN GIA.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "CHƯƠNG 7: GÁNH VÁC CÙNG NHAU: MÀY DÁM KHÔNG?",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111617",
+      "file": "0008 - CHƯƠNG 7 GÁNH VÁC CÙNG NHAU MÀY DÁM KHÔNG.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "CHƯƠNG 8: THÂN GẦY QUẢN CHI ĐỜI DÔNG BÃO",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111618",
+      "file": "0009 - CHƯƠNG 8 THÂN GẦY QUẢN CHI ĐỜI DÔNG BÃO.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "CHƯƠNG 9: THANH NIÊN NGHIÊM TÚC BIẾT NHẢY KHÔNG?",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111620",
+      "file": "0010 - CHƯƠNG 9 THANH NIÊN NGHIÊM TÚC BIẾT NHẢY KHÔNG.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "CHƯƠNG 10: TRẬN ĐÒN KIA KHÔNG LỖ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111622",
+      "file": "0011 - CHƯƠNG 10 TRẬN ĐÒN KIA KHÔNG LỖ.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "CHƯƠNG 11: THƯỚC PHIM KHÔNG CÒN TRỐN CHẠY",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/111980",
+      "file": "0012 - CHƯƠNG 11 THƯỚC PHIM KHÔNG CÒN TRỐN CHẠY.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "CHƯƠNG 12: MÙA TẾT \"NGHÈO\"",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112106",
+      "file": "0013 - CHƯƠNG 12 MÙA TẾT NGHÈO.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "CHƯƠNG 13:ĐỒNG THANH TƯƠNG ỨNG, ĐỒNG KHÍ TƯƠNG CẦU",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112109",
+      "file": "0014 - CHƯƠNG 13 ĐỒNG THANH TƯƠNG ỨNG, ĐỒNG KHÍ TƯƠNG CẦU.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "CHƯƠNG 14: LIỆU CÓ BÍ MẬT ẨN PHÍA SAU KHÔNG?",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112498",
+      "file": "0015 - CHƯƠNG 14 LIỆU CÓ BÍ MẬT ẨN PHÍA SAU KHÔNG.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "CHƯƠNG 15: SERTRALINE",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112499",
+      "file": "0016 - CHƯƠNG 15 SERTRALINE.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "CHƯƠNG 16: BIẾN SỐ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112826",
+      "file": "0017 - CHƯƠNG 16 BIẾN SỐ.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "CHƯƠNG 17: RUNG ĐỘNG THỞU THIẾU THỜI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112827",
+      "file": "0018 - CHƯƠNG 17 RUNG ĐỘNG THỞU THIẾU THỜI.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "CHƯƠNG 18: NGHĨA LÀ GHEN QUÁ ĐẤY MÀ THÔI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112828",
+      "file": "0019 - CHƯƠNG 18 NGHĨA LÀ GHEN QUÁ ĐẤY MÀ THÔI.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "CHƯƠNG 19: HỒ ĐIỆP VỖ CÁNH, GIÓ BỤI NGẬP TRỜI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/112829",
+      "file": "0020 - CHƯƠNG 19 HỒ ĐIỆP VỖ CÁNH, GIÓ BỤI NGẬP TRỜI.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "CHƯƠNG 20: ĐÃ THÍCH AI CHƯA?",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113201",
+      "file": "0021 - CHƯƠNG 20 ĐÃ THÍCH AI CHƯA.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "CHƯƠNG 21: CHẦM CHẬM",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113202",
+      "file": "0022 - CHƯƠNG 21 CHẦM CHẬM.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "CHƯƠNG 22: MỆT HƠN C HÓ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113534",
+      "file": "0023 - CHƯƠNG 22 MỆT HƠN C HÓ.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "CHƯƠNG 23: KẾT QUẢ NGỌT NGÀO",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113535",
+      "file": "0024 - CHƯƠNG 23 KẾT QUẢ NGỌT NGÀO.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "CHƯƠNG 24: MỘT THƯƠNG HAI NHỚ BA TRÔNG",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113536",
+      "file": "0025 - CHƯƠNG 24 MỘT THƯƠNG HAI NHỚ BA TRÔNG.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "CHƯƠNG 25: ĐỪNG BUÔNG TAY",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113729",
+      "file": "0026 - CHƯƠNG 25 ĐỪNG BUÔNG TAY.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "CHƯƠNG 26: TRỘM XOÀI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113731",
+      "file": "0027 - CHƯƠNG 26 TRỘM XOÀI.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "CHƯƠNG 27: CÁT CHẢY QUA KẼ TAY",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/113733",
+      "file": "0028 - CHƯƠNG 27 CÁT CHẢY QUA KẼ TAY.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "CHƯƠNG 28: KHÔNG CHỊU ĐƯỢC AI NÓI XẤU ANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114002",
+      "file": "0029 - CHƯƠNG 28 KHÔNG CHỊU ĐƯỢC AI NÓI XẤU ANH.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "CHƯƠNG 29: HÔN MỘT CÁI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114005",
+      "file": "0030 - CHƯƠNG 29 HÔN MỘT CÁI.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "CHƯƠNG 30: BẢO VỆ LẪN NHAU",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114215",
+      "file": "0031 - CHƯƠNG 30 BẢO VỆ LẪN NHAU.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "CHƯƠNG 31: NHỮNG MẢNH GHÉP VỤN VỠ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114216",
+      "file": "0032 - CHƯƠNG 31 NHỮNG MẢNH GHÉP VỤN VỠ.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "CHƯƠNG 32: TRƯỚC THỀM GIÔNG BÃO",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114217",
+      "file": "0033 - CHƯƠNG 32 TRƯỚC THỀM GIÔNG BÃO.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "CHƯƠNG 33: ĐÊM KHÔNG CÓ GIÓ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114389",
+      "file": "0034 - CHƯƠNG 33 ĐÊM KHÔNG CÓ GIÓ.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "CHƯƠNG 33: GIỮA BÓNG TỐI NHẬP NHẸM",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114391",
+      "file": "0035 - CHƯƠNG 33 GIỮA BÓNG TỐI NHẬP NHẸM.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "CHƯƠNG 34: HOA MÁU NỞ RỘ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114603",
+      "file": "0036 - CHƯƠNG 34 HOA MÁU NỞ RỘ.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "CHƯƠNG 35: NẾU NỖI NHỚ CÓ SINH MỆNH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114604",
+      "file": "0037 - CHƯƠNG 35 NẾU NỖI NHỚ CÓ SINH MỆNH.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "CHƯƠNG 36: NHÂN QUẢ TUẦN HOÀN, SINH TỬ TƯƠNG LIÊN",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114779",
+      "file": "0038 - CHƯƠNG 36 NHÂN QUẢ TUẦN HOÀN, SINH TỬ TƯƠNG LIÊN.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "CHƯƠNG 37: CHÚNG TA ĐỀU CẦN THỜI GIAN",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114780",
+      "file": "0039 - CHƯƠNG 37 CHÚNG TA ĐỀU CẦN THỜI GIAN.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "CHƯƠNG 38: NÚI SỐNG CÒN ĐÓ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114998",
+      "file": "0040 - CHƯƠNG 38 NÚI SỐNG CÒN ĐÓ.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "CHƯƠNG 39: TRÁI ĐẤT NÀY TRÒN THẬT",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/114999",
+      "file": "0041 - CHƯƠNG 39 TRÁI ĐẤT NÀY TRÒN THẬT.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "CHƯƠNG 40: DUYÊN KỲ NGỘ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115000",
+      "file": "0042 - CHƯƠNG 40 DUYÊN KỲ NGỘ.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "CHƯƠNG 41: CÓ ANH ĐÂY, HỨA LÀ KHÔNG ĐƯỢC SỢ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115001",
+      "file": "0043 - CHƯƠNG 41 CÓ ANH ĐÂY, HỨA LÀ KHÔNG ĐƯỢC SỢ.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "CHƯƠNG 42: CHIẾN ĐẤU GIỮA TÂM BÃO",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115194",
+      "file": "0044 - CHƯƠNG 42 CHIẾN ĐẤU GIỮA TÂM BÃO.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "CHƯƠNG 43: MÁI NHÀ CHỜ EM",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115195",
+      "file": "0045 - CHƯƠNG 43 MÁI NHÀ CHỜ EM.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "CHƯƠNG 44: CHỜ EM VỀ Ở CÙNG,LÀ PHÚC PHẦN CỦA ANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115196",
+      "file": "0046 - CHƯƠNG 44 CHỜ EM VỀ Ở CÙNG,LÀ PHÚC PHẦN CỦA ANH.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "CHƯƠNG 45: NGƯỜI CÓ NỢ TỪ KIẾP TRƯỚC",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115480",
+      "file": "0047 - CHƯƠNG 45 NGƯỜI CÓ NỢ TỪ KIẾP TRƯỚC.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "CHƯƠNG 46: NGỌT NGÀO BÌNH DỊ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115481",
+      "file": "0048 - CHƯƠNG 46 NGỌT NGÀO BÌNH DỊ.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "CHƯƠNG 47: CẬU CÒN CÓ ANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115777",
+      "file": "0049 - CHƯƠNG 47 CẬU CÒN CÓ ANH.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "CHƯƠNG 48: NƠI GIÓ NGỪNG GIÔNG",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115778",
+      "file": "0050 - CHƯƠNG 48 NƠI GIÓ NGỪNG GIÔNG.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "CHƯƠNG 49: DUYÊN NỢ TRỜI BAN, PHÉP MÀU TÁC HỢP",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115779",
+      "file": "0051 - CHƯƠNG 49 DUYÊN NỢ TRỜI BAN, PHÉP MÀU TÁC HỢP.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "CHƯƠNG 50: KIẾP TRƯỚC KIẾP NÀY: NGUYỆN MỘT LÒNG",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/115780",
+      "file": "0052 - CHƯƠNG 50 KIẾP TRƯỚC KIẾP NÀY NGUYỆN MỘT LÒNG.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "CHƯƠNG 51: ANH VÀ EM VẪN Ở ĐÂY",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116027",
+      "file": "0053 - CHƯƠNG 51 ANH VÀ EM VẪN Ở ĐÂY.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "CHƯƠNG 52: TRÊU CHỌC",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116029",
+      "file": "0054 - CHƯƠNG 52 TRÊU CHỌC.txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "CHƯƠNG 53: ANH MUỐN EM QUẢN ANH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116030",
+      "file": "0055 - CHƯƠNG 53 ANH MUỐN EM QUẢN ANH.txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "CHƯƠNG 54: HOA BAN NỞ TRẮNG TRỜI",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116031",
+      "file": "0056 - CHƯƠNG 54 HOA BAN NỞ TRẮNG TRỜI.txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "CHƯƠNG 55: EM VÀ MÌNH",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116155",
+      "file": "0057 - CHƯƠNG 55 EM VÀ MÌNH.txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "CHƯƠNG 56: THÁNG NĂM, NGÀY HAI TA MỘT NHÀ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116157",
+      "file": "0058 - CHƯƠNG 56 THÁNG NĂM, NGÀY HAI TA MỘT NHÀ.txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Lời tác giả",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116158",
+      "file": "0059 - Lời tác giả.txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "NGOẠI TRUYỆN 1: YÊU XA",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116449",
+      "file": "0060 - NGOẠI TRUYỆN 1 YÊU XA.txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "NGOẠI TRUYỆN 2: HẸN HÒ",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116451",
+      "file": "0061 - NGOẠI TRUYỆN 2 HẸN HÒ.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "NGOẠI TRUYỆN 3: TUẦN TRĂNG MẬT",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116452",
+      "file": "0062 - NGOẠI TRUYỆN 3 TUẦN TRĂNG MẬT.txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "NGOẠI TRUYỆN 4: SINH NHẬT",
+      "url": "https://rookies.vn/truyen/bl-nui-rong-song-dai/116453",
+      "file": "0063 - NGOẠI TRUYỆN 4 SINH NHẬT.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:46:14+07:00",
+  "updated_at": "2026-10-01T21:47:34+07:00",
+  "chapter_count": 63,
+  "done_count": 63
+}

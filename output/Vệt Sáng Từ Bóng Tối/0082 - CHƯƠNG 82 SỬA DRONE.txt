@@ -1,0 +1,161 @@
+CHƯƠNG 82: SỬA DRONE
+
+Tiếp tục ngày tháng bận rộn với công việc. Hôm nay vẫn là một ngày dài với những cuộc họp, báo cáo và đủ loại chứng cứ phải rà soát. Khi xử lý các vụ án ngày càng phức tạp, những thiết bị hỗ trợ từ xa không chỉ giúp tiết kiệm nhân lực mà còn đảm bảo an toàn cho đội ngũ trinh sát.
+
+Vì thế tranh thủ lúc chưa đến giờ họp cùng tổ chuyên án, Lưu Sênh lặng lẽ mở hộp thiết bị và bắt đầu làm quen với bộ điều khiển drone mới được trang cấp. Đôi mắt cô chăm chú quan sát từng nút chức năng, thỉnh thoảng lại ghi chú vài dòng vào sổ tay nhỏ nhằm dễ ghi nhớ hơn.
+
+Trên màn hình hiển thị, hình ảnh truyền từ camera của drone sắc nét đến mức có thể nhìn rõ từng vết nứt nhỏ trên nền bê tông dưới sân tập. Lưu Sênh nghiêng người, điều chỉnh góc quay, thử chế độ bay tự động rồi kiểm tra khả năng phóng to thu nhỏ của camera hồng ngoại.
+
+Thiết bị này sẽ giúp đội cô theo dõi nghi phạm từ khoảng cách xa, giảm nguy cơ bị phát hiện, đồng thời hỗ trợ thu thập chứng cứ ở những khu vực nguy hiểm hoặc khó tiếp cận. Vì thế nên việc nắm vững kỹ năng vận hành nó là điều rất cần thiết.
+
+Lưu Sênh tiếp tục hoàn thiện đường bay mô phỏng cho drone, thử nghiệm khả năng lơ lửng ổn định trước gió và tốc độ chuyển hướng khi truy đuổi mục tiêu di động.
+
+Đúng lúc này chiếc drone được điều khiển bỗng nhiên dừng hoạt động, màn hình điều khiển chuyển sang trạng thái đứng hình vài giây rồi nhấp nháy liên tục. Lưu Sênh vội kiểm tra lại bảng điều khiển xem mình có ấn nhầm nút nào? Cô kiểm tra lần lượt từng chức năng động cơ, tín hiệu GPS, thậm chí cả cài đặt thủ công. Tất cả đều vẫn hiển thị bình thường ngoại trừ một dòng chữ nhỏ hiện góc phải màn hình, nhấp nháy màu đỏ.
+
+Mò mẫm một hồi lâu, cô vẫn chưa biết tại sao chiếc drone này lại không bay tiếp nữa. Đúng lúc cô đang loay hoay với hàng đống nút, có tiếng bước chân vang lên phía sau. Lưu Sênh quay người lại thấy Lục Dư Thần đứng đó, tay đút túi, ánh mắt có vẻ rất nhàn nhã. Nhìn thấy nét mặt cô đang rối như tơ vò, anh bật cười nhẹ.
+
+“Em đang điều khiển drone hay phá drone vậy?” Lục Dư Thần hỏi.
+
+Lưu Sênh vội đáp: “Tự nhiên nó dừng lại, tôi cũng không biết drone hỏng hay bị chặn tín hiệu.”
+
+Lục Dư Thần bước nhanh đến, đầu hơi cúi xuống quan sát bảng điều khiển trong tay cô. Nhìn sơ qua anh đã nhận ra vấn đề mà cô xem nãy giờ vẫn chưa biết giải quyết ra sao.
+
+Lục Dư Thần cười cười: “Thế thì càng hay. Vậy đi, nếu tôi sửa được drone em báo đáp tôi thế nào? Nhắc cho em nhớ, tôi chưa bao giờ làm ăn thua lỗ.”
+
+Lưu Sênh nhíu mày, còn chưa ngẩng đầu lên đã đáp ngay: “Tôi không cần anh giúp!”
+
+Lục Dư Thần nhếch môi, khẳng định: “Ngoài tôi ra, đảm bảo không ai có thể giúp em.”
+
+Lưu Sênh giấu bảng điều khiển ra sau lưng rồi nói: “Này, anh thông minh quá hóa khờ rồi phải không? Trợ lí của anh, ừm, chính là Hồ Tấn. Tôi cũng có thể nhờ anh ấy giúp tôi đó.”
+
+Lục Dư Thần khẽ nhướng mày, câu hỏi bật ra tựa lời cảnh cáo nhẹ: “Em dám?”
+
+Lưu Sênh chẳng hề né tránh. Cô đứng thẳng lưng, ngẩng mặt nhìn anh: “Tôi dám!”
+
+Khóe môi Lục Dư Thần cong lên. Nụ cười ấy không hiền lành chút nào.
+
+“Được!” Anh tiến lên một bước, giọng trầm thấp rồi bồi thêm hai chữ: “Được lắm!”
+
+Đúng vừa khéo, Hồ Tấn lại đi ngang qua chỗ hai người đang đứng. Cậu vừa định chào hỏi hai người này, thì nhận ra bầu không khí giữa Lục Dư Thần và Lưu Sênh hình như có gì đó không ổn cho lắm.
+
+Lục Dư Thần quay mặt sang thấy Hồ Tấn liền nói: “Kìa, người em muốn nhờ đến rồi đó, ra hỏi thử xem cậu ta có giúp được em không?”
+
+Lục Dư Thần gọi một tiếng: “Hồ Tấn, cậu lại đây!”
+
+Hồ Tấn đáp lại rành rọt: “Có, thưa sếp!”
+
+Lục Dư Thần hất cằm về phía chiếc drone đang nằm im trên nền cỏ: “Cậu nói cho cô ấy biết cậu có thể sửa dorne được không?”
+
+Thực chất việc này đối với Hồ Tấn dễ như trở bàn tay tuy nhiên nhìn thấy ánh mắt sát phạt bốn phương của sếp cậu thì vấn đề này làm khó cho cậu quá rồi. Tình huống quái quỷ gì đây? Một bên là sếp đáng kính, một bên là đồng nghiệp đang đứng chờ.
+
+“Cậu trả lời đi!” “Anh nói đi!” Tiếng Lục Dư Thần và Lưu Sênh đều đồng thanh vang lên.
+
+Hồ Tấn nuốt khan: “E là không thể giúp cô được rồi. Vấn đề này sếp tôi vẫn hơn tôi, tôi cam đoan. Chẳng phải ngẫu nhiên mà anh ấy làm sếp tôi, nên để sếp giải quyết thì được. Người làm công ăn lương như chúng tôi phải nhìn sắc mặt sếp mà sống, ít nhất lương cũng là do sếp phát ấy mà.”
+
+Hồ Tấn thở dài: “Thật đáng tiếc. Tôi cũng lực bất tòng tâm rồi, xin hãy cô hãy thông cảm đừng làm khó...”
+
+Chưa nói hết câu, Lục Dư Thần liếc mắt một cái.
+
+Hồ Tấn lập tức đổi giọng: “Ý tôi là cũng khá khó! Có phải ai cũng sửa được đâu!”
+
+Lưu Sênh nhíu mày: “Ý cậu là cậu không sửa được?”
+
+Trời đất ơi, ông trời đừng trêu ngươi con người ta thế chứ, chuyên gia giải phá mật mã công nghệ cao, tinh anh trong giới nghiệp vụ an ninh công nghệ. Xử lý được cả hệ thống an ninh phức tạp bậc nhất mà cũng không sửa được drone ư? Thật sự rất khó tin!
+
+Cuối cùng, trước áp lực từ hai hướng cậu đành nâng tay đầu hàng: “Cái này tôi xin phép không tiện can thiệp. Vì liên quan đến hệ thống an ninh nội bộ cần người có chuyên môn cao hơn tôi.”
+
+Lục Dư Thần gật đầu đầy hài lòng. Phía trước là Lưu Sênh nhìn cậu với ánh mắt chờ mong như chờ đấng cứu thế. Ngược lại phía sau Lục Dư Thần nhìn Hồ Tấn với ánh mắt như diêm vương đến từ địa ngục. Trong tình thế ngàn cân treo sợi tóc, nên biết khó mà lui, Hồ Tấn nhanh chóng chạy đi để lại ánh mắt trân trân của Lưu Sênh ở lại. Cô thầm oán chủ nào tớ nấy, sếp thế nào trợ lý thế đó, mình còn trông mong gì vào người này được cơ chứ?
+
+Thấy Hồ Tấn rời đi, Lục Dư Thần lại khoanh tay trước ngực, ánh mắt mang theo vẻ đắc thắng khó ưa. Anh nhìn Lưu Sênh, giọng điệu ung dung như thể nắm chắc mười phần thắng trong tay.
+
+“Thế nào? Đã nghĩ kĩ chưa?” Anh hỏi.
+
+Anh bước gần lại nửa bước, cúi xuống đủ để ánh mắt hai người chạm nhau: “Hay là gọi tôi là chồng nhé, tôi sửa cho.”
+
+Lưu Sênh suýt nghẹn họng: “Mơ đi!”
+
+Khóe môi Lục Dư Thần cong nhẹ, một nụ cười đầy hàm ý: “Tôi mơ còn thấy em mạnh bạo hơn đó.”
+
+“Anh!!!”
+
+Lưu Sênh đỏ mặt, giơ bảng điều khiển lên như muốn ném vào mặt anh. Vậy mà Lục Dư Thần rất tự nhiên giữ lấy cổ tay cô, nghiêng người né tránh. Lưu Sênh đứng chết trân, muốn hét mà không hét được.
+
+Miệng thì nói cứng là vậy, anh vẫn cúi xuống nhặt chiếc drone lên, lật qua lật lại vài lần nắm bắt cấu trúc của nó. Ngón tay anh lướt nhanh trên các mối nối, thao tác chuẩn xác. Lưu Sênh dù có chút bực cũng khó phủ nhận sự trông chờ.
+
+“Anh làm gì đó?” Cô khoanh tay trước ngực.
+
+“Sửa.” Anh đáp cụt lủn, chẳng buồn ngẩng đầu lên.
+
+“Tôi nói rồi, tôi không cần anh giúp.”
+
+“Ừm. Đang không giúp đây, cơ mà thấy người đẹp trước mặt mà không giúp là chẳng nể mặt rồi. Huống hồ em lại còn là người tôi ngày nhớ, đêm mong. Vẫn nên bỏ chút thời gian ra thì hơn.”
+
+Cô nghẹn họng.
+
+Sau đó tiếng “click” nhỏ vang lên, dấu hiệu rất rõ ràng của việc mạch đã được nối lại. Chiếc drone sáng đèn trở lại, cánh quạt xoay nhẹ trở lại như thể chẳng hề bị hỏng hóc gì trước đó.
+
+Lục Dư Thần phủi bụi trên tay, liếc cô một cái: “Miệng nói không cần tôi giúp, thế vẫn đứng xem từ nãy tới giờ? Sửa xong rồi đây, cười cái nào!”
+
+Lưu Sênh nghiến răng: “...” Gã khốn!
+
+Tiếp theo người đàn ông này cũng chịu rời đi để Lưu Sênh có thể yên tâm tập luyện. Tập điều khiển drone chán chê, Lưu Sênh trở lại phòng họp như mọi khi.
+
+Cuộc họp kéo dài gần một giờ, chủ yếu xoay quanh phân tích tuyến đường bỏ trốn của nghi phạm và kế hoạch phối hợp theo dõi bằng thiết bị bay. Khi cuộc họp kết thúc, mọi người đứng dậy lần lượt rời phòng, tiếng ghế kéo trên sàn vang lên lẫn trong tiếng trao đổi ngắn ngủi của các điều tra viên.
+
+Lưu Sênh cúi xuống thu gom lại tập tài liệu trước mặt, vừa định đứng dậy thì Tấn Thụy Điềm nhẹ nhàng tiến tới, bàn tay đặt lên lưng ghế đối diện.
+
+“Chị Sênh!” Tấn Thụy Điềm nhỏ giọng: “Em có chuyện muốn nói với chị.”
+
+Lưu Sênh ngẩng đầu, ánh mắt vẫn còn sót lại sự mệt mỏi sau buổi họp: “Chuyện gì vậy? Em nói đi!”
+
+Tấn Thụy Điềm nhìn quanh một chút, như thể muốn chắc chắn rằng chắng có ai bất ngờ xuất hiện: “Chuyện là thế này, lần trước em có mời chị ăn cơm mục đích cũng định nói chuyện này. Nào ngờ bị gã khốn Đồ Giang và anh Dư Thần xen ngang. Chuyện này, em đắn đo mãi không biết nên nói với chị như thế nào.”
+
+Tấn Thụy Điềm nuốt nước bọt, tiếp tục: “Chị cũng biết rồi đó, trong sơ yếu lí lịch của em có ghi rằng em xuất thân từ trại trẻ mồ cô. Sau đó em bị mất trí nhớ, em muốn tìm lại thông tin về trại trẻ mồ côi năm ấy. Tuy nhiên đến nay vẫn chưa có thông tin gì cả, em thấy rất đáng nghi. Người phụ trách trại thì đã qua đời. Những đứa trẻ lớn lên cùng em thì mỗi người đi một nơi. Em không tìm được bất cứ thứ gì có giá trị. Dù sao làm việc với nhau cũng đã lâu, xin chị hãy giúp em!”
+
+Khoảnh khắc ấy, Lưu Sênh không ngần ngại. Cô đưa tay mình nắm lấy tay Thụy Điềm: “Được, chị sẽ điều tra giúp em!”
+
+Tấn Thụy Điềm nhìn quanh một chút, ánh mắt lộ rõ sự cảnh giác: “Chị, chị phải hứa với em không được để ai phát hiện. Chuyện này chỉ có hai chị em mình biết thôi được không? Bao nhiêu năm dài đằng đẵng em sống không có người thân, duy chỉ có chị đưa cánh tay về phía em, ngay cả khi em chập chững vào đội chỉ có chị không coi là gánh nặng. Thú thực em rất biết ơn chị, em coi chị như là chị gái của em.”
+
+Lưu Sênh hơi khựng lại. Mức độ nghiêm trọng trong ánh mắt Thụy Điềm khiến cô cảm nhận được nỗi sợ mà cô bé đã giấu kín suốt thời gian qua.
+
+“Ừ, được. Chị hứa sẽ điều tra cho em.” Giọng Lưu Sênh dịu xuống, trấn an.
+
+***
+
+Tấn Thụy Điềm bước ra khỏi phòng họp, tâm trạng vẫn chưa kịp ổn định sau cuộc trò chuyện đầy xúc động với Lưu Sênh. Tay còn day nhẹ khóe mắt, cố xóa đi dấu vết đỏ hoe, có lẽ cảm xúc dồn nén nhiều năm qua đâu dễ biến mất trong một sớm một chiều.
+
+Vừa ngẩng đầu lên, Thụy Điềm giật mình khi thấy Đồ Giang đang đứng ngay hành lang, dựa lưng vào tường với dáng vẻ, hẳn hắn đang chờ Tấn Thụy Điềm từ lâu rồi.
+
+Tấn Thụy Điềm bỗng chốc hóa đá ngay tại chỗ. Lỡ như hắn đã nghe được cuộc nói chuyện giữa mình và Lưu Sênh thì sao? Nếu chuyện này lộ ra ngoài, mọi nỗ lực của cô ấy bấy lâu nay, cả niềm hy vọng nhỏ nhoi về thân thế của mình tất cả sẽ đổ sông đổ bể, biến thành mây khói.
+
+Đồ Giang nhìn thấy đôi mắt đỏ hoe liền nhíu mày, giọng pha chút quan tâm: “Có chuyện gì thế? Sao mắt cô đỏ vậy? Bị sếp mắng à?”
+
+Ngay khi nghe thấy câu hỏi ấy, Tấn Thụy Điềm khẽ thở phào trong lòng. Ít nhất, hắn không hề biết chuyện vừa rồi, nhanh chóng giấu cảm xúc dựng lên bức tường phòng vệ quen thuộc, giữ giọng phần xa cách: “Anh làm ơn, tránh xa tôi ra một chút được không?”
+
+Đồ Giang tròn mắt, ngây người một giây trước phản ứng có phần gay gắt của Thụy Điềm. Hắn vốn dĩ chỉ muốn hỏi han, vậy mà đổi lại lại là thái độ né tránh như gặp phải kẻ phiền phức. Còn Thụy Điềm thì cố gắng bước thật nhanh, mong thoát khỏi ánh mắt của hắn, sợ rằng chỉ cần nhìn thêm một chút thôi, những điều cô ấy nén lại bấy lâu sẽ dễ dàng vỡ òa.
+
+Đồ Giang thở dài: “Thụy Điềm, tôi cũng muốn chứ, muốn biết được cảm xúc thật của cô, cũng muốn quan tâm chăm sóc cô. Chẳng phải cô chưa biết, tôi có tình cảm với cô mà, nghiễm nhiên tôi cũng muốn đến bên cạnh cô. Tôi muốn là bờ vai to lớn vững chắc mỗi khi cô yếu lòng có thể dựa vào. Nhưng có lẽ mọi điều không như tôi mong muốn thì phải, không biết bao nhiêu lần tôi đưa tay về phía cô, cô chẳng chịu đưa tay về phía tôi mà còn tránh đi.”
+
+Không gian bỗng im ắng đến mức Tấn Thụy Điềm nghe rõ cả nhịp tim của mình đang hỗn loạn. Lời của hắn khiến cô ấy bất giác nắm chặt góc áo, cố kìm nén cảm xúc đang trào lên từ nơi sâu thẳm đáy lòng. Hắn đứng đó, chẳng còn là gã hay đùa cợt hay gây phiền nhiễu nữa, mà là một người đàn ông thật lòng, chân thật đến khó tin.
+
+Ánh mắt Đồ Giang vẫn tràn đầy sự chân thành, khiến cô ấy thêm phần lúng túng. Tấn Thụy Điềm lùi nhẹ một bước, muốn thoát ra khỏi khoảng cách quá gần ấy, nhưng đôi chân thời khắc này đây như đóng đinh tại chỗ. Mọi lời định nói đều mắc kẹt nơi cổ họng, còn lại cảm giác nghèn nghẹn cùng sự bối rối không diễn tả thành lời.
+
+Đồ Giang bật cười khẽ, nụ cười tự giễu chính mình: “Tôi cũng không biết phải làm sao để cô có thể hiểu được lòng mình, cũng như không biết phải đối xử với cô sao nữa. Tôi cũng có nỗi khổ của riêng mình, có lẽ tình yêu hơi bất khả thi rồi.”
+
+Tấn Thụy Điềm ngơ người trước câu nói của hắn, mau chóng lấy lại cảm xúc nói: “Xin anh, đừng nói những lời như thế, tôi cần thời gian để làm rõ một số chuyện, có quá nhiều thứ khiến tôi phải lo lắng, hãy để cho mọi thứ thuận theo tự nhiên được không?”
+
+Đồ Giang gật đầu: “Được! Mong rằng khi khó khăn, đừng để nước măt cô rơi trong đêm tối. Cô hãy ngoảnh mặt lại, chỉ cần ngoảnh lại tôi sẽ đứng ở đây, vì thế hãy tới tìm tôi khi cô yếu lòng, được không?”
+
+Tấn Thụy Điềm im lặng, không nói gì. Câu nói ấy của Đồ Giang tương tự một sợi dây khẽ siết lấy tâm trí Tấn Thụy Điềm. Cô ấy không ngờ một người lúc nào cũng bông đùa, cợt nhả như Đồ Giang lại có lúc nói ra những lời khiến trái tim con người ta khắc khoải đến như vậy.
+
+Tấn Thụy Điềm mím môi, đôi mắt ươn ướt mà phải cố kìm để không rơi xuống. Cô gái cúi đầu, không muốn hắn nhìn thấy sự yếu đuối của mình.
+
+Hơi thở khẽ run, nhưng giọng nói lại nén chặt, cố giữ bình tĩnh: “Tôi biết, tôi biết anh có lòng. Dẫu vậy bây giờ tôi thật sự không thể cho ai một câu trả lời. Có quá nhiều chuyện tôi phải tự giải quyết trước khi để người khác đứng cạnh mình. Tôi không muốn anh vì tôi mà vướng vào những điều anh không nên biết, đồng thời cũng không nên trải qua những sự vụ tăm tối.”
+
+Tấn Thụy Điềm im lặng một lúc, cố trấn an cảm xúc đang xô lệch trong lồng ngực rồi mới tiếp lời, giọng nói nhỏ hơn: “Cảm ơn anh nhưng thực xin lỗi, lúc này tôi không thể quay đầu lại.”
+
+Đồ Giang nhìn cô hồi lâu, dường như muốn nói thêm điều gì cuối cùng vẫn lựa chọn im lặng. Hắn thu mắt về, nở một nụ cười nhạt, nụ cười ấy dịu dàng làm sao!
+
+Hắn khẽ gật đầu như thể đã hiểu: “Không sao. Khi nào cô sẵn sàng tôi vẫn ở đây mà. Đừng vì nản lòng mà lựa chọn buông tay, nhé!”
+
+Tấn Thụy Điềm run người. Cô gái quay mặt đi, sợ nếu nhìn thêm một giây nữa sẽ không giữ được bình tĩnh của mình. Cô ấy không trả lời, chỉ lặng lẽ bước đi, bước chân nhẹ mà lòng nặng như đá. Trong giây phút ấy, cô gái này đây không dám nhìn lại.

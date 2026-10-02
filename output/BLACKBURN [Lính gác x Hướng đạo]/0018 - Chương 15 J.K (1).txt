@@ -1,0 +1,161 @@
+Chương 15 : J.K (1)
+
+Blackburn rời cảng phía Tây vào lúc chín giờ tối. Chín giờ tối thường không phải thời điểm được lựa chọn cho một nhiệm vụ thu thập, những chuyến đi loại này thường khởi hành vào bình minh, khi toàn bộ thành viên đã nghỉ ngơi đầy đủ và hệ thống tàu vừa hoàn tất kiểm tra định kỳ. Tuy nhiên, mục tiêu lần này nằm trong vùng khai thác ở rìa J223010.47, nơi một vành vật chất dày đặc đang chuyển động quanh một sao lùn nâu. Cứ sau mỗi chu kỳ quỹ đạo, vùng tinh thạch cần khai thác sẽ đi vào bóng khuất của thiên thể trung tâm trong khoảng chưa đầy bốn mươi phút. Khi ấy, bức xạ hồng ngoại từ sao lùn nâu giảm xuống vừa đủ để hệ thống quang phổ phân biệt được tín hiệu huỳnh quang của tinh thạch với ánh sáng nền. Cho nên muốn đến nơi đúng cửa sổ quan sát ấy, Blackburn chỉ có thể xuất phát vào buổi tối.
+
+Tiêu Kỳ ngồi ở ghế lái, một tay đặt trên bảng điều khiển, tay còn lại thỉnh thoảng điều chỉnh những thông số bình thường. Nathanael hiếm khi xuống khoang hàng từ để kiểm tra thiết bị thu thập. Emily ngồi bên bàn chiến thuật đọc lại báo cáo địa hình của vành khai thác, còn Raymond đứng cạnh màn hình điều hướng, xem xét lộ trình thêm lần cuối trước khi con tàu chuyển sang hành trình đường dài.
+
+Alan cầm thiết bị liên lạc ngồi ở một ghế dọc hành lang nối khoang sinh hoạt với khoang điều khiển, cách cửa chính vài mét. Người trên tàu không làm phiền cậu khi thấy cậu đang đọc tài liệu, cũng như họ không hỏi vì sao Tiêu Kỳ vẫn tiếp tục kiểm tra hệ thống sau khi đã xác nhận mọi chỉ số đều ổn định, hoặc tại sao Nathanael luôn chuẩn bị thêm một bộ thiết bị dự phòng cho chính bộ thiết bị dự phòng của mình. Mỗi người đều có những thói quen riêng giúp họ sống sót qua các nhiệm vụ, vì vậy phần còn lại của đội luôn chấp nhận những thói quen ấy.
+
+Alan mở giao diện liên lạc mã hóa trên thiết bị đầu cuối. Tín hiệu chống truy ngược được phân tách qua ba trạm chuyển tiếp rồi thay đổi khóa nhận diện ở mỗi chặng. Sau khi đường truyền ổn định, cậu mới gọi tên người ở đầu kia.
+
+“Miranda.”
+
+“Thưa ngài.”
+
+Giọng Miranda vẫn bình thản như mọi khi. Qua âm sắc ấy, người nghe không thể đoán được cô đang ở đâu, đã thức bao lâu hay còn phải xử lý bao nhiêu công việc khác. Alan biết vào bất cứ thời điểm nào Miranda cũng đang theo dõi ít nhất ba luồng thông tin cùng lúc, nhưng giọng cô chưa từng để lộ dù chỉ một chút vội vàng hay phân tâm vì bất kỳ luồng nào trong số đó.
+
+“Vừa hay…” cô nói. “Bộ phận giám định vừa gửi kết quả phân tích hai mẫu vỏ giáp thu hồi từ trùng máy.”
+
+“Có tìm được nguồn nguyên liệu không?”
+
+“Chưa thể xác định chính xác điểm khai thác, nhưng họ cung cấp thêm dữ liệu về quá trình sản xuất. Cấu trúc hạt kim loại trong hai mẫu cho thấy vật liệu đã trải qua nung chân không, nén áp suất cao và làm lạnh theo từng giai đoạn. Quy mô thiết bị cần thiết vượt xa một xưởng gia công thông thường. Muốn tạo ra lớp giáp có độ đồng nhất như vậy, bên sản xuất phải sở hữu ít nhất một dây chuyền luyện kim công nghiệp.”
+
+Alan mở bảng ghi chú. “Có thể xác định loại lò không?”
+
+“Lò cảm ứng chân không kết hợp buồng ép đẳng tĩnh, hoặc một hệ thống có nguyên lý tương đương. Trên bề mặt vi mô còn lưu lại một lượng rất nhỏ xỉ silicat và muối làm lạnh. Thành phần đồng vị oxy cùng tỉ lệ chromium trong xỉ không trùng hoàn toàn với bất kỳ mỏ nào đã đăng ký, nhưng nằm rất gần nhóm thiên thể thuộc chòm sao Kình Ngư.”
+
+Phân tích đồng vị chưa thể chỉ ra chính xác quặng đến từ tiểu hành tinh nào, nhưng có thể giúp thu hẹp phạm vi tìm kiếm. Những thiên thể hình thành từ cùng một nguồn vật chất thường có thành phần đồng vị khá giống nhau, ngay cả khi quặng đã được tinh luyện nhiều lần.
+
+“Cùng khu vực với 3C75,” Alan nói.
+
+“Đúng. J223010.47 cũng nằm ở rìa phạm vi ấy.”
+
+Tiếng động cơ run đều đều của Blackburn truyền qua sàn tàu.
+
+“Vậy ý cô là có một cơ sở sản xuất trong vùng Kình Ngư à?”
+
+“Đó là giả thuyết có cơ sở nhất hiện nay,” Miranda đáp. “Nhưng vùng cần kiểm tra quá rộng và cần phải có giấy phép. Dấu vết đồng vị chỉ chứng minh nguyên liệu thô có khả năng ở đó, chứ không nói được là luyện ra ở đó. Chúng có thể đã được vận chuyển sang một hệ khác trước khi gia công.”
+
+“Cô đã kiểm tra các tín hiệu năng lượng chưa?”
+
+“Tôi đang lọc dữ liệu của sáu tháng gần đây, bao gồm phát xạ nhiệt bất thường, dao động điện từ lặp lại và những tuyến vận tải không đăng ký. Tôi sẽ gửi cho ngài sau khi loại hết tín hiệu từ các trạm khai thác hợp pháp.”
+
+“Tốt.” Alan chuyển sang một trang ghi chú khác. “Còn hồ sơ những người mất tích?”
+
+“Đã có”
+
+Tiếng phím lách tách vang lên qua đường truyền, Miranda đang gửi một bảng dữ liệu. Danh sách hiện ra, bên cạnh mỗi cái tên là cấp bậc hướng đạo, đơn vị từng phục vụ và những ghi chép chiến trường.
+
+“Có hai mươi bảy trường hợp thể hiện mức năng lực thực tế cao hơn đáng kể so với cấp bậc chính thức” Miranda nói “Trong hồ sơ Công hội, phần lớn được xếp ở cấp B hoặc C. Tuy nhiên, các báo cáo nhiệm vụ cho thấy họ từng ổn định những lính gác vượt cấp, duy trì phạm vi tinh thần lớn hơn tiêu chuẩn hoặc phản ứng tốt trong điều kiện mà hướng đạo cùng cấp thường không chịu nổi.”
+
+Alan nhìn kỹ những dòng đánh dấu màu vàng “Kiểm tra sai à?”
+
+“Có thể. Một khả năng khác là cấp bậc không được cập nhật sau khi năng lực thay đổi, hoặc tổn thương tinh thần thể, thuốc ức chế, thời gian hồi phục hoặc chủ ý che giấu đều có thể tạo ra chênh lệch.”
+
+Alan cũng là một trường hợp như vậy. Sau trận Gaea, Hiraeth bị thương nặng, các chỉ số tinh thần của cậu gần như rơi thẳng xuống đáy, trở thành một hướng đạo pheromone yếu đến nổi tinh thần thể không thể hiện hình, phạm vi cảm ứng bị thu hẹp đến mức tương đương cấp F.
+
+“Số trường hợp chênh lệch vẫn quá nhiều,” Miranda nói tiếp. “Bọn chúng không biết bằng cách nào có thể đã xem qua hồ sơ thực chiến”
+
+“Cô nghĩ có người đưa sao?”
+
+“Quyền truy cập vào lịch sử hành quân thường bị giới hạn ở mỗi phân đội.”
+
+Alan đánh dấu thêm một dòng. Bọn chúng không lựa chọn hướng đạo hoàn toàn ngẫu nhiên, kế hoạch này có thể đã manh nha từ trước khi họ bước lên tàu tuần dương.
+
+“Tìm những hồ sơ có dấu truy cập trong tám tháng qua,” cậu nói. “Ưu tiên các tài khoản có quyền xem báo cáo thực chiến nhưng không thuộc đơn vị quản lý trực tiếp.”
+
+“Vâng.”
+
+Miranda im lặng trong chốc lát rồi nói: “Còn một phần báo cáo khác”
+
+Miranda hạ giọng rất khẽ, vừa đủ để Alan hiểu phần tiếp theo sẽ hơi khác thường.
+
+“Về Raymond Fisher.”
+
+Alan ngước mắt khỏi thiết bị.
+
+Ở phía trước khoang điều khiển, Raymond vẫn đứng cạnh bảng điều hướng, một tay đặt lên mép bàn, ánh mắt tập trung trên tuyến hành trình đang chạy qua màn hình. Khoảng cách giữa họ không xa. Với thính giác của một lính gác cấp 2S, lớp vỏ kim loại và tiếng động cơ không đủ che giấu một cuộc trò chuyện phát ra ngay trong cùng khoang tàu.
+
+Raymond không cố tình nghe trộm nhưng giác quan của lính gác vốn không có nút dừng lại vì phép lịch sự, âm thanh đã lọt vào tai thì không thể giả vờ rằng mình chưa biết gì.
+
+Tiêu Kỳ cũng ngồi im ở ghế lái, cấp A không thể so với Raymond, nhưng khoảng cách từ ghế lái đến chỗ Alan chỉ có vài mét. Cậu ta chắc chắn đã nghe ít nhất một phần.
+
+Miranda tiếp tục: “Raymond Fisher, lính gác cấp 2S, quân nhân tự do, thuyền trưởng Blackburn. Các kỳ kiểm tra năng lực đều đạt mức cao và ổn định. Chưa từng đăng ký hướng đạo cố định. Mức độ nhận diện công chúng rất lớn,; trên một số diễn đàn, người ta gọi anh ta là ‘idol quốc dân’.”
+
+Một tệp hình ảnh được gửi sang thiết bị của Alan.
+
+“Cô lại vừa gửi cái gì vậy?”
+
+“Dữ liệu bổ sung.”
+
+Alan mở ảnh. Đó là ảnh chụp màn hình từ một diễn đàn công cộng.
+
+[Hôm nay Raymond Fisher lại xuất hiện ở cảng phía Tây!!!]
+
+[Tôi thề là anh ấy còn đẹp trai hơn ảnh đợt trước.]
+
+[Đẹp trai thì thôi đi, thiếu gì lính gác đẹp trai, vấn đề là anh - ấy - vẫn - độc - thân.]
+
+[Nghe nói tỷ lệ tương thích với hướng đạo cực thấp.]
+
+[Không sao, tôi cũng có 0% cơ hội mà.]
+
+“...”
+
+Alan khẽ day ngón tay lên cạnh thiết bị. “Phần này cô không cần đưa vào báo cáo.”
+
+“Tôi cho rằng nó phản ánh mức độ dễ nhận diện của đối tượng.”
+
+“...”
+
+“Fisher nhập tịch Đế đô tám năm trước. Trước thời điểm đó, hồ sơ ghi nơi sinh là Vespera.”
+
+Một tệp hình ảnh được gửi sang. Trên màn hình xuất hiện một hành tinh có một nửa bề mặt chìm trong đêm tối, nửa còn lại hướng vĩnh viễn về phía ngôi sao đỏ mờ. Giữa hai vùng là một vành chạng vạng hẹp chạy quanh hành tinh, nơi những cụm sáng đô thị từng nối tiếp nhau thành một dải dài.
+
+“Vespera là siêu Trái Đất khóa thủy triều quanh một sao lùn đỏ loại M” Miranda nói “Phần lớn dân cư từng tập trung dọc vùng chuyển tiếp giữa hai bán cầu”. Tấm ảnh còn những vệt sáng mờ ảo, tên Vespera có nghĩa là chạng vạng trong ngôn ngữ của những người định cư đầu tiên.
+
+“Mười một năm trước, một cuộc xung đột lãnh thổ đã phá hủy phần lớn mạng điều hòa khí hậu dọc vành đai cư trú” Miranda tiếp tục. “Các đòn tấn công làm thủng nhiều khu vực của tầng khí quyển trên cao, sau đó bức xạ từ sao lùn đỏ đẩy nhanh quá trình thất thoát khí. Hiện nay Vespera không còn khu dân cư thường trú.”
+
+“Ngài Trần bảo lãnh quốc tịch cho Raymond?”
+
+“Đúng. Hồ sơ bảo lãnh được lập sau khi Fisher tham gia chương trình thử nghiệm thuốc điều hòa tinh thần thế hệ đầu. Chương trình tuyển người tình nguyện từ các thuộc địa ngoài biên giới và các cộng đồng không có tư cách công dân đầy đủ. Fisher là một trong số rất ít người hoàn tất toàn bộ liệu trình mà vẫn giữ được năng lực chiến đấu.”
+
+Alan không cần đọc tiếp cũng biết phần còn lại. Raymond đã từng kể cho cậu nghe ở công viên phía Nam, dưới bầu trời nhân tạo của Đế đô: một đứa trẻ bị bán vào trường huấn luyện, tìm cách bỏ trốn, rồi tình nguyện trở thành đối tượng thử thuốc để đổi lấy cơ hội rời khỏi nơi đó. Khi ấy, anh kể câu chuyện như kể lại cuộc đời của một người khác.
+
+“Miranda”
+
+“Vâng, thưa ngài.”
+
+“Không truy cập những phần được niêm phong y tế nếu chưa có lý do liên quan trực tiếp đến nhiệm vụ.”
+
+“Đã rõ.”
+
+Tầm mắt cậu dời về cánh cửa đóng nơi khoang điều khiển lần nữa.
+
+“Còn một việc. Thêm Raymond Fisher vào danh sách liên lạc ưu tiên, nếu không nhận được liên lạc từ tôi, cô hãy tìm đội tàu của Raymond”
+
+Tiếng gõ phím vang lên. “Ghi dưới hồ sơ nào, thưa ngài?”
+
+“J.K.”
+
+“Tư cách truy cập?”
+
+Alan không trả lời ngay. Những gì xảy ra dưới hàng cây tối qua chưa đủ để gọi là một liên kết tinh thần hoàn chỉnh, nhưng sợi kết nối mỏng giữa hai người đã tồn tại. Raymond có thể cảm nhận dao động tinh thần của cậu, còn cậu đã bước vào cảnh tinh thần của anh.
+
+“Lính gác phối hợp…?” Alan nói. “Quyền ưu tiên cấp một.”
+
+Miranda im lặng chưa đến một giây. “Vâng, thưa ngài. Tôi sẽ cập nhật ngay.”
+
+Raymond vẫn đứng trước bảng điều hướng.
+
+Anh từng tiếp xúc với không ít người có quyền lực ở Đế đô, từ sĩ quan Bộ Tham Mưu đến những gia tộc kiểm soát các tuyến vận tải ngoài biên giới. Tuy nhiên, anh chưa từng nghe đến một hồ sơ cấp cao mang ký hiệu J.K., càng không biết vì sao một hướng đạo cấp F lại có quyền mở dữ liệu tình báo, yêu cầu giám định quân sự và chỉ thị một người như Miranda bằng giọng điệu quen thuộc đến vậy.
+
+J.K. có thể là mật danh, mã hồ sơ hoặc một thân phận khác mà Alan chưa từng để lộ. Dù là gì, nó cũng không thể được giải thích bằng hai chữ trùng hợp.
+
+Tiêu Kỳ hắng giọng, vô cùng giả tạo
+
+Raymond quay sang. “Cậu nghe được bao nhiêu?”
+
+Tiêu Kỳ bây giờ xoay mặt sang, nhún vai “Em không biết gì hết”
+
+Raymond quay lại màn hình lộ trình. “Được.”

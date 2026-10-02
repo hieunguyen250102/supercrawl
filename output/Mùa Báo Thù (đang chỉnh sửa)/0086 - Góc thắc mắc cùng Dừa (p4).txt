@@ -1,0 +1,249 @@
+Góc thắc mắc cùng Dừa (p4)
+
+Lại là Dừa đây. Như đã nói ở thông báo trước đó của Dừa thì chương này là chương Dừa dùng để bổ sung và cập nhật những thông tin mới cho Mùa Báo Thù (có lẽ là cả Ngày Tàn và n+1 những bộ truyện khác của Dừa nữa).
+
+Chương này Dừa chủ yếu để bổ sung thông tin cho chương "Thiên Điểu Nhân" và những chương sau này nên Dừa sẽ nói đến một số vấn đề hiện rõ ở chương đó + một số thông tin lặt vặt có liên quan.
+
+Các vấn đề hiện rõ ở chương "Thiên Điểu Nhân" gồm:
+
++ Cơ chế cấp độ quái vật
+
++ Phân loại quái vật.
+
++ Danh hiệu.
+
++ Điểm kinh nghiệm.
+
++ Những thứ có thể rớt ra khi giết quái vật.
+
+Về cơ chế cấp độ quái vật, ở Bách Khoa thời mạt thế số đầu tiên Dừa có nói đến xác sống và cấp bậc phân chia của xác sống.
+
+Đối với động-thực vật biến dị và các sinh vật đến từ thế giới khác, cơ chế phân chia cấp bậc của chúng sẽ khác so với đám xác sống. Cấp bậc của đám này phân chia có phần giống với loài người.
+
+Kiểu cấp 1 (level 1), 2, 3 như bình thường.
+
+Nếu quy đổi sang bảng cấp bậc của xác sống sẽ là:
+
+Cấp F: cấp 1->10.
+
+Cấp E: cấp 11->30.
+
+Cấp D: cấp 31->53.
+
+Cấp C: cấp 54->67.
+
+Cấp B: cấp 68->82.
+
+Tạm thời là vậy, các cấp bậc cao hơn đến đó Dừa sẽ cập nhật thêm thông tin sau.
+
+Các cấp độ này phân chia không theo quy luật nào cả, đơn giản là sức mạnh của lũ xác sống ở cấp độ đó trải dài trên thảm sức mạnh ấy thôi.
+
+Và như bình thường, các quái vật (xác sống, động-thực vật biến dị, sinh vật thuộc thế giới khác,...) ở cấp càng cao thì càng mạnh, càng khó giết và càng rớt ra nhiều kinh nghiệm cũng như đồ ngon hơn (hoặc không tùy nhân phẩm)
+
+Phân loại quái vật, phần này nếu để nói hết thì tốn hơi bị nhiều chữ nên chắc Dừa chỉ nói phần tóm gọn và có liên quan tới chương "Thiên Điểu Nhân" nhất thôi nhé.
+
+Xác sống và các sinh vật đột biến ở thế giới chính không được tính vào phần phân loại quái vật này.
+
+Các sinh vật đến từ thế giới khác (Dừa tạm gọi là "ngoại sinh" nha, được phân 6 nhóm chính gồm 3 nhóm mức độ hiếm có của giống loài và 3 nhóm mức độ thân thiện đối với loài người.
+
+Mức độ hiếm có gồm Hạ, Trung và Thượng. Ba nhóm chính này được chia thành 2 nhóm nhỏ gồm Thiên (loài có thể bay) và Địa (loài không thế bay).
+
+Mọi người có thể xem nó như một bảng phân chia sức mạnh đơn giản cho lũ quái này do đám biết bay gần như luôn khó chơi hơn đám không biết.
+
+Mức độ thân thiện gồm: loài ôn hòa (không gây hại dù bị con người khiêu khích), loài trung lập (tấn công nếu bị khiêu khích) và loài thù địch (tấn công khi thấy con người.
+
+Mức độ thân thiện là bảng so sánh độ an toàn của các sinh vật đối với loài NGƯỜI. Ở các loài khác, bảng này có thể bị thay đổi.
+
+Nói cũng hơi khó, Dừa nghĩ ví dụ bằng thực tế dễ hơn.
+
+Với bé ngoại sinh mới nhất, Thiên Điểu Nhân.
+
+Chữ "Thiên" trong tên ẻm cho biết ẻm thuộc loài có thể bay. "Điểu" = thuộc tộc chim và "Nhân" = có hình dạng giống con người.
+
+Thiên Điểu Nhân thuộc cả loài trung lập và thù địch, tùy thuộc vào giống chim. Thằng bé ở chương mới nhất thuộc loài thù địch, giống ưng nhé.
+
+Một Thiên Điểu Nhân chưa trưởng thành tầm cấp 4 trở xuống, từ cấp 5 đến cấp 10 là đang trong giai đoạn trưởng thành đầu tiên còn cấp 10 đổ lên là hoàn toàn trưởng thành.
+
+Mức độ hiếm có của tụi này thuộc mức Hạ, không dễ gặp do tập tính tránh né các giống loài khác của sinh vật nhưng mà nếu kiếm thì vẫn tìm ra khá nhanh.
+
+Thiên Điểu Nhân là loài có trí tuệ, chúng đã bắt đầu phát triển ngôn ngữ và nền văn minh riêng. Tuy nhiên, thời gian chúng xuất hiện ở thế giới chính vẫn còn khá ngắn nên chúng vẫn chưa học được ngôn ngữ của loài người.
+
+Một bé khác là cáo đất, bé này cũng thuộc hàng ngũ các ngoại sinh nhưng mà do mức độ phổ biến của bé nó khá cao, tập trung ở các khu vực nhiệt đới, cận nhiệt đới và ôn đới nên ẻm thường bị nhầm lẫn với các sinh vật bản địa biến dị vì thế tên ẻm mới không có gì đặc biệt hết.
+
+Bé này thuộc loài ôn hòa, cấp Địa Hạ, loài phổ biến và không thể bay.
+
+Bé này miễn cưỡng được xem là sinh vật bán trí tuệ.
+
+Về danh hiệu, danh hiệu nhận được nếu bạn là:
+
++ Người đầu tiên giết con quái vật đó: "Kẻ thù của ..."
+
++ Người hoàn thành nhiệm vụ ẩn: "... duy nhất"
+
++ Người giết hơn một ngàn cá thể cùng tộc: "Tội ác diệt chủng ..."
+
++ Đạt cấp độ tối đa của một kĩ năng bất kỳ đầu tiên: "Kẻ khai phá ..."
+
++ Và rất rất nhiều danh hiệu khác nhưng mà bốn cái ở trên là phổ biến nhất.
+
+Danh hiệu có thể được xem là một tấm huy chương hoặc một tờ cáo tội vô hình tùy cảm nhận của người sở hữu.
+
+Danh hiệu luôn luôn được hệ thống tự động trang bị ở bảng thuộc tính và không thể tháo ra.
+
+Bên ngoài, danh hiệu chỉ xuất hiện khi người sở hữu cho phép, nhưng khi vào trong căn cứ, cụ thể là các căn cứ có thương hội, danh hiệu sẽ tự động xuất hiện và bao quanh người sở hữu.
+
+Tùy vào các danh hiệu khác nhau mà chúng có thể tạo ra các buff hoặc debuff khác nhau cho người sở hữu.
+
+Ví dụ với danh hiệu "Kẻ thù của tộc Điểu Nhân" sẽ giúp người nhân tăng thêm 5% sát thương khi tấn công sinh vật thuộc tộc Điểu Nhân.
+
+Đồng thời biến toàn bộ sinh vật thuộc tộc Điểu Nhân (thù địch lẫn trung lập) trở nên thù địch với người sở hữu bất chấp lí do.
+
+Có những danh hiệu chỉ cho buff như "Kẻ khai phá ..." cho người sở hữu nâng cấp kĩ năng thêm một bậc so với những người khác.
+
+Hoặc chỉ cho debuff: "Tội ác diệt chủng ..." ngoài mang tác dụng răn đe và dọa sợ những người yếu hơn thì tác dụng chủ yếu của danh hiệu này là kích thích các sinh vật (thuộc tộc trên danh hiệu) trong bán kính mười kilomet trở nên phẫn nộ, đồng thời giảm 50% sát thương của người chơi gây ra cho sinh vật.
+
+Điểm kinh nghiệm, nếu ai chơi game thế giới mở nhiều chắc cũng sẽ biết ít nhiều đến nó rồi nhỉ.
+
+Về cơ bản, điểm kinh nghiệm dùng để tăng cấp cho người chơi (các nhân vật trong truyện theo cách gọi của hệ thống).
+
+Điểm kinh nghiệm xuất hiện sau khi 5 phút xác quái vật tan biến hoàn toàn (quá trình này xấp xỉ vài giây đến 16 phút tùy vào kích thước của sinh vật).
+
+Nghĩ là khi sinh vật bị người chơi xử lý, xác sinh vật sẽ nằm ở đó chừng 5 phút để người chơi mổ xẻ kiếm thêm thực phẩm (nếu họ muốn). Sau 5 phút, phần còn lại của cái xác ấy sẽ biến dần thành điểm kinh nghiệm và chia đều cho toàn bộ người chơi trong bán kính 20 mét với tâm điểm là xác của sinh vật kia.
+
+Ví dụ với Thiên Điểu Nhân và xác sống từ cấp F trở lên, những sinh vật có kích thước tương tự loài người, quá trình tan biến của chúng chừng hơn 1 phút. Nghĩa là sau khi người chơi giết một trong hai sinh vật này, xác của chúng sẽ tốn tổng cộng 6 đến 7 phút để hóa hoàn toàn thành điểm kinh nghiệm.
+
+Xác của các xác sống bình thường sẽ không tan biến mà từ từ phân hủy như nhịp sinh học bình thường.
+
+Đối với xác sống, điểm kinh nghiệm sẽ chia rõ dựa theo cấp bậc của con xác sống đó.
+
+Ví dụ như:
+
+Cấp F: 50 điểm.
+
+Cấp E: 100 điểm.
+
+Cấp D: 200 điểm.
+
+Cấp C: 500 điểm.
+
+Cấp B: 1000 điểm.
+
+Các sinh vật khác ngoại trừ xác sống, điểm kinh nghiệm tụi này rơi ra sẽ căn cứ vào:
+
+Độ nguy hiểm: chiếm 50%
+
+Sinh vật có/bán/không có trí tuệ: 20%
+
+Mức độ hiếm có (chỉ áp dụng cho các ngoại sinh): 10%.
+
+Đối với sinh vật biến dị thuộc thế giới chính mức độ hiếm có của sinh vật này sẽ là 0%.
+
+Ngoài ba mục lớn ở trên, ta còn có 3 mục nhỏ để tăng thêm số lượng điểm kinh nghiệm người chơi nhận được gồm:
+
+Thách đấu lệch cấp (cấp của người chơi thấp hơn cấp của sinh vật người chơi giết): +10%
+
+Lần đầu giết (lần đầu tiên người chơi giết sinh vật): +5% (chỉ nhận được 1 lần duy nhất)
+
+Giết liên hoàn (giết liên tục):
+
+100 sinh vật cùng loài: +5%
+
+1000 sinh vật cùng loài: +15% (ở mốc này người chơi nhận được danh hiệu "Tội ác diệt chủng ...")
+
+5000 sinh vật cùng loài: +20%
+
+Đã nói tới điểm kinh nghiệm sinh vật rớt ra rồi thì Dừa cũng nên nói xí về điểm kinh nghiệm yêu cầu để người chơi thăng cấp nhỉ.
+
+Đối với cấp 1, điểm kinh nghiệm yêu cầu là 10 điểm, cấp 2 là 100 điểm. Từ cấp 3 trở về sau, điểm kinh nghiệm yêy cầu ở cấp đó = điểm kinh nghiệm cấp trước ×2.
+
+Ví dụ điểm kinh nghiệm ở cấp 3 = điểm cấp 2×2 = 100×2 = 200 điểm.
+
+Mỗi khi tăng 1 cấp, người chơi nhân được 30 điểm kỹ năng và 10 điểm sức mạnh.
+
+Trước khi đi sau vào 2 cái trên, Dừa xin phép được giải thích sơ về điểm kĩ năng và điểm sức mạnh.
+
+Ở bảng thuộc tính chính, bỏ qua các thông tin cơ bản như tên tuổi và cấp độ người chơi thì ta còn một danh sách gồm các thuộc tính (thể lực, tấn công, phòng thủ, độ chính xác, năng lượng) và các kĩ năng.
+
+Điểm sức mạnh dùng để nâng cấp cho thể lực, tấn công và phòng thủ.
+
+Ngoài sử dụng điểm sức mạnh, người chơi có thể tự rèn luyện thể lực để nâng cao ba thuộc tính trên.
+
+Điểm kĩ năng dùng để nâng cấp độ chính xác, năng lượng và các kĩ năng.
+
+Vẫn sẽ có tỷ lệ trùng lặp kĩ năng, nhưng hướng đi của các kĩ năng giữa các người chơi là khác nhau.
+
+Lưu ý: cấp độ kĩ năng và cấp độ người chơi hoàn toàn khác biệt.
+
+Một kĩ năng có 10 cấp độ, với mỗi 1 lần nâng cấp cấp độ kĩ năng, người chơi có thể lựa chọn giữa các thẻ nâng cấp khác nhau bao gồm:
+
+Thẻ tăng sát thương.
+
+Thẻ nâng cấp không gian.
+
+Thẻ tăng số lượng.
+
+Thẻ gia tăng thời gian sử dụng kĩ năng.
+
+Thẻ giảm thời gian hồi chiêu.
+
+Thẻ giảm năng lượng yêu cầu.
+
+Phía trên là các thẻ có tỷ lệ xuất hiện cao (khoảng 97%, 3% còn lại là các thẻ hiếm, ít khi xuất hiện trong mạch truyện nên tạm thời Dừa sẽ không nhắc tới)
+
+Mỗi 9 cấp người chơi, kỹ năng xuất hiện ba thẻ ngẫu nhiên, các thẻ xuất hiện có thể mang buff/debuff cho kĩ năng.
+
+Người chơi đầu tiên đạt cấp độ tối đa của kĩ năng sẽ nhận được một buff độc quyền tự chọn.
+
+Điểm kĩ năng yêu cầu cho từng cấp độ kĩ năng:
+
+Cấp 1: 9 điểm.
+
+Cấp 2: 25 điểm.
+
+Cấp 3: 59 điểm.
+
+Cấp 4: 76 điểm.
+
+Cấp 5: 115 điểm.
+
+Cấp 6: 169 điểm.
+
+Cấp 7: 259 điểm.
+
+Cấp 8: 527 điểm.
+
+Cấp 9: 792 điểm.
+
+Cấp 10: 925 điểm.
+
+Mỗi 5 cấp người chơi, người chơi nhận được 1 kĩ năng bất kỳ. Đến cấp 25, người chơi có quyền lựa chọn 1 trong 3 thẻ kĩ năng bất kỳ.
+
+Ở cấp 35, người chơi nhận được thêm một kĩ năng hỗ trợ tự chọn hoặc một thú cưng bất kỳ.
+
+Ở cấp 50, người chơi nhận được kỹ năng thẩm định.
+
+Các vật phẩm mà người chơi có thể nhận được khi giết quái vật (bao gồm xác sống cấp F trở lên, ngoại sinh và các sinh vật biến dị ở thế giới chính):
+
++ Xu vô hạn (đồng tiền chính để trao đổi ở hội thương nhân, hội thợ săn, hội phép thuật và làng thợ rèn, sau này được sử dụng như tiền tệ chính của thế giới trong và sau tận thế)
+
++ Kinh nghiệm (tùy cấp độ quái vật mà số kinh nghiệm rơi ra khác nhau)
+
++ Vũ khí, áo giáp (tùy nhân phẩm của người chơi và mức độ giàu có của quái vật, thường xuất hiện ở hang ổ, bộ lạc chính của sinh vật)
+
++ Của cải giống loài (xuất hiện ở nơi tập kết của các sinh vật, thường ở địa bàn của thủ lĩnh loài)
+
+Ở trên là những vật phẩm có tỷ lệ xuất hiện cao, ngoài ra, ta còn có:
+
++ Đá nâng cấp thuộc tính nguyên tố chính.
+
++ Đá chọn nguyên tố phụ.
+
+Tùy nhiên, 2 loại đá này thuộc phạm trù "Nguyên tố" nên Dừa tạm thời không nói đến.
+
+Khi các nhân vật đạt cấp 5, cấp độ mà người chơi có thể chọn nguyên tố chính thì Dừa sẽ lên thêm chương bổ sung thông tin sau.
+
+Tạm thời là vậy, Dừa xin lỗi vì lên chương khá chậm (nếu đề cương của Dừa không phải dạng chép tay thì khéo chương này lên ngay sau chương Thiên Điểu Nhân rồi).
+
+Dừa cũng muốn chụp đề cương lên cho các bạn dễ hiểu hơn nhưng mà chữ của Dừa quá xấu nên độc giả thông cảm giúp Dừa nhé.
+
+Mọi người còn thắc mắc gì thì bình luận cho Dừa luôn nhé, Dừa sẽ giải đáp nếu nó tiết lộ tình tiết truyện.

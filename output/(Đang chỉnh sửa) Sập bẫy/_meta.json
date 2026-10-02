@@ -1,0 +1,607 @@
+{
+  "url": "https://rookies.vn/truyen/sap-bay",
+  "site": "rookies",
+  "title": "(Đang chỉnh sửa) Sập bẫy",
+  "author": "Đào Anh Đào",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Tình tay ba",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Ngôn tình",
+    "Tiểu thuyết",
+    "Bút Chiến 2025: Tình Đầu"
+  ],
+  "description": "Lần đầu gặp mặt, Minh đang theo dõi bạn cô xử lý bạn trai cũ ngoại tình, Khải đi quay phim cảnh thằng bạn khốn nạn bị đá.\n\nLần hai gặp mặt, cậu vô tình nghe cô nói xấu mình. Nhưng điều duy nhất cậu để ý là cô nàng kia chẳng hề thấy bối rối chút nào, trạng thái cảm xúc quá mức ổn định. Cậu không nhịn được thử bày trò trêu cô một chút, không ngờ trò đùa đó trở thành cái gai trong lòng cô. Bề ngoài có vẻ không quan tâm, nhưng trong thâm tâm cô đã có ý định ăn miếng trả miếng.",
+  "cover": "https://rookies.vn/uploads/user/83432XVOj/Typo_Sap_Bay.png",
+  "cover_file": "cover.png",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chia tay",
+      "url": "https://rookies.vn/truyen/sap-bay/44177",
+      "file": "0001 - Chia tay.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Tiền",
+      "url": "https://rookies.vn/truyen/sap-bay/44352",
+      "file": "0002 - Tiền.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Con gái thời nay thật đáng sợ",
+      "url": "https://rookies.vn/truyen/sap-bay/44447",
+      "file": "0003 - Con gái thời nay thật đáng sợ.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Thính hay bả",
+      "url": "https://rookies.vn/truyen/sap-bay/44458",
+      "file": "0004 - Thính hay bả.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Thằng khốn và nhỏ lừa đảo",
+      "url": "https://rookies.vn/truyen/sap-bay/44460",
+      "file": "0005 - Thằng khốn và nhỏ lừa đảo.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Cậu thắng rồi",
+      "url": "https://rookies.vn/truyen/sap-bay/44498",
+      "file": "0006 - Cậu thắng rồi.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Nổi tiếng",
+      "url": "https://rookies.vn/truyen/sap-bay/44658",
+      "file": "0007 - Nổi tiếng.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Hẹn hò (1)",
+      "url": "https://rookies.vn/truyen/sap-bay/44829",
+      "file": "0008 - Hẹn hò (1).txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Hẹn hò (2)",
+      "url": "https://rookies.vn/truyen/sap-bay/44832",
+      "file": "0009 - Hẹn hò (2).txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Hẹn hò (3)",
+      "url": "https://rookies.vn/truyen/sap-bay/44833",
+      "file": "0010 - Hẹn hò (3).txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Hội đồng quản trị",
+      "url": "https://rookies.vn/truyen/sap-bay/45491",
+      "file": "0011 - Hội đồng quản trị.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Nhà thể chất",
+      "url": "https://rookies.vn/truyen/sap-bay/45499",
+      "file": "0012 - Nhà thể chất.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Thính",
+      "url": "https://rookies.vn/truyen/sap-bay/45504",
+      "file": "0013 - Thính.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Câu lạc bộ báo chí",
+      "url": "https://rookies.vn/truyen/sap-bay/46268",
+      "file": "0014 - Câu lạc bộ báo chí.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Tay săn tin",
+      "url": "https://rookies.vn/truyen/sap-bay/46269",
+      "file": "0015 - Tay săn tin.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Drama",
+      "url": "https://rookies.vn/truyen/sap-bay/47602",
+      "file": "0016 - Drama.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Đóng cửa thả chó",
+      "url": "https://rookies.vn/truyen/sap-bay/47603",
+      "file": "0017 - Đóng cửa thả chó.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Đuổi thỏ",
+      "url": "https://rookies.vn/truyen/sap-bay/48542",
+      "file": "0018 - Đuổi thỏ.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Khoảng cách giữa đôi ta",
+      "url": "https://rookies.vn/truyen/sap-bay/49377",
+      "file": "0019 - Khoảng cách giữa đôi ta.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Anh hùng (1)",
+      "url": "https://rookies.vn/truyen/sap-bay/52130",
+      "file": "0020 - Anh hùng (1).txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Anh hùng (2)",
+      "url": "https://rookies.vn/truyen/sap-bay/52346",
+      "file": "0021 - Anh hùng (2).txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Mĩ nhân",
+      "url": "https://rookies.vn/truyen/sap-bay/52635",
+      "file": "0022 - Mĩ nhân.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Không quan tâm",
+      "url": "https://rookies.vn/truyen/sap-bay/52818",
+      "file": "0023 - Không quan tâm.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Cảm cúm",
+      "url": "https://rookies.vn/truyen/sap-bay/53033",
+      "file": "0024 - Cảm cúm.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Hôn gián tiếp",
+      "url": "https://rookies.vn/truyen/sap-bay/53197",
+      "file": "0025 - Hôn gián tiếp.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Trục tọa độ và đường tiệm cận",
+      "url": "https://rookies.vn/truyen/sap-bay/53372",
+      "file": "0026 - Trục tọa độ và đường tiệm cận.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Người yêu cũ và bạn thuở nhỏ",
+      "url": "https://rookies.vn/truyen/sap-bay/53608",
+      "file": "0027 - Người yêu cũ và bạn thuở nhỏ.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Kabedon",
+      "url": "https://rookies.vn/truyen/sap-bay/53871",
+      "file": "0028 - Kabedon.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Thiếu nữ nổi loạn",
+      "url": "https://rookies.vn/truyen/sap-bay/54087",
+      "file": "0029 - Thiếu nữ nổi loạn.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "An Vy",
+      "url": "https://rookies.vn/truyen/sap-bay/55331",
+      "file": "0030 - An Vy.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Việt Anh",
+      "url": "https://rookies.vn/truyen/sap-bay/55916",
+      "file": "0031 - Việt Anh.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Thử theo đuổi cậu ấy (1)",
+      "url": "https://rookies.vn/truyen/sap-bay/56101",
+      "file": "0032 - Thử theo đuổi cậu ấy (1).txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Thử theo đuổi cậu ấy (2)",
+      "url": "https://rookies.vn/truyen/sap-bay/56311",
+      "file": "0033 - Thử theo đuổi cậu ấy (2).txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Ghen?",
+      "url": "https://rookies.vn/truyen/sap-bay/56420",
+      "file": "0034 - Ghen.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Cố chấp",
+      "url": "https://rookies.vn/truyen/sap-bay/57387",
+      "file": "0035 - Cố chấp.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Những người thần kinh",
+      "url": "https://rookies.vn/truyen/sap-bay/57597",
+      "file": "0036 - Những người thần kinh.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Sau cơn mưa trời lại sáng",
+      "url": "https://rookies.vn/truyen/sap-bay/57791",
+      "file": "0037 - Sau cơn mưa trời lại sáng.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Nhà ma",
+      "url": "https://rookies.vn/truyen/sap-bay/58066",
+      "file": "0038 - Nhà ma.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Ông ăn chả bà ăn nem",
+      "url": "https://rookies.vn/truyen/sap-bay/58208",
+      "file": "0039 - Ông ăn chả bà ăn nem.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Chó ăn mặn bị ghẻ",
+      "url": "https://rookies.vn/truyen/sap-bay/58482",
+      "file": "0040 - Chó ăn mặn bị ghẻ.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Hoa hướng dương ngoảnh về mặt trời",
+      "url": "https://rookies.vn/truyen/sap-bay/59480",
+      "file": "0041 - Hoa hướng dương ngoảnh về mặt trời.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Mình làm hòa nhé",
+      "url": "https://rookies.vn/truyen/sap-bay/59723",
+      "file": "0042 - Mình làm hòa nhé.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Chó con không trung thành (1)",
+      "url": "https://rookies.vn/truyen/sap-bay/59740",
+      "file": "0043 - Chó con không trung thành (1).txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Chó con không trung thành (2)",
+      "url": "https://rookies.vn/truyen/sap-bay/59974",
+      "file": "0044 - Chó con không trung thành (2).txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Cục gạch",
+      "url": "https://rookies.vn/truyen/sap-bay/60971",
+      "file": "0045 - Cục gạch.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Đặt bẫy",
+      "url": "https://rookies.vn/truyen/sap-bay/61341",
+      "file": "0046 - Đặt bẫy.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Miêu yêu",
+      "url": "https://rookies.vn/truyen/sap-bay/62016",
+      "file": "0047 - Miêu yêu.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Trần Duy Dương",
+      "url": "https://rookies.vn/truyen/sap-bay/62687",
+      "file": "0048 - Trần Duy Dương.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Những kẻ độc thân",
+      "url": "https://rookies.vn/truyen/sap-bay/62688",
+      "file": "0049 - Những kẻ độc thân.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Cậu là ai?",
+      "url": "https://rookies.vn/truyen/sap-bay/62691",
+      "file": "0050 - Cậu là ai.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Sadistic",
+      "url": "https://rookies.vn/truyen/sap-bay/63378",
+      "file": "0051 - Sadistic.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Crush của bạn thân",
+      "url": "https://rookies.vn/truyen/sap-bay/64110",
+      "file": "0052 - Crush của bạn thân.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Những người rảnh rỗi",
+      "url": "https://rookies.vn/truyen/sap-bay/65474",
+      "file": "0053 - Những người rảnh rỗi.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Người tình trong mắt hóa Tây Thi (Phần đầu)",
+      "url": "https://rookies.vn/truyen/sap-bay/66220",
+      "file": "0054 - Người tình trong mắt hóa Tây Thi (Phần đầu).txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "Người tình trong mắt hóa Tây Thi (Phần cuối)",
+      "url": "https://rookies.vn/truyen/sap-bay/66223",
+      "file": "0055 - Người tình trong mắt hóa Tây Thi (Phần cuối).txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "Mặt trăng biến mất",
+      "url": "https://rookies.vn/truyen/sap-bay/66486",
+      "file": "0056 - Mặt trăng biến mất.txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "Trăng bạc trên mộ (Phần đầu)",
+      "url": "https://rookies.vn/truyen/sap-bay/67409",
+      "file": "0057 - Trăng bạc trên mộ (Phần đầu).txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "Trăng bạc trên mộ (Phần hai)",
+      "url": "https://rookies.vn/truyen/sap-bay/67689",
+      "file": "0058 - Trăng bạc trên mộ (Phần hai).txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Trăng bạc trên mộ (Phần cuối)",
+      "url": "https://rookies.vn/truyen/sap-bay/68117",
+      "file": "0059 - Trăng bạc trên mộ (Phần cuối).txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "Mất cảnh giác",
+      "url": "https://rookies.vn/truyen/sap-bay/68648",
+      "file": "0060 - Mất cảnh giác.txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "Thanh Minh và Ngân Nguyệt",
+      "url": "https://rookies.vn/truyen/sap-bay/69391",
+      "file": "0061 - Thanh Minh và Ngân Nguyệt.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "Cùng ngắm mưa sao băng (Phần đầu)",
+      "url": "https://rookies.vn/truyen/sap-bay/70502",
+      "file": "0062 - Cùng ngắm mưa sao băng (Phần đầu).txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "Cùng ngắm mưa sao băng (Phần cuối)",
+      "url": "https://rookies.vn/truyen/sap-bay/72572",
+      "file": "0063 - Cùng ngắm mưa sao băng (Phần cuối).txt",
+      "done": true
+    },
+    {
+      "index": 64,
+      "title": "Thanh mai trúc mã",
+      "url": "https://rookies.vn/truyen/sap-bay/74702",
+      "file": "0064 - Thanh mai trúc mã.txt",
+      "done": true
+    },
+    {
+      "index": 65,
+      "title": "Thùng rác cảm xúc",
+      "url": "https://rookies.vn/truyen/sap-bay/75780",
+      "file": "0065 - Thùng rác cảm xúc.txt",
+      "done": true
+    },
+    {
+      "index": 66,
+      "title": "Tình yêu thuần khiết",
+      "url": "https://rookies.vn/truyen/sap-bay/79639",
+      "file": "0066 - Tình yêu thuần khiết.txt",
+      "done": true
+    },
+    {
+      "index": 67,
+      "title": "Ctrl Z",
+      "url": "https://rookies.vn/truyen/sap-bay/80882",
+      "file": "0067 - Ctrl Z.txt",
+      "done": true
+    },
+    {
+      "index": 68,
+      "title": "Friendzone",
+      "url": "https://rookies.vn/truyen/sap-bay/83308",
+      "file": "0068 - Friendzone.txt",
+      "done": true
+    },
+    {
+      "index": 69,
+      "title": "Né tránh",
+      "url": "https://rookies.vn/truyen/sap-bay/87154",
+      "file": "0069 - Né tránh.txt",
+      "done": true
+    },
+    {
+      "index": 70,
+      "title": "Tiết Thanh Minh",
+      "url": "https://rookies.vn/truyen/sap-bay/89257",
+      "file": "0070 - Tiết Thanh Minh.txt",
+      "done": true
+    },
+    {
+      "index": 71,
+      "title": "Những kẻ tệ hại",
+      "url": "https://rookies.vn/truyen/sap-bay/90731",
+      "file": "0071 - Những kẻ tệ hại.txt",
+      "done": true
+    },
+    {
+      "index": 72,
+      "title": "Giận cá chém thớt",
+      "url": "https://rookies.vn/truyen/sap-bay/92534",
+      "file": "0072 - Giận cá chém thớt.txt",
+      "done": true
+    },
+    {
+      "index": 73,
+      "title": "Chênh vênh (Phần đầu)",
+      "url": "https://rookies.vn/truyen/sap-bay/94493",
+      "file": "0073 - Chênh vênh (Phần đầu).txt",
+      "done": true
+    },
+    {
+      "index": 74,
+      "title": "Chênh vênh (Phần cuối)",
+      "url": "https://rookies.vn/truyen/sap-bay/97976",
+      "file": "0074 - Chênh vênh (Phần cuối).txt",
+      "done": true
+    },
+    {
+      "index": 75,
+      "title": "Hoa đào",
+      "url": "https://rookies.vn/truyen/sap-bay/103499",
+      "file": "0075 - Hoa đào.txt",
+      "done": true
+    },
+    {
+      "index": 76,
+      "title": "Ngôi sao rực rỡ",
+      "url": "https://rookies.vn/truyen/sap-bay/104520",
+      "file": "0076 - Ngôi sao rực rỡ.txt",
+      "done": true
+    },
+    {
+      "index": 77,
+      "title": "Bước về phía người",
+      "url": "https://rookies.vn/truyen/sap-bay/106208",
+      "file": "0077 - Bước về phía người.txt",
+      "done": true
+    },
+    {
+      "index": 78,
+      "title": "Mượn rượu tỏ tình",
+      "url": "https://rookies.vn/truyen/sap-bay/106211",
+      "file": "0078 - Mượn rượu tỏ tình.txt",
+      "done": true
+    },
+    {
+      "index": 79,
+      "title": "Âm thanh pháo hoa",
+      "url": "https://rookies.vn/truyen/sap-bay/115792",
+      "file": "0079 - Âm thanh pháo hoa.txt",
+      "done": true
+    },
+    {
+      "index": 80,
+      "title": "Khai mạc",
+      "url": "https://rookies.vn/truyen/sap-bay/115793",
+      "file": "0080 - Khai mạc.txt",
+      "done": true
+    },
+    {
+      "index": 81,
+      "title": "Phiên tòa ngoài lề",
+      "url": "https://rookies.vn/truyen/sap-bay/115794",
+      "file": "0081 - Phiên tòa ngoài lề.txt",
+      "done": true
+    },
+    {
+      "index": 82,
+      "title": "Phán quyết (Hết)",
+      "url": "https://rookies.vn/truyen/sap-bay/115797",
+      "file": "0082 - Phán quyết (Hết).txt",
+      "done": true
+    },
+    {
+      "index": 83,
+      "title": "Phụ chương: Hồ sơ nhân vật",
+      "url": "https://rookies.vn/truyen/sap-bay/115798",
+      "file": "0083 - Phụ chương Hồ sơ nhân vật.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:26:17+07:00",
+  "updated_at": "2026-10-01T21:28:23+07:00",
+  "chapter_count": 83,
+  "done_count": 83
+}

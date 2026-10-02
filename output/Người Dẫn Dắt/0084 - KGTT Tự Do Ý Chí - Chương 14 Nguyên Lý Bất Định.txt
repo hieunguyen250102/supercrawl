@@ -1,0 +1,127 @@
+KGTT: Tự Do Ý Chí - Chương 14: Nguyên Lý Bất Định
+
+Nghe cậu nói, hai mắt Thu Thảo lập tức sáng rỡ. Sau khi chứng kiến khả năng hiểu biết của Gia Vỹ, cô đã hoàn toàn ngả mũ khâm phục, nên dĩ nhiên nếu cậu nói mình có ý tưởng gì đó thì chắc chắn không phải hạng tầm thường.
+
+Minh Viễn cũng hoài nghi nhìn sang, chờ nghe cậu giải thích.
+
+“Nguyên lý bất định của Heisenberg.” Gia Vỹ nhìn lại anh, nhẹ giọng nói, “Vừa đi em sẽ vừa giải thích.”
+
+Minh Viễn gật đầu, thế là bốn người lần nữa tiến về phía toà dinh thự.
+
+Nói về nguyên lý bất định của Heisenberg, thì đây cũng là một minh chứng quan trọng cho thấy sự không thể đo đạc đồng thời vị trí và động lượng của một hạt. Điều này chỉ ra rằng, ngay cả khi chúng ta có thông tin ban đầu về một hệ thống, thì hành vi của nó vẫn mang yếu tố ngẫu nhiên và không thể tiên đoán chính xác. Làm thay đổi hoàn toàn cách nhìn về một vũ trụ có thể dự đoán trong quan điểm “Con quỷ của Laplace”.
+
+Trong nguyên lý này, ta có thể xác định chắc chắn vị trí của một hạt bằng đồ thị hình gai, hạt sẽ có một trăm phần trăm ở vị trí này và không phần trăm ở vị trí khác. Sóng thì khác, nó là sự nhiễu loạn trải dài trong không gian, như những gợn sóng trên mặt hồ. Tóm lại, chúng ta có thể đo được bước sóng và động lượng của con sóng, nhưng không thể xác định vị trí. Ngược lại, có thể đo được vị trí của hạt nhưng không đo được bước sóng, nên không xác định được động lượng.
+
+Để có thể xác định thì ta phải trộn hai thứ này lại, điều kiện tiên quyết là diễn ra trong phạm vi nhỏ. Cần kết hợp nhiều bước sóng khác nhau, cho đối tượng lượng tử vài xác suất để có những động lượng khác nhau. Khi cộng hai sóng, những đỉnh sóng sẽ kết hợp lại thành đỉnh sóng lớn hơn, điểm đỉnh của sóng này bù cho bụng sóng kia, kết quả những vùng có sóng những vùng không. Đến khi cộng thêm sóng thứ ba vào thì vùng không sóng rộng hơn, càng cộng vùng sóng càng hẹp, bước sóng càng rõ ràng trong một không gian nhỏ. Đó là vật thể lượng tử có hai tính chất sóng hạt.
+
+Nhưng trước hết, phải bỏ qua việc xác định vị trí và động lượng. Trong giả định này, vị trí không giới hạn tại một điểm cố định, mà tồn tại một xác suất để tìm thấy nó trong một khu vực trung tâm của hộp sóng. Ta có thể tạo ra trạng thái này từ việc tổng hợp nhiều sóng, nghĩa là có tồn tại xác suất nó có được động lượng của bất kỳ sóng nào trong số đó. Giờ thì cả vị trí và động lượng đều bất định.
+
+Trong lúc nghe cậu nói, bốn người đã lên được tầng cao nhất của toà dinh thự. Lúc bấy giờ, những con mắt trên các vách tường đều đã mở, Thu Thảo vừa nhìn đã nổi hết cả da gà da vịt lên. Cô xoa xoa cánh tay, run rẩy nói, “Ai lại trang trí tường kiểu này chứ… Trông sợ chết đi được!”
+
+Minh Viễn cũng lộ vẻ ngạc nhiên, rõ ràng khi anh vừa đặt chân lên tầng này thì mấy con mắt kia vẫn đang nhắm, ấy vậy mà bây giờ đều đã mở ra trừng trừng, như thể đang lặng lẽ quan sát từng đường đi nước bước của bọn họ.
+
+“Vậy em ý tưởng của em là gì?” Anh quan sát căn phòng hồi lâu, thấy không có khả năng ống nghiệm được giấu trong này, thế là hỏi, “Nguyên lý bất định của Heisenberg đóng vai trò gì trong chuyện này?”
+
+Gia Vỹ bình tĩnh giải thích, “Chúng ta có thể lợi dụng kết luận vật thể lượng tử có hai tính chất sóng hạt trong nguyên lý của Heisenberg. Tuy nguyên lý bất định không trực tiếp chứng minh, nhưng ủng hộ mạnh mẽ và là một hệ quả của lưỡng tính sóng hạt của vạn vật.” Nói đến đây, cậu bước tới kiểm tra vách tường trong phòng, thấy không có vấn đề gì mới tiếp lời, “Nói về lưỡng tính sóng hạt, phải nhắc đến thí nghiệm “khe kép” nổi tiếng làm thay đổi nhận thức của cả giới khoa học về thế giới lượng tử.”
+
+Đức Nhân nắm được từ khoá “khe kép”, anh ta nói: “Tôi có biết thí nghiệm này. Dù không hay tìm hiểu về vật lý nhưng đúng là ấn tượng thật.”
+
+Thu Thảo thắc mắc, “Khe kép gì cơ? Lưỡng tính sóng hạt thì tôi có nghe nói, trong chương trình phổ thông cũng được học qua.”
+
+Gia Vỹ quay đầu, nét mặt sa sầm trong phút chốc. Có lẽ đây là lần cậu nói nhiều nhất, đến mức chính cậu còn thấy hoài nghi.
+
+Minh Viễn tinh ý nhận ra sự thay đổi nhỏ trong biểu cảm của cậu, thế là anh nhận trách nhiệm đứng ra diễn giải tiếp thí nghiệm này, “Nói thế này cho dễ hiểu đi vậy. Để thực hiện thí nghiệm “khe kép” nói trên, chúng ta cần chuẩn bị một máy bắn bi, một tấm bảng có khe hẹp đặt ở giữa, cuối cùng là một tấm bảng đen. Khi bắn các viên bi qua khe hẹp này, chúng ta sẽ thu được một dải tiếp xúc duy nhất trên bảng đúng chứ? Sau đó thay thành hai khe cũng vậy, kết quả sẽ thu được hai dải tiếp xúc.” Anh nói đến đây thì dừng, chờ cho hai người kia nghiền ngẫm xong mới tiếp tục, “Còn với sóng, khi thực hiện với một khe cũng sẽ thu được một dải tiếp xúc. Nhưng khi đổi thành hai khe, mọi người đoán xem sẽ thu được mấy dải tiếp xúc?”
+
+Thu Thảo đóng vai trò học sinh hiếu học, vội giơ tay phát tiểu, “Dĩ nhiên cũng là hai dải.”
+
+Minh Viễn lắc lắc ngón tay, cười nói: “Sai!”
+
+Thu Thảo tròn mắt kinh ngạc, cô phản bác ngay, “Sao mà sai được, hai khe thì sẽ hình thành hai dải tiếp xúc là đúng rồi còn gì.”
+
+Lần này Đức Nhân là người lên tiếng, “Phải là mô hình giao thoa mới đúng.”
+
+Thu Thảo che miệng thảng thốt, vẫn mù tịt không hiểu gì.
+
+Minh Viễn cười gượng, đó chỉ mới là bước đầu thôi, những gì diễn ra tiếp theo mới thật sự làm người ta nghi ngờ nhân sinh đây này, “Tạm thời cứ hiểu như vậy đi. Sau đó các nhà khoa học thay viên bi bằng hạt electron, cũng tiến hành tương tự, họ cho bắn các hạt electron qua một khe hẹp, lần này họ vẫn thu được một dải tiếp xúc. Tiếp theo lại tiến hành với hai khe, vậy thì kết quả thu được sẽ là gì?”
+
+Sau đáp án bất ngờ ban nãy, Thu Thảo không còn sốt sắng xung phong nữa, cô nàng lắc đầu tỏ ý không biết. Nhưng thật ra đã nghĩ trong đầu là sẽ thu được hai dải tiếp xúc như trong thí nghiệm với các viên bi.
+
+Minh Viễn hít vào một hơi sâu, chậm rãi nói ra kết quả làm người ta ngạc nhiên không thôi, “Bất ngờ là, lần này họ thu được một mô hình giao thoa.”
+
+Thu Thảo hoàn toàn sụp đổ rồi, cô không tài nào hiểu được cái kết quả hết sức vô lý này.
+
+“Nhưng các nhà khoa học cũng rất thông minh, ban đầu họ cho rằng việc xuất hiện mô hình giao thoa của sóng là vì các hạt electron va vào nhau tạo thành. Vì thế họ làm lại thí nghiệm với việc bắn từng hạt electron. Và sau một giờ, kết quả thu được vẫn là mô hình giao thoa.” Minh Viễn điềm nhiên nói, “Bằng cách nào đó mà một hạt khi đi qua khe hẹp lại biến thành dạng sóng rồi giao thoa với nhau. Khi ấy các nhà khoa học cũng hoàn toàn tắt điện trước kết quả này. Thế là họ tiến hành đặt máy quay giám sát, để xem hạt electron đã đi qua khe hẹp như thế nào.”
+
+Thu Thảo từ choáng váng chuyển sang hiếu kỳ, cô nàng hỏi, “Vậy kết quả ra sao?”
+
+“Kết quả lần này trở thành hai dải tiếp xúc bình thường.” Gia Vỹ nói.
+
+Thu Thảo nghẹn lời, cảm thấy tam quan của mình đã vỡ nát.
+
+“Không rõ vì sao, nhưng khi được quan sát, hạt electron lại phản ánh duy nhất một tính chất hạt của mình, trong khi trước đó vẫn cho thấy tính chất sóng hạt.” Minh Viễn liếc nhìn mấy con mắt trên tường, “Cứ như nó biết mình đang bị quan sát vậy.”
+
+Bầu không khí dần rơi vào trầm mặc, từ một thí nghiệm khoa học lại biến thành một câu chuyện khá là quỷ dị. Làm sao một hạt vật chất biết mình đang bị quan sát được chứ?
+
+Nhưng dù có khó tin đến đâu, thì đó vẫn là sự thật. Thế giới cơ học lượng tử vẫn còn rất nhiều bí ẩn mà con người chưa thể khám phá được hết.
+
+Đức Nhân suy tư sờ cằm, đứng nghe nãy giờ, anh ta cũng đã lờ mờ nhận ra kế hoạch của Gia Vỹ là gì rồi, “Về bản chất thì vạn vật trên thế giới đều được cấu thành từ các hạt vật chất bao gồm cả con người. Nên theo lẽ dĩ nhiên, nếu không quá khắt khe, chúng ta cũng được xem là có tính chất sóng hạt.” Vừa nói, anh ta vừa nhìn quanh căn phòng với vô số con mắt trên tường, “Mà những con mắt này lại đang quan sát chúng ta. Nên theo một nghĩa nào đó, chúng ta cũng đang sụp đổ về một trạng thái duy nhất là hạt.”
+
+Thấy anh ta đã hiểu được đại khái, Gia Vỹ hài lòng gật đầu, “Không sai. Hơn nữa, trước khi vào đây, NPC có nói sau khi hoàn thành thử nghiệm chúng ta sẽ nhận được ống nghiệm chứ không hề nhắc đến việc đi tìm. Điều đó chứng tỏ phải giải được bài toán liên quan đến không gian này. Mà nguyên lý bất định của Heisenberg lại là một minh chứng quan trọng phản bác lại quan điểm “Con quỷ của Laplace”, nên chắc chắn không thể bỏ qua.”
+
+Minh Viễn chưa thể hình dung ra được họ sẽ ứng dụng nguyên lý này như thế nào, anh hỏi: “Vậy phải làm thế nào?”
+
+Gia Vỹ nhếch môi, dịu giọng đáp: “Lợi dụng sự tăng lên của Entropy.”
+
+Minh Viễn: “Bằng cách nào?”
+
+“Ban nãy em có nhắc đến việc muốn xác định vị trí và động lượng thì phải trộn sóng và hạt lại với nhau trong phạm vi nhỏ. Khi ấy cả vị trí và động lượng đều là bất định. Nếu muốn giảm sự bất định về vị trí thì cần giảm kích thước hộp, tăng sự bất định về động lượng và ngược lại. Giả sử trong căn phòng này, có hàng trăm người cùng di chuyển thì Entropy sẽ tăng lên rất cao, dẫn tới làm tăng sự bất định về động lượng, đồng thời sự bất định về vị trí sẽ giảm đi, khi ấy ta có thể xác định được ống nghiệm nằm ở đâu.” Gia Vỹ bình tĩnh đưa ra ý tưởng của bản thân, “Nhưng với điều kiện, phải gác lại các quy luật thực tại…”
+
+Minh Viễn im lặng nghiền ngẫm chốc lát, cảm thấy ý tưởng này vẫn khá rủi ro, vì rõ ràng Entropy và nguyên lý bất định của Heisenberg là hai nhánh khác nhau, một cái là vĩ mô, một cái là vi mô. Nên về nguyên tắc thì không thể thực hiện được. Nhưng nơi này là không gian, những thứ diễn ra trong này đôi khi còn khó hiểu hơn cả lượng tử gì đó, nên biết đâu chừng nó thật sự khả thi…
+
+Nghĩ như vậy, anh bèn đề nghị, “Cứ thử xem. Chúng ta xuống các tầng dưới nhờ NPC lên giúp một tay.”
+
+“Ừm.”
+
+Thế là cả bọn mau chóng chạy xuống tầng dưới, sau một hồi lôi kéo cũng kiếm được hơn một trăm người.
+
+Căn phòng trên tầng năm là nhỏ nhất, hàng trăm người chen chúc đứng bên trong, đến một kẽ hở cũng không có.
+
+Sau khi được giải thích sơ sơ, dù không hiểu mô tê gì nhưng các NPC này cũng rất phối hợp. Đợi đến khi được ra hiệu thì bắt đầu chuyển động tại chỗ.
+
+Vốn dĩ, Minh Viễn cũng không ôm hy vọng nhiều lắm. Nhưng vài phút qua đi, căn phòng dần xảy ra biến đổi, những con mắt trên tường phát ra ánh sáng chói loá, cùng chiếu thẳng vào một điểm trong không trung.
+
+Minh Viễn ngẩng lên, thấy một ống nghiệm chứa cát đỏ nằm lẫn trong mô hình dải ngân hà. Anh vui mừng không thôi, giơ tay lên muốn chạm vào nó nhưng không tới. Rồi bỗng nhiên cả người được nhấc bổng lên, anh kinh ngạc cúi đầu, thấy Gia Vỹ đang ngước mắt nhìn mình, cậu khẽ cười, “Anh lấy đi.”
+
+Anh gật đầu, vươn tay bắt lấy ống nghiệm!
+
+…
+
+Sau khi Minh Huân và Anh Tú rơi đi, Hoàng Nhật vẫn lo ngay ngáy. Cậu đi đi lại lại trên đường, hướng mắt về phía toà nhà cách đó không xa. Nhưng vì nơi đó không có ánh đèn, thành ra chẳng thể thấy được thứ gì, cũng chẳng biết liệu hai người kia có thành công trót lọt lên được đến tầng thượng không.
+
+Tuyết Mai ngồi chồm hổm bên lề đường, cô nhìn cậu đi tới đi lui mà chóng hết cả mặt, cuối cùng nhịn không được phải lên tiếng ngăn lại, “Cậu bình tĩnh đi, cứ chờ xem sao.”
+
+Hoàng Nhật dừng bước, cậu căng thẳng chà lòng bàn tay vào vạt áo, lòng nóng như lửa đốt, “Bình tĩnh sao được. Hắn có súng đấy!”
+
+Tuyết Mai có thể hiểu được nỗi lo của cậu, nhưng cô cũng lực bất tòng tâm, đâu thể làm khác được, “Không thì sao bây giờ! Trong một trăm cách thì cũng phải có một cách hiệu quả chứ.”
+
+Hoàng Nhật chậc lưỡi, cậu ôm đầu khổ sở kêu lên.
+
+Diệp Chi cắn môi, thỉnh thoảng lại liếc nhìn về phía cuối đường, lòng bồn chồn không yên. Bỗng nhiên, sực nhớ ra gì đó, cô mừng rỡ nói: “Phải rồi, tôi nghĩ ra một cách! Hai người nghe xem có ổn không.”
+
+Hoàng Nhật ngẩng đầu, vội hỏi: “Cách gì?”
+
+Tuyết Mai cũng nhìn cô với vẻ mong chờ.
+
+Diệp Chi nuốt khan, nói: “Cướp ống nghiệm của ông ta là được mà. Ông ta sống hay chết cũng đâu liên quan đến việc chúng ta lấy ống nghiệm rồi thoát ra ngoài.”
+
+Câu này của cô khiến cả hai bừng tỉnh ngộ. Hình như từ đầu đến giờ họ chỉ tập trung vào mỗi việc bảo vệ người đàn ông khỏi kẻ ám sát, mà không hề nghĩ tới phải lấy được ống nghiệm trước.
+
+Dẫu sao ở đây cũng toàn là NPC, chết rồi vẫn có thể sống lại như thường. Họ đâu cần đặt nặng đến thế, cứ lấy ống nghiệm rồi chuồn êm là ổn thoả mà.
+
+Hoàng Nhật đập tay một cái rõ vang, thế mà cậu lại không nghĩ ra, đúng là quá thiếu sót, “Ý này quá hay luôn ấy chứ!”
+
+Tuyết Mai vẫn chưa hoàn toàn tin tưởng, cô cảm thấy chuyện sẽ không đơn giản như vậy, “Khoan nóng vội, chờ hai người kia quay lại đã.”
+
+Kỳ thật, Diệp Chi cũng không quá chắc chắn, chỉ là cô nhất thời nghĩ tới thôi, ngộ nhỡ bọn họ hành động khinh suất lại xảy ra chuyện không thể cứu vãn thì hỏng.
+
+Nhưng Hoàng Nhật không cho là vậy, so với việc hai người kia phải mạo hiểm đối đầu với kẻ ám sát thì phương án lấy ống nghiệm ngay từ đầu vừa an toàn vừa đơn giản. Chẳng phải ban nãy họ còn chặn được xe lại sao, giờ chỉ cần nhân lúc trước khi người đàn ông xuống xe, cậu giành lấy ống nghiệm là coi như xong.

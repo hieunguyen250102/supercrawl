@@ -1,0 +1,209 @@
+CHƯƠNG 16: Dao Động Lệch Pha.
+
+Sau một hồi trêu ghẹo khiến Khôi Nguyên suýt chút nữa biến thành một quả cà chua chín, cô Mai mới gõ thước nghiêm nghị kéo cả lớp trở lại với bài học. Quãng thời gian còn lại của tiết Ngữ Văn trôi qua trong tiếng lật sách sột soạt và chất giọng giảng bài trầm ấm của cô chủ nhiệm. Thỉnh thoảng hai khứa phía trên vẫn lén quay xuống nháy mắt đầy gian xảo, nhưng Khôi Nguyên đã cắm mặt vào tập ghi chép, tuyệt đối đóng băng mọi giác quan để bảo toàn chút liêm sỉ cuối cùng.
+
+Tiết cuối cùng của buổi sáng là môn Vật Lý của thầy Hoàng. Vì đây là tuần đầu tiên của năm học mới, thầy bước vào lớp với phong thái vô cùng vui vẻ, năng động.
+
+Thầy đặt viên phấn xuống, mỉm cười chào cả lớp rồi nắn nót viết những dòng chữ to tướng lên bảng: Chương I: Dao động. Bài 1: Dao động điều hòa.
+
+“Lớp 11 rồi, chúng ta sẽ bắt đầu với một mảng kiến thức hoàn toàn mới và rất thú vị.” Thầy Hoàng vừa gõ viên phấn vừa giảng giải.
+
+“Các em lật sách giáo khoa Vật lý 11 trang 6 ra. Hôm nay chúng ta tìm hiểu về dao động cơ, cụ thể là dao động điều hòa...” Giọng thầy ôn hòa vang lên.
+
+Thầy Hoàng đi lại quanh bục giảng, tay ra bộ minh họa cho chuyển động qua lại quanh vị trí cân bằng.
+
+“Trong đó, $A$ là biên độ, tức là độ lệch cực đại của vật. Còn $(\omega t + \varphi)$ là pha của dao động tại thời điểm $t$, dùng để xác định trạng thái dao động...”
+
+“Thầy ơi!” Thằng Khang đột ngột giơ tay cắt ngang, mặt tỉnh bơ nhưng cái mỏ thì bắt đầu nảy số.
+
+“Cho em hỏi, nếu một người cứ nhìn thấy một người kia mà tim đập loạn nhịp, tần số tăng vọt, không thể nào cân bằng nổi thì có gọi là dao động điều hòa không thầy?”
+
+Cả lớp 11A2 nghe xong câu đó liền lặng đi một giây, rồi ngay sau đó đồng loạt ồ lên cười rộ. Đám con gái phía dãy trong lén lút quay sang nhìn Khôi Nguyên và Hoàng Nhân, ánh mắt lấp lánh như vừa tìm ra một định lý vật lý mới áp dụng trực tiếp vào thực tiễn của hai đứa.
+
+Gia Huy cũng không vừa, nói leo theo bằng tông giọng trêu chọc.
+
+“Cái đó người ta gọi là dao động cộng hưởng đó mày ơi! Hai đứa nào đó phải cùng tần số, cùng pha với nhau thì lực tương tác mới mạnh mẽ, dính cứng ngắc từ bãi biển về tới cổng trường như vậy chứ.”
+
+“Mấy cái mỏ hỗn này có im đi không!” Khôi Nguyên rít qua kẽ răng, lấy cuốn sách Vật Lý che nửa mặt.
+
+Cậu cảm giác như cái gọi là “biên độ” đỏ mặt của mình lúc này đã vượt quá giá trị cực đại $A$, nóng bừng bừng như muốn bốc khói.
+
+Nhật Duy ngồi bên cạnh lắc đầu, đẩy gọng kính cận rồi bồi thêm một cú chí mạng: “Nhìn quả mặt thằng Nguyên kìa, pha này là lệch pha hoàn toàn với trai thẳng rồi, chuyển sang pha mập mờ với ai đó rồi nhaaa.”
+
+Hoàng Nhân ngồi ở bàn cuối, nãy giờ vẫn giữ khuôn mặt tỉnh bơ lười biếng, nhưng khi thấy đám bạn trêu ghẹo quá đà làm chỏm đầu của Khôi Nguyên càng lúc càng cúi thấp xuống, cậu ta liền khẽ ho một tiếng.
+
+Nhân dùng cây thước nhựa gỗ quẹt quẹt xuống mặt bàn, lướt ánh mắt sắc lạnh nhìn ba đứa bạn thân: “Khang, Huy. Hai đứa bây muốn tí nữa tao giữ lại trực nhật chung không?”
+
+Cái uy của Sếp Tổng lập tức phát huy tác dụng tối đa. Thằng Khang với thằng Huy lạnh sống lưng, vội vàng ngậm miệng, nghiêm túc cúi đầu nhìn vào sách giáo khoa như những con ngoan trò giỏi thực thụ.
+
+Thầy Hoàng đứng trên bục giảng chỉ biết cười trừ trước cái sự “lắm mỏ” của học trò mình.
+
+“Mấy anh chị lo mà tập trung chép công thức giùm tôi cái. Tí nữa tôi gọi lên bảng xác định chu kì với tần số mà làm sai là tôi cho biết thế nào là dao động không điều hòa nhé.”
+
+Lớp học rồi quay trở lại quỹ đạo ổn định ban đầu, tập trung học tập, khá là con ngoan trò giỏi.
+
+Tùng! Tùng! Tùng!
+
+Tiếng trống báo hiệu các tiết học của ngày thứ hai chính thức khép lại. Cả ngôi trường cấp ba bỗng chốc trở nên náo nhiệt hẳn lên. Tiếng kéo khóa cặp, tiếng thu dọn sách vở rộn ràng khắp các dãy hành lang khu A. Đám học sinh nhao nhao ùa ra khỏi cửa lớp như ong vỡ tổ, đứa nào đứa nấy háo hức bàn nhau xem trưa nay ăn gì.
+
+“Nghỉ thôi tụi bây ơi! Đói mờ mắt rồi!” Thằng Khang khoác cặp lên một bên vai, vươn vai một cái rõ dài. “Nguyên ơi, trưa nay có đi ăn mì cay với tụi tao không?”
+
+“Thôi, tài xế nhà sắp tới đón rồi, với lại chân tao còn hơi nhức, để khi khác nha.” Khôi Nguyên vừa xếp hộp bút vào cặp vừa cười đáp.
+
+“Ok bạn hiền, vậy tụi tao đi trước nha. Lớp trưởng nhớ đưa học sinh mới về nhà an toàn nghe chưa!”
+
+Gia Huy nháy mắt trêu chọc một câu cuối rồi cùng thằng Khang và Nhật Duy ba chân bốn cẳng phi ra khỏi cửa lớp, hòa vào dòng người đông đúc ngoài hành lang.
+
+Khôi Nguyên nhìn theo bóng ba đứa bạn mà bất lực lắc đầu. Cậu tính đứng dậy đeo cặp thì một bàn tay to lớn, ấm áp đã dứt khoát giật lấy chiếc cặp xách từ tay cậu. Hoàng Nhân thản nhiên đeo chiếc cặp của Nguyên lên vai trước, còn cặp của mình thì đeo phía sau, đoạn cúi người xuống nhìn cậu.
+
+“Đứng dậy đi. Tao dìu.”
+
+“Tao tự đi được mà, đỡ hơn hồi sáng nhiều rồi.” Khôi Nguyên lí nhí, hơi rụt người lại vì ngại.
+
+“Bớt bướng đi.” Nhân chẳng buồn đôi co, một tay vòng qua eo Nguyên, giữ chặt lấy thắt lưng cậu, tay còn lại nắm lấy cánh tay cậu kéo lên đặt lên vai mình.
+
+“Dãy hành lang đông như kiến, mày đi đứng loạng choạng tụi nó xô một cái là què luôn chân kia đấy.”
+
+Khôi Nguyên cứng họng, đành phải ngoan ngoãn tựa nửa trọng lượng cơ thể vào lồng ngực vững chãi của Hoàng Nhân. Khi hai đứa bước ra khỏi cửa lớp và di chuyển xuống cầu thang, những ánh mắt tò mò, chỉ trỏ từ đám học sinh lớp khác vẫn không hề giảm nhiệt. Thế nhưng, đi bên cạnh Hoàng Nhân, ngửi thấy mùi hương xà phòng thanh mát tỏa ra từ người anh chủ nhà, cậu bỗng cảm thấy một sự an tâm đến kỳ lạ...
+
+Những tiếng xì xầm xung quanh dường như bị đẩy lùi ra xa, chỉ còn lại tiếng bước chân đều đặn của hai người trên những bậc thang lộng lẫy ánh nắng.
+
+Hai đứa chậm rãi bước ra đến cổng trường, nơi chiếc xe sedan sang trọng của nhà họ Trần đã đỗ sẵn bên lề đường từ bao giờ. Chú tài xế thấy hai cậu chủ bước ra liền lật đật xuống xe, mở sẵn cửa sau.
+
+Hoàng Nhân cẩn thận đỡ Khôi Nguyên ngồi vào trong xe trước, chỉnh lại tư thế cho cậu không bị chạm vào vết thương ở chân, rồi mới thong thả bước vào ngồi bên cạnh. Cánh cửa xe đóng lại, cách biệt hoàn toàn với không gian ồn ào, náo nhiệt của thế giới học đường bên ngoài.
+
+Chiếc xe từ từ lăn bánh, rời xa ngôi trường cấp ba ngập tràn ánh nắng ban mai và tiếng cười đùa của tuổi trẻ. Khôi Nguyên tựa đầu vào lớp kính xe, nhìn ngắm dòng người thưa thớt dần. Trong không gian yên ắng của khoang xe, cậu khẽ liếc nhìn Hoàng Nhân đang nhắm mắt dưỡng thần bên cạnh.
+
+Một cảm giác mơ hồ, nửa ngọt ngào của những rung động tuổi 17, nửa lo âu bất chợt dấy lên trong lòng cậu một cách không rõ.
+
+Chiếc xe sedan sang trọng khẽ khựng lại rồi từ từ tiến qua cánh cổng sắt đúc hoa văn uốn lượn tinh xảo, dừng hẳn trước sảnh chính của biệt thự nhà họ Trần. Tiếng động cơ dập tắt, trả lại không gian một sự im lìm đến chuẩn mực. Bên ngoài, cái nắng đầu tháng Chín không còn gay gắt như lửa táp của ngày hè, mà mang một sắc vàng hanh hao, đổ dài trên những khoảng sân lót đá.
+
+Khối không khí trong lành của mùa thu thoảng qua, nhưng trên bầu trời cao, vài cụm mây tích điện xám xịt ở phía chân trời xa đang âm thầm báo hiệu cho những cơn dông bất chợt của mùa mưa bão.
+
+Hoàng Nhân xuống xe trước, tiếng đế giày da gõ dứt khoát trên bậc thềm đá hoa cương. Cậu vòng qua bên kia mở cửa, thản nhiên choàng tay qua eo Khôi Nguyên, dùng lực cánh tay sốc nhẹ để đỡ lấy phần lớn trọng lượng của cậu.
+
+Vừa bước qua cánh cửa gỗ lim dày cộp vào đến phòng khách, cái se se lạnh từ hệ thống điều hòa trung tâm kết hợp với khí trời mùa thu lập tức ập vào mặt, khiến Khôi Nguyên khẽ rùng mình, làn da nổi một lớp da gà mỏng.
+
+Ngay giữa phòng khách đại sảnh, bà Lan đang đứng tựa lưng vào chiếc đôn sứ cổ, tay lướt màn hình điện thoại. Nghe tiếng động, bà ta ngước lên. Nhìn thấy con trai mình được thiếu gia độc nhất nhà họ Trần dìu đi, đôi lông mày kẻ sắc sảo của bà Lan khẽ nhướn lên, một tia nhìn tính toán, phức tạp lóe lên rồi tắt ngấm.
+
+Bà bước lại gần, tuyệt nhiên không hề có một câu hỏi han xót xa nào cho cái chân đang quấn băng gạc của con trai.
+
+Bà Lan khẽ cúi người rồi khoanh tay trước ngực, cất giọng đều đều, khách sáo như đang nói chuyện với một khách hàng.
+
+“Mới đi học về à? Chân cẳng thế nào rồi? Có làm phiền gì đến cậu Nhân không đấy?”
+
+Khôi Nguyên khẽ cúi đầu, bàn tay đang bấu vào quai cặp xách siết chặt đến mức các đầu ngón tay trắng bệch. Hàng mi cong rủ xuống che đi sự hụt hẫng đã quá quen thuộc trong đáy mắt. Dù sao thì bất kì đứa trẻ nào mà chẳng mong muốn được mẹ mình quan tâm, nhưng với cậu thứ tình thương ấy lại chẳng dành cho cậu dù chỉ một chút.
+
+Cậu lí nhí, thanh âm nhỏ đến mức suýt bị tiếng rì rầm của máy điều hòa nuốt chửng.
+
+“Dạ... con tự đi được. Không phiền ai đâu ạ.”
+
+Mối quan hệ giữa họ, dù mang danh nghĩa mẫu tử ruột thịt, nhưng bầu không khí giữa hai người lại lạnh lẽo và xa xôi hơn cả hai người dưng ngược lối trên đường. Hoàng Nhân đứng bên cạnh chứng kiến toàn bộ, đôi mắt sau cặp kính khẽ nheo lại. Bàn tay đang giữ bên eo Khôi Nguyên đột ngột siết nhẹ, kéo sát cậu vào mạn sườn mình như một sự trấn an thầm lặng nhưng đầy dứt khoát.
+
+Cậu nhìn bà Lan, gương mặt không chút cảm xúc, cất giọng cắt ngang.
+
+“Cháu xin phép đưa Nguyên lên phòng thay đồ trước.”
+
+Bà Lan đổi sang nụ cười giả lả, lùi lại một bước: “Ừ, phiền cậu chủ quá. Lát hai đứa xuống ăn cơm trưa nhé, bếp đã chuẩn bị xong cả rồi.”
+
+Anh khẽ gật đầu rồi đưa cậu lên lầu, sau một lúc thì cùng xuống phòng bếp ăn trưa.
+
+Bữa ăn trưa diễn ra trong căn phòng ăn rộng lớn với chiếc bàn dài bằng gỗ sồi. Không gian tĩnh mịch đến mức chỉ nghe thấy tiếng lách cách va chạm cô độc của bát đũa sứ, chỉ có hai đứa trẻ đối diện với mâm cơm nửa nóng nửa lạnh.
+
+Sau khi mấy người làm dọn dẹp xong xuôi phần bếp và lui về khu nhà ngang phía sau để nghỉ trưa, căn biệt thự rộng lớn chính thức rơi vào trạng thái im lìm tuyệt đối.
+
+Trên chiếc sofa da nhập khẩu ở phòng khách, tivi đang phát một chương trình thế giới động vật. Những vệt sáng từ màn hình lớn hắt lên bức tường cẩm thạch những mảng màu xanh xám thay đổi liên tục. Khôi Nguyên ngồi bó gối ở một góc sofa, cằm tựa lên đầu gối, ánh mắt dán vào màn hình nhưng tâm trí rõ ràng đang thả trôi theo những hạt bụi li ti đang nhảy múa dưới vệt nắng trưa hanh vàng chiếu qua khe rèm cửa.
+
+Hoàng Nhân ngồi cách cậu một khoảng bằng một sải tay. Cậu thong thả bấm nút chuyển kênh, tiếng cạch cạch của điều khiển từ xa vang lên đều đặn.
+
+Bất chợt, Nhân hạ tay xuống, quay sang nhìn thẳng vào sườn mặt gầy của cậu bạn hướng nội.
+
+“Ờm... mày với mẹ mày... sao tao thấy cứ xa cách kiểu gì ấy? Không giống mẹ con bình thường chút nào.”
+
+Khôi Nguyên hơi giật mình, bờ vai khẽ run lên một nhịp nhỏ. Cậu quay đầu lại, bắt gặp ánh mắt thâm trầm, sâu hoắm của Hoàng Nhân đang khóa chặt lấy mình.
+
+Nguyên khẽ cúi đầu, lượm một sợi chỉ thừa trên gấu quần, nụ cười trên môi có phần chát chúa.
+
+“Ừm... tại vì từ nhỏ tao có được ở với bà ấy đâu. Nghe kể là tao sinh ra vào một đêm mưa gió bão bùng lắm, nghe ông bà bảo là đúng ‘giờ âm’ gì đó nên xui xẻo, người làng chẳng ai ưa.”
+
+Giọng cậu có chút run run, nhưng vẫn giữ nguyên sự đồng đều.
+
+“Mẹ xem tao là vết nhơ của một cuộc tình sai lầm thời nông nổi. Bà ấy ghét tao, gửi tao về quê cho ông bà ngoại nuôi từ lúc tao còn đỏ hỏn rồi bỏ đi biệt tích, chưa từng một lần gửi bánh kẹo hay quay lại nhìn tao lấy một cái. Mười sáu năm qua, tao chỉ biết có ông bà thôi.”
+
+Cậu ngưng một chút, giọng nói nhẹ bẫng như đang kể chuyện của ai khác, nhưng đôi mắt lại ánh lên một tầng nước mỏng: “Tự dưng đợt này bà ấy quay về, nói muốn bù đắp rồi đón tao lên thành phố... Thật ra tao thấy lạ lẫm lắm. Ở bên cạnh người gọi là mẹ ruột, mà tao còn thấy ngột ngạt và đề phòng hơn là đối mặt với người lạ.”
+
+Cậu thật sự không muốn thừa nhận sự thật này, nó làm tim cậu đau nhói. Tình mẫu tử là thiêng liêng nhất, cậu đã bao lần mong muốn người mẹ trong kí ức, những bức ảnh và lời kể của ông bà có thể trở về nhìn cậu một lần, gọi tên cậu, ôm cậu một cái, nhưng chờ mãi... chờ mãi, cậu chẳng thấy bóng dáng ấy đâu.
+
+Nếu như không phải là bà ấy bất chợt trở về tìm cậu, hình ảnh của người mẹ này cũng sắp biến mất trong trí nhớ của cậu mất rồi.
+
+Hoàng Nhân lặng im lắng nghe, không cắt ngang dù chỉ một từ. Tiếng tivi vẫn đều đều phát ra tiếng sóng biển rì rào của chương trình khoa học, nhưng trong căn phòng khách này, Nhân dường như chỉ nghe thấy tiếng thở dài run rẩy của cậu bạn bên cạnh.
+
+Sống trong một gia tộc danh giá, anh thừa biết thế giới của người lớn đầy rẫy những toan tính lạnh lùng, nhưng lại không ngờ cậu nhóc nhìn qua lúc nào cũng bướng bỉnh, hay xù lông, nhất là rất hay cười này lại phải mang một tuổi thơ bị ruồng bỏ sâu sắc đến thế. Anh chủ nhà vốn nổi tiếng vô cảm bỗng dấy lên một cảm giác xót xa, một chút nhói đau lạ lùng.
+
+Không một lời báo trước, Hoàng Nhân xích lại gần. Cánh tay rộng lớn của anh dứt khoát choàng qua vai, kéo tuột Khôi Nguyên vào lòng mình.
+
+Bàn tay to bản, ấm áp đặt sau lưng cậu khẽ gõ nhẹ từng nhịp đều đặn, vỗ về như cách người ta dỗ dành một đứa trẻ bị tổn thương.
+
+“Từ giờ ở đây, không ai bỏ rơi mày đâu.” Giọng Nhân trầm thấp, lồng ngực anh khẽ rung lên theo từng tiếng nói, vững chãi và an định ngay sát bên tai Khôi Nguyên.
+
+“Ít nhất thì vẫn có tao, có đám bạn tao cùng ở bên mày mà...”
+
+Khôi Nguyên đứng hình mất vài giây, hai mắt mở to nhìn bờ vai áo thun xám của Nhân ở ngay trước mắt. Mùi hương xà phòng thanh mát pha chút mùi dịu ngọt từ người anh bao bọc lấy cậu, xua tan đi cái cảm giác lạnh lẽo của căn nhà lớn.
+
+Khôi Nguyên không hề bài xích, ngược lại, một sự tủi thân dồn nén bao năm bỗng chốc vỡ òa. Cậu khẽ thở ra một hơi dài, hàng mi run rẩy từ từ khép lại, đầu vô thức tựa nhẹ vào hõm vai của Hoàng Nhân, tham lam tận hưởng thứ hơi ấm hiếm hoi mà cậu hằng ao ước bấy lâu.
+
+Cậu có chút ích kỷ rồi, mong muốn đoạn thời gian này kéo dài mãi.
+
+Đến gần một giờ trưa, khi cái nắng mùa thu đã lên cao, nhuộm vàng rực cả khoảng sân ngoài cửa kính, cả hai mới đứng dậy đi lên lầu. Đứng trước hai cánh cửa phòng đối diện nhau nơi hành lang gỗ, Hoàng Nhân nhìn cậu một cái rồi buông một câu cụng lủn.
+
+“Vào ngủ trưa đi, chiều tao sang xem cái chân.”
+
+“Biết rồi, cảm ơn... anh chủ nhà nha.” Khôi Nguyên tinh nghịch nháy mắt một cái rồi lủi nhanh vào phòng, chốt cửa lại.
+
+Nằm dài trên chiếc giường nệm êm ái, chiếc điều hòa trên tường chạy êm ru, phả ra từng luồng hơi mát rượi xua đi cái hanh khô của buổi trưa đầu thu.
+
+Khôi Nguyên gác một tay lên trán, nhìn chăm chằm vào những vệt nắng lốm đốm lọt qua khe rèm cửa chiếu lên trần nhà. Trong đầu cậu cứ tua đi tua lại cái ôm chặt chẽ và mùi hương của Hoàng Nhân lúc nãy. Tim cậu lại được dịp đập loạn một nhịp lộn xộn.
+
+Cậu lướt điện thoại vẩn vơ, lật qua lật lại danh bạ, chợt nhận ra một điều quan trọng...
+
+Hai đứa ở chung nhà, học chung lớp, ôm nhau đến mấy lần rồi mà... vẫn chưa kết bạn trên mạng xã hội!
+
+Đậu má!
+
+Khôi Nguyên bật dậy như tôm tươi, đánh liều gõ ba chữ “Trần Hoàng Nhân” trên thanh tìm kiếm. Quả nhiên, tài khoản của Sếp Tổng hiện ra ngay đầu tiên với cái ảnh đại diện là một màu đen xì đúng chất lạnh lùng boy, lượng người theo dõi thì nhiều kinh khủng nhưng chẳng có lấy một bài đăng công khai. Cậu nuốt nước bọt, ngón tay run run bấm vào nút “Gửi lời mời kết bạn”.
+
+Cứ nghĩ một đứa dùng mạng xã hội như một chiếc tủ lạnh bỏ hoang như anh sẽ không thèm để ý, nào ngờ chỉ chưa đầy hai phút sau, chiếc điện thoại đặt trên nệm đã vang lên một tiếng ting giòn giã.
+
+Trần Hoàng Nhân đã chấp nhận lời mời kết bạn của bạn.
+
+Khôi Nguyên vui mừng khôn xiết, suýt chút nữa là bật bãi khỏi giường. Cậu lật đật bấm vào phần tin nhắn, nhanh tay gửi đi một dòng chào hỏi đầy năng lượng kèm theo một rổ icon nhí nhố.
+
+Khôi Nguyên: Hế lô Sếp Tổng nhaaa! ( ´ ▽ )ﾉ`✨ Không ngờ sếp duyệt nhanh dị luôn á, tưởng sếp bận trăm công nghìn việc bơ em luôn rồi chứ!
+
+Khoảng một phút sau, bong bóng chat hiển thị ba dấu chấm đang gõ, rồi một dòng tin nhắn ngắn gọn, cụ ngủn hiện lên.
+
+Hoàng Nhân: Rảnh nợ.
+
+Khôi Nguyên không hề nản lòng, cái tính nói nhiều của một đứa thiếu thốn tình cảm lập tức được kích hoạt. Cậu nhắn liên tù tì, ngón tay gõ cành cạch trên màn hình cảm ứng, hết kể lể về việc cái phòng điều hòa mát quá cho đến việc mình bị trêu ghẹo bài học Vật lý lúc sáng.
+
+Khôi Nguyên: Ê mà nói nghe nè, nãy ở lớp thằng Khang với thằng Huy chọc ghẹo bọn mình làm em quê muốn chết luôn á! Sếp thấy tụi nó có nhìu chuyện không? Xứng đáng cho trực nhật một tuần luôn á Sếp! (o｀皿´o)
+
+Hoàng Nhân: Ừ, Mai tao phạt tụi nó.
+
+Cục Nợ: Haha, uy quyền quáa! Để em đặt biệt danh cho sếp nha. Nhìn sếp lúc nào cũng nghiêm túc như ông cụ non chết đi được =)) (￣ω￣;)❄️
+
+Hoàng Nhân ngồi ở căn phòng đối diện, tấm lưng rộng tựa vào thành giường, nhìn màn hình điện thoại liên tục nhảy thông báo tin nhắn của cái chỏm đầu ngồi bàn trên mà khóe môi không tự chủ được khẽ cong lên. Cậu thong thả gõ phím.
+
+Khủng Long Mặt Lạnh: Bớt nhảm đi. Lo mà ngủ trưa đi.
+
+Khôi Nguyên nhìn màn hình, phát hiện anh chủ nhà đã tự tay đổi biệt danh của cậu thành "Cục Nợ", còn biệt danh của cậu ta thì vừa thay đổi là "Khủng Long Mặt Lạnh" như cậu mới đặt. Cậu bất lực bật cười thầm, gương mặt úp chặt vào chiếc gối ôm để giấu đi nụ cười ngọt ngào đang nở rộ.
+
+Bên ngoài cửa sổ sổ, nắng trưa thu đổ xuống hanh vàng, mặt đường nhựa bốc chút hơi nhiệt lười biếng, tiếng ve cuối mùa thưa thớt râm ran tận ngoài hàng rào xa xa. Gió thu khẽ thổi qua làm những tán lá xạc xào, mang theo chút hơi ẩm dịu mát của mây dông từ phía núi đang kéo về.
+
+Bên trong hai căn phòng được ngăn cách bởi một bức tường bêtông, không gian lại ngập tràn một sự dễ chịu và ngọt ngào đến lạ kỳ. Sợi dây liên kết vô hình giữa hai tâm hồn mười bảy tuổi đang ngày một siết chặt lại, kéo hai thế giới vốn dĩ khác biệt sát lại gần nhau hơn.
+
+Trò chuyện qua lại một hồi, tiếng nhắn tin thưa dần. Khôi Nguyên ôm chiếc điện thoại vẫn còn hơi ấm của lòng bàn tay, từ từ chìm vào giấc ngủ trưa êm đềm, trên môi vẫn vẹn nguyên một nụ cười hạnh phúc.
+
+______________________________________
+
+“Ngoại lệ” của anh chủ nhà có khác, ngập đường ròi huhu >3<

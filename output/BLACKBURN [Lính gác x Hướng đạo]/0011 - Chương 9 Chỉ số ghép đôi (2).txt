@@ -1,0 +1,127 @@
+Chương 9: Chỉ số ghép đôi (2)
+
+Cạnh khu tiếp liệu ở tầng thấp nhất của trạm không gian là khu kiểm tra y tế, nơi vẫn còn sáng đèn dù đã quá nửa đêm. Tàu bè ra vào chẳng bao giờ tuân theo một khung giờ cố định, tai nạn lại càng không, vì vậy nơi này luôn có người trực suốt hai mươi bốn giờ.
+
+Buồng đo chỉ số ghép đôi đang trống.
+
+Người bước vào đầu tiên là Raymond Fisher. Anh vẫn mặc bộ chiến phục phi hành, hàng cúc kia còn cài chỉnh tề đến tận cổ. Theo sau là Alan, cậu ta nhìn biển chỉ dẫn trên vách rồi lại nhìn Raymond với vẻ khó tin.
+
+"Anh nghiêm túc đấy à?"
+
+Nhân viên trực ban là một AI hình người. Nó xác nhận danh tính của cả hai, kiểm tra quyền truy cập rồi dẫn họ vào phòng xét nghiệm mà không tỏ ra tò mò vì sao một lính gác cấp 2S lại lôi một hướng đạo cấp F tới đây vào lúc một giờ sáng.
+
+Alan cúi đầu nhìn vòng cảm ứng màu bạc được cố định trên tay, sau đó mới ngẩng lên.
+
+"Hệ thống căn cứ vào số cấp và độ nhận diện pheromone để tính. Giữa 2S và F khoảng cách rất lớn. Kết quả gần như chắc chắn là…"
+
+Raymond đứng đối diện cậu ta
+
+"Tôi biết kết quả sẽ là gì."
+
+"Có vẻ không giống."
+
+Raymond liếc cậu ta một cái. Alan hiểu ý, lùi về phía sau một bước, tựa người vào thành buồng đo. Khi thiết bị bắt đầu vận hành, những vòng sáng xanh lần lượt chạy dọc theo thành buồng, quét qua cổ tay, tuyến pheromone và vùng cảm ứng tinh thần của hai người rồi tắt dần theo từng lớp. Quá trình phân tích không kéo dài quá một phút. Màn hình trước mặt trả lạt một dòng kết quả
+
+CHỈ SỐ TƯƠNG THÍCH GHÉP ĐÔI: 0%
+
+Raymond nhìn lại màn hình lần nữa, như thể chỉ cần đổi một góc nhìn, kết quả kia sẽ tự biết điều mà thay đổi. Nhưng trên nền thiết bị, hai ký tự quen thuộc vẫn nằm nguyên ở đó.
+
+Con rắn đen nhìn chằm chằm vào màn hình. Thân nó khẽ động, cổ họng phát ra một âm thanh khàn khàn rất thấp, rồi cái đuôi nặng nề đập vào thành buồng đo một tiếng cộp. Sau đó là thêm một tiếng rồi lại thêm một tiếng nữa không dứt
+
+"Python."
+
+Raymond lên tiếng cảnh cáo.
+
+Con rắn tiếp tục đập đuôi vào vách kính với sự bướng bỉnh hiếm thấy, nó có vẻ như không chấp nhận kết quả trước mặt.
+
+Đôi mắt xanh trời nhìn Raymond
+
+"Tôi tưởng anh đã chuẩn bị tinh thần rồi."
+
+"Tôi có."
+
+"Vậy sao trông anh như muốn khiếu nại hệ thống thế?"
+
+Raymond nhìn màn hình thêm vài giây nữa, rồi bật cười. Tiếng cười rất thấp, rất ngắn, như thể cuối cùng anh cũng nghe thấy một trò đùa chẳng hề buồn cười."Cái này vô lý thật.”
+
+Alan nhướng mày.
+
+"Hệ thống này được dùng chính thức suốt bao nhiêu năm rồi"
+
+"Vậy lại càng vô lý." Raymond cuối cùng cũng rời mắt khỏi màn hình. Anh nhìn Alan, ánh mắt bình tĩnh nhưng rõ ràng không còn dễ dàng bỏ qua chuyện này như trước nữa. "Nếu chỉ số thấp đến mức này..." Anh ngừng lại một nhịp, như đang tự sắp xếp lại những gì mình biết về hướng đạo, lính gác và ghép đôi. "Thì làm sao cậu có thể khai thông ý thức vân của tôi được?"
+
+"Nói thật nhé," Alan cầm tờ kết quả lên, gấp lại một cách rất tự nhiên, rồi tiện tay nhét vào túi ngực áo Raymond bằng một động tác gọn gàng. "Tôi có năng lực X. Tôi nhìn xuyên qua được hàng rào ý thức."
+
+Raymond cúi mắt xuống. Tờ kết quả 0% vừa biến mất trong túi, còn bàn tay Alan thì đã rút về như thể vừa làm một chuyện hết sức bình thường.
+
+Cậu ấy kể chuyện cười nhạt đến mức không buồn báo trước.
+
+"..."
+
+Alan ngẩng lên. "Anh tin thật à?"
+
+Raymond không trả lời ngay. Một phần vì câu đùa kia quá vô vị, phần còn lại vì đầu anh đang đồng thời xử lý vài chuyện không liên quan nhưng lại chen vào rất đúng lúc: tờ kết quả đang nằm sát ngực anh, đầu ngón tay Alan vừa chạm qua lớp vải áo, và trong không khí rõ ràng chẳng có mùi gì mà anh vẫn có cảm giác như có thứ gì đó rất nhạt vừa thoảng qua.
+
+Python cuối cùng cũng ngừng đập vào vách buồng đo.
+
+Con rắn đen ngẩng đầu, nhìn Alan một lúc, rồi quay sang Raymond. Cái đuôi vốn đang dựng lên đầy bất mãn chậm rãi hạ xuống, như thể nó đang cân nhắc xem tình hình trước mắt có đáng để tiếp tục phản đối hay không.
+
+"Tôi đùa đấy." Alan nói rất bình tĩnh. "Khai thông thì hướng đạo nào mà chẳng phải học."
+
+Nói xong, cậu ta bước qua cánh cửa vừa bị Python dùng đuôi đập suốt mấy phút trước, đi thẳng ra hành lang.
+
+Raymond đứng lại trong buồng đo thêm một lúc. Ánh sáng từ màn hình vẫn còn hắt lên sườn mặt anh, còn con số 0% nằm đó như một lỗi hệ thống không chịu tự sửa. Anh đưa tay lên túi ngực áo, đầu ngón tay chạm vào vị trí tờ kết quả đang nằm bên trong.
+
+Bên ngoài hành lang, ánh đèn vàng nhạt của trạm không gian phủ xuống mặt sàn kim loại. Đêm đã muộn, khoang y tế vắng người, chỉ còn tiếng thiết bị tự động vận hành đều đều sau lưng họ.
+
+Khoảng cách giữa hai người không gần, nhưng cũng không còn là khoảng cách mà người lạ thường giữ với nhau.
+
+"Anh có ý kiến về cấp F à?” Alan lên tiếng sau một lúc "hướng đạo cấp thấp thì sao chứ. Chúng tôi cũng giúp ích cho đời mà."
+
+Cậu dừng lại rất ngắn, rồi bổ sung bằng giọng bình thản như đang nêu một ưu điểm thực dụng.
+
+"Ít ra là không hại bất cứ ai lên cơn động dục."
+
+Có thứ gì đó trong vân ý thức của Raymond bị câu nói ấy kéo động "Nếu dễ dàng đến vậy," Raymond nói, giọng vẫn phẳng, "thì tôi đâu đến nỗi mang bom hẹn giờ mà xông trận."
+
+Alan phì cười, Raymond thoáng liếc sang.
+
+Gió lạnh từ hệ thống điều hòa thổi qua các khe thông gió, kéo theo tiếng vi vu rất khẽ.
+
+"Tờ kết quả" Raymond chạm nhẹ lên túi ngực áo, "Cậu bỏ vào đây có ý gì?"
+
+"Để anh giữ." Alan vẫn nhìn ra khoang neo đậu. "Nhỡ đâu lát nữa anh lại muốn kiểm tra thêm lần nữa."
+
+"Tôi không quên mình vừa làm gì."
+
+"Vậy thì giữ làm kỷ niệm."
+
+Python từ trong khu xét nghiệm trườn ra sau họ. Con rắn dừng lại cách Alan một khoảng xa. Nó ngẩng đầu nhìn cậu, lưỡi khẽ thò ra thăm dò, vẻ ủ rũ lúc nãy đã nhạt đi rất nhiều.
+
+Alan cúi mắt nhìn nó.
+
+"Chỉ số 0% không phải là con số chuẩn đâu" Cậu nói câu đó rất nhẹ, không rõ là nói với Raymond hay đang dỗ một con rắn "Không hợp cũng 0%, không có đối tượng cũng 0%, không đọc được cũng 0%, rất nhiều khả năng"
+
+Raymond nghiêng đầu nhìn cậu.
+
+Alan không tránh ánh mắt ấy, nhưng cũng không nhìn lại ngay. "Hệ thống tính dựa trên pheromone và tinh thần thể. Pheromone của tôi đang bị ức chế, tinh thần thể lại không hiện ra. Nó không có đủ dữ liệu để xử lý, nên trả về 0% cũng không lạ."
+
+Cậu dừng một chút rồi mới quay sang Raymond.
+
+"0% vì không tương thích và 0% vì không đo được là hai chuyện khác nhau."
+
+Raymond im lặng vài giây. "Cậu nói với tôi chuyện đó làm gì?"
+
+"Vì lúc nãy trông anh như đã tin kết quả đó thật." Alan hạ mắt xuống, nhìn Python đang khẽ vẫy đuôi phía xa "Tôi chỉ nói để anh biết, có thể hệ thống không làm được"
+
+"Mình về thôi." Alan đứng thẳng dậy. "Sáng mai còn việc.
+
+Cậu đi trước về phía cầu nối tàu.
+
+Raymond vẫn đứng lại ở hành lang thêm một lúc, tay còn đặt trên túi ngực áo, nơi tờ kết quả đã được Alan gấp gọn rồi nhét vào. Lớp giấy mỏng nằm yên dưới đầu ngón tay anh, chẳng có trọng lượng gì đáng kể, vậy mà sự tồn tại của nó lại rõ ràng hơn bất kỳ báo cáo quân vụ nào anh từng nhận.
+
+Trong thức hải, Python đã trườn về góc quen thuộc của nó. Con rắn đen cuộn thân lại, đầu gác lên lớp bóng tối mềm dưới bụng, vẻ bực bội khi nhìn thấy con số 0% ban nãy đã nhạt đi rất nhiều. Nó không còn đập đuôi, cũng không còn nhìn chằm chằm vào màn hình như muốn cắn nát hệ thống xét nghiệm kia nữa.
+
+Anh không chắc mình vừa được Alan an ủi, trêu chọc, hay đơn giản là nhặt lại một lời giải thích hợp lý từ miệng một hướng đạo cấp F quá mức bình tĩnh. Nhưng Python đã thôi cáu kỉnh, còn bản thân anh cũng không còn cảm thấy con số kia chướng mắt như lúc đầu.
+
+Raymond bước theo Alan về phía Blackburn. Ánh đèn xanh lam của trạm không gian rơi xuống vai hai người, kéo bóng họ đổ dài trên mặt sàn kim loại.

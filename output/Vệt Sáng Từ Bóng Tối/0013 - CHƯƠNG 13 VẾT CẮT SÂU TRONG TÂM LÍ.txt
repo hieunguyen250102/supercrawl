@@ -1,0 +1,115 @@
+CHƯƠNG 13: VẾT CẮT SÂU TRONG TÂM LÍ
+
+Khi màn đêm đã buông xuống tổ chuyên án vẫn chưa rời khỏi cục. Trong căn phòng họp đặc biệt đèn huỳnh quang hắt lên những gương mặt căng thẳng. Bảng thông tin được ghim dày đặc ảnh chụp, bản đồ, mũi tên đỏ và những dòng ghi chú nguệch ngoạc. Trên bàn họp tài liệu chất chồng, tách cà phê đã nguội lạnh, tiếng lật giấy khẽ khàng vang lên giữa một bầu không khí nơi mà mỗi giây trôi qua đều mang theo áp lực dồn nén. Không ai than thở bởi họ đều hiểu chỉ cần một kẽ hở nhỏ trong chuỗi dữ kiện, kẻ thủ ác sẽ tiếp tục thoát thân như đã từng. Ngoài kia là đêm tối còn trong căn phòng sáng đèn này họ đang gắng gượng chống lại cái ác bằng tất cả sự tỉnh táo, dẫu là trong cơn kiệt sức tột cùng.
+
+Lục Dư Thần đứng trước bảng trắng nơi dày đặc sơ đồ tâm lý của nghi phạm và hành vi gây án. Anh nói chậm rãi: “Muốn bước vào đầu hắn, cần hiểu quá khứ. Những kẻ như Hứa Đạo Nham thường không đột ngột trở thành quái vật mà là kết quả của nhiều năm đè nén biến dạng nhân cách. Hắn thao túng cả một chuỗi hệ thống bệnh viện, bệnh nhân...”
+
+Lưu Sênh đứng bên cạnh ánh mắt nghiêm nghị: “Có thể có thêm đồng phạm hoặc người bao che trong bệnh viện. Không thể một mình hắn di chuyển thi thể che giấu dấu vết lâu đến thế mà không bị phát hiện.”
+
+Hồ Tấn mở laptop màn hình sáng lên hiển thị bản đồ độ phân giải cao, từng khu vực được đánh dấu bằng các tọa độ GPS chính xác đến từng mét. Hồ Tấn nhanh chóng truy cập vào hệ thống quản lý dữ liệu của Cục kỹ thuật hình sự mở giao diện phân tích hình ảnh nhiệt và tín hiệu điện thoại. Với kinh nghiệm dày dạn trong lĩnh vực công nghệ thông tin và truy vết số Hồ Tấn thao tác một cách thành thục mắt không rời màn hình.
+
+“Chúng ta mất dấu hắn từ đoạn giao cắt giữa khu dân cư và khu công nghiệp cũ đúng không?” Hồ Tấn hỏi tay vẫn tiếp tục gõ lệnh truy xuất các camera giao thông trong bán kính năm km quanh thời điểm nghi ngờ.
+
+Đồ Giang gật đầu: “Đúng vậy sau đó tín hiệu biến mất không thể xác định phương tiện hay thiết bị nào liên quan.”
+
+Hồ Tấn lẩm bẩm: “Vậy thì chỉ còn cách dựa vào tín hiệu từ các trạm phát sóng lân cận và dữ liệu vệ tinh.”
+
+Hồ Tấn mở thêm một phần mềm chuyên dụng kết nối với mạng lưới phân tích hành vi số hóa của Cục. Phần mềm này sử dụng thuật toán AI để dự đoán các tuyến đường khả nghi dựa trên đặc điểm địa hình, lưu lượng người qua lại và các dữ liệu trước đó từ các vụ án tương tự.
+
+Hồ Tấn chỉ vào một cụm đỏ trên bản đồ vùng giáp ranh giữa nơi bị bỏ hoang: “Nếu tôi là hắn, tôi sẽ ẩn mình ở nơi tín hiệu kém, dễ lẩn trốn và ít người để ý. Mà khu này lại trùng khớp với một vùng từng phát hiện hoạt động phi pháp trước đây.”
+
+Hồ Tấn lập tức gửi tọa độ cho đội kỹ thuật và chỉ huy: “Cử UAV trinh sát không người lái tới đây. Nếu hắn còn quanh quẩn trong khu vực này nhất định chúng ta sẽ tìm ra.”
+
+Bầu không khí trong phòng họp dần trở nên khẩn trương nhưng không rối loạn. Mọi người đều hiểu trong khi hung thủ ẩn mình đâu đó trong bóng tối đội chuyên án chính là ánh sáng duy nhất đang truy lùng hắn bằng cả công nghệ, trí tuệ và sự bền bỉ không lùi bước. Những con người trong căn phòng ấy không chỉ là cảnh sát họ là những chiến binh của thời đại số, dùng cả công nghệ lẫn trực giác để truy đuổi một kẻ thủ ác đang cố lẩn trốn vào bóng tối.
+
+Không ai nói thêm lời nào nhưng sự khẩn trương đã bùng lên rõ rệt. Lệnh tác chiến được ban ra liên tiếp thiết bị định vị, camera nhiệt, dữ liệu điện thoại và các thuật toán quét vùng bắt đầu được huy động đồng bộ.
+
+Trong khi đó, Đồ Giang vẫn đứng dựa hờ vào khung cửa sổ đôi mắt nheo lại như đang nhìn xa xăm qua lớp kính dày. Nụ cười nửa miệng quen thuộc hiện lên trên gương mặt vừa châm biếm vừa tràn đầy khí thế:“Vậy là đến lúc chúng ta vào vai nạn nhân, thả một mồi câu ngon lành để nhử cá lên bờ rồi?”
+
+Lưu Sênh đưa mắt nhìn không hề dao động. Trong đáy mắt ấy là sự bình thản nhưng nếu nhìn kỹ hơn người ta có thể thấy thứ ánh sáng rực lửa đang âm ỉ cháy lên đó là ý chí không thể khuất phục, là trách nhiệm của một người lính luôn dám đối diện với nguy hiểm, giọng nói của cô vang lên: “Tôi sẽ đóng vai đó. Nếu hắn đang quan sát từ xa, hắn sẽ không bỏ qua cơ hội ra tay với tôi. Cứ để hắn tưởng mình đang chiếm thế thượng phong nhưng thực chất, chúng ta mới là những kẻ đang giăng lưới.”
+
+Trong khoảnh khắc ấy cả tổ chuyên án như cảm nhận được một mạch liên kết vô hình giữa lý trí và cảm xúc, giữa con người và công nghệ, giữa vệt sáng và bóng tối. Trận chiến này không chỉ là cuộc đọ sức với hung thủ mà còn là cuộc chiến với sự mệt mỏi áp lực và thời gian và không thể dừng lại.
+
+Lục Dư Thần lập tức phản đối giọng trầm xuống pha lẫn sự cương quyết và lo lắng không thể che giấu: “Không được. Tuyệt đối không được.”
+
+Âm thanh phát ra từ anh như một mệnh lệnh khiến không khí trong phòng họp như khựng lại trong chốc lát. Đôi mắt anh hướng thẳng về phía Lưu Sênh, ánh nhìn sắc bén thường ngày lúc này lại phủ một tầng lo âu nặng trĩu. Giọng anh đanh lại không phải vì tức giận, mà vì cảm giác bất an đang len lỏi.
+
+“Với những gì chúng ta biết hắn không phải kẻ dễ mắc bẫy. Chỉ cần một sơ hở nhỏ, hắn sẽ cảnh giác và lập tức thay đổi toàn bộ kế hoạch. Nếu cô ra làm mồi nhử, hắn sẽ không đơn giản chỉ trốn tránh hắn sẽ ra tay.”
+
+Anh dừng lại một chút bàn tay đặt trên mặt bàn siết chặt đến mức khớp tay trắng bệch. Người đàn ông luôn điềm tĩnh trước những xác chết, trước từng vụ án kinh hoàng nay lại lộ ra vẻ lo lắng hiếm thấy khi đối mặt với viễn cảnh người con gái trước mặt mình có thể gặp nguy hiểm: “Cô nghĩ cô đủ tỉnh táo, đủ mạnh để đối mặt với hắn nhưng Lưu Sênh à trên chiến trường, không phải lúc nào tỉnh táo cũng cứu được mạng. Hắn là loài thú săn mồi không để lộ dấu vết, không động lòng trắc ẩn. Nếu cô gặp chuyện gì cô nghĩ Cục Cảnh sát có thể bình tĩnh tiếp tục điều tra được sao?”
+
+Sự im lặng bao trùm căn phòng trong đáy mắt Lục Dư Thần là cả một cơn sóng ngầm. Anh nói giọng trầm chứa đầy một thứ tình cảm thầm kín đang bị bóp nghẹt bởi nỗi lo lắng tột độ.
+
+Lưu Sênh cất giọng chậm rãi mà rõ ràng: “Lục Dư Thần anh biết tôi không phải kiểu người liều mạng. Tôi sẽ không nhảy vào lửa nếu không biết mình có cách thoát ra. Nhưng lần này chúng ta cần một mắt xích. Một người mà hắn có thể tin là con mồi dễ xơi. Một người khiến hắn tin rằng mọi thứ vẫn còn nằm trong tay hắn.”
+
+Cô ngừng lại đưa mắt nhìn quanh cả phòng họp rồi nhìn anh lần nữa đôi mắt ánh lên một tia cương quyết không thể lay chuyển: “Tôi đã đọc hết hồ sơ, phân tích kỹ từng hành vi, từng lần hắn ra tay. Tôi biết hắn đang tìm gì và quan trọng hơn tôi biết cách khiến hắn tưởng rằng tôi là kiểu người mà hắn có thể dễ dàng khống chế.”
+
+Lục Dư Thần vẫn giữ ánh mắt lo lắng gương mặt anh căng thẳng thấy rõ. Nhưng Lưu Sênh vẫn tiếp tục giọng cô giờ đây dồn dập hơn như muốn nói hết những điều còn mắc trong lòng: “Tôi không làm điều này để thể hiện. Tôi cũng không nghĩ mình là người không thể thay thế. Nhưng nếu chúng ta không hành động sẽ còn người chết. Nếu tôi có thể đẩy nhanh quá trình này tôi sẵn sàng chấp nhận rủi ro. Hơn nữa tôi sẽ không đi một mình. Tôi có thiết bị định vị, tôi có camera cài sẵn. Các anh sẽ luôn theo dõi tôi và tôi tin vào kỹ thuật của đội và quan trọng nhất tôi tin vào mọi người.”
+
+Không khí trong phòng rơi vào im lặng Lục Dư Thần nhíu mày tay gõ nhẹ lên mặt bàn không phản đối nhưng cũng không đồng tình ngay. Đồ Giang liếc nhìn Lục Dư Thần môi mím lại không còn vẻ cợt nhả thường ngày.
+
+Lưu Sênh cuối cùng dừng lại ánh mắt cô không rời khỏi Lục Dư Thần gần như là một lời cầu xin đầy tự trọng: “Anh biết rõ tôi là người có thể làm điều này. Hãy để tôi làm.”
+
+Giữa hai người như có một trận chiến âm thầm, không ai nhường ai. Cuối cùng Lục Dư Thần rời ánh mắt quay về phía bảng hồ sơ: “Được. Vậy ít nhất để tôi là người theo sát cô trong suốt quá trình. Nếu cô phải bước vào nơi tối nhất, tôi sẽ là người kéo cô ra bằng mọi giá.”
+
+Mọi người đều im lặng, không ai nói thêm điều gì chỉ có ánh mắt lần lượt hướng về phía Lưu Sênh người con gái nhỏ nhắn nhưng đang mang trên vai một quyết định lớn lao. Cô siết chặt tay giọng nói không cao nhưng đầy kiên định vang lên giữa không gian tĩnh lặng: “Chính vì tôi hiểu mọi người lo cho tôi nên tôi càng phải là người đi.”
+
+Cô bước lên một bước ánh mắt không chùn xuống: “Nếu tôi không đi sẽ là người khác. Và tôi không thể để người khác thay mình gánh rủi ro chỉ vì tôi là phụ nữ hay vì ai đó sợ tôi gặp nguy hiểm. Tôi là cảnh sát tôi đã thề trước quốc kỳ rằng sẽ bảo vệ công lý, bảo vệ người dân bất kể điều đó có đòi hỏi có phải hy sinh hay không.”
+
+Cô quay sang nhìn Lục Dư Thần ánh mắt ấy mềm đi: “Tôi biết anh lo. Tôi biết rõ hơn ai hết anh không muốn tôi gặp nguy hiểm. Nhưng tôi sẽ không liều lĩnh nếu không có kế hoạch. Tôi không muốn là người được bảo vệ mãi mãi. Tôi cũng muốn bảo vệ mọi người. Dù chỉ là một lần.”
+
+Giọng cô nghẹn lại đôi chút nhưng không ai ngắt lời. Không khí trong phòng họp vẫn căng nhưng cũng dần dịu lại như thể ai cũng hiểu khoảnh khắc này không còn là chuyện ai đúng ai sai mà là sự cam kết không lời giữa những con người mang trên vai trọng trách lớn rằng dù ai bước vào nguy hiểm họ cũng sẽ không bao giờ đơn độc.
+
+Và tất cả đều biết kể từ lúc này kế hoạch mồi nhử đã được thông qua. Nhưng nó không chỉ là một kế hoạch đó là một cuộc đánh cược bằng trái tim của cả đội chuyên án. Hồ Tấn lúc này bật thêm một hình ảnh lên màn hình là một căn phòng dưới tầng hầm bệnh viện chưa từng xuất hiện trong sơ đồ thiết kế gốc.
+
+“Phòng này không có trên bản vẽ nhưng camera cho thấy Hứa Đạo Nham từng ra vào đây nhiều lần. Có thể là nơi giam giữ hoặc hành hình.”
+
+Mọi ánh mắt cùng lúc đổ dồn vào màn hình. Lục Dư Thần siết chặt nắm tay: “Chúng ta cần đột kích căn phòng đó và trước khi hắn phát hiện, phải lấy được bằng chứng cuối cùng.”
+
+***
+
+Bầu trời giờ đây âm u một cách kỳ lạ gió thổi từng đợt lạnh buốt xuyên qua hàng cây mục nát ven con đường đất dẫn tới căn nhà bỏ hoang nằm sâu trong vùng ngoại ô. Cánh cổng sắt hoen gỉ được mở hé lạch cạch đung đưa trong gió như đang chờ ai bước vào. Lưu Sênh siết chặt khẩu súng ngắn trong tay hít một hơi thật sâu, ánh mắt lạnh lẽo nhìn về phía trước. Không còn đường lui nữa. Cô biết rõ mình đang làm gì. Đây là một cái bẫy. Nhưng nếu không bước vào có lẽ sẽ không ai bao giờ biết được sự thật đằng sau tất cả những cái chết tàn nhẫn kia.
+
+Mỗi bước chân giẫm lên mặt đất ẩm ướt như đang dẫm lên ký ức máu me của những nạn nhân. Căn nhà chỉ có một tầng trông như thể từng bị lãng quên trong hàng chục năm nhưng lại bất ngờ có đèn. Ánh sáng mờ mờ vàng nhạt hắt ra từ khe cửa sổ vỡ nát như một lời mời gọi đầy khiêu khích.
+
+Lưu Sênh đưa tay lên tai thì thầm: “Tôi đã đến nơi không thấy tín hiệu gây nhiễu.”
+
+Bên kia tai nghe chỉ là tiếng rè rè Lưu Sênh khẽ nghiến răng tháo tai nghe ra nhét vào túi. Từ lúc bước qua ngưỡng cổng kia cô biết mình chỉ còn lại một mình. Bên trong căn nhà là một hành lang tối tăm với nền xi măng rạn nứt, tường bong tróc, mùi ẩm mốc nồng nặc xộc vào mũi.
+
+Đột ngột một giọng nói vang lên trong bóng tối: “Cuối cùng em cũng đến.”
+
+Lưu Sênh khựng lại ngón tay siết chặt cò súng. Giọng nói ấy không thể nhầm lẫn đó chính là Hứa Đạo Nham. Từ phía sau cánh cửa kim loại hắn bước ra vẫn trong chiếc áo blouse trắng sạch sẽ đến kỳ lạ đối lập hoàn toàn với không gian xung quanh. Khuôn mặt hắn điềm đạm ánh mắt như thể nhìn thấy một người thân lâu ngày mới gặp lại: “Em vẫn xinh đẹp như lần đầu tiên tôi nhìn thấy khi em ánh mắt lạnh lùng nhưng đẹp đến mức khiến con người ta phải thảng thốt.”
+
+Hắn mỉm cười: “Tôi biết không thể có em nhưng tôi muốn em hiểu mọi thứ tôi làm là để em thấy được.”
+
+“Im đi!” Lưu Sênh gằn giọng khẩu súng vẫn nhắm ngay trán hắn: “Anh đã sát hại bao nhiêu người, hành hạ bao nhiêu sinh mệnh chỉ để thỏa mãn cái ảo tưởng bệnh hoạn trong đầu?”
+
+Hứa Đạo Nham bước thêm một bước, mắt tối lại: “Không tôi không bệnh hoạn. Tôi là người duy nhất thực sự hiểu em. Em giống tôi lạnh lùng, lý trí, không ràng buộc. Em không khóc trước cái chết em dissect nỗi đau một cách logic và tôi yêu điều đó.”
+
+“Yêu?” Lưu Sênh bật cười lạnh: “Tình yêu của anh là cầm dao xẻ thịt người khác à?”
+
+Hắn nhếch môi ánh nhìn quét qua khuôn mặt Lưu Sênh. Một giây sau thân hình cao lớn của hắn lao tới nhanh như chớp mang theo sức ép Lưu Sênh phản xạ định lùi về sau thì cánh tay đã bị một lực mạnh mẽ siết chặt lấy.
+
+Hứa Đạo Nham cười khẽ tay còn lại bất ngờ giật phắt khẩu súng từ tay cô. Tiếng kim loại bị kéo rít lên nghe lạnh đến rợn người Lưu Sênh cố giữ lại nhưng sức của hắn mạnh hơn cô tưởng. Chỉ trong tích tắc khẩu súng đã bị giật ra khỏi tay cô bàn tay cô đau rát vì lực kéo quá mạnh.
+
+“Đừng tưởng chỉ cần cầm súng là có thể khống chế được tôi.” hắn nói rồi xoay cổ tay ném khẩu súng ra xa. Tiếng súng rơi xuống nền lạnh lẽo lăn lộc cộc rồi dừng lại ở một góc tối cách xa tầm với của cả hai.
+
+Lưu Sênh nghiến chặt răng mắt cô dõi theo khẩu súng rồi lập tức quay lại nhìn hắn không chút sợ hãi. Nhưng lòng bàn tay vẫn còn run lên vì cơn đau bất ngờ và sự mất kiểm soát.
+
+“Anh không thoát được đâu.” cô gằn giọng hơi thở dồn dập.
+
+Hứa Đạo Nham cười khẩy ánh mắt tràn đầy sự điên cuồng và u tối: “Tôi không định thoát nhưng nếu cuộc đời này của tôi đã định sẵn là phải chết vậy thì ít nhất tôi cũng sẽ không chết một mình.”
+
+Rồi sau đó cuộc chiến nổ ra trong không gian hẹp của tầng hầm. Lưu Sênh tránh đòn đầu tiên xoay người quét chân hắn nhưng Hứa Đạo Nham nhanh chóng đáp trả bằng một cú đá vào sườn. Bàn tay hắn chộp tới như loài thú hoang cô nghiêng người tung gối vào bụng hắn sau đó lùi lại rút con dao găm bên giày đâm thẳng về phía vai. Máu bắn ra nhưng Hứa Đạo Nham như không cảm thấy đau: “Em quá giống tôi chính vì thế em mới không thể chống lại tôi.”
+
+Lưu Sênh nghiến răng ánh mắt lạnh buốt như băng: “Tôi khác anh tôi còn nhân tính.” Cô bất ngờ tung cú đá khác vào đầu gối hắn khiến hắn lảo đảo. Nhân cơ hội đó nhanh tới mức khiến hắn không kịp phòng bị Lưu Sênh đã nhảy lên khóa cổ hắn từ phía sau dùng lực siết chặt, khóa chặt động mạch cổ. Lực siết mạnh mẽ đến mức khiến Hứa Đạo Nham nghẹt thở, gương mặt bắt đầu tím tái.
+
+Nhưng Hứa Đạo Nham vẫn cố vùng vẫy quét mạnh người khiến cả hai ngã lăn ra sàn trận chiến dường như không có hồi kết hắn không phải kẻ dễ bị hạ gục. Hứa Đạo Nham gầm lên cơ thể dốc toàn lực vùng vẫy loạng choạng rồi bất ngờ quét ngang thân người đập mạnh lưng vào tường khiến cô va đập đau điếng. Cú chấn động làm Lưu Sênh loạng choạng nhưng cô vẫn cắn răng giữ chặt thế kẹp đôi mắt phượng đẹp đẽ giờ đây đỏ ngầu kiên định và không có ý định buông tha. Trận chiến giữa kẻ sát nhân máu lạnh và nữ cảnh sát dường như không thể phân định thắng bại.
+
+Phía xa tiếng còi xe cảnh sát bắt đầu vang lên Lưu Sênh nhìn thấy ánh đèn nhấp nháy phản chiếu qua khe cửa tầng hầm nén chịu cơn đau buốt từ dọc sống lưng mà mỉm cười khiêu khích, nụ cười của người đắc thắng: “Lần này anh không trốn được đâu.”
+
+Nhưng cũng chính lúc này ánh mắt Hứa Đạo Nham cuối cùng cũng dao động. Hắn khựng lại và rồi đổ gục xuống khi liều thuốc mê mà cô giấu trong dao găm đã phát huy tác dụng. Cánh cửa tầng hầm bật mở tổ chuyên án tràn vào.
+
+Lưu Sênh ngồi thở dốc bên cạnh cơ thể chưa hoàn toàn bất tỉnh đôi mắt cô vẫn sắc lạnh nhưng sâu trong đáy mắt có chút mỏi mệt ánh nhìn không hề rời khỏi tên hung thủ sẵn sàng lao vào bất cứ lúc nào nếu hắn còn nhúc nhích.
+
+Từng hơi thở phả ra mang theo cả sức nặng của nỗi căm hận, của nỗi đau và cả sự kiên cường đến ngoan cường. Lưu Sênh khẽ nghiêng đầu ánh mắt lướt nhanh qua khẩu súng bị văng ra lúc trước. Cô không vội nhặt nó chỉ nhìn xuống bàn tay đầy máu. Cuối cùng cô thở hắt ra một tiếng thật sâu giữ mình tỉnh táo. Ngay giờ phút này đây một cuộc chiến đã kết thúc.

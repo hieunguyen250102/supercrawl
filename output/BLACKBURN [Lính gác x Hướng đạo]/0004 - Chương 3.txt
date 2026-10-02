@@ -1,0 +1,366 @@
+Chương 3
+
+TOI 2076b trông không giống bất cứ hành tinh nào trong danh mục khảo sát mà Tiêu Kỳ đã đọc qua. Mặc dù trông nó vẫn “đẹp” theo một nghĩa nào đó, “đẹp” kiểu những thứ chưa hoàn chỉnh đôi khi đẹp hơn những thứ đã xong. TOI 2076b, hay tất cả cụm 2076 đều chưa hoàn chỉnh lắm, trông như một hệ hành tinh đang trong quá trình “quyết định” mình sẽ là gì.
+
+Bề mặt hành tinh chưa ổn định, lớp vỏ ngoài còn đang hình thành, chỗ cứng chỗ mềm không theo quy luật nào rõ ràng, thấp thoáng những tảng đá lớn nhô lên như răng nanh, ánh lên sắc hồng, xám, xanh lấp lánh những tinh thể khoáng chưa kết tinh hoàn toàn. Giữa các tảng đá là những khe nứt sâu, có khe phả hơi nóng địa nhiệt, có khe lạnh đến mức không khí đọng lại thành một lớp sương mỏng ngay bên miệng vực.
+
+Không cây cối, không nước bề mặt, không một tiếng động nào ngoài thứ gió, hay đúng hơn là khí động, hoàn toàn không mang dấu vết của sự sống.
+
+"Chết chóc thế!" Emily đứng ở cửa khoang hạ cánh nhìn ra, tóc cô bị phản lực thổi lệch sang một bên.
+
+"Địa chất thế?" Nathanael tiếp lời, hắn quen tay hay việc đã đeo kính phân tích khoáng vật lên mắt và đang quét bề mặt từ trên cao. "Nhìn xem lớp tinh thể trên vách đá kia, Zephyr-9 chưa kết tinh hoàn toàn nghĩa là chất lượng thô cao hơn mẫu đã ổn định. Đây là mỏ tốt."
+
+"Có từng nghĩ coi mình thoại cái gì không?"
+
+"Tao là nhà sinh vật học kiêm địa chất nghiệp dư, tao được phép thoại."
+
+"Không ai cấm mày, tao chỉ nhận xét thôi"
+
+Tiêu Kỳ hạ Blackburn xuống một bãi bằng trông tương đối giữa các cụm đá lỏm chỏm. Chân tàu chạm mặt đất với một tiếng thụp, lớp đất dưới chân hơi mềm làm tàu lắc lư một chút, có lẽ vì địa nhiệt bên dưới giữ cho nó không đông cứng hoàn toàn.
+
+"Hạ cánh thành công," hắn thông báo vào hệ thống nội bộ. "Nhiệt độ bề mặt âm mười hai độ. Khí quyển không hỗ trợ hô hấp, đề nghị đeo thiết bị lọc không khí trước khi ra ngoài."
+
+Raymond luôn ra ngoài đầu tiên, đó là thói quen của người có giác quan cấp 2S, người mà cơ thể tự động xử lý thông tin môi trường nhanh hơn bất kỳ thiết bị đo đạc nào trong vòng bán kính ba mươi mét. Anh đứng trên bề mặt TOI 2076b, nhìn xung quanh. Gió mang theo bụi khoáng sẽ mài mòn vật chất nếu tiếp xúc đủ lâu, nên mang thiết bị lọc là đủ. Mùi của không khí ở đây là mùi đá và kim loại và thứ gì đó sắc lạnh mà hắn không có từ nào mô tả chính xác, loại mùi mà chỉ những hành tinh chưa có sinh vật sống mới có, mùi của nơi chưa bị thở qua bao giờ.
+
+Python hiện ra ngay bên cạnh, chui ra từ đất như thể nó đã ở dưới đó từ trước. Tinh thần thể không bị giới hạn bởi vật chất theo cách thân xác bị giới hạn, nó có thể xuyên qua địa hình, có thể xuất hiện ở bất cứ đâu trong phạm vi mà vân ý thức của chủ nhân vươn tới. Phạm vi tuần tra của Raymond rộng hơn hầu hết người ở cấp của hắn.
+
+Python vươn người lên cao, đầu ngẩng lên đỉnh một tảng đá gần đó, lưỡi thăm dò không khí theo mọi hướng. Nó đang làm việc, đây là khác biệt mà người ngoài hay nhầm lẫn, giữa Python đang thám thính và Python đang đi hoang: khi thám thính, đầu nó di chuyển theo một mẫu hình có hệ thống, còn khi lang thang, nó chỉ đơn giản đi theo mùi.
+
+"Tình hình sơ bộ," Raymond nói vào thiết bị liên lạc khi Nathanael và Emily bước ra sau hắn. "Không phát hiện dấu hiệu sinh vật di chuyển trong phạm vi trực quan. Địa hình không ổn định, cẩn thận với các khe nứt, một số hố sâu hơn nhìn từ bên ngoài."
+
+"Nhận được," Tiêu Kỳ trả lời từ trong tàu, đang khởi động hệ thống quét địa hình từ xa. "Tôi sẽ cập nhật bản đồ bề mặt liên tục. Khu vực mỏ Zephyr-9 ước tính lệch về phía Đông Bắc khoảng tám trăm mét."
+
+"Đi thôi," Nathanael vác túi thu thập mẫu, háo hức, hắn vẫn luôn háo hức khi làm việc này. "Nếu chất lượng khoáng đúng như dự đoán, chúng ta có thể lấy đủ mẫu trong một ngày."
+
+"Đừng bước lên chỗ đất màu nâu đỏ," Raymond nhắc. "Địa nhiệt cao hơn xung quanh."
+
+Tám trăm mét trên địa hình TOI 2076b mất nhiều thời gian hơn dự kiến, những tảng đá nhô lên không theo quy luật buộc họ phải đi vòng liên tục, và một vài khe nứt rộng hơn trên bản đồ quét khiến Tiêu Kỳ phải cập nhật lộ trình hai lần. Python vẫn trườn đi cùng, kết hợp thăm dò cùng với báo gấm của Nathanael, có khi đi trước, có khi biến mất xuống đất rồi hiện ra ở chỗ khác, có khi leo lên đỉnh tảng đá cao nhất và nằm đó nhìn xuống với vẻ của một sinh vật đang thẩm định địa hình theo tiêu chí riêng của nó.
+
+"Rắn con đào gì đó?" Nathanael nhìn lên Python đang trên đỉnh đá, gọi lên.
+
+Python không trả lời. Nó nhìn xuống, lưỡi thăm dò, rồi nhìn đi chỗ khác.
+
+"Tao nghiêm túc hỏi đó," Nathanael nói tiếp, không nản. "Mày thấy gì không? Có mỏ không? Có báu vật không? Có một bé hướng đạo non mềm nào chờ được cứu không?"
+
+Emily đi ngang qua, không nhìn lên. "Mày đang nói chuyện với con rắn."
+
+"Con rắn thông minh hơn một số đồng nghiệp của tao."
+
+"Câu đó xúc phạm tao, Nathanael."
+
+"Câu đó không nhắc đến tên mày."
+
+"Tao biết mày đang nghĩ đến ai."
+
+Họ tiếp tục đi.
+
+Mỏ Zephyr-9 nằm trong một lòng chảo tự nhiên, bao quanh bởi ba phía vách đá dựng đứng, phía còn lại mở ra một khoảng bằng phẳng. Khoáng thạch lộ thiên trên vách đá, vệt xanh bạc lấp lánh trong ánh sáng yếu của những ngôi sao lùn phía trên.
+
+Nathanael nhìn thấy mỏ và dừng lại.
+
+"Trời ơi," hắn nói, giọng choáng ngợp hơn thường ngày. "Đây là…" Hắn dừng lại, chạy tay lên vách đá gần nhất, nhìn vào lớp khoáng dưới kính phân tích. "Đây là nguyên chất. Tao chưa bao giờ thấy Zephyr-9 nguyên chất ngoài phòng thí nghiệm."
+
+"Bao lâu để lấy đủ mẫu?" Raymond hỏi.
+
+"Nếu bổ sung thêm vài thiết bị từ tàu thì hai tiếng."
+
+"Tiêu Kỳ."
+
+"Em nghe," tiếng Tiêu Kỳ trong thiết bị liên lạc. "Tôi sẽ đưa người máy đến cùng thiết bị bổ sung. Mười lăm phút."
+
+"Tốt." Raymond nhìn quanh lòng chảo một lần nữa. "Emily, trinh sát vành đai phía Tây. Tôi kiểm tra phía Đông."
+
+Khi Raymond đi dọc theo vách đá phía Đông, tay vừa chạm lên mặt đá để kiểm tra độ ổn định, anh bỗng nhận ra sợi kết nối tinh thần với tinh thần thể của mình đang kéo nhẹ về một hướng khác. Raymond dừng lại, Python hẳn đang ở đâu đó và đã "rà" được thứ gì đó.
+
+Kéo về hướng nào? Raymond cúi nhìn xuống chân mình.
+
+Bên dưới vách đá phía Đông, địa hình đổ thành một đoạn dốc ngắn rồi bị chặn lại bởi một tảng đá lớn nằm nghiêng. Có lẽ một vụ nứt địa chất cũ đã đẩy nó trượt khỏi vị trí ban đầu, để lại một khe hở tối om giữa mặt đất và phần đá đè xuống, và Python đang ở ngay đó.
+
+"Python."
+
+Đầu con rắn đen nhô ra khỏi khe đá. Nó ngẩng lên nhìn Raymond, lưỡi chẻ đôi thò ra rồi thu lại, sau đó quay đầu chui vào trong lần nữa.
+
+Raymond nhảy xuống dốc. Đến gần rồi anh mới phát hiện khe hở bên dưới tảng đá rộng hơn mình tưởng, từ bên ngoài nhìn vào chỉ là một mảng tối bị đá che khuất, nhưng bên trong có đủ không gian để vài người co mình tránh gió. Anh nâng thiết bị chiếu sáng lên, ánh đèn xanh nhạt quét qua vách đá thô ráp, lướt qua lớp bụi khoáng đọng trên nền, rồi cuối cùng dừng lại ở những đường nét mờ nhạt của ba cơ thể người nằm co quắp trong bóng tối.
+
+Họ co sát vào nhau, dùng thân nhiệt tập thể để chống chọi với nhiệt độ âm mười hai độ bên ngoài. Hai người mặc đồ du lịch dân sự, loại trang phục chống lạnh tiêu chuẩn trên tàu tuần dương. Pheromone rò rỉ rất yếu từ cơ thể họ, đủ để Raymond nhận ra cả hai đều là hướng đạo.
+
+Người còn lại nằm ở phía ngoài cùng, như thể trước khi ngất đi vẫn cố chắn bớt gió cho hai người kia. Bộ quân phục xám đen rằn ri phủ đầy bụi khoáng, thiết bị đầu cuối vắt lệch qua vai với màn hình đã tắt, nửa trên khuôn mặt che bởi kính quang học còn nửa dưới đeo mặt nạ phòng độc, và trên vai áo, lấp ló dưới lớp bụi, là huy hiệu hướng đạo cấp F.
+
+Cần cấp cứu ngay, Raymond chỉ nhìn huy hiệu đó một giây rồi dời mắt, nhanh chóng đánh giá tình trạng của cả ba: còn thở, còn sống, thân nhiệt đang hạ.
+
+Anh mở liên lạc. "Emily. Nathanael. Lòng chảo phía Đông, dưới tảng đá nghiêng."
+
+Hai hướng đạo dân sự vẫn còn ý thức khi được đưa ra khỏi khe đá, nhưng tầm mắt đã mất tiêu cự, phản ứng chậm và rời rạc theo kiểu người đã chịu lạnh quá lâu.
+
+Emily đỡ cô gái, quấn lớp phủ nhiệt khẩn cấp quanh người cô. Nathanael xử lý người còn lại, vừa kiểm tra mạch vừa gắn thiết bị theo dõi thân nhiệt lên cổ tay anh ta.
+
+"Các bạn là ai?" Emily hỏi, giọng rất bình tĩnh. "Đi tàu nào?"
+
+"Tàu… tuần dương." Cô hướng đạo nữ run rẩy đáp, môi tím tái. "Bọn tôi đi chung với một nhóm bạn rồi bị tấn công. Chúng bắn vào tàu, chúng tôi chạy vào khoang cứu hộ, nhưng khoang bị trục trặc, không phát được tín hiệu…"
+
+"Bao lâu rồi?"
+
+"Tôi không…" Cô nhắm mắt, như đang cố kéo lại những mảnh ký ức đã bị cái lạnh làm rối tung. "Một ngày, có thể hai ngày."
+
+"Ngoài ba người rơi ở đây, còn ai khác không?"
+
+"Không biết. Lúc hỗn loạn, chúng tôi bị tách khỏi những người còn lại."
+
+Emily gật đầu, không hỏi thêm, thông tin có thể lấy sau khi bọn họ qua cơn nguy hiểm.
+
+Người mặc quân phục vẫn chưa tỉnh. Raymond đứng cạnh cậu ta. Mặt nạ phòng độc và kính quang học vẫn còn nguyên trên mặt, trước khi xác định môi trường hít thở và tình trạng thương tổn, không ai tùy tiện tháo chúng ra, bởi nếu người này có lý do phải đeo mặt nạ, một thao tác sai cũng đủ khiến tình trạng xấu đi.
+
+Nhưng điều khiến Raymond chú ý không phải cái mặt nạ, mà là sự im lặng bao quanh cậu ta. Người hướng đạo này không hề có pheromone: một hướng đạo cấp F pheromone yếu là chuyện bình thường, nhưng yếu không có nghĩa là biến mất hoàn toàn, và Raymond đứng đủ gần để giác quan cấp 2S của anh bắt được cả những dao động rất nhỏ trong không khí, vậy mà từ người này không có lấy một sợi mùi nào rò ra, như thể toàn bộ cơ thể đã bị khóa lại.
+
+Cũng không có tinh thần thể, dù cấp F thường không đủ mạnh để hiện hình rõ ràng trong điều kiện bình thường, nhưng khi hướng đạo rơi vào trạng thái hôn mê hoặc gần hôn mê, tinh thần thể đôi khi vẫn tự trồi ra theo phản xạ bảo vệ, dù chỉ là một bóng mờ rất yếu, như con bướm và chim nhại của hai người hướng đạo vừa nãy. Sự trống rỗng đó khiến Raymond nhìn người nằm dưới đất lâu hơn một chút.
+
+"Mạch ổn," Nathanael nói sau khi kiểm tra. "Thân nhiệt thấp, nhưng chưa vượt ngưỡng nguy hiểm. Cậu ta hẳn đã tỉnh lâu hơn hai người kia, dùng thân nhiệt của mình giữ họ không tụt quá nhanh rồi mới kiệt sức."
+
+"Đưa lên tàu trước."
+
+Phi hành khí của Tiêu Kỳ đến đúng lúc, cậu đã thấy tình hình qua màn hình liên lạc và cho phương tiện đáp xuống lòng chảo trước khi Raymond kịp gọi lần thứ hai. Emily và Nathanael đưa hai hướng đạo dân sự lên trước, Raymond cúi xuống, bế người mặc quân phục khỏi nền đá lạnh. Người này nhẹ hơn anh tưởng.
+
+Python trườn lên phi hành khí cuối cùng, cuộn mình ở góc khoang với vẻ điềm nhiên như thể toàn bộ cuộc cứu hộ này vốn là ý tưởng của nó từ đầu.
+
+Khoang y tế dã chiến của Blackburn không lớn. Trên tàu không có quân y chính thức, chỉ có hai giường phục hồi, một tủ thiết bị cơ bản và đủ thuốc men để xử lý những tình huống thường gặp như hạ thân nhiệt nhẹ, mất nước, kiệt sức hoặc vết thương ngoài da. Hai hướng đạo dân sự được đặt lên giường và kết nối với hệ thống phục hồi nhiệt, người thứ ba không còn chỗ, đành được đưa ra ghế dài trong khoang sinh hoạt.
+
+Sau khi xác nhận không có độc tố trong không khí tàu, Raymond tháo mặt nạ phòng độc cho cậu ta.
+
+Khuôn mặt hiện ra dưới lớp mặt nạ khiến ánh mắt anh dừng lại lâu hơn bình thường. Sau hai ngày thiếu nhiệt và thiếu nước, màu da gần như nhợt đi dưới ánh đèn khoang, nhưng vẫn không che được những đường nét cân đối hiếm thấy. Tóc cậu rất sáng, mềm và nhạt màu đến mức gợi Raymond nhớ đến lông của một loài mèo cảnh đắt tiền nào đó, sóng mũi thẳng, gò má cao vừa phải, đường môi thanh tú dù đã mất màu vì lạnh, các nét trên khuôn mặt mang cảm giác sạch sẽ và hài hòa đến mức khiến người khác vô thức nhìn thêm lần nữa. Bộ quân phục phủ đầy bụi khoáng và những ngày sinh tồn khắc nghiệt đáng lẽ phải làm cậu trông chật vật hơn, nhưng bằng cách nào đó chỉ khiến vẻ ngoài ấy trở nên mong manh hơn hẳn.
+
+Kính quang học vẫn còn che nửa trên khuôn mặt.
+
+Nathanael vừa giơ tay định tháo xuống thì bị Raymond giữ cổ tay lại.
+
+"Để đó đi."
+
+Nathanael nhìn bàn tay Raymond đang giữ mình, rồi nhìn lên mặt anh. Có những lúc thuyền trưởng của anh ta có lý do, và lý do đó không nhất thiết phải được giải thích ngay lập tức.
+
+Nhưng có một điều lạ: Python không chịu rời khỏi người đang nằm trên ghế dài. Kể từ khi Blackburn thành đội đến nay, Python chưa từng tự nguyện đến gần một hướng đạo lạ, nó gần như bắt chước Raymond ở điểm này, gặp pheromone hướng đạo là lập tức lùi, dù cách nó lùi lịch sự hơn chủ nhân rất nhiều, vậy mà lúc này con rắn đen lại nằm sát bên ghế dài, đầu đặt trên thành ghế gần vai người kia, yên ổn đến mức như đã tìm được một vị trí vốn thuộc về mình.
+
+Raymond đứng ở cửa khoang nhìn nó. Khi nhận ra ánh mắt của chủ nhân, Python chỉ khẽ nâng đầu lên một chút rồi dùng đuôi quấn chặt hơn vào chân ghế, hoàn toàn không có ý định rời đi.
+
+"Tao thấy mày," Raymond nói.
+
+Python chậm rãi đặt đầu xuống lại, hoàn toàn không có ý định giải thích.
+
+Hai hướng đạo dân sự ổn định lại vào buổi chiều theo giờ trên chiến hạm, vì TOI-2076b không có chu kỳ ngày đêm rõ ràng để dựa vào.
+
+Cô hướng đạo cấp B tên Sera tỉnh trước. Pheromone của cô mang mùi hoa hồng rất nhạt, còn cơ thể vẫn run nhẹ dù lớp phủ nhiệt đã làm việc suốt mấy giờ liền. Khi ngồi dậy, cô nhìn quanh khoang y tế với ánh mắt của người vừa nhớ lại mình đang ở đâu và chuyện gì đã xảy ra.
+
+"Các anh chị là… tàu nào vậy?"
+
+"Blackburn," Tiêu Kỳ đáp, đặt một ly nước ấm vào tay cô. "Chiến hạm tư nhân trực thuộc Công hội lính gác. Bình thường chúng tôi không có lịch đi qua khu vực này. May cho các bạn là nhiệm vụ lần này nằm gần đây."
+
+"Thuyền trưởng là…?"
+
+"Raymond Fisher."
+
+Tiêu Kỳ dừng lại khi thấy mắt cô mở to hơn một chút.
+
+"Fisher?" Sera ngồi thẳng dậy. "Tàu Blackburn… là vị Fisher kia?"
+
+"Là vị Fisher kia."
+
+Sera lập tức cúi xuống nhìn lại tình trạng của mình, kéo lớp phủ nhiệt gọn hơn, vuốt tóc, phủi bụi trên vạt áo rồi nhanh chóng nhận ra bản thân vẫn đang mặc đồ chống lạnh rách bẩn sau một vụ rơi khoang cứu hộ, hoàn toàn không có điều kiện chỉnh trang nào đáng kể.
+
+Tiêu Kỳ nhìn thấy toàn bộ chuỗi động tác đó và quyết định không bình luận. Đây không phải lần đầu cậu chứng kiến phản ứng tương tự.
+
+"Tôi có thể gặp thuyền trưởng để cảm ơn không?"
+
+"Thuyền trưởng đang xử lý báo cáo nhiệm vụ." Tiêu Kỳ thay vị thuyền trưởng thân yêu của mình nói dối rất thành thạo. "Tôi sẽ chuyển lời cảm ơn của cô."
+
+Người thứ ba tỉnh lại vào buổi tối. Cậu ta không gây ra động tĩnh đáng chú ý nào, không gọi người, không giật mình, cũng không tháo kính quang xuống để chỉnh trang. Chỉ là khi Raymond đi ngang qua khoang sinh hoạt, người vốn nằm trên ghế dài đã ngồi dậy từ lúc nào, hai chân đặt xuống sàn, hai tay để trên đùi.
+
+Raymond dừng lại ở cửa khoang, người kia ngẩng đầu lên. Ánh đèn vàng nhạt của khoang sinh hoạt phủ xuống giữa hai người, làm lớp bụi còn sót trên quân phục cậu ta trở nên nhạt màu hơn. Qua cặp kính quang, Raymond không nhìn rõ ánh mắt đối phương, nhưng vẫn cảm nhận được người này đang nhìn mình.
+
+Anh không rõ vì sao mình lại nán lại đó lâu hơn thường lệ. Có lẽ vì cậu ta quá yên tĩnh, không pheromone, không tinh thần thể, không một dao động hướng đạo nào khiến hàng rào ý thức của Raymond phản vệ. Một hướng đạo cấp F trung tính đến mức gần như trống rỗng, nhưng sự trống rỗng ấy lại không giống yếu ớt.
+
+"Chào anh," người kia lên tiếng trước.
+
+Giọng cậu hơi khàn, mang âm sắc của người vừa trải qua hạ thân nhiệt và thiếu nước kéo dài, nhưng câu nói vẫn rõ ràng.
+
+"Chào cậu," Raymond đáp.
+
+Người kia gật đầu một cái.
+TOI 2076b không giống bất cứ hành tinh nào trong danh mục khảo sát mà Tiêu Kỳ từng đọc qua, đẹp theo cái nghĩa mà những thứ dang dở đôi khi đẹp hơn những thứ đã hoàn thành, bởi cả cụm 2076 dường như vẫn còn đang trong quá trình tự quyết định mình sẽ trở thành gì.
+
+Bề mặt hành tinh chưa ổn định, lớp vỏ ngoài còn đang hình thành, chỗ cứng chỗ mềm không theo quy luật nào rõ ràng, thấp thoáng những tảng đá lớn nhô lên như răng nanh, ánh lên sắc hồng, xám, xanh lấp lánh những tinh thể khoáng chưa kết tinh hoàn toàn. Giữa các tảng đá là những khe nứt sâu, có khe phả hơi nóng địa nhiệt, có khe lạnh đến mức không khí đọng lại thành một lớp sương mỏng ngay bên miệng vực.
+
+Không cây cối, không nước bề mặt, không một tiếng động nào ngoài thứ gió, hay đúng hơn là khí động, hoàn toàn không mang dấu vết của sự sống.
+
+"Chết chóc thế!" Emily đứng ở cửa khoang hạ cánh nhìn ra, tóc cô bị phản lực thổi lệch sang một bên.
+
+"Địa chất thế?" Nathanael tiếp lời, hắn quen tay hay việc đã đeo kính phân tích khoáng vật lên mắt và đang quét bề mặt từ trên cao. "Nhìn xem lớp tinh thể trên vách đá kia, Zephyr-9 chưa kết tinh hoàn toàn nghĩa là chất lượng thô cao hơn mẫu đã ổn định. Đây là mỏ tốt."
+
+"Mày đang ngắm đá."
+
+"Tao là nhà sinh vật học kiêm địa chất nghiệp dư, tao được phép ngắm đá."
+
+"Không ai cấm mày, tao chỉ nhận xét thôi."
+
+Tiêu Kỳ hạ Blackburn xuống một bãi bằng tương đối giữa các cụm đá lởm chởm. Chân tàu chạm mặt đất với một tiếng thụp, lớp đất dưới chân hơi mềm làm tàu lắc lư một chút, có lẽ vì địa nhiệt bên dưới giữ cho nó không đông cứng hoàn toàn.
+
+"Hạ cánh thành công," hắn thông báo vào hệ thống nội bộ. "Nhiệt độ bề mặt âm mười hai độ. Khí quyển không hỗ trợ hô hấp, đề nghị đeo thiết bị lọc không khí trước khi ra ngoài."
+
+Raymond luôn ra ngoài đầu tiên, đó là thói quen của người có giác quan cấp 2S, người mà cơ thể tự động xử lý thông tin môi trường nhanh hơn bất kỳ thiết bị đo đạc nào trong vòng bán kính ba mươi mét. Anh đứng trên bề mặt TOI 2076b, nhìn xung quanh. Gió mang theo bụi khoáng sẽ mài mòn vật chất nếu tiếp xúc đủ lâu, nên mang thiết bị lọc là đủ. Mùi của không khí ở đây là mùi đá và kim loại và thứ gì đó sắc lạnh mà hắn không có từ nào mô tả chính xác, loại mùi mà chỉ những hành tinh chưa có sinh vật sống mới có, mùi của nơi chưa bị thở qua bao giờ.
+
+Python hiện ra ngay bên cạnh, chui ra từ đất như thể nó đã ở dưới đó từ trước. Tinh thần thể không bị giới hạn bởi vật chất theo cách thân xác bị giới hạn, nó có thể xuyên qua địa hình, có thể xuất hiện ở bất cứ đâu trong phạm vi mà vân ý thức của chủ nhân vươn tới, và phạm vi tuần tra của Raymond rộng hơn hầu hết người ở cấp của hắn.
+
+Python vươn người lên cao, đầu ngẩng lên đỉnh một tảng đá gần đó, lưỡi thăm dò không khí theo mọi hướng. Nó đang làm việc, đây là khác biệt mà người ngoài hay nhầm lẫn, giữa Python đang thám thính và Python đang đi hoang: khi thám thính, đầu nó di chuyển theo một mẫu hình có hệ thống, còn khi lang thang, nó chỉ đơn giản đi theo mùi.
+
+"Tình hình sơ bộ," Raymond nói vào thiết bị liên lạc khi Nathanael và Emily bước ra sau hắn. "Không phát hiện dấu hiệu sinh vật di chuyển trong phạm vi trực quan. Địa hình không ổn định, cẩn thận với các khe nứt, một số hố sâu hơn nhìn từ bên ngoài."
+
+"Nhận được," Tiêu Kỳ trả lời từ trong tàu, đang khởi động hệ thống quét địa hình từ xa. "Tôi sẽ cập nhật bản đồ bề mặt liên tục. Khu vực mỏ Zephyr-9 ước tính lệch về phía Đông Bắc khoảng tám trăm mét."
+
+"Đi thôi," Nathanael vác túi thu thập mẫu, háo hức, hắn vẫn luôn háo hức khi làm việc này. "Nếu chất lượng khoáng đúng như dự đoán, chúng ta có thể lấy đủ mẫu trong một ngày."
+
+"Đừng bước lên chỗ đất màu nâu đỏ," Raymond nhắc. "Địa nhiệt cao hơn xung quanh."
+
+Tám trăm mét trên địa hình TOI 2076b mất nhiều thời gian hơn dự kiến, những tảng đá nhô lên không theo quy luật buộc họ phải đi vòng liên tục, và một vài khe nứt rộng hơn trên bản đồ quét khiến Tiêu Kỳ phải cập nhật lộ trình hai lần. Python vẫn trườn đi cùng, kết hợp thăm dò cùng với báo gấm của Nathanael, có khi đi trước, có khi biến mất xuống đất rồi hiện ra ở chỗ khác, có khi leo lên đỉnh tảng đá cao nhất và nằm đó nhìn xuống với vẻ của một sinh vật đang thẩm định địa hình theo tiêu chí riêng của nó.
+
+"Rắn con đào gì đó?" Nathanael nhìn lên Python đang trên đỉnh đá, gọi lên.
+
+Python không trả lời. Nó nhìn xuống, lưỡi thăm dò, rồi nhìn đi chỗ khác.
+
+"Tao nghiêm túc hỏi đó," Nathanael nói tiếp, không nản. "Mày thấy gì không? Có mỏ không? Có báu vật không? Có một bé hướng đạo non mềm nào chờ được cứu không?"
+
+Emily đi ngang qua, không nhìn lên. "Mày đang nói chuyện với con rắn."
+
+"Con rắn thông minh hơn một số đồng nghiệp của tao."
+
+"Câu đó xúc phạm tao, Nathanael."
+
+"Câu đó không nhắc đến tên mày."
+
+"Tao biết mày đang nghĩ đến ai."
+
+Họ tiếp tục đi.
+
+Mỏ Zephyr-9 nằm trong một lòng chảo tự nhiên, bao quanh bởi ba phía vách đá dựng đứng, phía còn lại mở ra một khoảng bằng phẳng. Khoáng thạch lộ thiên trên vách đá, vệt xanh bạc lấp lánh trong ánh sáng yếu của những ngôi sao lùn phía trên.
+
+Nathanael nhìn thấy mỏ và dừng lại.
+
+"Trời ơi," hắn nói, giọng choáng ngợp hơn thường ngày. "Đây là…" Hắn dừng lại, chạy tay lên vách đá gần nhất, nhìn vào lớp khoáng dưới kính phân tích. "Đây là nguyên chất. Tao chưa bao giờ thấy Zephyr-9 nguyên chất ngoài phòng thí nghiệm."
+
+"Bao lâu để lấy đủ mẫu?" Raymond hỏi.
+
+"Nếu bổ sung thêm vài thiết bị từ tàu thì hai tiếng."
+
+"Tiêu Kỳ."
+
+"Em nghe," tiếng Tiêu Kỳ trong thiết bị liên lạc. "Tôi sẽ đưa người máy đến cùng thiết bị bổ sung. Mười lăm phút."
+
+"Tốt." Raymond nhìn quanh lòng chảo một lần nữa. "Emily, trinh sát vành đai phía Tây. Tôi kiểm tra phía Đông."
+
+Khi Raymond đi dọc theo vách đá phía Đông, tay vừa chạm lên mặt đá để kiểm tra độ ổn định, anh bỗng nhận ra sợi kết nối tinh thần với tinh thần thể của mình đang kéo nhẹ về một hướng khác. Raymond dừng lại, Python hẳn đang ở đâu đó và đã "rà" được thứ gì đó.
+
+Kéo về hướng nào? Raymond cúi nhìn xuống chân mình.
+
+Bên dưới vách đá phía Đông, địa hình đổ thành một đoạn dốc ngắn rồi bị chặn lại bởi một tảng đá lớn nằm nghiêng. Có lẽ một vụ nứt địa chất cũ đã đẩy nó trượt khỏi vị trí ban đầu, để lại một khe hở tối om giữa mặt đất và phần đá đè xuống, và Python đang ở ngay đó.
+
+"Python."
+
+Đầu con rắn đen nhô ra khỏi khe đá. Nó ngẩng lên nhìn Raymond, lưỡi chẻ đôi thò ra rồi thu lại, sau đó quay đầu chui vào trong lần nữa.
+
+Raymond nhảy xuống dốc. Đến gần rồi anh mới phát hiện khe hở bên dưới tảng đá rộng hơn mình tưởng, từ bên ngoài nhìn vào chỉ là một mảng đá che khuất, nhưng bên trong có đủ không gian để vài người co mình tránh gió. Anh nâng thiết bị chiếu sáng lên, ánh đèn xanh nhạt quét qua vách đá thô ráp, lướt qua lớp bụi khoáng đọng trên nền, rồi cuối cùng dừng lại ở những đường nét mờ nhạt của ba cơ thể người nằm co quắp trong bóng tối.
+
+Họ co sát vào nhau, dùng thân nhiệt tập thể để chống chọi với nhiệt độ âm mười hai độ bên ngoài. Hai người mặc đồ du lịch dân sự, loại trang phục chống lạnh tiêu chuẩn trên tàu tuần dương. Pheromone rò rỉ rất yếu từ cơ thể họ, cả hai đều là hướng đạo.
+
+Người còn lại nằm ở phía ngoài cùng, như thể trước khi ngất đi vẫn cố chắn bớt gió cho hai người kia. Bộ quân phục xám đen rằn ri phủ đầy bụi khoáng, thiết bị đầu cuối vắt lệch qua vai với màn hình đã tắt, nửa trên khuôn mặt che bởi kính quang học còn nửa dưới đeo mặt nạ phòng độc, và trên vai áo, lấp ló dưới lớp bụi, là huy hiệu hướng đạo cấp F.
+
+Cần cấp cứu ngay, Raymond dời mắt, nhanh chóng đánh giá tình trạng của cả ba: còn thở, còn sống, thân nhiệt đang hạ.
+
+Anh mở liên lạc. "Emily. Nathanael. Lòng chảo phía Đông, dưới tảng đá nghiêng."
+
+Hai hướng đạo dân sự vẫn còn ý thức khi được đưa ra khỏi khe đá, nhưng tầm mắt đã mất tiêu cự, phản ứng chậm và rời rạc theo kiểu người đã chịu lạnh quá lâu.
+
+Emily đỡ cô gái, quấn lớp phủ nhiệt khẩn cấp quanh người cô. Nathanael xử lý người còn lại, vừa kiểm tra mạch vừa gắn thiết bị theo dõi thân nhiệt lên cổ tay anh ta.
+
+"Các bạn là ai?" Emily hỏi, giọng rất bình tĩnh. "Đi tàu nào?"
+
+"Tàu… tuần dương." Cô hướng đạo nữ run rẩy đáp, môi tím tái. "Bọn tôi đi chung với một nhóm bạn rồi bị tấn công. Chúng bắn vào tàu, chúng tôi chạy vào khoang cứu hộ, nhưng khoang bị trục trặc, không phát được tín hiệu…"
+
+"Bao lâu rồi?"
+
+"Tôi không…" Cô nhắm mắt, như đang cố kéo lại những mảnh ký ức đã bị cái lạnh làm rối tung. "Một ngày, có thể hai ngày."
+
+"Ngoài ba người rơi ở đây, còn ai khác không?"
+
+"Không biết. Lúc hỗn loạn, chúng tôi bị tách khỏi những người còn lại."
+
+Emily gật đầu, thông tin có thể lấy sau khi bọn họ qua cơn nguy hiểm.
+
+Người mặc quân phục vẫn chưa tỉnh. Raymond đứng cạnh cậu ta. Người hướng đạo này không hề có pheromone: một hướng đạo cấp F pheromone yếu là chuyện bình thường, và Raymond với giác quan cấp 2S của anh luôn bắt được cả những dao động rất nhỏ trong không khí, vậy mà từ người này không có lấy một sợi mùi nào rò ra, như thể toàn bộ cơ thể đã bị khóa lại.
+
+Cũng không có tinh thần thể, dù cấp F thường không đủ mạnh để hiện hình rõ ràng trong điều kiện bình thường, nhưng khi hướng đạo rơi vào trạng thái hôn mê hoặc gần hôn mê, tinh thần thể đôi khi vẫn tự trồi ra theo phản xạ bảo vệ, dù chỉ là một bóng mờ rất yếu, như con bướm và chim nhại của hai người hướng đạo vừa nãy.
+
+"Mạch ổn," Nathanael nói sau khi kiểm tra. "Thân nhiệt chưa vượt ngưỡng nguy hiểm. Cậu ta hẳn đã tỉnh lâu hơn hai người kia, dùng thân nhiệt của mình giữ họ không tụt quá nhanh rồi mới kiệt sức."
+
+"Đưa lên tàu trước."
+
+Phi hành khí của Tiêu Kỳ đến đúng lúc, cậu đã thấy tình hình qua màn hình liên lạc và cho phương tiện đáp xuống lòng chảo trước khi Raymond kịp gọi lần thứ hai. Emily và Nathanael đưa hai hướng đạo dân sự lên trước, Raymond cúi xuống, bế người mặc quân phục khỏi nền đá lạnh. Người này nhẹ hơn anh tưởng.
+
+Python trườn lên phi hành khí cuối cùng, cuộn mình ở góc khoang với vẻ điềm nhiên như thể toàn bộ cuộc cứu hộ này vốn là ý tưởng của nó từ đầu.
+
+Khoang y tế dã chiến của Blackburn không lớn. Trên tàu không có quân y chính thức, chỉ có hai giường phục hồi, một tủ thiết bị cơ bản và đủ thuốc men để xử lý những tình huống thường gặp như hạ thân nhiệt nhẹ, mất nước, kiệt sức hoặc vết thương ngoài da. Hai hướng đạo dân sự được đặt lên giường và kết nối với hệ thống phục hồi nhiệt, người thứ ba không còn chỗ, đành được đưa ra ghế dài trong khoang sinh hoạt.
+
+Sau khi xác nhận không có độc tố trong không khí tàu, Raymond tháo mặt nạ phòng độc cho cậu ta.
+
+Khuôn mặt hiện ra dưới lớp mặt nạ khiến ánh mắt anh thoáng mở to. Sau hai ngày thiếu nhiệt và thiếu nước, màu da gần như nhợt đi dưới ánh đèn khoang, nhưng vẫn không che được những đường nét cân đối hiếm thấy. Tóc cậu rất sáng, mềm và nhạt màu đến mức gợi Raymond nhớ đến lông của một loài mèo cảnh đắt tiền nào đó, đường môi thanh tú dù đã mất màu vì lạnh. Bộ quân phục phủ đầy bụi khoáng và những ngày sinh tồn khắc nghiệt đáng lẽ phải làm cậu trông chật vật hơn, nhưng bằng cách nào đó chỉ khiến vẻ ngoài ấy trở nên mong manh hơn hẳn.
+
+Kính quang học vẫn còn che nửa trên khuôn mặt.
+
+Nathanael vừa giơ tay định tháo xuống thì bị Raymond giữ cổ tay lại.
+
+"Để đó đi."
+
+Nathanael nhìn bàn tay Raymond đang giữ mình, rồi nhìn lên mặt anh. Có những lúc thuyền trưởng của anh ta có lý do, và lý do đó không nhất thiết phải được giải thích ngay lập tức.
+
+Nhưng có một điều lạ: Python không chịu rời khỏi người đang nằm trên ghế dài. Kể từ khi Blackburn thành đội đến nay, Python chưa từng tự nguyện đến gần một hướng đạo lạ, nó gần như bắt chước Raymond ở điểm này, gặp pheromone hướng đạo là lùi lại, dù nó vẫn lịch sự hơn chủ nhân rất nhiều, vậy mà lúc này con rắn đen lại nằm sát bên ghế dài, đầu đặt trên thành ghế gần vai người kia, yên ổn đến mức như đã tìm được một vị trí vốn thuộc về mình.
+
+Raymond đứng ở cửa khoang nhìn nó. Khi nhận ra ánh mắt của chủ nhân, Python chỉ khẽ nâng đầu lên một chút rồi dùng đuôi quấn chặt hơn vào chân ghế, hoàn toàn không có ý định rời đi.
+
+"Tao thấy mày," Raymond nói.
+
+Python chậm rãi đặt đầu xuống lại, hoàn toàn không có ý định giải thích.
+
+Hai hướng đạo dân sự ổn định lại vào buổi chiều theo giờ trên chiến hạm, vì TOI-2076b không có chu kỳ ngày đêm rõ ràng.
+
+Cô hướng đạo cấp B tên Sera tỉnh trước. Pheromone của cô mang mùi hoa hồng rất nhạt, còn cơ thể vẫn run nhẹ dù lớp phủ nhiệt đã làm việc suốt mấy giờ liền. Khi ngồi dậy, cô nhìn quanh khoang y tế với ánh mắt của người vừa nhớ lại mình đang ở đâu và chuyện gì đã xảy ra.
+
+"Các anh chị là… tàu nào vậy?"
+
+"Blackburn," Tiêu Kỳ đáp, đặt một ly nước ấm vào tay cô. "Chiến hạm tư nhân trực thuộc Công hội lính gác. Bình thường chúng tôi không có lịch đi qua khu vực này. May cho các bạn là nhiệm vụ lần này nằm gần đây."
+
+"Thuyền trưởng là…?"
+
+"Raymond Fisher."
+
+Tiêu Kỳ dừng lại khi thấy mắt cô mở to hơn một chút.
+
+"Fisher?" Sera ngồi thẳng dậy. "Tàu Blackburn… là vị Fisher kia?"
+
+"Là vị Fisher kia."
+
+Sera lập tức cúi xuống nhìn lại tình trạng của mình, kéo lớp phủ nhiệt gọn hơn, vuốt tóc, phủi bụi trên vạt áo rồi nhanh chóng nhận ra bản thân vẫn đang mặc đồ chống lạnh rách bẩn sau một vụ rơi khoang cứu hộ, hoàn toàn không có điều kiện chỉnh trang.
+
+Tiêu Kỳ nhìn thấy toàn bộ chuỗi động tác đó và quyết định không bình luận. Đây không phải lần đầu cậu chứng kiến phản ứng kiểu này.
+
+"Tôi có thể gặp thuyền trưởng để cảm ơn không?"
+
+"Thuyền trưởng đang xử lý báo cáo nhiệm vụ." Tiêu Kỳ thay vị thuyền trưởng thân yêu của mình nói dối rất thành thạo. "Tôi sẽ chuyển lời cảm ơn của cô."
+
+Người thứ ba tỉnh lại vào buổi tối. Cậu ta không gọi ai, không giật mình, cũng không tháo kính quang xuống để chỉnh trang. Chỉ là khi Raymond đi ngang qua khoang sinh hoạt, người vốn nằm trên ghế dài đã ngồi dậy từ lúc nào, hai chân đặt xuống sàn, hai tay để trên đùi.
+
+Raymond dừng lại ở cửa khoang, người kia ngẩng đầu lên. Ánh đèn vàng nhạt của khoang sinh hoạt phủ xuống giữa hai người, làm lớp bụi còn sót trên quân phục cậu ta trở nên nhạt màu hơn. Qua cặp kính quang, Raymond không nhìn rõ ánh mắt đối phương, nhưng vẫn cảm nhận được người này đang nhìn mình.
+
+Có lẽ vì cậu ta quá yên tĩnh, không pheromone, không tinh thần thể, không một dao động hướng đạo nào khiến hàng rào ý thức của Raymond phản vệ. Một hướng đạo cấp F trung tính đến mức gần như trống rỗng, nhưng sự trống rỗng ấy lại không giống yếu ớt.
+
+"Chào anh," người kia lên tiếng trước.
+
+Giọng cậu hơi khàn, mang âm sắc của người vừa trải qua hạ thân nhiệt và thiếu nước kéo dài, nhưng câu nói vẫn rõ ràng.
+
+"Chào cậu," Raymond đáp.
+
+Người kia gật đầu một cái.

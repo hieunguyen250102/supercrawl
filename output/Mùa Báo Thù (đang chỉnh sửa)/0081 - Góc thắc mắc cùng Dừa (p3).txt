@@ -1,0 +1,121 @@
+Góc thắc mắc cùng Dừa (p3)
+
+Lại là góc thắc mắc của Dừa đây. Gần đây trường của Dừa đang chuẩn bị cho chuỗi lễ hội dịp Tết đến xuân về nên Dừa hong có thời gian online và viết truyện nhiều.
+
+Nhưng Dừa vẫn ráng trốn một vài hoạt động của lớp để có thời gian ngồi viết và giao lưu với mọi người nà. Thấy Dừa yêu độc giả của Dừa chưa nà.
+
+Như đã hứa phần này Dừa sẽ giải đáp một số lỗ hổng về cơ chế hoạt động của bảng thuộc tính, cách bảng thuộc tính tác động lên cơ thể của các nhân vật, từ đó giải đáp cơ chế của thuốc hồi phục và lí do vì sao những người đã kích hoạt được bảng thuộc tính lại có khả năng hồi phục và chống chịu cao hơn người bình thường ạ.
+
+Thứ nhất, về cơ chế hoạt động của bảng thuộc tính nhé và cách cái bảng đó tác động lên cơ thể của nhân vật nhé.
+
+Thật ra, bảng thuộc tính trong truyện của Dừa được lấy cảm hứng từ đủ thứ bảng thông tin/thuộc tính/nhân vật của rất rất nhiều tựa game Dừa từng chơi qua.
+
+Và giao diện của nó, nếu mọi người còn nhớ ở những chương đầu thì em nó cũng na ná như mấy cái bảng thông tin mà mọi người từng thấy ở những bộ truyện hoặc tựa game bất kỳ mà từng chơi qua thôi.
+
+Fact thứ nhất về Dừa: Trước khi bén duyên với hành trình viết truyện thì Dừa là một con dở nghiện game nhập vai, hành động, xây dựng, đấu trí game nào Dừa cũng từng thẩm qua hết. Giờ Dừa vẫn nghiện, nhưng mà là nghiện viết truyện cho các độc giả đọc cơ.
+
+Cái Dừa muốn nói ở đây là cách mà cái bảng thuộc tính này thay đổi cơ thể của các nhân vật cơ.
+
+Như mọi người đã biết, trong Mùa Báo Thù, khi các nhân vật lần đầu mở bảng thuộc tính thì ngoài một đống ô cửa chứa tất tần tật tất cả kĩ năng và chỉ số của họ thì họ chẳng nhận được thêm gì nữa.
+
+Vậy làm sao để cái bảng thuộc tính đó thay đổi sức mạnh của các nhân vật? Câu trả lời là lên cấp (hoặc chơi thuốc, thuốc bán trong thương hội ấy chứ không phải mấy loại mọi người nghĩ tới đâu T-T)
+
+Những chương có tình tiết tăng cấp có rất ít trong mạch truyện chính nên chắc Dừa sẽ nói sơ qua cách thức lên cấp cho mọi người biết luôn nhé.
+
+Để lên cấp, các nhân vật có hai con đường chính. Một là đánh quái vật (xác sống, động, thực vật biến dị,...) và hai là làm nhiệm vụ mà thương hội giao để lấy kinh nghiệm nâng cấp thanh cấp độ của bản thân.
+
+Tùy vào cấp độ của quái vật hoặc nhiệm vụ mà lượng kinh nghiệm trả về sẽ khác nhau.
+
+Cơ thể của đa số quái vật trong truyện (trừ một số con đặc biệt) sẽ hóa thành kinh nghiệm sau khi chết. (Đây cũng là lời giải thích lí do ở một số đoạn trong truyện nhân vật lướt ngang qua những khu vực từng xảy ra trận chiến nhưng lại không thấy xác của con quái vật nào.)
+
+Ví dụ trước bằng động thực vật biến dị nhé.
+
+Cấp độ của chúng trải dài từ cấp 1 đến chưa rõ (trong truyện thì Dừa dự định để đám này max ở cấp hơn 200), tùy thuộc vào số lượng quái chúng hấp thụ mà cấp độ của chúng sẽ tăng dần.
+
+Quái cấp 1 tương đương với 10 kinh nghiệm, cấp 2 là 20, cấp 3 là 40 và mọi người cứ thế nhân hai lên.
+
+Với xác sống và nhiệm vụ, cách tính cấp độ của chúng sẽ có phần khác biệt so với sinh vật biến dị nên Dừa xếp chúng vào chung 1 nhóm.
+
+Cụ thể thì cấp độ của xác sống và nhiệm vụ trải từ cấp F đến cấp S.
+
+Với cấp F, đám quái vật được phân vào cấp này thường sẽ là những con quái vật ở cấp 1 đến cấp 15.
+
+Cấp E là từ cấp 15 đến 30. Cứ mỗi khi lên 1 cấp thì mọi người cộng thêm 15 cấp độ nữa sẽ ra cấp độ tối thiểu mà chúng cần để tiến hóa.
+
+Xác sống thường, những con chưa lên cấp không có điểm kinh nghiệm và sẽ không biến mất sau khi chết.
+
+Đối với xác sống cấp F điểm kinh nghiệm sẽ tùy thuộc vào nhiều yếu tố để quyết định như sức mạnh, độ nguy hiểm, kỹ năng đặc biệt, vv. Với những con không có kĩ năng quá đặc biệt điểm kinh nghiệm thường dao động từ khoảng 50 đến hơn 100 kinh nghiệm một tý.
+
+Cách tính kinh nghiệm của xác sống cấp độ khác cũng tương tự. Với cấp E điểm kinh nghiệm sẽ dao dộng trong khung 150 đến hơn 300 kinh nghiệm. Xác sống ở cấp độ khác mọi người cứ thế nhân lên là được.
+
+Cách tính điểm kinh nghiệm nhiệm vụ giống cách tính kinh nghiệm xác sống nên Dừa sẽ không nhắc lại nữa nhé.
+
+Để lên cấp, các nhân vật cần nhận đủ lượng kinh nghiệm theo yêu cầu của hệ thống với cấp 1:10 kinh nghiệm, cấp 2:100, cấp 3:200 và cứ thế nhân hai lên là ra số kinh nghiệm các nhân vật cần để tăng thêm một cấp.
+
+Sau khi lên cấp, tất cả các chỉ số cơ bản của các nhân vật sẽ được cộng thêm 1 điểm và nhân vật sẽ có thêm 3 điểm tùy chọn (nhân vật có thể chọn chỉ số để cộng vào).
+
+Fact thứ 2: Kèo thơm thế không bao giờ có trong truyện của Dừa, hệ thống này thật ra là bịp chúa. Trời đâu cho không ai thứ gì đâu. Những chỉ số được cộng thêm (hệ thống cộng hay nhân vật tự cộng) đều là số liệu ảo.
+
+Hệ thống sẽ cố tình tạo ra những tình huống nguy hiểm, thách thức khả năng của các nhân vật từ đó gián tiếp huấn luyện kĩ năng và nâng cấp chỉ số các nhân vật qua những bài tập một chết hai sống.
+
+Và đây là câu trả lời cho câu hỏi cơ chế của bảng thuộc tính và cách nó ảnh hưởng đến cơ thể các nhân vật của Dừa.
+
+Tiếp theo là cách thức hoạt động của thuốc hồi phục. Nói đơn giản thì thuốc này dùng để kích thuốc tế bào bạch cầu hoạt động hết công suất để nhanh chóng chữa trị hết những vết thương của cơ thể.
+
+Ưu điểm: chữa nhanh, không đau chỉ ngứa, giá thành hợp lý, nhỏ gọn dễ sử dụng.
+
+Nhược điểm: phế dần theo thời gian do số lượng bạch cầu có giới hạn, khiến cơ thể người sử dụng yếu dần và dễ nhiễm bệnh hơn do mỗi lần chữa trị, thuốc đã gián tiếp giết đi một lượng bạch cầu trong cơ thể.
+
+Vẫn là câu cũ, kèo ngon thế không bao giờ có trong truyện nhà Dừa. Tạm thời thì chưa có char nào phát hiện ra chiếc nhược điểm khủng bố của chai "thuốc tiên" kia cả.
+
+Sau này thì chắc sẽ có người nhận ra thui, chỉ là tới được đoạn đó thì chiếc nhược điểm bé xinh Dừa cài vào đã phát huy hết tác dụng rùi. Chỉ tội các nhân vật yêu dấu của Dừa phải tốn một khoảng phí lớn thuê người hồi phục để xóa tác dụng phụ của thuốc thui.
+
+Và cái câu hỏi cuối cùng, vì sao người đã kích hoạt bảng thuộc tính lại có sức chống chịu và khả năng hồi phục cao hơn người bình thường.
+
+Trước khi vào vấn đề chính, Dừa xin phép nhắc lại một số tình tiết trong truyện để mọi người rõ vì sao lại có câu hỏi trên.
+
+Cảnh đụng xe khi bị quái dây leo truy đuổi. Như mọi người đã đọc, sáu nhân vật đều bất tỉnh sau cú va chạm đi vào lòng người kia. Nếu là người bình thường thì tới đây Dừa end truyện với khung cảnh 6 người nghẻo thế giới vẫn bị đại dịch xâm chiếm là đẹp rùi.
+
+Nhưng bằng một sức mạnh thần kỳ nào đó, sáu con người kia vẫn không chết nên Dừa lại được tiếp tục hành hạ các nhân vật đáng thương của Dừa.
+
+Để rồi bay tới mấy chương gần đây, hẳn mọi người cũng biết ngoài Thiên Thư ra thì những nhân vật khác ai cũng đều hứng được một rổ hành chất lượng made by Dừa đúng không.
+
+Nhưng dù 6 nhân vật đều đã trải qua bao gian khó và khổ nạn mà Dừa tạo ra thì 6 đứa vẫn sống vui sống khỏe, trừ thời gian dưỡng thương ra thì gần như ai cũng khỏe như trâu như bò.
+
+Và bí kiếp để có một sức khỏe ảo diệu đấy đến từ bảng thuộc tính hoặc nói đúng hơn là những chỉ số trên bảng thuộc tính.
+
+Khi các nhân vật biết đến sự tồn tại bảng thuộc tính, vào thời điểm ngay trước khi họ mở bảng thuộc tính, hệ thống sẽ điều chỉnh để nâng hoặc giảm một số chỉ số của họ. Bằng cách làm (có phần đểu cáng) này, hệ thống đã xây dựng cho những người sống sót một niềm tin bất diệt rằng bản thân rất khỏe hoặc rất giỏi ở một số lĩnh vực/chỉ số nhất định.
+
+Vì thế, những chỉ số mà các nhân vật thấy chưa chắc là chỉ số thật sự của họ.
+
+Với một niềm tin có phần không thực tế lắm này, thì khi nhân vật trúng một đòn trí mạng như cú Bách đánh Mộc.
+
+Là một người bình thường (chưa được hệ thống fake chỉ số) họ xụm nụ luôn. Còn là một người đã mở bảng thuộc tính, cơ thể họ bằng nhiều lí do vẫn có thể gồng dậy được (vì lúc này nhân vật nghĩ họ mạnh mà).
+
+Tổng kết lại sau chuỗi lảm nhảm ở trên cho những độc giả nào lười đọc:
+
++ Chỉ số trên bảng thuộc tính đa số là số liệu ảo.
+
++ Các chỉ số được cộng thêm sau khi nhân vật lên cấp thật ra là tấm vé tập luyện sức khỏe và kĩ năng miễn phí mà hệ thống tặng họ.
+
++ Hệ thống là bịp chúa nhưng nó lại thành công trên con đường hỗ trợ người sống sót của mình.
+
++ Các nhân vật nhà Dừa dẫu không quá mạnh mẽ hay mưu trí nhưng được cái họ đều có một sức sống bất diệt, như những ngọn cỏ dại sinh trưởng trong một khu vực khô khốc, cằn cỗi.
+
+Và mình là Dừa, một tác giả mới có niềm đam mê bất diệt với thể loại mạt thế.
+
+Bên trên là một góc nhỏ trong worldbuild của Dừa, nếu độc giả nào có thắc mắc hay những ý tưởng hay hơn thì chia sẻ với Dừa nhé.
+
+Dừa cảm ơn tất cả các bạn đọc đã theo dõi Dừa và Mùa Báo Thù từ những chương đầu đến tận thời điểm hiện tại. Mong chúng ta có thể nắm tay nhau đi hết chặng đường này ọ.
+
+Ngoài lề một xíu:
+
+Gần đây Dừa vừa vào xem mục review truyện và mọi người biết gì hem. Quà đầu năm 2025 Dừa nhận được là hai bài review, một của chị Gió - Đông Vũ Phong (ai thích thể loại kinh dị tâm linh thì qua ủng hộ chỉ nha) và hai là của chiếc review bé xinh của độc giả (Antitrachanhgiatay) đã đứng lên chỉ ra điểm thiếu sót của Dừa. Dừa cảm ơn hai người rất rất nhiều ọ
+
+Sắp tới Tết rùi, độc giả nào thương Dừa thì viết review chê truyện Mùa Báo Thù của Dừa được hong. Dừa đang rất rất cần người chỉ ra Dừa tệ ở đâu, thiếu chỗ nào, viết hay dở ra sao để Dừa sửa ạ.
+
+Chứ mọi người viết review khen riết Dừa tưởng Dừa viết hay thiệt thì chết mất ?.
+
+Nên là ai thương Dừa thì bay vào mục review viết một bài review bé xinh chê những điểm mọi người không hài lòng trong truyện để Dừa biết hướng mà điều chỉnh nha.
+
+Dừa cảm ơn mọi người ọ.

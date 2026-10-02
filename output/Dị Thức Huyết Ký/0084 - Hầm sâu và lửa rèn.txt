@@ -1,0 +1,153 @@
+Hầm sâu và lửa rèn
+
+"Đừng xây một cái lồng đủ mạnh để nhốt quỷ. Hãy xây một hệ thống đủ thông minh để không cho quỷ biết nó đang ở trong cái lồng nào."
+
+Câu nói trầm đục của Mo Xuan đọng lại trong không gian lạnh buốt của buồng thang máy, trĩu nặng như một thứ định luật khắc nghiệt được đúc rút từ máu và tàn tro. Nơi họ chuẩn bị bước chân vào không đơn thuần là một nhà tù ngầm được giăng bẫy bằng bê tông cốt thép hay những lồng sắt han gỉ; đó là một cỗ máy sinh học và công nghệ tối tân được kiến tạo để chặn đứng những hiện tượng vượt ra ngoài mọi quy luật vật lý.
+
+Cánh cửa bọc giáp cuối cùng trượt mở, nuốt trọn cả ba người vào một tổ hợp vận hành độc lập mang tên mã E-Containment Complex – Khu E: Khu Cách Ly Thực Thể THỨC GIỚI.
+
+Điểm dừng chân đầu tiên hiện lên ở ranh giới giữa sự sống và thảm họa: E-0 Checkpoint (Xác thực Multi-Layer). Không có chuyện một cá nhân đơn độc có thể tự ý mở cánh cửa dẫn xuống cõi u minh này. Tại đây, hệ thống yêu cầu một quy trình kiểm tra đa tầng khắt khe bậc nhất: từ quét sinh trắc học võng mạc, vân tay, phân tích trạng thái tâm thần thời gian thực cho đến việc AI giám sát đối chiếu nhận diện cá thể. Nhưng điểm mấu chốt khiến Ryo phải khẽ nhướng mày chính là cơ chế xác nhận đôi. Để tiến sâu vào vùng nguy hiểm, hệ thống buộc phải có sự đồng thuận của hai người có thẩm quyền cao nhất – hoặc Mo Xuan kết hợp cùng Flora, hoặc Mo Xuan cùng Ryo. Một bài học xương máu từ thảm họa Trâm Đỏ trước đó đã dạy cho NOVA rằng một con quỷ hoàn toàn có thể thao túng tâm trí, cướp đoạt thể xác một con người và biến kẻ đó thành chiếc chìa khóa sống mở toang cánh cổng diệt vong.
+
+Vượt qua vòng kiểm định ngặt nghèo ấy, họ bước vào E-1 Clean Zone (Vùng Sạch). Không gian tại đây sáng rực ánh đèn khử khuẩn vô trùng, bao gồm phòng thay đồ, hệ thống thiết bị bảo hộ khép kín, khu kiểm tra sinh học và phòng quan sát y tế. Tại đây, trí tuệ nhân tạo không chỉ làm nhiệm vụ nhận diện danh tính đơn thuần, mà liên tục đặt ra câu hỏi cốt tử: "Liệu thể xác và tâm trí này có còn là chính nó?"
+
+Nối tiếp vùng sạch là E-2 Buffer Zone (Vùng Đệm) – điểm khác biệt cốt lõi biến Khu E thành một pháo đài bất khả xâm phạm so với bất kỳ phòng thí nghiệm thông thường nào. Hệ thống cửa airlock kép không bao giờ mở đồng thời, bắt buộc mọi vật thể hoặc con người phải di chuyển qua từng khoang cách ly trung gian. Ngay khi bước vào vùng đệm, AI lập tức kích hoạt ma trận quét toàn diện: từ dao động năng lượng, biến đổi tần số thần kinh, bất thường ý thức, dấu hiệu ký sinh, thay đổi nhận thức cho đến hiện tượng nhiễu loạn không gian cục bộ. Chỉ cần một chỉ số lệch chuẩn dù là nhỏ nhất, toàn bộ hệ thống cửa sẽ tự động khóa cứng bằng cơ chế cơ học thuần túy, tuyệt đối không có chỗ cho sự thương lượng hay ngoại lệ.
+
+Tiến sâu hơn qua những lớp bảo mật là E-3 Control (Trung tâm điều hành) – bộ não thu nhỏ của toàn bộ Khu E. Căn phòng chìm trong thứ ánh sáng mờ ảo của hàng chục màn hình giám sát phủ kín bức tường đen. Trên mỗi khung cửa sổ dữ liệu, trạng thái của từng thực thể hiện lên rõ mồn một:
+
+E-04 / AKA-KANZASHI.
+
+Status: Contained | Energy: 17.3% | Cognitive Activity: Active | Hostile Intent: High | Reality Distortion: Low.
+
+Dù AI liên tục cập nhật mọi biến động dù là nhỏ nhất, Mo Xuan vẫn duy trì một nguyên tắc bất di bất dịch: Trí tuệ nhân tạo chỉ có quyền khóa cửa, phát báo động, cô lập khu vực, điều chỉnh môi trường hoặc ngắt kết nối nguồn điện, nhưng tuyệt đối không bao giờ được trao quyền tự ý tiêu diệt thực thể. Bởi vì một cỗ máy vô tri chỉ hiểu dữ liệu, nó hoàn toàn bất lực trước sự thấu hiểu bản chất của những con quỷ.
+
+Ngay bên dưới trung tâm điều hành là E-4 Containment (Các buồng cách ly căn bản) và E-5 Deep Containment (Cách ly đặc biệt). Không có một tiêu chuẩn thiết kế chung nào được áp dụng cho những căn phòng giam giữ này, bởi quỷ không phải là một loại virus có thể đóng chung một loại thuốc. Mỗi buồng giam là một bài toán kỹ thuật độc lập được cá nhân hóa theo đúng bản chất năng lực của thực thể: quỷ mang sức mạnh vật lý được vây quanh bởi những bức tường hợp kim chịu lực siêu nặng; quỷ thao túng tâm trí bị chìm đắm trong môi trường kích thích nhận thức tối thiểu; quỷ âm thanh bị bóp nghẹt trong không gian triệt tiêu sóng âm tuyệt đối; quỷ quang học bị tước đoạt hoàn toàn ánh sáng; quỷ gương đối mặt với những căn phòng không một bề mặt phản chiếu; và những thực thể bẻ cong không gian được kìm giữ bởi hệ thống định vị tọa độ độc lập. Đặc biệt tại khu E-5, nơi giam giữ những thực thể mang khả năng thao túng tâm trí, tái sinh, biến đổi cấu trúc vật chất hoặc chưa rõ cơ chế, nguyên tắc tối thượng được đặt lên hàng đầu: tuyệt đối không đặt hai thực thể chưa rõ bản chất vào cùng một khu vực, ngăn chặn hoàn toàn nguy cơ cộng hưởng chưa từng có tiền lệ.
+
+Và để phòng ngừa kịch bản tồi tệ nhất, E-6 Emergency (Tầng khẩn cấp) được thiết kế như một chốt chặn cuối cùng. Khi Containment Failure Protocol được kích hoạt, hệ thống sẽ tự động cô lập hoàn toàn các phân khu, ngắt kết nối mạng lưới thông thường và chuyển sang hệ thống điều khiển dự phòng hoàn toàn biệt lập. Ngay cả khi toàn bộ NOVA HQ sập nguồn, trạm kỹ thuật hoả hoạn hay AI chính gặp lỗi, Khu E vẫn duy trì sự sống và khả năng tự vệ nhờ vào nguồn năng lượng độc lập của mình.
+
+Cuối cùng, ẩn giấu dưới tầng sâu nhất ấy là nỗi sợ lớn nhất mà Mo Xuan luôn đề phòng: bản thân Network E – mạng lưới AI hoàn toàn bị cô lập khỏi HQ, Engineering hay Combat. Mo Xuan hiểu rằng, một con quỷ đáng sợ không cần phải tốn công hack hệ thống bằng mã độc; nó chỉ cần bẻ cong nhận thức để khiến cỗ máy tin rằng những thứ đang diễn ra trước mắt hoàn toàn không tồn tại.
+
+Đứng trước ngưỡng cửa của tầng sâu thẳm ấy, luồng khí lạnh phả ra từ Khu E không chỉ làm tê cóng da thịt, mà còn siết chặt lấy tâm trí từng người bằng thứ áp lực ngột ngạt của một thế giới đang cận kề bờ vực sụp đổ.
+
+Ryo khoanh tay đứng trước tấm bản đồ hiển thị kết cấu chằng chịt của Khu E. Đôi mắt màu xanh dương lạnh lẽo của cậu lướt qua từng phân khu, từng lớp bảo mật rồi dừng lại ở những buồng giam chìm sâu dưới lòng đất. Bộ não thám tử của cậu lập tức nhận ra một điểm bất hợp lý lớn trong tư duy quân sự thông thường.
+
+"Nói tôi nghe, anh Mo Xuan," Ryo thong thả cất giọng, âm thanh trầm lạnh xé tan sự tĩnh lặng của căn phòng điều hành. "Nếu lũ quỷ thực sự nguy hiểm và mang mối đe dọa sinh tồn lớn đến vậy, giải pháp triệt để nhất là tiêu diệt chúng ngay tại thời điểm chạm trán. Tại sao anh lại phải tốn vô số công sức, tài nguyên để dựng nên cả một hầm cách ly khổng lồ như thế này? Chắc chắn anh đã phát hiện ra điều gì đó... rằng có những con quỷ không phải cứ giết là xong. Hoặc thậm chí, chúng ta không thể giết được chúng."
+
+Mo Xuan không quay lại. Ngón tay anh khẽ lướt trên mặt kính cảm ứng, điều chỉnh ánh sáng màn hình hạ xuống một nấc.
+
+"Cậu nói đúng một nửa, Ryo." Mo Xuan trầm ngâm. "Tầng đầu tiên của sự thật chính là: Có những con quỷ sau khi chết vẫn tiếp tục hoạt động. Chúng không tồn tại thuần túy bằng sinh học, mà sống dựa vào ký ức, cảm xúc, nỗi sợ, những lời nguyền, hay thậm chí là một hình ảnh, một giai điệu đọng lại trong tâm trí con người. Giết chết cơ thể vật lý của một thực thể không có nghĩa là nó đã biến mất. Ngược lại, việc phá hủy lớp vỏ xác thịt đôi khi chỉ làm ý thức của nó phân tán ra môi trường và biến thành một dạng hiện tượng siêu nhiên còn khó kiểm soát hơn."
+
+Mo Xuan dừng lại một nhịp, tròng kính phản chiếu một vệt sáng xanh lơ cô quạnh:
+
+"Ba tháng trước, NOVA từng tiêu diệt một con quỷ. Bốn mươi tám giờ sau khi cái xác của nó bị hỏa táng hoàn toàn, AI của Khu E vẫn ghi nhận một tín hiệu ý thức ẩn hiện. Không còn cơ thể, không có tế bào sống, lượng năng lượng đo được bằng không. Nhưng camera an ninh liên tục quay lại cảnh một bóng người chậm rãi đi ngang qua hành lang, và lần nào nó cũng bước ra từ chính căn buồng giam trống rỗng mà con quỷ đó từng bị nhốt. Đó là khoảnh khắc tôi cay đắng nhận ra: Chúng ta không còn đang săn tìm những sinh vật thông thường nữa."
+
+Bên cạnh hai người, Flora lặng lẽ đứng nhìn vào tấm bản đồ cắt lớp của Khu E. Đôi mắt xanh ngọc dịu dàng của nàng sẫm lại, tràn ngập những suy tư trăn trở. Nàng hiểu rõ hơn ai hết những nỗi đau thể xác và tinh thần của cả đội, nhưng việc phải sống chung với những hình bóng tà ác ngay bên dưới chân mình vẫn gieo vào lòng vị nữ bác sĩ một cảm giác bất an đè nén.
+
+"Chưa kể đến loại thứ hai," Mo Xuan tiếp tục, tông giọng phẳng lặng đến đáng sợ. "Một số con quỷ bản chất là những 'vật chứa'. Cơ thể của chúng giống như một chiếc bình gốm được gia cố để nhốt một thứ kinh hoàng hơn bên trong. Nếu chúng ta tiêu diệt chúng ở bên ngoài, chiếc bình vỡ tan, thứ bên trong sẽ giải phóng thẳng ra thế giới thực. Giết chúng đồng nghĩa với thất bại hoàn toàn. Đó là lý do tôi buộc phải phân loại chúng thành bốn nhóm rõ rệt: Loại có thể tiêu diệt, Loại cần phong ấn, Loại cần nghiên cứu trước khi quyết định, và Loại tuyệt đối không được phép tác động. Khu E ra đời chủ yếu để phục vụ ba nhóm sau."
+
+Ryo nhíu mày, ánh nhìn sắc lẹm xoáy vào Mo Xuan: "Nói cách khác, chính anh cũng chưa thực sự hiểu 'giết' một thực thể ở Thức Giới có nghĩa là gì?"
+
+"Đúng vậy," Mo Xuan thẳng thắn thừa nhận, không hề giấu giếm sự bất lực của một nhà khoa học. "Tôi không xây Khu E vì tôi biết tất cả. Tôi xây nó vì tôi biết mình chưa biết đủ. Tư duy của một kỹ sư không cho phép tôi đặt niềm tin mủ mờ vào việc hệ thống sẽ luôn vận hành hoàn hảo, mà buộc tôi phải chuẩn bị cho kịch bản tồi tệ nhất khi mọi thứ thất bại."
+
+"Vậy còn trường hợp của Han Chaewon thì sao?" Ryo bất ngờ cắt ngang, ánh mắt cậu nheo lại. "Lần bùng nổ của Trâm Đỏ, tại sao anh không đưa cô ta vào Khu E ngay khi bắt được để cản trở con quỷ?"
+
+Mo Xuan khẽ thở dài, lắc đầu:
+
+"Đó chính là điểm kỳ dị và tàn nhẫn nhất của lũ quỷ Dị Thức – chúng dường như tiến hóa không ngừng và liên tục thích nghi với mọi phương thức đối phó của chúng ta. Hiện tại, chúng ta tuyệt đối chưa thể đưa Han Chaewon vào khu cách ly được. Con quỷ Trâm Đỏ đang ký sinh và chiếm đoạt thể xác của một con người bằng xương bằng thịt. Nhưng trong khoảnh khắc tôi vừa kiểm tra, bản thể và ý thức của Chaewon vẫn đang âm thầm chống trả ở bên trong. Nếu cưỡng ép đưa cô ấy vào một không gian đè nén năng lượng cực đoan như Khu E, sự căng thẳng nhận thức có thể kích động con quỷ, khiến nó tước đoạt hoàn toàn quyền kiểm soát và điều khiển nạn nhân tự hành hạ hoặc hủy hoại thể xác của chính mình."
+
+Ryo im lặng nghiền ngẫm. Cậu bước tiến lại gần màn hình, ánh mắt quét qua từng đường dây mạng lưới độc lập của Khu E:
+
+"Nếu đã nguy hiểm như vậy, việc giữ lại xác quỷ hay các mẫu vật trong Khu D và Khu E chẳng khác nào giấu một ngòi nổ bên dưới nhà."
+
+"Tôi biết." Mo Xuan đáp. "Nhưng xác của chúng chứa đựng mô dị thường, cấu trúc năng lượng, thông tin về Thức Giới và dấu vết giúp chúng ta truy nguyên nguồn gốc. NOVA đang ở thời kỳ sơ khai, chúng ta buộc phải học cách hiểu kẻ thù bằng những gì thu thập được. Vì vậy, Khu E không đơn thuần là một nhà tù. Nó là tổng hòa của Containment (Cách ly), Research (Nghiên cứu), Quarantine (Kiểm dịch) và Archive (Lưu trữ)."
+
+Anh chỉ tay vào mô hình các buồng giam độc lập:
+
+"Mỗi buồng giam đều có hệ thống không khí, nguồn điện dự phòng, camera, cảm biến và AI giám sát riêng biệt. Nếu một buồng gặp sự cố, nó sẽ bị cô lập và 'chết' ngay bên trong buồng đó, tuyệt đối không thể kéo theo toàn bộ Khu E. Và điều quan trọng nhất: AI giám sát chỉ được phép ngăn chặn, cô lập hoặc ngắt hệ thống. Nó tuyệt đối không được trao quyền phán quyết tiêu diệt thực thể. Bởi vì một cỗ máy không hiểu thứ chúng đang giám sát mà nắm quyền tiêu diệt thì chẳng khác nào giao súng cho một kẻ mù."
+
+Nhịp thở trong phòng điều hành như ngưng đọng. Ryo đứng khoanh tay, đôi mắt màu xanh dương nhìn đăm đăm vào sơ đồ tổng thể của căn hầm. Một mối nghi vấn sắc lẹm bất chợt lóe lên trong trí óc cậu thám tử.
+
+Cậu ngước lên, nhìn thẳng vào lưng Mo Xuan:
+
+"Anh đã thiết kế và xây dựng một hệ thống phức tạp đến mức này từ bao giờ?"
+
+"Từ trước khi cậu đặt chân đến Ohito," Mo Xuan bình thản đáp.
+
+"Không. Ý tôi là..." Ryo hạ thấp tông giọng, từng từ ngữ thốt ra sắc như dao cạo: "từ trước khi anh thực sự va chạm và hiểu rõ về sự tồn tại của những con quỷ này?"
+
+Mo Xuan khựng lại. Anh không trả lời ngay.
+
+Trong không gian yên lặng đến mức nghe rõ tiếng rì rào của các dòng dữ liệu chạy ngầm, Mo Xuan từ từ dời ánh nhìn xuống tầng sâu nhất của Khu E – vùng không gian E-6 tăm tối nằm chìm nghỉm trên màn hình.
+
+"Tôi chưa có câu trả lời cho cậu, Ryo," Mo Xuan cất giọng trầm đục, như thể đang nói với chính bóng hình của mình dưới lòng đất. "Nhưng thứ thôi thúc tôi phải đào sâu lòng đất và dựng nên pháo đài này chưa bao giờ là những con quỷ mà chúng ta đã tiêu diệt. Mà là bóng đen của những con quỷ xuất hiện sau khi chúng bị giết."
+
+Sức nóng trong căn phòng thử nghiệm ở Tầng B1 cuộn lên ngột ngạt như một lò luyện kim bị bịt kín. Máy biến tần trung tâm hoạt động hết công suất, đẩy nhiệt độ môi trường vượt ngưỡng chịu đựng của một người bình thường. Không khí nén lại, biến dạng thành những vệt sóng nhiệt bốc lên ngoằn ngoèo giữa không trung.
+
+Giữa tâm bão nhiệt lượng ấy, Hikari đứng lặng.
+
+Mái tóc màu tím sẫm của cô kiếm sĩ được búi gọn gàng đằng sau óc bằng một dải dây vải đen, để lộ trọn vẹn đường cong thanh thoát của bờ vai, chiếc cổ cao kiêu hãnh và vùng gáy thon dài. Để cơ thể hoàn toàn thích nghi với điều kiện chiến đấu cực đoan, Hikari chỉ khoác lên người bộ đồ tập tối giản đến mức tối đa: chiếc áo bra thể thao ôm sát phô ra khung xương quẫn bảnh, vùng bụng phẳng lì nổi rõ những đường cơ săn chắc, cùng chiếc quần đùi ngắn cạp cao ôm trọn đôi chân dài thon gọn. Làn da trắng sứ của thiếu nữ giờ đây đượm một sắc hồng rực rỡ vì nhiệt độ, bao phủ bởi một lớp mồ hôi đầm đìa, lấp lánh như thủy tinh lỏng dưới ánh đèn công nghiệp xám lạnh.
+
+XOẠC.
+
+Âm thanh thanh thoát của kim loại xé gió vang lên. Hikari rút thanh Lôi Diệp ra khỏi bao. Đồng thời, đôi mắt đen vốn sâu thẳm của cô đột ngột mở to – sắc đen ấy lập tức chìm xuống, nhường chỗ cho quầng sáng thăm thẳm, sắc lẹm và u uẩn của Huyền Nhãn.
+
+"CẤP ĐỘ MÔ PHỎNG: LEVEL 8. TỐC ĐỘ MỤC TIÊU: TĂNG THEO CẤP SỐ NHÂN. BẮT ĐẦU."
+
+Giọng nói cơ khí vô cảm của AI vang lên từ góc trần nhà. Ngay lập tức, hàng loạt bệ phóng tự động quanh vách tường chịu lực phun ra hàng chục đĩa hợp kim nặng trịch và những luồng sóng xung kích giả lập với tốc độ xé gió.
+
+Hikari chuyển động. Sự thanh thoát thường ngày hoàn toàn biến mất, nhường chỗ cho bản năng của một nữ kiếm sĩ tuyệt đỉnh. Mỗi nhát chém của Lôi Diệp xé rách không khí nóng rực, để lại những vệt sáng xanh lam sắc lạnh như sét đánh. Cô xoay người, nhảy vọt, lướt đi trên mặt sàn bê tông nóng hổi như một bóng ma màu tím. Mồ hôi từ trán, từ những lọn tóc mai dính bệt vào thái dương bắn ra thành từng giọt li ti theo mỗi vòng xoay cuồng nhiệt của lưỡi kiếm.
+
+Bộ áo tập ướt đẫm dính chặt vào làn da, từng nhịp thở dồn dập làm lồng ngực cô phập phồng mạnh mẽ. Thần thái của Hikari lúc này vừa mang vẻ lạnh lẽo, tàn nhẫn của một sát thủ, vừa đong đầy sức hút cuồng nhiệt, hoang dại của một cơ thể đang vắt kiệt đến giọt năng lượng cuối cùng.
+
+"CẢNH BÁO: NHỊP TIM 185. NHIỆT ĐỘ CƠ THỂ: 39.2°C. TẢI TRỌNG NĂNG LƯỢNG ĐẠT MỨC TỐI ĐA."
+
+Hikari hoàn toàn phớt lờ cảnh báo của máy móc. Đôi Huyền Nhãn xoáy sâu vào không trung, bắt trọn từng quỹ đạo nhỏ nhất. Cô hạ thấp trọng tâm, vung một nhát kiếm vòng cung tuyệt mỹ – sóng xung kích bùng nổ, chém gục toàn bộ các mục tiêu cuối cùng thành những mảnh vụn rơi rã rời xuống mặt sàn.
+
+KENG.
+
+Lưỡi Lôi Diệp cắm thẳng xuống đất, đỡ lấy thân hình đang run lên nhè nhẹ vì kiệt sức của Hikari. Cô quỳ một gối, hai tay chống lên chuôi kiếm, lồng ngực phập phồng dữ dội để hít vào từng giọt không khí nóng bỏng. Những giọt mồ hôi lăn dài từ cằm, nhỏ tạch tạch xuống lưỡi thép sáng rực.
+
+Cơ thể thiếu nữ vắt kiệt sức lực toát ra một vẻ đẹp đầy mê hoặc, vẻ đẹp của sự rèn giũa khắc nghiệt giữa máu, mồ hôi và kỷ luật thép.
+
+Hikari chậm rãi đứng dậy, tra Lôi Diệp vào vỏ. Cô tiến về phía chiếc ghế nhỏ ở góc phòng, với lấy chiếc khăn bông màu xám đen. Thiếu nữ áp chiếc khăn lên gương mặt ửng hồng, chậm rãi lau đi lớp mồ hôi đầm đìa trên cổ, lướt xuống vùng xương xai gầy rộc và mảng bụng săn chắc đang nóng bừng.
+
+"PHÂN TÍCH HOÀN TẤT," Giọng AI lại vang lên, cắt ngang tiếng thở dốc thanh thoát của cô. "THỜI GIAN DUY TRÌ HUYỀN NHÃN: TĂNG 14%. TỐC ĐỘ PHẢN XẠ: PHÁ KỶ LỤC CÁ NHÂN. BẠN ĐÃ VƯỢT QUA GIỚI HẠN TẬP LUYỆN LẦN THỨ TRỰC TIẾP THỨ BA TRONG TUẦN."
+
+Hikari khẽ nhắm mắt, vắt chiếc khăn qua bờ vai trần ướt đẫm.
+
+"CHƯƠNG TRÌNH TẬP LUYỆN BẮT BUỘC ĐÃ KẾT THÚC. CHUYỂN SANG LỘ TRÌNH PHỤC HỒI THẦN KINH VÀ CƠ BẮP. ĐỀ NGHỊ DI CHUYỂN LÊN TẦNG 2: RECOVERY CENTER."
+
+TINH.
+
+Cánh cửa kim loại của thang máy trượt sang hai bên, mở ra toàn cảnh Tầng 1: Combat Gym với độ hoành tráng đến rợp người. Không gian mênh mông mang đậm hơi thở công nghiệp hiện đại phô diễn dưới trần nhà vòm cao vút. Các dầm thép chịu lực xám lạnh chạy dọc khung trần, treo lơ lửng hệ thống đèn LED dải phản chiếu ánh sáng trắng sắc lẹm xuống mặt sàn cao su tổng hợp chuyên dụng.
+
+Cả một đại công xưởng rèn luyện thể chất trải dài ngút mắt: Khu Cardio với hàng dài máy chạy bộ và xe đạp biến tần tích hợp màn hình cảm biến; Khu Strength uy nghi với những bộ khung squat rack, đĩa tạ đúc nguyên khối ngổn ngang; Khu Functional chăng đầy dây thừng battle rope, tường leo nhân tạo và xà đơn; cùng Khu Combat trải thảm bao cát hạng nặng. Bầu không khí nơi đây quánh đặc mùi kim loại, mồ hôi và ma sát – một không gian tràn ngập năng lượng cuồng nhiệt của những chiến binh thực thụ.
+
+"Ái chà chà! Kết thúc buổi tập rồi, thấy sao nào anh trai nhà văn?"
+
+Tiếng Rico cười khoái chí vang lên giòn giã ở khu vực thảm tập cận chiến.
+
+Ngay dưới chân anh, Kaoru trong bộ đồ gym xộc xệch đang nằm bẹp dí trên mặt sàn như một tấm thảm bị vứt xó. Hai chân anh co quắp, run rẩy bần bật vì căng cơ cục bộ. Gương mặt Kaoru tái mét, cái miệng há ra đớp lấy từng hớp không khí một cách nhọc nhằn như cá mắc cạn, mồ hôi chảy rã rượi đầm đìa đọng thành một vũng nhỏ quanh đầu. Trông dáng vẻ tàn tạ, thảm hại của vị nhà văn trẻ vừa buồn cười lại vừa khiến người ta không khỏi tội nghiệp.
+
+Hikari bước ra khỏi cabin thang máy. Ngay lập tức, Rico sà tới như một cơn gió, nghiêng người ghé sát với nụ cười sát gái cợt nhả:
+
+"Ái chà, Hikari à~ Mỗi lần em tập luyện xong như thế này là trông em quyến rũ và bốc lửa đến mức có thể thiêu cháy cả cái hầm này đấy!"
+
+Hikari hoàn toàn phớt lờ lời tán tỉnh ngọt xớt của Rico. Ánh mắt cô lướt qua anh, dừng lại ở Kaoru – người đang chật vật, run rẩy dùng chút sức tàn chống hai tay đẩy thân trên dậy. Đôi chân đau tấy của Kaoru run chần chật, tưởng chừng chỉ cần một cơn gió nhẹ cũng đủ làm anh đổ gục lần nữa.
+
+Rico quay sang nhìn Kaoru, nhếch môi tặc lưỡi đầy bất ngờ:
+
+"Nói thật, cứ tưởng anh nhà văn này sẽ gục ngay từ set tạ đầu tiên cơ, ai ngờ cũng ra gì phết đấy! Lỳ đòn hơn tôi tưởng. Có điều cơ thể này quá nhỏ con, lại bỏ bê vận động lâu ngày. Bắt đầu từ mai, em đây sẽ tự tay xây dựng một lộ trình hành xác chuẩn huấn luyện viên chuyên nghiệp cho anh trai luôn! Còn giờ..."
+
+Rico quay đầu hướng về phía góc phòng, thong thả đưa tay cởi phăng chiếc áo gym đen dính đẫm mồ hôi ra.
+
+Màn phô diễn thể hình của anh lập tức thu hút mọi ánh nhìn: Bờ vai rộng thon dài, lồng ngực nở rộng cùng mảng bụng sáu múi săn chắc phô ra những đường cơ sắc lẹm, chuẩn mực như được điêu khắc từ đá cẩm thạch. Ánh đèn công nghiệp hắt lên làn da đượm mồ hôi lấp lánh của Rico, tôn lên vẻ đẹp kiêu hãnh và sức mạnh tiềm ẩn của một chiến binh sở hữu thể chất đạt độ chín hoàn hảo.
+
+Rico thản nhiên vắt chiếc áo lên vai, đôi mắt màu hổ phách nhìn về phía cửa thang máy B1:
+
+"Đến giờ hành xác bản thân ở B1 rồi."
+
+Hikari không nói một lời, lặng lẽ bước tiến lại gần Kaoru. Bộ trang phục tập tối giản trên người cô vẫn đẫm mồ hôi, tỏa ra hơi nhiệt hừng hực sau buổi rèn luyện khắc nghiệt.
+
+Kaoru vừa chật vật ngẩng được cái đầu nặng trịch lên để thở thì bắt gặp ngay ánh mắt đen thẳm, lạnh lẽo và tĩnh lặng của vị nữ kiếm sĩ đang nhìn xuống mình. Không một động thái thừa thãi, Hikari dứt khoát quay người, sải bước về phía cabin thang máy dẫn lên phía trên.
+
+"Đi thôi, anh chàng nhà văn," Tông giọng phẳng lặng của cô vang lên đầy dứt khoát. "Chúng ta sẽ lên tầng 2."

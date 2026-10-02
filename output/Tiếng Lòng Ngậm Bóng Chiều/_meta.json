@@ -1,0 +1,406 @@
+{
+  "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu",
+  "site": "rookies",
+  "title": "Tiếng Lòng Ngậm Bóng Chiều",
+  "author": "yang nana",
+  "status": "Đang ra",
+  "genres": [
+    "Lãng mạn",
+    "Bi thương",
+    "Tổng giám đốc/Chủ tịch",
+    "Nam x Nam",
+    "Việt Nam",
+    "Ma quỷ",
+    "Gương vỡ lại lành",
+    "Truyện Tình cảm lãng mạn",
+    "Kết HE"
+  ],
+  "description": "Câu chuyện về gã thợ săn và đồi hoa anh túc.\n\nGã thợ săn vô tình lạc vào đồi hoa anh túc, không màng đến những đóa hoa tím thuần ngát hương đầy mê hoặc quanh chân mình mà chỉ say đắm một bông lai trắng giữa đồi.\n\nGã tìm cách tiếp cận, đánh cắp nó khỏi đồi hoa và mang về nhà, giam nhốt trong trái tim. Nhưng hoa ấy có độc. Càng chạm vào, gã càng héo mòn.\n\nVà rồi gã chết gục trước chậu hoa vào một ngày thu hoang tàn.\n\nGã vốn là tay thợ săn cừ khôi nhất, nhưng giờ lại chết đầy lãng xẹt, hệt như những con mồi mà gã từng dễ dàng cướp đoạt sinh mệnh.\n\nGã đi săn, nhưng lại bị săn. Bông hoa bị giam nhốt, song thực chất chưa từng mất tự do.\n\n-------------\nNằm trong tuyển tập \"Duyên\" bao gồm ba truyện dài:\n- Hoàng Hôn Và Em (2021, 2026)\n- Tiếng Lòng Ngậm Bóng Chiều (2024)\n- Túc Duyên Tương Phùng (2028)\n\n-------------\nHọa sĩ vẽ minh họa: Lam Lam\nThiết kế text: maika.iy\nBản quyền tranh thuộc về họa sĩ và tác giả yang nana.",
+  "cover": "https://rookies.vn/uploads/user/226wGQu/cover_rookies.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Hồ Sơ Nhân Vật",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50813",
+      "file": "0001 - Hồ Sơ Nhân Vật.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 1: Hôm Nay Ai Sẽ Chết",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50791",
+      "file": "0002 - Chương 1 Hôm Nay Ai Sẽ Chết.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 2: Thử Giết Một Lần",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50792",
+      "file": "0003 - Chương 2 Thử Giết Một Lần.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 3: Thầy Bói Và Bùa Trừ Tà",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50793",
+      "file": "0004 - Chương 3 Thầy Bói Và Bùa Trừ Tà.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 4: Ma Ngồi Trên Cổ",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50794",
+      "file": "0005 - Chương 4 Ma Ngồi Trên Cổ.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 5: Ái Tình Định Sẵn",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50796",
+      "file": "0006 - Chương 5 Ái Tình Định Sẵn.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 6: Đi Hẹn Hò Với Em",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50797",
+      "file": "0007 - Chương 6 Đi Hẹn Hò Với Em.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 7: Chum Sành Đựng Xác",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50799",
+      "file": "0008 - Chương 7 Chum Sành Đựng Xác.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 8: Đóa Diên Vĩ Bị Vứt Bỏ",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50800",
+      "file": "0009 - Chương 8 Đóa Diên Vĩ Bị Vứt Bỏ.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 9: Đầu Trâu Mặt Ngựa",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50801",
+      "file": "0010 - Chương 9 Đầu Trâu Mặt Ngựa.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 10: Kẻ Vời Hồn",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/50802",
+      "file": "0011 - Chương 10 Kẻ Vời Hồn.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 11: Nhát Dao Chí Mạng",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51532",
+      "file": "0012 - Chương 11 Nhát Dao Chí Mạng.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 12: Đối Đầu Với Ma Rừng",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51535",
+      "file": "0013 - Chương 12 Đối Đầu Với Ma Rừng.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chương 13: Dựa Dẫm Vào Người Yêu",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51536",
+      "file": "0014 - Chương 13 Dựa Dẫm Vào Người Yêu.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Chương 14: Đóa Thủy Tiên Của Tôi",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51538",
+      "file": "0015 - Chương 14 Đóa Thủy Tiên Của Tôi.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Chương 15: Thằng Này Dạy Anh Hôn",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51539",
+      "file": "0016 - Chương 15 Thằng Này Dạy Anh Hôn.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Chương 16: Mau Tới Cứu Em",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51540",
+      "file": "0017 - Chương 16 Mau Tới Cứu Em.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Chương 17: Tôi Là Người Yêu Cậu",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51542",
+      "file": "0018 - Chương 17 Tôi Là Người Yêu Cậu.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Chương 18: Tôi Dỗ Dành Cậu Nhé?",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/51543",
+      "file": "0019 - Chương 18 Tôi Dỗ Dành Cậu Nhé.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Chương 19: Gọi \"Chồng\" Đi Nào",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/54588",
+      "file": "0020 - Chương 19 Gọi Chồng Đi Nào.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Chương 20: Bông Hoa Nhài Cắm Bãi Cứt Trâu",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/54589",
+      "file": "0021 - Chương 20 Bông Hoa Nhài Cắm Bãi Cứt Trâu.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Chương 21: Thấy Nhớ Anh Rồi",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/55743",
+      "file": "0022 - Chương 21 Thấy Nhớ Anh Rồi.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Chương 22: Em Chết Cùng Anh (1)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/57089",
+      "file": "0023 - Chương 22 Em Chết Cùng Anh (1).txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Chương 23: Em Chết Cùng Anh (2)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/58584",
+      "file": "0024 - Chương 23 Em Chết Cùng Anh (2).txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Chương 24: Không Hư, Không Mắng Cậu",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/59939",
+      "file": "0025 - Chương 24 Không Hư, Không Mắng Cậu.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Chương 25: Anh Cưng Em Ạ?",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/61402",
+      "file": "0026 - Chương 25 Anh Cưng Em Ạ.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Chương 26: Dìm Chết Dưới Lòng Suối",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/62837",
+      "file": "0027 - Chương 26 Dìm Chết Dưới Lòng Suối.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Chương 27: Tử Xà Quấn Gấm Hoa (1)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/70069",
+      "file": "0028 - Chương 27 Tử Xà Quấn Gấm Hoa (1).txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Chương 28: Tử Xà Quấn Gấm Hoa (2)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/71066",
+      "file": "0029 - Chương 28 Tử Xà Quấn Gấm Hoa (2).txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Chương 29: Tử Xà Quấn Gấm Hoa (3)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/71752",
+      "file": "0030 - Chương 29 Tử Xà Quấn Gấm Hoa (3).txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Chương 30: Cục Cưng, Đừng Giận Nữa",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/72537",
+      "file": "0031 - Chương 30 Cục Cưng, Đừng Giận Nữa.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Chương 31: Đi Dỗ Cún Con",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/74237",
+      "file": "0032 - Chương 31 Đi Dỗ Cún Con.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Chương 32: Mười Cái Hôn",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/74942",
+      "file": "0033 - Chương 32 Mười Cái Hôn.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Chương 33: Hoàng Hôn Và Em",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/75597",
+      "file": "0034 - Chương 33 Hoàng Hôn Và Em.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Chương 34: Say Người Say Tình",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/77116",
+      "file": "0035 - Chương 34 Say Người Say Tình.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Chương 35: Anh Ơi Đừng Khóc",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/78009",
+      "file": "0036 - Chương 35 Anh Ơi Đừng Khóc.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Chương 36: Thơm Má Một Cái",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/78841",
+      "file": "0037 - Chương 36 Thơm Má Một Cái.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Chương 37: Mật Ngọt Chết Ruồi",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/80692",
+      "file": "0038 - Chương 37 Mật Ngọt Chết Ruồi.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Chương 38: Cái Hôn Chạm Tiếng Lòng",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/81708",
+      "file": "0039 - Chương 38 Cái Hôn Chạm Tiếng Lòng.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Chương 39: Ma Cà Rồng Tây Bắc (1)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/84381",
+      "file": "0040 - Chương 39 Ma Cà Rồng Tây Bắc (1).txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Chương 40: Ma Cà Rồng Tây Bắc (2)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/85802",
+      "file": "0041 - Chương 40 Ma Cà Rồng Tây Bắc (2).txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Chương 41: Ma Cà Rồng Tây Bắc (3)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/89766",
+      "file": "0042 - Chương 41 Ma Cà Rồng Tây Bắc (3).txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Chương 42: Nợ Em Một Đời",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/90738",
+      "file": "0043 - Chương 42 Nợ Em Một Đời.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Chương 43: Xin Lỗi Em, Cục Cưng",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/91823",
+      "file": "0044 - Chương 43 Xin Lỗi Em, Cục Cưng.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Chương 44: Không Giận Cục Cưng",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/92897",
+      "file": "0045 - Chương 44 Không Giận Cục Cưng.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Chương 45: Say Xỉn Làm Chuyện Xấu",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/94904",
+      "file": "0046 - Chương 45 Say Xỉn Làm Chuyện Xấu.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Chương 46: Chừng Nào Chịu Cưới Em?",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/95816",
+      "file": "0047 - Chương 46 Chừng Nào Chịu Cưới Em.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Chương 47: Cục Cưng Ơi, Nhớ Em",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/96689",
+      "file": "0048 - Chương 47 Cục Cưng Ơi, Nhớ Em.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Chương 48: Xứng Đôi Vừa Lứa",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/97708",
+      "file": "0049 - Chương 48 Xứng Đôi Vừa Lứa.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Chương 49: Hẹn Hò Ở Chợ Quỷ",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/100469",
+      "file": "0050 - Chương 49 Hẹn Hò Ở Chợ Quỷ.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Chương 50: Người Yêu Dấu Của Em Ơi",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/101885",
+      "file": "0051 - Chương 50 Người Yêu Dấu Của Em Ơi.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Chương 51: Độc Tình (1)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/103377",
+      "file": "0052 - Chương 51 Độc Tình (1).txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Chương 52: Độc Tình (2)",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/123710",
+      "file": "0053 - Chương 52 Độc Tình (2).txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Chương 53: Hẹn Hò Hồ Tây",
+      "url": "https://rookies.vn/truyen/tieng-long-ngam-bong-chieu/130479",
+      "file": "0054 - Chương 53 Hẹn Hò Hồ Tây.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T19:41:17+07:00",
+  "updated_at": "2026-10-01T19:51:41+07:00",
+  "chapter_count": 54,
+  "done_count": 54
+}

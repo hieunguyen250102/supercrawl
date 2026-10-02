@@ -1,0 +1,299 @@
+Chương 19: Trùng hợp
+
+Dự án Dulan không chỉ là một hạng mục đầu tư. Nó là bài kiểm tra sự ăn ý giữa các bộ phận chủ lực. Và trong căn phòng này, tâm điểm của cuộc họp không ai khác chính là Mộ Tổng, giám đốc chiến lược cấp cao của dự án. Một cái tên chỉ thoáng xuất hiện trong nhiều biên bản nội bộ, nay đã chính thức lộ diện công khai.
+
+Ngay từ những phút đầu tiên, bầu không khí trong phòng họp đã được kéo căng như dây đàn. Ngoài vài lời trao đổi thủ tục ban đầu, không ai thực sự lên tiếng. Nhưng ánh mắt các giám đốc âm thầm quét qua từng vị trí, chờ đợi tín hiệu mở đầu từ người sẽ cầm trục xoay chiến lược.
+
+Và khi giọng nói ấy cất lên, không khí như được định hình lại.
+
+Mộ Huyền Noãn dời mắt về phía màn hình cảm ứng cỡ lớn ở đầu bàn họp. Một cú chạm nhẹ từ thiết bị điều khiển trước mặt, lập tức khiến giao diện hiển thị thay đổi. Cô mở từng biểu mục dữ liệu then chốt, phóng đại một số cụm thông tin trọng yếu, rồi ngẩng đầu, quét mắt nhìn các giám đốc.
+
+"Thay vì bàn đến những nguy cơ tiềm ẩn, tôi đề nghị bắt đầu từ năng lực thích ứng của từng bộ phận. Đây là báo cáo cập nhật từ phòng Kế hoạch trong tuần thứ chín." Mộ Huyền Noãn dừng lại một nhịp, ánh mắt khẽ chuyển hướng. "Giám đốc Triệu, cô có thể nói thêm về phần này chứ?"
+
+Từ đầu buổi họp đến giờ, Mộ Huyền Noãn gần như không chen vào bất kỳ luận điểm nào, chỉ im lặng lắng nghe. Nhưng giây phút này, lời mời của cô tựa như nước đi đầu tiên được đặt xuống bàn cờ.
+
+Triệu Bách Nhã vẫn giữ nguyên nét điềm tĩnh, không ngạc nhiên, cũng chẳng nhìn sang. Chỉ thấy đầu ngón tay cô nhẹ nhàng trượt trên màn hình cảm ứng ngay sau câu nói của Mộ Huyền Noãn.
+
+Mặt bàn cảm ứng lập tức chuyển giao diện, hiện lên biểu đồ cột thể hiện tiến độ triển khai theo từng phân nhánh. Không cần bất kỳ ghi chú nào, cô đọc chính xác từng con số, từng đường xu hướng trên màn hình như thể chúng đã in sẵn trong trí nhớ.
+
+"Trong tuần thứ chín, nhóm Kế hoạch đã hoàn tất rà soát và đối chiếu dữ liệu với các bộ phận vận hành. Biểu đồ này phản ánh mức độ hoàn thành theo từng giai đoạn triển khai." Giọng cô trầm ổn, không lên cao một nhịp nào nhưng vẫn đủ khiến cả căn phòng lặng đi. "Độ trễ hiện tại tại phân nhánh hạ tầng dao động từ 8 đến 12%, cao hơn gấp đôi so với mức trung bình."
+
+Triệu Bách Nhã vừa dứt lời, phòng họp lặng đi một nhịp. Màn hình vẫn sáng, những cột màu đỏ trên biểu đồ lặng lẽ phơi bày mức trễ như một lời buộc tội không cần lời.
+
+Một tiếng ho khẽ vang lên. Giám đốc Mã phụ trách vận hành tổng thể, ngả nhẹ người ra sau, khóe môi kéo lên một nụ cười xã giao quen thuộc.
+
+"Giám đốc Triệu." Ông cất giọng chậm rãi. "Tôi cho rằng số liệu từ phòng Kế hoạch chưa phản ánh toàn diện tình hình thực tế. Bộ phận chúng tôi... không hẳn là nguyên nhân chính gây ra độ trễ như cô đề cập. Vẫn còn một số yếu tố liên quan đến chu trình điều phối, và dĩ nhiên, việc phân tích phải đặt trong bối cảnh cụ thể."
+
+Câu cuối tuy nhẹ, nhưng lại khéo léo thổi lên nghi vấn về tính xác thực của số liệu. Đó không chỉ là lời phản bác, mà còn là phép thử ngầm để đo đếm tầm ảnh hưởng của Triệu Bách Nhã trước mặt các vị giám đốc.
+
+Vài ánh mắt liếc nhau, phần lớn dừng lại ở Mộ Huyền Noãn, người cho đến giờ vẫn chưa thật sự thể hiện thái độ.
+
+Nhưng Mộ Huyền Noãn không lên tiếng ngay. Cô chỉ khẽ cúi đầu, ánh mắt vẫn hướng về bảng điều khiển.
+
+Một cú chạm khác, nhẹ và dứt khoát. Màn hình lập tức thay đổi.
+
+Giao diện lúc này chuyển sang biểu đồ dẫn truyền dữ liệu nội bộ giữa các phòng ban. Những đường tuyến kết nối được đánh dấu rõ ràng bằng sắc độ. Xanh cho đúng hạn, vàng cho chậm nhẹ, đỏ cho quá hạn.
+
+Phân nhánh do Giám đốc Mã phụ trách, gần như được phủ bằng những đoạn đỏ liền nhau.
+
+Hình ảnh này chính là lời đáp xác đáng nhất.
+
+Mộ Huyền Noãn không nhìn vào màn hình, cô chậm rãi ngước mắt sang Giám đốc Mã, rồi quét một vòng ánh nhìn khắp căn phòng.
+
+"Bởi vì nghi ngờ số liệu từ phòng Kế hoạch chưa hoàn toàn phản ánh đúng thực tế, tôi đã chủ động kiểm tra lại toàn bộ dữ liệu gốc trên hệ thống theo thời gian thực trước cuộc họp này." Cô dừng một nhịp, môi khẽ cong lên nụ cười lịch sự, nhưng không hề khoan nhượng. "Có vẻ như báo cáo của Giám đốc Triệu không chỉ chính xác, mà còn khá nhẹ tay."
+
+Một tiếng xoẹt nhẹ vang lên từ màn hình khi hệ thống chuyển sang giao diện dữ liệu gốc. Ở cột cập nhật trạng thái, bảng điểm hiệu suất phản hồi được tự động hiển thị theo từng khung giờ, và màu đỏ gần như bao phủ toàn bộ khu vực vận hành.
+
+Không gian phòng họp im ắng đến mức mọi âm thanh đều trở nên rõ nét.
+
+Mộ Huyền Noãn không nói gì thêm, ngón tay nhẹ gõ vào cạnh bảng điều khiển, từng tiếng cộc cộc vang lên như nhịp đếm đều đặn.
+
+Câu hỏi của cô được gửi thẳng đến Đình Hạo.
+
+"Lâm Tổng, ngài nghĩ thế nào?"
+
+Cô không cần lý lẽ, chỉ cần quyền lực lên tiếng.
+
+Ngay lúc đó, ánh mắt mọi người đều rời khỏi màn hình, không ai còn chú ý đến biểu đồ nữa.
+
+Đình Hạo, từ đầu đến giờ vẫn như pho tượng trầm mặc, bây giờ mới khẽ nhướng mày. Ông gác tay lên bàn, ánh nhìn lướt qua màn hình rồi dừng lại trên gương mặt Mộ Huyền Noãn.
+
+"Ở cấp chiến lược, mọi đánh giá đều đã dựa trên dữ kiện."
+
+Ông ngả người về trước, ánh mắt sắc lạnh xoáy thẳng vào Giám đốc Mã. Lần này, giọng ông không còn mang tính thảo luận, mà như một chỉ thị dứt khoát.
+
+"Nếu phòng Vận hành có căn cứ phản biện. Hãy gửi số liệu đối chiếu trước phiên họp tuần tới."
+
+Chỉ một lời, đã đảo chiều cán cân quyền lực trong căn phòng.
+
+Sau đó, cuộc họp tiếp tục trong không khí giảm bớt căng thẳng, nhưng vẫn không hề nhẹ nhõm. Gần hai tiếng trôi qua, các chủ điểm lần lượt được trình bày, trao đổi, đối chiếu và rà soát chéo. Những điều chỉnh chiến lược, khung kế hoạch tài khóa và phân bổ nhân lực cho từng giai đoạn đều được kiểm soát kỹ lưỡng. Dù là những giám đốc cấp cao lão luyện, cũng không ai dám lơ là trong từng câu chữ.
+
+Cuối buổi, khi những con số và biểu đồ đã dần lui xuống phía sau, Mộ Huyền Noãn vẫn giữ tư thế đoan trang, tay đặt gọn trên đùi, nét mặt bình thản như không có điều gì đáng lưu tâm. Nhưng nếu để ý kỹ, sẽ thấy ánh mắt cô, trong vài khoảnh khắc ngắn đã khẽ nghiêng sang bên phải, nơi Triệu Bách Nhã đang ngồi.
+
+Và rồi, biểu cảm ấy chỉ thực sự thay đổi khi Đình Hạo chậm rãi đứng dậy.
+
+"Mộ Tổng, Giám đốc Triệu là nhân sự do ACE trực tiếp điều động, với toàn quyền điều phối chiến lược cho dự án Dulan." Ông nghiêng người nhẹ, như một phép lịch sự dành cho cả hai phía, rồi dừng ánh mắt ở chỗ Mộ Huyền Noãn, giọng nói mang hàm ý rõ ràng. "Tôi tin Mộ Tổng sẽ có tiếng nói chung với cô ấy."
+
+Ngay khoảnh khắc ấy, Mộ Huyền Noãn mỉm cười, ánh mắt sáng lên một nấc rất nhỏ.
+
+"Đúng vậy. Tôi cũng nghĩ không ai phù hợp hơn Giám đốc Triệu."
+
+Cô từ tốn đứng dậy, đưa bàn tay ra trước, cử chỉ trôi chảy như đã trải qua hàng trăm cuộc họp cấp cao. Nét cười nơi môi vẫn dịu dàng, nhưng trong ánh mắt đã thấp thoáng một điều gì đó vượt lên trên sự xã giao thông thường.
+
+"Nghe danh Giám đốc Triệu đã lâu. Rất vui vì chúng ta đã có dịp hợp tác." Mộ Huyền Noãn giữ cánh tay đã đưa ra, trang nhã chờ đợi phản hồi từ Triệu Bách Nhã.
+
+Dưới sự dẫn dắt của Mộ Huyền Noãn, Triệu Bách Nhã ngẩng đầu, ánh mắt sắc bén phân tích từng cử chỉ, sắc thái trong giọng nói đối phương. Nhưng cô không do dự, cũng không để khoảng trống nào trở nên gượng gạo. Chỉ một nhịp hít thở, cô đứng dậy từ tốn, động tác không vội vàng, đồng thời đưa tay bắt lấy bàn tay Mộ Huyền Noãn với lực vừa phải.
+
+Sự kiểm soát của Triệu Bách Nhã rất hoàn hảo, cô không rút tay vội mà giữ lại khoảnh khắc tôn trọng, thể hiện sự chuyên nghiệp không lời.
+
+"Rất hân hạnh, Mộ Tổng."
+
+Cái bắt tay giữa hai người phụ nữ, một người đại diện cho chiến lược lõi, một người đại diện cho quyền lực điều phối, thoáng qua trong tích tắc nhưng lại tạo nên một hiệu ứng lan tỏa mạnh mẽ.
+
+Ngay lập tức, tiếng vỗ tay đồng loạt vang lên khắp căn phòng.
+
+Cuộc họp chính thức khép lại. Không khí căng thẳng ban đầu dần nhường chỗ cho những cuộc trao đổi ngắn giữa các giám đốc bộ phận. Những cái gật đầu hài lòng, tiếng thì thầm trao đổi thoáng qua nhau, mọi người rời khỏi chỗ ngồi, tiếng ghế da lướt nhẹ, và bước chân vang vọng trên nền đá sáng bóng.
+
+Mộ Huyền Noãn khẽ nghiêng người, lịch sự tiếp đón vài người tiến lại gần. Một số chỉ dừng lại ở xã giao, số khác thực sự mong muốn xây dựng mối quan hệ lâu dài. Cô không từ chối ai, đôi vai thẳng, nở một nụ cười hòa nhã. Nhưng dù lời nói trôi chảy, ánh mắt cô luôn di chuyển đúng chỗ, tâm trí chưa bao giờ rời khỏi một người.
+
+Sau vài câu trao đổi ngắn với Đình Hạo, Triệu Bách Nhã chậm rãi rời khỏi phòng họp. Bóng lưng cô dần khuất sau cánh cửa lớn, bước đi vững vàng, tự tại, như khi cô bước vào.
+
+Mộ Huyền Noãn nhìn theo, nhưng không hề vội đuổi theo. Cô đứng đó, hoàn tất những câu chào với sự nhã nhặn, ánh mắt không một lần lộ ra sự gấp gáp hay dao động.
+
+Bởi lẽ, từng bước đi tiếp theo đã nằm trong một sự tính toán tỉ mỉ.
+
+--------
+
+Ngoài đại sảnh, ánh chiều muộn hắt nghiêng qua lớp kính lớn, trải dài trên nền đá sáng bóng như một lớp mạ mỏng óng ánh. Vài vệt nắng cuối ngày len qua tán cây, rơi lặng lẽ lên dãy ghế chờ bọc da, nhuộm khung cảnh một màu trầm ấm.
+
+Triệu Bách Nhã vừa bước ra từ thang máy, dáng đi thẳng, từng bước chân đều đặn và dứt khoát. Khi cô định rẽ về phía cửa chính thì một giọng gọi từ phía sau vang lên.
+
+"Chị Triệu! Chị Triệu!"
+
+Gia Mẫn chạy vội tới, mái tóc xoăn ngắn đung đưa theo từng bước, tay vẫn khư khư ôm túi tài liệu như thể vừa vội vã rời khỏi văn phòng.
+
+Triệu Bách Nhã dừng lại. Cô không hỏi, chỉ hơi nghiêng đầu, ánh mắt nghiêm tĩnh nhìn Gia Mẫn, như chờ một lời giải thích, hoặc một lý do hợp lý.
+
+Gia Mẫn thở gấp, đứng thẳng dậy, rồi lí nhí lên tiếng.
+
+"Em biết là chị không cần ai đưa đón... nhưng vẫn muốn tới." Giọng cô nhỏ dần, hai bàn tay theo phản xạ đan chặt vào nhau, vừa hồi hộp vừa lưỡng lự. "Chị họp cả chiều rồi, chắc mệt lắm đúng không ạ? Nếu chị không có hẹn gì gấp... chị đi ăn một chút nhé? Em chọn đúng quán chị hay ăn rồi, lần này không nhầm đâu ạ."
+
+Triệu Bách Nhã im lặng một lúc. Ánh mắt cô dừng lại trên đôi môi mím chặt của Gia Mẫn. Hôm nay có vài chuyện khiến cô muốn yên tĩnh hơn thường lệ. Cô đã định sẽ về thẳng khách sạn, không muốn tiếp xúc thêm ai, càng không muốn để tâm trí bị kéo vào thêm một điều gì khác.
+
+Nhưng trước sự nhiệt thành có phần vụng về kia, cô chỉ yên lặng cân nhắc, rồi quyết định chấp thuận, đơn giản vì điều đó chẳng gây xáo trộn gì đáng kể.
+
+"Được rồi, đi ăn một chút."
+
+Gia Mẫn hơi khựng lại, như chưa kịp tin vào tai mình. Nhưng chỉ giây sau, một nụ cười đã hiện trên môi cô, ánh mắt rạng rỡ hẳn.
+
+"Vâng ạ."
+
+Hai người sóng bước rời khỏi đại sảnh. Không gian thoáng lạnh khi cánh cửa tự động mở ra, mang theo âm thanh đường phố bắt đầu lên đèn. Ánh chiều loang xuống nền đá, đổ bóng họ dài ra, kéo theo cả một khoảng yên lặng không tên.
+
+Bên trong chiếc xe, không gian yên tĩnh, chỉ có âm thanh nhẹ nhàng của động cơ và tiếng bánh xe lăn trên mặt đường. Triệu Bách Nhã không phủ nhận, sau cuộc gặp bất ngờ hôm nay, không khí xung quanh dường như vẫn còn phảng phất hương vị của quá khứ. Từng ánh mắt, từng lời nói, dù đã cố tách khỏi cảm xúc, vẫn không khỏi khơi lên một dòng suy nghĩ mơ hồ trong tâm trí.
+
+Gia Mẫn ngồi ở ghế phụ phía trước, tay vẫn giữ chiếc điện thoại. Ngón tay cô nhanh chóng gõ những dòng tin nhắn cho Mộ Huyền Noãn, gương mặt không giấu nổi vẻ hào hứng.
+
+"Chị Noãn, chị đúng là quân sư xịn nhất của em luôn á! Sếp em vừa đồng ý đi ăn rồi, em mừng quá trời."
+
+Tin nhắn vừa gửi đi, Gia Mẫn còn chưa kịp đặt điện thoại xuống thì màn hình đã sáng lên. Một dòng thông báo từ Siêu Cấp Tiên Nữ ✨, mang theo lời nhắn ngỡ như tình cờ.
+
+"Thật trùng hợp. Chị vừa nhận công việc mới, lại được mời ăn tối đúng chỗ đó. Biết đâu có duyên, sẽ gặp em."
+
+Ngón tay vừa vuốt gửi tin còn chưa kịp rời khỏi màn hình, khóe môi Mộ Huyền Noãn đã khẽ cong lên một nụ cười. Ánh mắt cô vẫn dừng lại nơi ánh sáng mờ từ màn hình điện thoại, nhưng ý thức thì đã lặng lẽ trôi về phía người đàn ông đang đứng cách đó không xa.
+
+Hắn chính là người Phó tổng Lữ lấp lửng nhắc đến. Trước khi cuộc họp bắt đầu, đã vài lần chủ động tiếp cận Triệu Bách Nhã bằng vẻ thân thiện thái quá, liên tục tỏ ý giúp đỡ, ra chiều như một anh hùng đang chờ cơ hội ra tay cứu mỹ nhân. Nhưng khi không đạt được kết quả, hắn liền trở mặt, chẳng ngần ngại chê bai Giám đốc Triệu kiêu ngạo, cho rằng cô chỉ biết dựa vào sắc đẹp, làm sao có thể so bì với Mộ Tổng.
+
+Mộ Huyền Noãn bước chậm về phía hắn, gót giày gần như không phát ra âm thanh. Khi chỉ còn cách vài bước, cô dừng lại. Đầu hơi nghiêng, ánh mắt cong khẽ dưới hàng mi dài, vừa như cười vừa như không.
+
+"Giám đốc Lâm lén nhìn tôi lâu như vậy... thật khiến người khác dễ hiểu lầm đấy."
+
+Giọng cô nhẹ như gió thoảng, không mang ý trách cứ, chỉ như một câu bông đùa thả lửng, vừa đủ để người đối diện thoáng khựng lại trong thoáng chốc.
+
+Lâm Kiến Vũ quả nhiên hơi sững người, nhưng rất nhanh đã lấy lại dáng vẻ tự tin, kéo môi cười, giọng có phần pha trò.
+
+"Nếu tôi nói là đang chờ Mộ Tổng chủ động bắt chuyện trước. Liệu có bị cho là tính toán không?"
+
+Giọng Mộ Huyền Noãn mềm như lớp đường tan chậm trên đầu lưỡi, phủ lên câu nói tưởng như vô tình một lớp ý vị chẳng hề ngẫu nhiên.
+
+"Vậy trong phép tính ấy, Giám đốc Lâm có định mời tôi đi ăn không?"
+
+Câu hỏi buông ra như làn khói trà vừa bốc, lượn lờ nơi không trung rồi tan biến, để lại dư vị khiến cổ họng Lâm Kiến Vũ khẽ động. Chẳng rõ vì ngỡ ngàng hay vì nuốt chậm cảm xúc, nhưng trước khi hắn kịp đáp, cô đã khẽ nghiêng người, giọng nhỏ hơn mà vẫn đầy chủ động, dẫn dắt.
+
+"Tôi biết một nhà hàng không tệ... chỉ thiếu một người ngỏ lời mời."
+
+Đã từng có lúc hắn nghĩ Mộ Huyền Noãn như cánh cửa không có tay nắm, chỉ có thể nhìn mà không thể mở. Vậy mà giờ đây, người phụ nữ ấy lại chủ động hé cửa, mời hắn bước vào.
+
+Lâm Kiến Vũ thầm cười, nụ cười không hiện trên môi mà lan dần trong ánh mắt và từng thớ cơ mặt. Hắn chẳng rõ đây là may mắn hay phần thưởng, chỉ biết rằng đây là cơ hội không thể bỏ lỡ.
+
+"Vậy Mộ Tổng, tôi được phép mời cô một bữa tối chứ?"
+
+Câu hỏi vừa dứt, Mộ Huyền Noãn đã mỉm cười, ánh nhìn ẩn ý như đang thưởng thức một đoạn nhạc đã được dàn sẵn.
+
+"Tôi chờ câu này khá lâu rồi."
+
+Chưa đầy mười phút sau, một chiếc Mercedes bạc bóng loáng đỗ lại trước cửa chính tổng bộ Lâm Thị. Nhân viên lễ tân vội vàng cúi chào, ánh mắt không giấu nổi sự tò mò khi lướt nhanh về phía người phụ nữ đang bước ra từ toà nhà.
+
+Lâm Kiến Vũ đứng bên cạnh, ánh mắt lướt qua những cái nhìn quanh mình với một niềm tự mãn khó che giấu. Nụ cười nơi khóe môi hắn không lớn, nhưng đủ để khiến người ta nhận ra hắn đang ở trung tâm. Giữa những ánh mắt dõi theo, chút ghen tị xen lẫn hiếu kỳ chính là lời tán thưởng, và hắn đón nhận điều đó như một phần thưởng xứng đáng cho kẻ không bỏ lỡ cơ hội.
+
+"Mộ Tổng, mời cô."
+
+Kiến Vũ lịch thiệp mở cửa xe.
+
+Mộ Huyền Noãn hơi nghiêng đầu cảm ơn, dáng vẻ thản nhiên nhưng không hề xa cách. Ánh đèn từ sảnh lớn phản chiếu lên vạt áo khoác của cô, khiến bóng hình ấy như được khắc lên một khuôn sáng nổi bật.
+
+Cô bước vào xe với sự tự nhiên của người đã quen với vị trí cao hơn người khác một bậc. Khi cửa xe khép lại, không khí xung quanh như được rút bớt một nhịp, trở lại cuộc sống thường nhật. Người ta có thể nghe thấy những lời thì thầm trao đổi, nhưng không ai dám nhìn quá lâu về phía chiếc xe đang lăn bánh rời đi.
+
+Trong xe, Mộ Huyền Noãn ngồi với tư thế thoải mái, lưng tựa nhẹ vào ghế, tay vẫn giữ chiếc điện thoại đang hiện một tin nhắn mới từ Gia Mẫn. Cô không vội phản hồi, chỉ lướt nhanh qua nội dung, rồi chậm rãi nhấn mở, ánh mắt chuyên chú nhưng không nôn nóng.
+
+Lâm Kiến Vũ nhìn vào gương chiếu hậu, ánh mắt vô thức tìm kiếm phản ứng từ người phụ nữ ngồi sau xe. Khuôn mặt điềm tĩnh của cô phản chiếu một vẻ xa cách rất khẽ, nhưng đủ khiến hắn nhận ra sự im lặng này không hoàn toàn là khoảng trống, mà là một lựa chọn.
+
+Đắn đo một giây, hắn quyết định phá vỡ sự tĩnh lặng ấy bằng một câu hỏi không quá trực diện nhưng cũng đủ để kéo cô vào cuộc trò chuyện.
+
+"Mộ Tổng có bí quyết gì để giữ được cân bằng giữa công việc và các mối quan hệ cá nhân không?"
+
+Hắn không vồn vã, giữ một khoảng cách vừa phải. Nhưng Mộ Huyền Noãn chỉ thoáng liếc nhìn lên gương chiếu hậu, ánh mắt chạm vào mắt hắn trong tích tắc, rồi rời đi như chưa từng có cuộc giao thoa nào.
+
+"Tôi không cân bằng. Chỉ phân loại ai đáng để dành thời gian, ai thì không."
+
+Cô thong thả đáp lại, rồi cúi đầu tiếp tục với chiếc điện thoại trong tay. Những ngón tay thon dài di chuyển chậm rãi, nhịp nhàng như thể mọi thứ ngoài màn hình kia đều chỉ là phông nền mờ nhạt, không đáng để cô dừng lại.
+
+------------
+
+Gia Mẫn chọn một nhà hàng lâu đời, được giới sành ăn truyền tai nhau bởi sự tinh tế trong từng món ăn và phong cách phục vụ trầm tĩnh, kín đáo. Không gian được chia thành nhiều khu, một bên phục vụ món Nhật với quầy sushi mở, một bên chuyên món Hoa truyền thống, phía trong cùng là quầy bar nhỏ dành cho khách chuộng sự riêng tư.
+
+Ban đầu, cô chỉ định sắp xếp chỗ ngồi, đưa Triệu Bách Nhã vào, rồi lặng lẽ rút lui như thường lệ. Không ngờ, khi vừa xoay người định rời đi, cô nghe giọng nói nhẹ nhàng của đối phương vang lên.
+
+"Đã đến rồi thì vào ăn luôn đi."
+
+Gia Mẫn còn trẻ, chưa từng trải qua những bữa tiệc mang nhiều tầng nghĩa xã giao phức tạp, và luôn thận trọng tuân thủ những quy tắc ngầm vốn tồn tại. Mặc dù đã theo sát Triệu Bách Nhã một thời gian, lần đầu được ngồi ăn cùng cấp trên vẫn khiến cô không khỏi bỡ ngỡ.
+
+Nhưng sếp đã chỉ định, không thể không làm theo. Chỉ là đối diện Triệu Bách Nhã, một người kín đáo, khó đoán, và luôn giữ khoảng cách. Gia Mẫn khó tránh khỏi cảm giác căng thẳng.
+
+Những món ăn được dọn lên bàn đều mang nét thanh đạm và khéo léo đặc trưng của ẩm thực Nhật. Một phần trứng hấp nóng hổi, lớp trứng hấp mềm mịn như lụa, thoảng hương dashi và nấm hương dịu nhẹ. Những cuộn sushi vừa tay, bày biện tinh xảo như tác phẩm nghệ thuật nhỏ, với những lát cá ngừ, bạch tuộc thái mỏng xếp ngay ngắn trên nền gốm trắng. Tất cả toát lên sự tỉ mỉ khiến người ta không nỡ phá vỡ.
+
+Không gian yên tĩnh đến mức tiếng đũa chạm nhẹ vào thành đĩa và tiếng nước trà rót vào tách gốm trở nên nổi bật. Gia Mẫn ngồi đối diện, thận trọng cầm đôi đũa, cố gắng ăn một cách nhẹ nhàng nhất, nhưng tay vẫn không tránh khỏi run rẩy. Cô biết mình không nên mất bình tĩnh, nhưng càng cố giấu, nét ngượng ngùng trong từng cử động lại càng lộ rõ.
+
+Triệu Bách Nhã đối diện, đôi đũa gỗ mun trong tay cô được giữ khéo léo, ngón tay thon dài giữ đúng điểm, vững mà nhẹ. Cô gắp một miếng sushi, khẽ chấm vào nước tương, rồi nghiêng cổ tay thanh thoát đưa lên môi. Ánh mắt cô không hề lay chuyển, hoàn toàn tách biệt với sự bối rối hiện rõ trên khuôn mặt Gia Mẫn.
+
+Lúc đó, điện thoại trong túi Gia Mẫn khẽ rung. Nhận thấy có thể là tin nhắn quan trọng, cô lịch sự đứng dậy, nhẹ nhàng xin phép Triệu Bách Nhã rồi bước ra ngoài.
+
+Gia Mẫn lấy điện thoại từ trong túi áo. Màn hình hiện lên tên người gửi Siêu Cấp Tiên Nữ ✨
+
+"Em ăn xong chưa?"
+
+Dù đã quen thuộc, nhưng mỗi lần nhìn thấy cái tên ấy, Gia Mẫn vẫn không kìm được nụ cười.
+
+Cô nhanh tay trả lời.
+
+"Em mới bắt đầu món chính. Chị ăn gì rồi?"
+
+Phía bên kia trả lời gần như ngay lập tức.
+
+"Chị vừa đến. Chưa kịp gọi món đã bị ép uống hai ly sake rồi."
+
+Gia Mẫn tròn mắt, gõ vội một chữ.
+
+"What...!!!!!"
+
+Chỉ chốc lát sau, màn hình sáng lên.
+
+"Chút nữa ăn xong, chị đợi em ngoài nhà hàng. Lần này, em phải giúp chị đấy Tiểu Mẫn."
+
+Ba chữ "phải giúp chị" khiến Gia Mẫn ngẩn người. Cô biết rõ Mộ Huyền Noãn không bao giờ cầu cứu ai nếu không thật sự cần thiết. Và tin nhắn ấy rõ ràng là một dấu hiệu cảnh báo.
+
+Nghĩ vậy, Gia Mẫn ngay lập tức quay trở lại bàn ăn.
+
+Khác hẳn vẻ dè dặt lúc đầu, lần này cô không còn giữ kẽ nữa. Miếng sushi nhỏ trên đĩa được cô gắp thẳng vào miệng, động tác dứt khoát, gọn gàng. Không còn là sự lúng túng vụng về, mà là vội vã một cách kín đáo, như đang đếm từng giây để kịp thời tiếp ứng cho Mộ Huyền Noãn.
+
+Đối diện, Triệu Bách Nhã khẽ nhìn cô một cái. Ánh mắt không hàm ý dò xét, cũng chẳng hứng thú, chỉ là một cái nhìn hờ hững mang tính quan sát, bình thản đến mức khiến người ta không dám nói dối.
+
+Một lúc sau, cô nhàn nhạt mở lời, giọng không nhanh không chậm.
+
+"Nếu đói thì gọi thêm."
+
+Gia Mẫn ngẩng đầu lên, đối diện ánh nhìn phẳng lặng kia, tim bất giác đập chậm một nhịp.
+
+Cô mím môi, định nói gì đó nhưng chỉ nhẹ lắc đầu.
+
+"Không cần đâu ạ... Em ăn đủ rồi."
+
+Triệu Bách Nhã không đáp lại, cũng không biểu lộ thái độ. Cô nhẹ nhàng nghiêng tay, gắp một miếng sashimi đặt vào đĩa riêng, động tác chậm rãi như cũ. Nhưng dưới lớp vỏ điềm tĩnh đến vô cảm ấy, cô đã chậm rãi ghi nhận từng chi tiết nhỏ nhất nơi đối diện.
+
+Mỗi phút trôi qua, lòng Gia Mẫn càng thêm sốt ruột, đầu óc căng lên vì tin nhắn vừa rồi của Mộ Huyền Noãn. Cô nghĩ, nếu Mộ Huyền Noãn bị đồng nghiệp ép uống rượu, thì mọi chuyện phía trước e rằng sẽ không còn đơn giản.
+
+Sau món chính, một nhân viên phục vụ tiến đến từ phía sau, đặt nhẹ khay tráng miệng xuống bàn. Hai phần bánh mousse trà xanh được trình bày gọn gàng trên đĩa sứ, kèm theo một ly nước detox thanh mát.
+
+Gia Mẫn cầm thìa, đưa miếng mousse đầu tiên vào miệng.
+
+Triệu Bách Nhã nghiêng mắt, lướt qua khuôn miệng mím chặt, vết giãn căng nơi khóe mắt và bờ vai hơi nhấc lên của Gia Mẫn. Chờ đến khi cô đặt thìa xuống dù tiếng động rất nhẹ, Triệu Bách Nhã vẫn đúng lúc lên tiếng.
+
+"Đi thôi."
+
+Triệu Bách Nhã không động đến phần tráng miệng. Cô cầm lấy áo khoác trên ghế, đứng dậy, động tác không nhanh nhưng dứt khoát.
+
+Gia Mẫn vội đứng lên theo, suýt chút nữa va vào mép bàn. Cô lúng túng kéo nhẹ gấu váy, nhanh chân bước theo sau.
+
+Bước chân Triệu Bách Nhã không nhanh, nhưng mỗi nhịp đi đều mang một tiết tấu vững vàng. Gia Mẫn đi sau, nhiều lần định mở miệng, rồi lại nuốt xuống.
+
+Gió đêm đầu hạ luồn qua những khe hẹp giữa các toà nhà cao tầng, mang theo mùi hương đặc trưng pha trộn của thành phố. Hương nước hoa thoảng qua trên áo người đi đường, hòa cùng mùi khói xiên nướng từ góc chợ đêm, xen lẫn hơi ẩm bốc lên từ vỉa hè vừa được dội nước. Tất cả quyện vào nhau, vẽ nên một Đài Bắc sống động và đầy sắc màu.
+
+Gia Mẫn vô thức liếc nhìn xung quanh. Một ánh sáng từ biển hiệu bên đường hắt lên thân chiếc xe đen bóng đậu chếch dưới tán cây, mặt kính cửa sổ phản chiếu bóng dáng người quen thuộc. Tóc cô buông xõa mềm mại, ánh tím dưới đèn thành phố như phủ một lớp sương mỏng, hai gò má ửng hồng vừa mới uống rượu, ánh mắt thoáng chút mơ màng nhưng dáng đứng vẫn vững vàng, không hề mất kiểm soát.
+
+Chỉ có điều... khoảng cách giữa cô và người đàn ông đứng cạnh quá mức gần gũi. Cánh tay anh đặt nhẹ trên khuỷu tay cô, như để đỡ lấy, nhưng ánh mắt lại chứa đựng một sự quan tâm vượt qua giới hạn bình thường.
+
+"Chị Mộ!"
+
+Tên gọi ấy vừa thoát ra khỏi miệng Gia Mẫn thì ngay lúc đó, bước chân Triệu Bách Nhã chậm lại rồi dừng hẳn.
+
+----
+
+Trong kế hoạch của Mộ Huyền Noãn, nếu Triệu Bách Nhã không đến nhà hàng này, thì sao?
+
+Cũng chẳng sao cả.
+
+Có thể là ở hành lang khách sạn, lúc vô tình bước ra cùng một thời điểm. Có thể là bên cửa thang máy, khi hai cánh cửa thép lạnh khép lại giữa ánh nhìn lướt qua. Một cuộc gọi từ lễ tân, một món quà gửi nhầm phòng... tất cả đều có thể trở thành những điểm chạm.
+
+Không cần cưỡng cầu, không cần truy đuổi, chỉ cần đủ khéo léo để mọi thứ trôi đi tự nhiên.
+
+Như vậy, sự gặp gỡ ấy mới thật sự mang dáng dấp của một sự trùng hợp.

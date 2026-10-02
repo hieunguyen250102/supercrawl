@@ -1,0 +1,312 @@
+{
+  "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen",
+  "site": "rookies",
+  "title": "BRENNEN",
+  "author": "Giangduha",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện ngắn",
+    "Tăm tối",
+    "Truyện sáng tác",
+    "Truyện Tội phạm",
+    "Truyện Tâm lý - Xã hội",
+    "Bộ đội/Cảnh sát",
+    "Hiện đại",
+    "Cảnh sát - Tội phạm",
+    "Phương Tây",
+    "Truyện Trinh thám",
+    "Truyện Đam mỹ",
+    "Kết OE",
+    "Đa nhân cách"
+  ],
+  "description": "Một mình trong phòng pháp y, gã lại say sưa phác họa toàn bộ tình trạng của thi thể vào quyển sổ tay. Người Đốt Đèn luôn thành công gợi nên sự nhiệt tình trong gã. Cái cách mà hắn xử lý thi thể thật đáng kinh ngạc.\n\nThể loại: Boylove, 18+, điều tra viên và pháp y, OE, tâm lý đen tối, Dyanne Gosselin là người song tính (và xã hội này xem chuyện đó là bình thường), 2 main đều không phải anh hùng vì đây không phải là truyện anh hùng, 2 main đều có tâm lý không bình thường.\nThị trấn của 2 đứa sống là Vergessen (Quên Lãng), thường gọi là Stadt des Vergessens vì đây là 1 thị trấn nhỏ bị bỏ rơi, không có tên trên bản đồ.",
+  "cover": "https://rookies.vn/uploads/user/185454Vynx/novels/2026_05/1000013609.png_1779774027.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Prologue",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103817",
+      "file": "0001 - Prologue.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "[Der Laternenanzünder] Những ngọn đèn bất thường tại Vergessen",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103818",
+      "file": "0002 - [Der Laternenanzünder] Những ngọn đèn bất thường tại Vergessen.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "[Der Laternenanzünder] Những ngọn đèn bất thường tại Vergessen (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103819",
+      "file": "0003 - [Der Laternenanzünder] Những ngọn đèn bất thường tại Vergessen (2).txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "[Gefangen] - Lại thêm một báo cáo cần chỉnh sửa",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103823",
+      "file": "0004 - [Gefangen] - Lại thêm một báo cáo cần chỉnh sửa.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "[Gefangen] Lại thêm một báo cáo cần chỉnh sửa (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103824",
+      "file": "0005 - [Gefangen] Lại thêm một báo cáo cần chỉnh sửa (2).txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "[Gefangen] Lại thêm một báo cáo cần chỉnh sửa (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103825",
+      "file": "0006 - [Gefangen] Lại thêm một báo cáo cần chỉnh sửa (3).txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "[Feuer] Trói buộc và giải phóng",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103829",
+      "file": "0007 - [Feuer] Trói buộc và giải phóng.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "[Feuer] Trói buộc và giải phóng (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103830",
+      "file": "0008 - [Feuer] Trói buộc và giải phóng (2).txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "[Feuer] Trói buộc và giải phóng (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103831",
+      "file": "0009 - [Feuer] Trói buộc và giải phóng (3).txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "[Heilen] Sự dịu dàng mê hoặc",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103832",
+      "file": "0010 - [Heilen] Sự dịu dàng mê hoặc.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "[Heilen] Sự dịu dàng mê hoặc (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103833",
+      "file": "0011 - [Heilen] Sự dịu dàng mê hoặc (2).txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "[Heilen] Sự dịu dàng mê hoặc (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103835",
+      "file": "0012 - [Heilen] Sự dịu dàng mê hoặc (3).txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "[Mein Gott] Tuyệt đối tuân phục (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103836",
+      "file": "0013 - [Mein Gott] Tuyệt đối tuân phục (1).txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "[Mein Gott] Tuyệt đối tuân phục (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103838",
+      "file": "0014 - [Mein Gott] Tuyệt đối tuân phục (2).txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "[Mein Gott] Tuyệt đối tuân phục (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103839",
+      "file": "0015 - [Mein Gott] Tuyệt đối tuân phục (3).txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "[Sackgasse] Dấu chấm hết (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103841",
+      "file": "0016 - [Sackgasse] Dấu chấm hết (1).txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "[Sackgasse] Dấu chấm hết (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103842",
+      "file": "0017 - [Sackgasse] Dấu chấm hết (2).txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "[Sackgasse] Dấu chấm hết (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103843",
+      "file": "0018 - [Sackgasse] Dấu chấm hết (3).txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "[Ich liebe dich] Ánh lửa cuối cùng(1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103848",
+      "file": "0019 - [Ich liebe dich] Ánh lửa cuối cùng(1).txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "[Ich liebe dich] Ánh lửa cuối cùng (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103849",
+      "file": "0020 - [Ich liebe dich] Ánh lửa cuối cùng (2).txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "[Ich liebe dich] Ánh lửa cuối cùng (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103850",
+      "file": "0021 - [Ich liebe dich] Ánh lửa cuối cùng (3).txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Ngoại truyện: Überlebende - Katze (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103852",
+      "file": "0022 - Ngoại truyện Überlebende - Katze (1).txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Ngoại truyện: Überlebende - Katze (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103853",
+      "file": "0023 - Ngoại truyện Überlebende - Katze (2).txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Ngoại truyện: Überlebende - Katze (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103855",
+      "file": "0024 - Ngoại truyện Überlebende - Katze (3).txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103856",
+      "file": "0025 - Ngoại truyện [In den Schwanz beißen] Katze (1).txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103857",
+      "file": "0026 - Ngoại truyện [In den Schwanz beißen] Katze (2).txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103858",
+      "file": "0027 - Ngoại truyện [In den Schwanz beißen] Katze (3).txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (4)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103859",
+      "file": "0028 - Ngoại truyện [In den Schwanz beißen] Katze (4).txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (5)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103861",
+      "file": "0029 - Ngoại truyện [In den Schwanz beißen] Katze (5).txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (6)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103862",
+      "file": "0030 - Ngoại truyện [In den Schwanz beißen] Katze (6).txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Ngoại truyện [In den Schwanz beißen] Katze (7)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/103863",
+      "file": "0031 - Ngoại truyện [In den Schwanz beißen] Katze (7).txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Ngoại Truyện: [Möge Gott über deine Seele wachen]",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/104081",
+      "file": "0032 - Ngoại Truyện [Möge Gott über deine Seele wachen].txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Ngoại Truyện: [Möge Gott über deine Seelewachen] 2",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/104676",
+      "file": "0033 - Ngoại Truyện [Möge Gott über deine Seelewachen] 2.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Ngoại Truyện: [Möge Gott über deine Seelewachen] 3",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/104677",
+      "file": "0034 - Ngoại Truyện [Möge Gott über deine Seelewachen] 3.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Ngoại truyện: Krause (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/105280",
+      "file": "0035 - Ngoại truyện Krause (1).txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Ngoại truyện: Krause (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/106381",
+      "file": "0036 - Ngoại truyện Krause (2).txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Ngoại truyện: Krause (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/106383",
+      "file": "0037 - Ngoại truyện Krause (3).txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Ngoại truyện: Traum Verloren (1)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/106751",
+      "file": "0038 - Ngoại truyện Traum Verloren (1).txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Ngoại truyện: Traum Verloren (2)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/108534",
+      "file": "0039 - Ngoại truyện Traum Verloren (2).txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Ngoại truyện: Traum Verloren (3)",
+      "url": "https://rookies.vn/truyen/brennen-nhung-cau-chuyen-o-vergessen/108535",
+      "file": "0040 - Ngoại truyện Traum Verloren (3).txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T19:55:02+07:00",
+  "updated_at": "2026-10-01T19:55:53+07:00",
+  "chapter_count": 40,
+  "done_count": 40
+}

@@ -1,0 +1,211 @@
+Chương 8: Chuẩn tinh 3C75
+
+Tàu Blackburn xuất phát đúng tám giờ sáng.
+
+Tiêu Kỳ đã ở khoang điều khiển từ trước đó nửa tiếng đặng kiểm tra hệ thống lần cuối. Emily nói rằng lần trước thiếu một con chủy thủ và rất bất tiện nên lần này đã mang theo đủ bộ gắn ở dây lưng, còn Nathanael lại rinh lên tàu một thùng thực phẩm tươi sống, chả mống nào gặng hỏi về nguồn gốc số tài nguyên nọ.
+
+Alan vừa đúng giờ lên tàu cuối cùng. Cậu gật đầu chào Tiêu Kỳ đang ở cửa khoang điều khiển rồi tìm chỗ ngồi trong khoang sinh hoạt.
+
+Python hiện ra từ mặt sàn ngay vào giây phút cậu vừa ngồi xuống. Con vật vảy đen chẳng buồn áp sát, chủ của nó đã nhắc nó từ trước, nó đứng ở ngưỡng cửa, nghển cổ nhìn Alan. Alan rủ mắt nhìn xuống, khẽ đáp "Chào mày"
+
+Python khẽ vẫy đuôi
+
+Lộ trình hướng tới chuẩn tinh 3C 75 chòm Kình Ngư mất bốn ngày đường theo tốc độ hành trình tiêu chuẩn của Blackburn; tuyến đường này buộc phải lách qua hai vùng nhiễu từ trường cường đại, khiến hành trình trở nên dài dặc.
+
+Nathanael miệt mài với các mẫu khoáng thạch từ TOI 2076b nơi khoang nghiên cứu; thi thoảng anh ta lại hào hứng mời gọi những kẻ khác vào đặng chiêm ngưỡng kết quả với một sự nhiệt tình chả mấy tương xứng với phản ứng hờ hững của người được gọi. Emily luyện tập đều đặn mỗi khắc tại một góc nhỏ được dọn nơi khoang hàng. Tiêu Kỳ vừa lái tàu vừa lẳng lặng đọc sách.
+
+Raymond ngồi ở khoang điều khiển nhiều hơn bình thường.
+
+Anh chẳng có phận sự gì tại chốn ấy, có thể tại vì nơi đó anh có thể ngồi nhưng không cần giải thích sự hiện diện của mình
+
+Alan dành thời gian nghiền ngẫm những trang sách cũ, sau lại tự giác chuẩn bị một bữa tối ấm nhuần cho cả đội vào ngày thứ hai của chu kỳ vận hành mà chả đợi một lời nhắc nhở nào. Đôi khi, cậu lại lặng lẽ nơi boong tàu ngoài, phóng tầm mắt qua lớp kính bảo hộ vào vùng hư vô mênh mang của vũ trụ.
+
+Python lẳng lặng theo Alan trong hầu hết mọi khoảnh khắc, Raymond chả hề hé môi hay đưa ra bất kì phê bình nào về sự gắn kết kì lạ nọ.
+
+Chuẩn tinh 3C 75 nhìn từ xa là một điểm sáng nhạt nhòa, nhưng khi nhích lại gần kề hơn, nó chầm chậm hiện lộ thành một quầng sáng mênh mang
+
+Nhìn gần hơn nữa, khi Blackburn thoát khỏi bước nhảy cuối và đi vào phạm vi quan sát trực tiếp, thì nó sẽ là thứ mà Emily gọi là đẹp theo kiểu làm người ta hiểu tại sao vũ trụ không cần loài người để tồn tại
+
+Chuẩn tinh phát sáng mạnh đến mức lấn át toàn bộ thiên hà chứa đựng nó, ánh sáng rực rỡ theo nhiều tần số cùng lúc, tạo ra những vầng màu chồng lên nhau mà màn lọc của Blackburn phải chạy hết công suất mới giảm xuống mức mắt người chịu đựng được.
+
+Ở rìa vùng cực sáng, hai lỗ đen đang hoạt động. Tiêu Kỳ phát hiện ra chúng qua cảm biến trước khi nhìn thấy tận mặt, hai vùng tối hoàn toàn giữa biển sáng, kéo không gian xung quanh vào theo những đường cong nhìn thấy được qua màn lọc chuyên dụng.
+
+"Mở bộ lọc, đừng đi vào vùng hút," Raymond nói từ khoang điều khiển.
+
+Tiêu Kỳ đã làm điều đó trước khi câu nói hoàn thành.
+
+Blackburn tiếp cận từ góc an toàn, đi theo quỹ đạo song song với vùng ảnh hưởng của lỗ đen thay vì đi thẳng vào. Từ trường của nơi này không mấy thân thiết với các vật ngoại lai, khoang tàu Blackburn cứ rung nhẹ theo từng đợt va chạm.
+
+"Mục tiêu là sinh vật lạ," Nathanael nhắc lại thông tin nhiệm vụ, đứng ở cửa khoang điều khiển, đã đeo một cặp kính quang học "Báo cáo khảo sát ban đầu mô tả các tín hiệu chuyển động không theo chu kỳ trong vùng lân cận lỗ đen. Không xác định được danh tính."
+
+"Trên lý thuyết không có sinh vật nào tồn tại được ở đây," Emily nói.
+
+"Trên lý thuyết cũng không có khoáng thạch nguyên chất ở TOI 2076b, Emily. Lý thuyết thường không biết mình đang nói về gì cho đến khi bị thực tế bác bỏ."
+
+Tiêu Kỳ phát hiện chúng qua màn hình cảm biến, màn hình hiện lên những điểm chuyển động không theo quỹ đạo tự nhiên trong vùng lân cận lỗ đen phía Tây.
+
+"Đám trùng tộc!" Hắn nhăn mày, phóng to khu vực trên màn hình. "Chúng đến lỗ đen làm gì cơ chứ?"
+
+Chưa ai kịp trả lời thì khoang tàu rung mạnh.
+
+Đó chả phải là sự rúng động theo chu kỳ vận hành của từ trường, mà là những rung chấn mãnh liệt phát sinh từ các cuộc va chạm bất qui tắc từ phía trên đỉnh và phía đuôi tàu cùng lúc, thanh âm kim loại va chạm với nhau dội lên đồng loạt, tiếng ma sát nghiến nát dọc theo thân tàu, kèm theo là tiếng sàn sạt của chi nhọn hoắt đương bấu víu lấy lớp màng lọc lượng tử, triệt để nuốt chửng tầm nhìn nơi khoang điều khiển.
+
+Blackburn bị áp sát từ hai phía.
+
+"Hai con," Emily cất giọng báo cáo, giọng trong thiết bị đầu cuối đã chuyển sang tần số tác chiến, sự bình tâm ở cô được nhào nặn và mổ xẻ qua bao quy luật khắc nghiệt của nhiều lần viễn chinh "Một trên nóc màu xanh, một phía đuôi đen đỏ"
+
+"Màu xanh nghĩa là cấp trung," Nathanael nói. "Màu đen đỏ là…"
+
+"Cấp cao" Raymond đã đứng dậy khỏi ghế thuyền trưởng. "Nathanael điều khiển thay tôi. Tiêu Kỳ, giữ quỹ đạo, không để lệch về phía tâm lỗ đen."
+
+"Vâng."
+
+Nhiệt độ nơi vùng hư vô bên ngoài tàn khốc khôn tả, ngay thời khắc cánh cửa thoát hiểm vừa hé mở, các chỉ số trên bộ đồ bảo hộ tức thì nhảy sang con số âm.
+
+Emily bật người ra khỏi cửa, dùng lực chân bám vào thân tàu hòng vươn lên nóc. Raymond nối gót từ cửa phụ phía hông, hai người tách ra xử lý hai mục tiêu khác nhau.
+
+Con trùng trên nóc sở hữu tấm thân dài oặt, kim khoáng ánh trên từng đốt, hàng tá chân nhọn bám víu lên bề mặt tàu theo nhịp dập dìu, nó liên tục nện phần đầu cứng cáp xuống lớp màng lọc lượng tử, khiến những vết nứt rỉ rả chầm chậm loang ra từ tâm điểm
+
+Emily một nhát chém đứt hai chân rết gần nhất.
+
+Nó phun trào một thứ dịch thể màu xanh sẫm, tức khắc bị đóng băng dưới nhiệt độ tàn khốc đặng hóa thành muôn vàn tinh thể phiêu diêu theo luồng gió rít gào quanh tàu.
+
+Con trùng nọ chậm chạp xoay đầu về phía cô gái, đôi mắt nó lẳng lặng quan sát.
+
+Cô nhìn vào phần đầu của nó, phần mà các báo cáo mô tả là *bọc trong dung dịch não*, lớp biểu mô trong suốt đương phản chiếu sắc thái của thứ dịch thể lẩn khuất bên trong.
+
+Màu xanh.
+
+Cùng màu với màu của phần thân, một minh chứng cho thấy chất lượng không mấy cao siêu, và năng lực tư duy cũng bị hạn chế. Cô có thể một mình xử lý con này
+
+Ở bên dưới lại có vấn đề khác đang xảy ra trong khoang điều khiển.
+
+"Là trùng máy phải không” Giọng Alan dội tới từ cửa khoang, cậu đã chạy đến khoang điều khiển từ bao giờ, thiết bị đầu cuối trên tay đang vận hành, vầng sáng xanh nhạt phát ra từ màn hình nhỏ. "Có thiết bị quấy rối, tôi không xâm nhập được vào đầu chúng!"
+
+Cậu đương nỗ lực vươn những xúc tu tinh thần vào sâu trong vân ý thức của cặp trùng nọ đặng thao túng chúng từ bên trong; vốn dĩ đây là một cách hiệu nghiệm đối với những sinh vật sở hữu bộ não hữu cơ; song bấy giờ lại đang có thứ nào đó phong tỏa mọi tín hiệu từ bên ngoài, làm nên một lớp màng nhiễu loạn vô hình chắn ngang giữa chúng và không gian.
+
+"Thiết bị quấy rối?” Nathanael vừa giữ cần lái vừa nhìn màn hình. "Bọn chúng làm sao trang bị được thứ đó?"
+
+Khoang điều khiển rung mạnh hơn.
+
+Màn hình lượng tử đương nhấp nháy, chúng bảo đăng áp lực lên lớp màng lọc phía trên dần tăng, những vết nứt theo đó chậm chạp loang ra thành hình mạng nhện
+
+"Tiêu Kỳ bật chế độ phòng hộ lớp hai," Nathanael ra lệnh.
+
+Tiêu Kỳ với tay về phía bảng điều khiển, hành động ấy thốt nhiên khựng lại giữa chừng, tay hắn đặt xuống.
+
+"Tiêu Kỳ?" Nathanael thốt lên đầy nghi ngại.
+
+Cậu ta không trả lời, mắt đương ngờ nghệch nhìn thẳng về phía trước, không nhìn vào màn hình cũng không đáp lại Nathanael như thể bị đình trệ phản ứng.
+
+"Raymond! Khoang điều khiển bị tấn công!" Nathanael la lên vào thiết bị liên lạc "Tiêu Kỳ bị xâm nhập vào não, cậu ấy không động đậy được!"
+
+Alan đã ở cạnh Tiêu Kỳ trước đoạn báo cáo của Nathanael.
+
+Các xúc tu của hướng đạo có thể chia làm nhiều loại, có loại khai thông, làm dịu, cũng có loại cắm vào vân ý thức rồi chiếm quyền điều khiển, giống như cái đang quậy phá trong vân ý thức của Tiêu Kỳ đây.
+
+Trong tình huống này, Alan nhận định, vốn không đủ thời gian để tháo gỡ từng sợi một "Chắc chỉ có thể cường thế chiếm quyền, Nathanael, đeo thiết bị đầu cuối vào đầu Tiêu Kỳ giúp tôi."
+
+Nathanael không hỏi lại thêm lần nào.
+
+Alan đeo thiết bị của mình lên tai, khởi động kết nối nhân tạo với vỏ não Tiêu Kỳ qua cầu nối thiết bị, việc kết nối tinh thần qua thâm nhập giữa các thiết bị cùng tần số vốn chỉ được thực hiện khi tốc độ xử lý quang não mạnh, việc này rất đánh đố tư duy dẫn đường vì nó rất chậm (tuy nó không bị nhiễu bởi thiết bị quấy rối bên ngoài) nên cũng chẳng dẫn đường nào học kết nối bằng cách này.
+
+Tiêu Kỳ đang gục xuống trên bàn lái dưng mở mắt.
+
+"Tiếp tục" Tiêu Kỳ nhép miệng bằng thứ giọng không hoàn toàn là giọng cậu ta, nhưng Nathanael hiểu ngay. Alan thông qua dòng kết nối thiết bị đang điều khiển cơ thể Tiêu Kỳ như cách người ta điều khiển phi thuyền thông qua giao diện, cậu đọc các tín hiệu điều hướng từ bảng điều khiển, xử lý trong não mình, truyền lại xung lực vận động vào tay Tiêu Kỳ.
+
+Bàn tay Tiêu Kỳ bắt đầu chuyển động.
+
+Blackburn lắc nhẹ sang trái, thoát khỏi đường va chạm của phần đầu trùng máy đang tăng áp lực phía trên.
+
+"Cậu là Alan??" Nathanael hỏi khi nhìn vào đôi mắt Tiêu Kỳ.
+
+"Ừ, là tôi." Tiêu Kỳ không rời mắt khỏi việc đang làm, đảo nhanh qua màn hình tích phân, tay xoay cần điều khiển. "Cậu ấy không tìm hướng đạo khai thông à? Sao để bị đánh vào ý thức vân như thế này? Nếu ra đường gặp hướng đạo cấp quá cao thì phải làm sao?"
+
+"Giữ trinh tiết lính canh?" Nathanael không quên bỏ ra một câu đùa vui, nhưng rồi nụ cười trên môi hắn ta tức thì ngưng trệ. Đôi đồng tử hắn co rụt lại, phát hiện có một luồng xúc tu đương âm thầm mổ xẻ và xâm lược nhận thức của hắn từ bên ngoài. "Alan! Tôi cũng đang bị xâm lược!"
+
+"Anh còn đeo thiết bị đầu cuối không?"
+
+"Còn đeo."
+
+"Kết nối tần số này. Anh cứ cố gắng chống chịu."
+
+Phản ứng bản năng của những lính gác bị xâm lược đó là tự khắc đóng hết thức hải và đình chỉ bản thân (như kiểu Tiêu Kỳ đã làm), nhưng có trời mới hiểu tại sao Nathanael lại nghe lời của người dẫn đường hắn chỉ mới gặp có 2 lần này. Hắn dò tần số Alan đã đưa, rồi bấm kết nối.
+
+Ngay tức khắc, Nathanael cảm nhận được một thứ gì đó đương nảy nở thẳm sâu chốn thức hải, đó là sự ổn định xác suất mười ngàn có một, lạ lùng thay, chỉ có một sợi bông mềm được nhào nặn ra để ngăn cách giữa não hắn và những xúc tu cuồng nộ bên ngoài kia. Nathan như trực tiếp đứng nơi đấy mà chứng kiến, sợi bông ấy lẳng lặng từng bước hấp thụ những xung lực tàn khốc. Rồi đột nhiên, hắn nghe thấy một thanh âm lọt thỏm trong đấy "Tôi đây, anh cứ việc lái tàu nhé
+
+Nathanael trút một hơi thở hắt, quành lại bảng điều khiển tiếp tục nhịp vận hành. Phóng tầm mắt dõi ra là sự bao la quạnh vắng của vũ trụ, nuốt chửng mọi âm thanh rền rĩ từ mặt trên khoang tàu. Raymond vừa tiễn thêm ba chân rết vào hư không, anh nhào mình tránh đòn phản công của phần đuôi, đáp xuống thân tàu bằng hai chân và một tay bám rồi lại vung thanh kiếm lần nữa.
+
+Con trùng màu đen đỏ không chậm như các con anh đã gặp trước đây. Nó phản ứng và điều chỉnh hướng công kích nhanh hơn, bù trừ cho phần chi bị chém đứt, hơn hết nó còn đang lục lọi điểm yếu của đối phương theo cách mà bọn trùng máy thông thường không làm được.
+
+Dung dịch não chảy đều hơn sao Anh chợt nghĩ.
+
+"Raymond, Emily, khoang điều khiển bị hướng đạo bên địch tập kích," giọng Alan vang lên qua thiết bị liên lạc, giọng rất lơ đễnh, tựa như đang xử lý quá nhiều thứ cùng lúc và não không còn tế bào nào để lo lắng. "Hai người trông xem có hướng đạo nào gần đây không, chúng không ở xa được."
+
+"Raymond. Tìm trong thân trùng máy!" Emily la lên từ phía đuôi tàu.
+
+Anh chú ý vào con trùng màu đen đỏ đương lù lù áp sát, Phần biểu mô đầu trong suốt đương phơi bày những nếp gấp dị hợm ở tầng tầng bên trong, nhưng hình như còn thứ gì đương động đậy mà anh chẳng thể nào quan sát được, vì lẽ đó, anh quyết định tiến đến gần thêm một chút, song việc đưa thân vào sát chốn hiểm địa đương lúc con trùng đang công kích chính là một là một quyết định mà người bình thường sẽ không bao giờ làm.
+
+Anh bật người lên, dùng phản lực của giáp xương ngoài đẩy mình về phía trước, xuyên qua kẽ hở giữa hai đợt càn quét liên tiếp của con trùng, rồi đáp xuống nằm sát cạnh phần sau đầu của nó hòng điều tra xem bọn chúng đang giấu vật gì ở bên trong, rồi ở giữa những thứ dịch não chuyển động, lại là một cái đầu người.
+
+Phần đầu này không còn nguyên vẹn, nó chỉ là phần hộp sọ đã bị cưa ra để vỏ não lộ ra ngoài, kết nối trực tiếp với dung dịch xung quanh bằng những sợi cáp sinh học mỏng như tơ nhện.
+
+Raymond vung kiếm.
+
+"À ha!" Tiếng Emily từ phía đuôi tàu, nhưng vẫn vọng được một ít trong thiết bị liên lạc, tuần tự là tiếng kim loại va chạm mạnh, tiếng chém xoẹt một thứ gì đó và cuối cùng là tiếng của cô. "Chúng ở trong phần đầu của trùng máy, có đầu người trong đầu của chúng”
+
+Lưỡi chủy thủ một đường sắc lẹm xuyên thấu phần đầu của con trùng phần đuôi tàu, ngay lập tức khiến nó ngừng chuyển động, xúc tu tinh thần đang tấn công Nathanael yếu đi ngay lập tức.
+
+Raymond ở trên nóc đã chém đứt phần đầu con trùng màu đen đỏ trước khi Emily báo cáo xong. Chất lỏng màu đen sậm phun ra, đóng thành những giọt băng li ti vì không khí lạnh của không gian ngoài tàu.
+
+Con trùng thứ hai ngừng chuyển động.
+
+Áp lực lên thân tàu biến mất.
+
+Khoang điều khiển tất thảy rơi vào sự yên lặng đột ngột. Alan nhả kết nối thiết bị với Tiêu Kỳ ngay lúc cậu ấy dần mở mắt đoạn đứng dậy khỏi vị trí kế bên để bước ra cửa khoang.
+
+Đương lúc chưa có ai bắt đầu nói chuyện, Nathanael nhìn hướng Alan vừa rời đi và kết thúc tầm mắt ở trên người Tiêu Kỳ
+
+"Cậu có biết vừa rồi có người điều khiển tay cậu để lái tàu không?"
+
+"Tôi biết." Tiêu Kỳ không biết nghĩ đến chuyện khó chịu nào đó, nhìn xuống bàn tay mình. "Tôi bị cắt khỏi vận động nhưng kỳ lạ là ý thức của tôi vẫn ở đâu đó”
+
+"Tôi vẫn theo phe không nên quá phụ thuộc vào thuốc điều hòa" giọng Alan nho nhỏ từ cửa khoang, như thể cậu vẫn chưa đi đâu xa và vẫn đang trong phòng và đang tiếp tục câu chuyện dang dở. "Nó trấn áp được vân ý thức, nhưng chỉ là trấn áp thôi. Nếu bị quấy nhiễu quá độ mà không có ai xoa dịu thì sẽ bị như Tiêu Kỳ vừa rồi."
+
+Mãi sau, tiếng bước chân của Raymond và Emily vang lên qua cửa khoang thoát hiểm, cả hai còn mặc bộ giáp xương ngoài, trên tay Emily là phần đầu con trùng máy màu xanh đã bị cắt ra, dung dịch não phát sáng đã chảy hết ra ngoài theo vết cắt.
+
+Mọi người trong khoang nhìn vào phần đầu đó.
+
+Đằng sau lớp da trong suốt giờ đã mờ đục, nhưng hình dạng bên trong vẫn còn nhìn ra được một hộp sọ người không còn nguyên vẹn, đã bị mổ xẻ để lộ vỏ não ra ngoài và được kết nối trực tiếp với hệ thống của con trùng bằng những sợi cáp mỏng manh tựa tơ nhện
+
+“Hai cái đầu" Raymond nói, dường như thoáng hoài nghi việc anh vừa trải qua "Mỗi con quái vật đều mang một cái như vậy."
+
+Mọi người ngó sáng Raymond, ai nấy im phăng phắc,
+
+"Có phải đầu hướng đạo không?" Nathanael nhìn vào phần vỏ não lộ ra ngoài rồi nhăn mặt "Chúng bây giờ không lấy dung dịch não để khiển trùng máy mà lại lấy não của hướng đạo à?"
+
+Bầu không khí hiện giờ khiến việc hít thở cũng phải khẽ khàng.
+
+"Tàu tuần dương du lịch." Alan nói từ cửa, khoanh tay tựa lên tường, đáp với vẻ thong dong “Các hướng đạo mất tích gần đây”. Raymond nhìn sang cậu.
+
+Cậu nhìn lại Raymond, tuồng như suy nghĩ rất nhiều, nhưng rốt cuộc cũng không rõ mình cần nói gì.
+
+"Bọn chúng đang ở lỗ đen để làm gì?" chất giọng của Emily tan loãng vào khoang tàu
+
+"Hố đen giải phóng năng lượng theo cơ chế bức xạ Hawking. Nếu lỗ đen hiện tồn tại và có đủ thiết bị thu thập, đó là nguồn năng lượng gần như vô hạn" Alan dời mắt sang màn hình điện tử, đợt khống chế vừa nãy làm cậu chẳng cảm nhận nổi cô gái nghĩ gì nữa rồi "Cô cũng biết đối với các giống loài khác nhân loại, để điều khiển thiết bị thu thập trong vùng lân cận lỗ đen cần năng lực tinh thần rất cao, cái thứ trùng máy có dịch tổng hợp làm sao khống chế được?"
+
+"Vì thế nên mới sinh ra dị loại này chăng?" Tiêu Kỳ bất ngờ ngắt lời.
+
+Nathanael nhìn vào phần đầu trên tay Emily lần nữa. "Bọn chúng đang xây dựng thế hệ trùng máy mới. Thế hệ không bị giới hạn bởi dung dịch tổng hợp."
+
+"Năng lượng thất thoát ở khu vực này chưa đủ lớn để một trạm thu thập hoàn chỉnh hoạt động, chắc nó chỉ mới xây dựng gần đây"
+
+Blackburn bật chế độ tự vận hành, kết nối cùng trạm không gian Tithonus gần đó và từ từ bay theo hướng về.
+
+Emily đã xong nhiệm vụ đặt hai phần đầu trùng máy nọ vào hộp bảo quản sinh học hòng gửi về bộ phận giám định làm chứng cứ. Nathanael hớt hải liên lạc với trung tâm kiểm nghiệm toan giành một tấm vé mổ xẻ phần dị loại kia. Tiêu Kỳ rũ mắt nhìn đôi bàn tay đang cầm bánh lái của mình, cậu vẫn đương lắng nghe dư âm của những xúc tu mà Alan đã giữ lấy nơi thức hải của cậu.
+
+Alan ngồi ở ghế phụ gần cửa, đã lấy ra cuốn sổ nhỏ ghi chép thứ gì đó bằng tay, nghiễm nhiên chả mảy may bận lòng Python đương trườn vào từ hành lang và nằm xuống bên cạnh.
+
+Chả ai hé môi thêm lời nào cho tới khi hành lang không gian hiện ra qua khung kính lọc lượng tử.
+
+Chuẩn tinh 3C 75 mà con tàu bỏ lại vẫn phát sáng, rực rỡ và vô tình khôn tả.

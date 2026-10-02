@@ -1,0 +1,698 @@
+{
+  "url": "https://rookies.vn/truyen/mua-bao-thu",
+  "site": "rookies",
+  "title": "Mùa Báo Thù (đang chỉnh sửa)",
+  "author": "Dừa",
+  "status": "Đang ra",
+  "genres": [
+    "Truyện Sinh tồn",
+    "Truyện sáng tác",
+    "Kịch tính",
+    "Nữ x Nữ",
+    "Dị năng",
+    "Hư cấu",
+    "1 x 1",
+    "Bút Chiến: Trùng Sinh Báo Thù",
+    "Truyện Bách hợp",
+    "Zombie",
+    "Kết HE",
+    "Mạt thế",
+    "Tiểu thuyết",
+    "Truyện Trùng sinh"
+  ],
+  "description": "Thể loại: sống lại, tận thế, xác sống, nữ × nữ, 1×1, HE, kịch tính, tình cảm chậm (cực kỳ.\nBìa mới: Thảo Nguyễn.\n\nMặc dù biết giờ báo thì hơi trễ nhma Dừa xin phép nghỉ viết một khoảng thời gian vì lí do cá nhân ạ, cảm ơn mọi người đã đồng hành cùng Dừa trong suốt quãng thời gian vừa rồi.\nDừa sẽ không ẩn truyện cũng như đôi khi Dừa sẽ update các tranh liên quan tới các bạn nhà Dừa nếu rảnh thay lời xin lỗi nên nếu mọi người còn yêu thích các bạn nhà Dừa thì lâu lâu vào xem nhennn.",
+  "cover": "https://rookies.vn/uploads/user/634pXfk/novels/2026_08/MaBoThangchnhsa_1787534950.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Một số lưu ý cơ bản trước khi đọc truyện.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/66453",
+      "file": "0001 - Một số lưu ý cơ bản trước khi đọc truyện.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Sống lại?",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6225",
+      "file": "0002 - Sống lại.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chuẩn bị",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6397",
+      "file": "0003 - Chuẩn bị.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "3",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6486",
+      "file": "0004 - 3.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Mạt thế đến",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6611",
+      "file": "0005 - Mạt thế đến.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Xác sống cấp E",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6686",
+      "file": "0006 - Xác sống cấp E.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Đến nhà Đoan Linh",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6835",
+      "file": "0007 - Đến nhà Đoan Linh.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Cây sương sâm sau nhà.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/6928",
+      "file": "0008 - Cây sương sâm sau nhà.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Trạm dừng chân này có vấn đề.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/7050",
+      "file": "0009 - Trạm dừng chân này có vấn đề.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Qua đêm.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/7281",
+      "file": "0010 - Qua đêm.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "10",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/7723",
+      "file": "0011 - 10.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Mưa.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8017",
+      "file": "0012 - Mưa.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Trăng.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8090",
+      "file": "0013 - Trăng.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Hành trình đi tìm xăng. (1)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8400",
+      "file": "0014 - Hành trình đi tìm xăng. (1).txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Hành trình đi tìm xăng. (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8401",
+      "file": "0015 - Hành trình đi tìm xăng. (2).txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Hành trình đi tìm xăng. (3)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8772",
+      "file": "0016 - Hành trình đi tìm xăng. (3).txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Thẩm định và nguy hiểm",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/8977",
+      "file": "0017 - Thẩm định và nguy hiểm.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Nhà tắm di động",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/9182",
+      "file": "0018 - Nhà tắm di động.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "18",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/9636",
+      "file": "0019 - 18.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Trăng máu (1)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/9693",
+      "file": "0020 - Trăng máu (1).txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Trăng máu (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/9997",
+      "file": "0021 - Trăng máu (2).txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Mộng",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/9998",
+      "file": "0022 - Mộng.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Dẫn dụ",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/10254",
+      "file": "0023 - Dẫn dụ.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Cảng Nhật Quang",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/10800",
+      "file": "0024 - Cảng Nhật Quang.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Khu vui chơi bỏ hoang",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/12524",
+      "file": "0025 - Khu vui chơi bỏ hoang.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Nguy hiểm",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/12635",
+      "file": "0026 - Nguy hiểm.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Gặp lại",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/13117",
+      "file": "0027 - Gặp lại.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Rối chỉ huy",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/13929",
+      "file": "0028 - Rối chỉ huy.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Du Mộc",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/13990",
+      "file": "0029 - Du Mộc.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Đêm không ngủ",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/14188",
+      "file": "0030 - Đêm không ngủ.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Kền kền",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/14309",
+      "file": "0031 - Kền kền.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Mục tiêu (1)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/14470",
+      "file": "0032 - Mục tiêu (1).txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Mục tiêu (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/14944",
+      "file": "0033 - Mục tiêu (2).txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Trái cây?",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/15206",
+      "file": "0034 - Trái cây.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Trái và nhựa cây trân châu",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/16042",
+      "file": "0035 - Trái và nhựa cây trân châu.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Thịt sóc dơi",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/16500",
+      "file": "0036 - Thịt sóc dơi.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Ngoại truyện 1: Bách Khoa thời kỳ mạt thế",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/16627",
+      "file": "0037 - Ngoại truyện 1 Bách Khoa thời kỳ mạt thế.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Ngoại truyện 2: Bách Khoa thời kỳ mạt thế (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/16693",
+      "file": "0038 - Ngoại truyện 2 Bách Khoa thời kỳ mạt thế (2).txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "36",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/17117",
+      "file": "0039 - 36.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Đám đông (1)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/18460",
+      "file": "0040 - Đám đông (1).txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Đám đông (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/18941",
+      "file": "0041 - Đám đông (2).txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Đám đông (3)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/19228",
+      "file": "0042 - Đám đông (3).txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Thoát nạn",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/19632",
+      "file": "0043 - Thoát nạn.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Nấm chân nhện",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/19842",
+      "file": "0044 - Nấm chân nhện.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Biệt thự hoang",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/20045",
+      "file": "0045 - Biệt thự hoang.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "43",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/20046",
+      "file": "0046 - 43.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Diễm phúc hay khổ ải?",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/20457",
+      "file": "0047 - Diễm phúc hay khổ ải.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Hướng đến căn cứ Vinh Khôi",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/20781",
+      "file": "0048 - Hướng đến căn cứ Vinh Khôi.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Những kẻ sống bên ngoài căn cứ",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/21046",
+      "file": "0049 - Những kẻ sống bên ngoài căn cứ.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Vào trong căn cứ Vinh Khôi",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/21354",
+      "file": "0050 - Vào trong căn cứ Vinh Khôi.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Ngoại truyện 3: Bách Khoa thời kỳ mạt thế",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/21659",
+      "file": "0051 - Ngoại truyện 3 Bách Khoa thời kỳ mạt thế.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Ngoại truyện 4: Bách Khoa thời kỳ mạt thế",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/21787",
+      "file": "0052 - Ngoại truyện 4 Bách Khoa thời kỳ mạt thế.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "48",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/21892",
+      "file": "0053 - 48.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Thương hội (1)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22219",
+      "file": "0054 - Thương hội (1).txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "Thương hội (2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22220",
+      "file": "0055 - Thương hội (2).txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "Góc thắc mắc cùng Dừa",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22221",
+      "file": "0056 - Góc thắc mắc cùng Dừa.txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "Quái dây leo",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22437",
+      "file": "0057 - Quái dây leo.txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "Bất tỉnh",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22438",
+      "file": "0058 - Bất tỉnh.txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Tỉnh lại",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22635",
+      "file": "0059 - Tỉnh lại.txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "Xác sống?",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22761",
+      "file": "0060 - Xác sống.txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "Tách ra",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/22954",
+      "file": "0061 - Tách ra.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "Đánh bại (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/23235",
+      "file": "0062 - Đánh bại (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "Diều hâu (hội bốn cô cậu bé số khổ)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/23538",
+      "file": "0063 - Diều hâu (hội bốn cô cậu bé số khổ).txt",
+      "done": true
+    },
+    {
+      "index": 64,
+      "title": "Xích mích? (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/23773",
+      "file": "0064 - Xích mích (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 65,
+      "title": "Diều hâu biến dị và em bé xác sống. (Du Mộc và Ái Mễ)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/24394",
+      "file": "0065 - Diều hâu biến dị và em bé xác sống. (Du Mộc và Ái Mễ).txt",
+      "done": true
+    },
+    {
+      "index": 66,
+      "title": "Cáo đất (Linh- Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/25386",
+      "file": "0066 - Cáo đất (Linh- Khang).txt",
+      "done": true
+    },
+    {
+      "index": 67,
+      "title": "Chiến đấu (Ái Mễ - Du Mộc)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/25387",
+      "file": "0067 - Chiến đấu (Ái Mễ - Du Mộc).txt",
+      "done": true
+    },
+    {
+      "index": 68,
+      "title": "Chuyện không gian của Nguyên Khang (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/25388",
+      "file": "0068 - Chuyện không gian của Nguyên Khang (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 69,
+      "title": "Nghỉ ngơi (Thiên Thư)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/26539",
+      "file": "0069 - Nghỉ ngơi (Thiên Thư).txt",
+      "done": true
+    },
+    {
+      "index": 70,
+      "title": "Hình như kĩ năng của tôi mất rồi. (Khang - Linh)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/26542",
+      "file": "0070 - Hình như kĩ năng của tôi mất rồi. (Khang - Linh).txt",
+      "done": true
+    },
+    {
+      "index": 71,
+      "title": "Chuyện thăng cấp. (Mễ - Bách)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/27306",
+      "file": "0071 - Chuyện thăng cấp. (Mễ - Bách).txt",
+      "done": true
+    },
+    {
+      "index": 72,
+      "title": "Đêm trăng đỏ (Linh - Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/27311",
+      "file": "0072 - Đêm trăng đỏ (Linh - Khang).txt",
+      "done": true
+    },
+    {
+      "index": 73,
+      "title": "Thú nhân? (Du Mộc)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/27931",
+      "file": "0073 - Thú nhân (Du Mộc).txt",
+      "done": true
+    },
+    {
+      "index": 74,
+      "title": "Hổ quỷ. (Linh - Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/28523",
+      "file": "0074 - Hổ quỷ. (Linh - Khang).txt",
+      "done": true
+    },
+    {
+      "index": 75,
+      "title": "Tạnh mưa (Ái Mễ)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/29264",
+      "file": "0075 - Tạnh mưa (Ái Mễ).txt",
+      "done": true
+    },
+    {
+      "index": 76,
+      "title": "Nhóm người sống sót (Linh- Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/30276",
+      "file": "0076 - Nhóm người sống sót (Linh- Khang).txt",
+      "done": true
+    },
+    {
+      "index": 77,
+      "title": "Chiến tranh không khói. (Hoàng Bách - Du Mộc)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/31195",
+      "file": "0077 - Chiến tranh không khói. (Hoàng Bách - Du Mộc).txt",
+      "done": true
+    },
+    {
+      "index": 78,
+      "title": "Góc thắc mắc cùng Dừa (p2)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/31695",
+      "file": "0078 - Góc thắc mắc cùng Dừa (p2).txt",
+      "done": true
+    },
+    {
+      "index": 79,
+      "title": "Thu thập thông tin (1) (Linh - Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/32526",
+      "file": "0079 - Thu thập thông tin (1) (Linh - Khang).txt",
+      "done": true
+    },
+    {
+      "index": 80,
+      "title": "Tên trộm (bộ tứ oan gia)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/32788",
+      "file": "0080 - Tên trộm (bộ tứ oan gia).txt",
+      "done": true
+    },
+    {
+      "index": 81,
+      "title": "Góc thắc mắc cùng Dừa (p3)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/33056",
+      "file": "0081 - Góc thắc mắc cùng Dừa (p3).txt",
+      "done": true
+    },
+    {
+      "index": 82,
+      "title": "Thám thính tình hình (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/34629",
+      "file": "0082 - Thám thính tình hình (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 83,
+      "title": "75",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/53398",
+      "file": "0083 - 75.txt",
+      "done": true
+    },
+    {
+      "index": 84,
+      "title": "Trò chuyện (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/56086",
+      "file": "0084 - Trò chuyện (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 85,
+      "title": "Thiên Điểu Nhân (Hoàng Bách)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/57761",
+      "file": "0085 - Thiên Điểu Nhân (Hoàng Bách).txt",
+      "done": true
+    },
+    {
+      "index": 86,
+      "title": "Góc thắc mắc cùng Dừa (p4)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/58700",
+      "file": "0086 - Góc thắc mắc cùng Dừa (p4).txt",
+      "done": true
+    },
+    {
+      "index": 87,
+      "title": "Ngoại truyện 5: Bách Khoa thời mạt thế",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/59797",
+      "file": "0087 - Ngoại truyện 5 Bách Khoa thời mạt thế.txt",
+      "done": true
+    },
+    {
+      "index": 88,
+      "title": "Chạy trốn (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/72847",
+      "file": "0088 - Chạy trốn (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 89,
+      "title": "Hướng đến Sơn Lan (Bách-Mộc)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/72848",
+      "file": "0089 - Hướng đến Sơn Lan (Bách-Mộc).txt",
+      "done": true
+    },
+    {
+      "index": 90,
+      "title": "Hướng đến Sơn Lan (Linh-Khang)",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/72850",
+      "file": "0090 - Hướng đến Sơn Lan (Linh-Khang).txt",
+      "done": true
+    },
+    {
+      "index": 91,
+      "title": "Hội ngộ.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/73676",
+      "file": "0091 - Hội ngộ.txt",
+      "done": true
+    },
+    {
+      "index": 92,
+      "title": "Nam Phong (1): Hội trường xác sống.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/74767",
+      "file": "0092 - Nam Phong (1) Hội trường xác sống.txt",
+      "done": true
+    },
+    {
+      "index": 93,
+      "title": "Nam Phong (2): Chia năm xẻ bảy.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/78927",
+      "file": "0093 - Nam Phong (2) Chia năm xẻ bảy.txt",
+      "done": true
+    },
+    {
+      "index": 94,
+      "title": "Nam Phong (3): Nhà máy Sơn Lan.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/79562",
+      "file": "0094 - Nam Phong (3) Nhà máy Sơn Lan.txt",
+      "done": true
+    },
+    {
+      "index": 95,
+      "title": "Thăm dò.",
+      "url": "https://rookies.vn/truyen/mua-bao-thu/80832",
+      "file": "0095 - Thăm dò.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-09-30T22:48:16+07:00",
+  "updated_at": "2026-09-30T22:52:06+07:00",
+  "chapter_count": 95,
+  "done_count": 95
+}

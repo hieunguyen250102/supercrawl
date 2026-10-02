@@ -1,0 +1,591 @@
+{
+  "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh",
+  "site": "rookies",
+  "title": "Tiểu Thư Mèo Của Anh",
+  "author": "NamLy",
+  "status": "Hoàn thành",
+  "genres": [
+    "Lãng mạn",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nữ",
+    "Phương Đông",
+    "Hiện đại",
+    "Tình yêu sét đánh",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Ngôn tình",
+    "Kết HE",
+    "Hài hước",
+    "Tiểu thuyết"
+  ],
+  "description": "Nhà tôi rất giàu. Người ta hay nói giàu nghèo có số, tôi cũng biết thừa mình không thể nghèo được. Vậy nên, lúc tôi mười ba tuổi, từ một gia đình công nhân tầm thường, nhờ trúng số mà trở mình giàu sang. Tôi và gia đình lập tức chuyển nhà lên phố, bắt đầu cuộc sống của thiên kim tiểu thư đích thực.\n\nTôi chướng mắt mấy đứa nghèo, đặc biệt là mấy đứa vừa nghèo vừa học giỏi, đã nghèo, học giỏi lại còn ra vẻ thanh cao. Hừ! Làm bộ làm tịch cho ai xem.\n\nVừa hay, Phong Hiểu Hàn là loại người như vậy.\n\nThế là tôi ở trường kéo bè kéo phái, hùa nhau bắt nạt hắn, để hắn nhìn thấy tôi phải khép nép, e sợ. Nhưng mùa hè năm lớp Mười một, tôi bị biến thành một con mèo lông vàng. Á! Là cái loại mèo bình dân đây mà!\n\nBị đuổi đánh, bị bắt nạt, còn… bị cái tên Phong Hiểu Hàn nghèo kiết xác kia nhặt về nuôi!\n\nKhiếp! Bạn gì ơi, nghèo quá đừng nuôi mình được không???\n\nThế mà khi thấy tên nhà nghèo kia gặm mì gói, gom góp tiền mua đồ hộp siêu thị đắt đỏ, trái tim bé bỏng của mèo tôi đây thoáng rung động…",
+  "cover": "https://rookies.vn/uploads/user/203ezar/novels/2023_07/e_dich_bia_5_1690330805.webp",
+  "cover_file": "cover.webp",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chương 1: Sét đánh biến hình",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2486",
+      "file": "0001 - Chương 1 Sét đánh biến hình.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 2: Phó mặc số trời",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2487",
+      "file": "0002 - Chương 2 Phó mặc số trời.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 3: Mèo nhà nghèo",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2488",
+      "file": "0003 - Chương 3 Mèo nhà nghèo.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 4: Bỏ trốn",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2489",
+      "file": "0004 - Chương 4 Bỏ trốn.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 5: Sống cùng học bá",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2490",
+      "file": "0005 - Chương 5 Sống cùng học bá.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 6: Kế hoạch hủy dung",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2491",
+      "file": "0006 - Chương 6 Kế hoạch hủy dung.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 7: Hàng xóm",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2492",
+      "file": "0007 - Chương 7 Hàng xóm.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 8: Vị giác của mèo",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2493",
+      "file": "0008 - Chương 8 Vị giác của mèo.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 9: Sốt rồi?",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2494",
+      "file": "0009 - Chương 9 Sốt rồi.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 10: Chảy máu mũi",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2495",
+      "file": "0010 - Chương 10 Chảy máu mũi.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 11: Biến thành người",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2496",
+      "file": "0011 - Chương 11 Biến thành người.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 12: Là mơ hay thật?",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2497",
+      "file": "0012 - Chương 12 Là mơ hay thật.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 13: Xấu hổ",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2498",
+      "file": "0013 - Chương 13 Xấu hổ.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chương 14: Chung sống (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2499",
+      "file": "0014 - Chương 14 Chung sống (1).txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Chương 15: Chung sống (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2500",
+      "file": "0015 - Chương 15 Chung sống (2).txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Chương 16: Hôn em",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2501",
+      "file": "0016 - Chương 16 Hôn em.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Chương 17: Đổi tính nết rồi?",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2502",
+      "file": "0017 - Chương 17 Đổi tính nết rồi.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Chương 18: Là nơi nương tựa cho em",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2503",
+      "file": "0018 - Chương 18 Là nơi nương tựa cho em.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Chương 19: Học cách thay đổi",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2504",
+      "file": "0019 - Chương 19 Học cách thay đổi.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Chương 20: Xin chào, chị đại!",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2505",
+      "file": "0020 - Chương 20 Xin chào, chị đại!.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Chương 21: Dưới hiên mưa",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2506",
+      "file": "0021 - Chương 21 Dưới hiên mưa.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Chương 22: Loạn nhịp",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2507",
+      "file": "0022 - Chương 22 Loạn nhịp.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Chương 23: Bảo vệ anh",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2508",
+      "file": "0023 - Chương 23 Bảo vệ anh.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Chương 24: Giải cứu hoa khôi",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2509",
+      "file": "0024 - Chương 24 Giải cứu hoa khôi.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Chương 25: Tin đồn",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2510",
+      "file": "0025 - Chương 25 Tin đồn.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Chương 26: Cơ hội vàng",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2511",
+      "file": "0026 - Chương 26 Cơ hội vàng.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Chương 27: Chỉ là mộng đẹp (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2512",
+      "file": "0027 - Chương 27 Chỉ là mộng đẹp (1).txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Chương 28: Chỉ là mộng đẹp (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2513",
+      "file": "0028 - Chương 28 Chỉ là mộng đẹp (2).txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Chương 29: Lạc trong u tối",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2514",
+      "file": "0029 - Chương 29 Lạc trong u tối.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Chương 30: Yếu lòng",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2515",
+      "file": "0030 - Chương 30 Yếu lòng.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Chương 31: Hai thế giới",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2516",
+      "file": "0031 - Chương 31 Hai thế giới.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Chương 32: Trả giá (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2517",
+      "file": "0032 - Chương 32 Trả giá (1).txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Chương 33: Trả giá (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2518",
+      "file": "0033 - Chương 33 Trả giá (2).txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Chương 34: Thôi những mộng mơ",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2519",
+      "file": "0034 - Chương 34 Thôi những mộng mơ.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Chương 35: Màn đêm",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2520",
+      "file": "0035 - Chương 35 Màn đêm.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Chương 36: Đuổi theo",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2521",
+      "file": "0036 - Chương 36 Đuổi theo.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Chương 37: Nhục nhã (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2522",
+      "file": "0037 - Chương 37 Nhục nhã (1).txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Chương 38: Nhục nhã (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2523",
+      "file": "0038 - Chương 38 Nhục nhã (2).txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Chương 39: Uất ức hả?",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2524",
+      "file": "0039 - Chương 39 Uất ức hả.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Chương 40: Tôi vẫn chịu được",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2525",
+      "file": "0040 - Chương 40 Tôi vẫn chịu được.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Chương 41: Tấm thân trong sạch (H)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2526",
+      "file": "0041 - Chương 41 Tấm thân trong sạch (H).txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Chương 42: Cút càng xa càng tốt",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2527",
+      "file": "0042 - Chương 42 Cút càng xa càng tốt.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Chương 43: Triền miên (1) (H)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2528",
+      "file": "0043 - Chương 43 Triền miên (1) (H).txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Chương 44: Triền miên (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2529",
+      "file": "0044 - Chương 44 Triền miên (2).txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Chương 45: Dưới trăng (H)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2530",
+      "file": "0045 - Chương 45 Dưới trăng (H).txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Chương 46: Bị tình địch vuốt ve",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2531",
+      "file": "0046 - Chương 46 Bị tình địch vuốt ve.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Chương 47: Ghen rồi!",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2532",
+      "file": "0047 - Chương 47 Ghen rồi!.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Chương 48: Thành giao",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2533",
+      "file": "0048 - Chương 48 Thành giao.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Chương 49: Đã lâu không gặp",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2534",
+      "file": "0049 - Chương 49 Đã lâu không gặp.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Chương 50: Bị cười nhạo",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2535",
+      "file": "0050 - Chương 50 Bị cười nhạo.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Chương 51: Sếp thiên vị",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2536",
+      "file": "0051 - Chương 51 Sếp thiên vị.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Chương 52: Văn phòng nóng bỏng (H)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2537",
+      "file": "0052 - Chương 52 Văn phòng nóng bỏng (H).txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Chương 53: Tin đồn",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2538",
+      "file": "0053 - Chương 53 Tin đồn.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Chương 54: Có em bé?",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2539",
+      "file": "0054 - Chương 54 Có em bé.txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "Chương 55: Một gia đình hoàn mỹ",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2540",
+      "file": "0055 - Chương 55 Một gia đình hoàn mỹ.txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "Chương 56: Ai là nội gián? (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2541",
+      "file": "0056 - Chương 56 Ai là nội gián (1).txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "Chương 57: Ai là nội gián? (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2542",
+      "file": "0057 - Chương 57 Ai là nội gián (2).txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "Chương 58: Cú sốc (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2543",
+      "file": "0058 - Chương 58 Cú sốc (1).txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Chương 59: Cú sốc (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2544",
+      "file": "0059 - Chương 59 Cú sốc (2).txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "Chương 60: Cú sốc (3)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2545",
+      "file": "0060 - Chương 60 Cú sốc (3).txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "Chương 61: Bình yên",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2546",
+      "file": "0061 - Chương 61 Bình yên.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "Chương 62: Không tìm thấy",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2547",
+      "file": "0062 - Chương 62 Không tìm thấy.txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "Chương 63: Sống hạnh phúc thay em",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2548",
+      "file": "0063 - Chương 63 Sống hạnh phúc thay em.txt",
+      "done": true
+    },
+    {
+      "index": 64,
+      "title": "Chương 64: Chuyện cũ mờ sương (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2549",
+      "file": "0064 - Chương 64 Chuyện cũ mờ sương (1).txt",
+      "done": true
+    },
+    {
+      "index": 65,
+      "title": "Chương 65: Chuyện cũ mờ sương (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2550",
+      "file": "0065 - Chương 65 Chuyện cũ mờ sương (2).txt",
+      "done": true
+    },
+    {
+      "index": 66,
+      "title": "Chương 66: Chuyện cũ mờ sương (3)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2551",
+      "file": "0066 - Chương 66 Chuyện cũ mờ sương (3).txt",
+      "done": true
+    },
+    {
+      "index": 67,
+      "title": "Chương 67: Chưa từng thích cô (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2552",
+      "file": "0067 - Chương 67 Chưa từng thích cô (1).txt",
+      "done": true
+    },
+    {
+      "index": 68,
+      "title": "Chương 68: Chưa từng thích cô (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2553",
+      "file": "0068 - Chương 68 Chưa từng thích cô (2).txt",
+      "done": true
+    },
+    {
+      "index": 69,
+      "title": "Chương 69: Nhân gian phiêu bạt (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2554",
+      "file": "0069 - Chương 69 Nhân gian phiêu bạt (1).txt",
+      "done": true
+    },
+    {
+      "index": 70,
+      "title": "Chương 70: Nhân gian phiêu bạt (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2555",
+      "file": "0070 - Chương 70 Nhân gian phiêu bạt (2).txt",
+      "done": true
+    },
+    {
+      "index": 71,
+      "title": "Chương 71: Nhân gian phiêu bạt (3)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2556",
+      "file": "0071 - Chương 71 Nhân gian phiêu bạt (3).txt",
+      "done": true
+    },
+    {
+      "index": 72,
+      "title": "Chương 72: Thời gian trôi (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2557",
+      "file": "0072 - Chương 72 Thời gian trôi (1).txt",
+      "done": true
+    },
+    {
+      "index": 73,
+      "title": "Chương 73: Thời gian trôi (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2558",
+      "file": "0073 - Chương 73 Thời gian trôi (2).txt",
+      "done": true
+    },
+    {
+      "index": 74,
+      "title": "Chương 74: Kết thúc (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2559",
+      "file": "0074 - Chương 74 Kết thúc (1).txt",
+      "done": true
+    },
+    {
+      "index": 75,
+      "title": "Chương 75: Kết thúc (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2560",
+      "file": "0075 - Chương 75 Kết thúc (2).txt",
+      "done": true
+    },
+    {
+      "index": 76,
+      "title": "Ngoại truyện 1: Cuộc sống sau khi kết hôn (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2561",
+      "file": "0076 - Ngoại truyện 1 Cuộc sống sau khi kết hôn (1).txt",
+      "done": true
+    },
+    {
+      "index": 77,
+      "title": "Ngoại truyện 2: Cuộc sống sau khi kết hôn (2) (H)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2562",
+      "file": "0077 - Ngoại truyện 2 Cuộc sống sau khi kết hôn (2) (H).txt",
+      "done": true
+    },
+    {
+      "index": 78,
+      "title": "Ngoại truyện 3: Cuộc sống sau khi kết hôn (3)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2563",
+      "file": "0078 - Ngoại truyện 3 Cuộc sống sau khi kết hôn (3).txt",
+      "done": true
+    },
+    {
+      "index": 79,
+      "title": "Ngoại truyện 4: Gió nghiêng mưa nhẹ (1)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2564",
+      "file": "0079 - Ngoại truyện 4 Gió nghiêng mưa nhẹ (1).txt",
+      "done": true
+    },
+    {
+      "index": 80,
+      "title": "Ngoại truyện 5: Gió nghiêng mưa nhẹ (2)",
+      "url": "https://rookies.vn/truyen/tieu-thu-meo-cua-anh/2565",
+      "file": "0080 - Ngoại truyện 5 Gió nghiêng mưa nhẹ (2).txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:29:41+07:00",
+  "updated_at": "2026-10-01T21:31:19+07:00",
+  "chapter_count": 80,
+  "done_count": 80
+}

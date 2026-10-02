@@ -1,0 +1,131 @@
+{
+  "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca",
+  "site": "rookies",
+  "title": "Oan Hồn Người Cá",
+  "author": "A Bình Nho",
+  "status": "Hoàn thành",
+  "genres": [
+    "Rùng rợn",
+    "Truyện Thần bí",
+    "Học sinh",
+    "Truyện sáng tác",
+    "Kịch tính",
+    "Truyện Học đường",
+    "Nam x Nữ",
+    "Nam x Nam",
+    "Trường học",
+    "Hiện đại",
+    "Truyện Trinh thám",
+    "Truyện Đam mỹ",
+    "Tiểu thuyết",
+    "Truyện Đã xuất bản"
+  ],
+  "description": "\"Tất cả những gì được viết ở đây đều là sự thật. Chúng tôi đã bắt được người cá.\"\n--------------------\nMột \"kho báu\" được tìm thấy dưới thềm gạch men của phòng thực hành Lý sắp sửa bị dỡ bỏ. Những tưởng nhóm học sinh phát hiện sẽ nhận lại sự giàu sang như chúng đã mong chờ. Nào đâu, sau những lời ghi chép tưởng như hoang đường, là tóc, là móng tay và những bức ảnh chụp người cá.\n\nTruyền thuyết về người cá có thật sự tồn tại?\n\nVà những tai ương liên tiếp xảy ra sau khi \"kho báu\" được tìm thấy có phải do lời nguyền của người cá?\n\nDưới tấm màn siêu linh ma mị, nơi nỗi sợ hãi xen lẫn những hồ nghi, một bí mật khủng khiếp từng chút được vạch trần. Để rồi khi mọi chuyện tưởng như đã giải quyết, ác mộng về người cá mới thật sự bắt đầu!",
+  "cover": "https://rookies.vn/uploads/user/576xsRQ/novels/2025_01/OanHnNgiC_1735992068.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Mở đầu",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32710",
+      "file": "0001 - Mở đầu.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 1",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32711",
+      "file": "0002 - Chương 1.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 2",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32713",
+      "file": "0003 - Chương 2.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 3",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32714",
+      "file": "0004 - Chương 3.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 4",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32717",
+      "file": "0005 - Chương 4.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 5",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32718",
+      "file": "0006 - Chương 5.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 6",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32759",
+      "file": "0007 - Chương 6.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 7",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32760",
+      "file": "0008 - Chương 7.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 8",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/32762",
+      "file": "0009 - Chương 8.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 9",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/33825",
+      "file": "0010 - Chương 9.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 10",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/33826",
+      "file": "0011 - Chương 10.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 11",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/33827",
+      "file": "0012 - Chương 11.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 12",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/33829",
+      "file": "0013 - Chương 12.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chương 13",
+      "url": "https://rookies.vn/truyen/oan-hon-nguoi-ca/33830",
+      "file": "0014 - Chương 13.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:16:16+07:00",
+  "updated_at": "2026-10-01T21:16:33+07:00",
+  "chapter_count": 14,
+  "done_count": 14
+}

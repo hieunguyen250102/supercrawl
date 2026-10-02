@@ -1,0 +1,538 @@
+{
+  "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon",
+  "site": "rookies",
+  "title": "Gian Nhân - Kẻ Truy Hồn",
+  "author": "Bạch Anh",
+  "status": "Hoàn thành",
+  "genres": [
+    "Rùng rợn",
+    "Tăm tối",
+    "Truyện Thần bí",
+    "Học sinh",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nữ",
+    "Nông thôn",
+    "Hiện đại",
+    "Bạn bè",
+    "Truyện Ngôn tình",
+    "Truyện Tâm linh",
+    "Kết HE",
+    "Tiểu thuyết",
+    "Việt Nam Huyền Bí"
+  ],
+  "description": "Nguyễn Thị Xuân - một cô gái mười bảy tuổi mang trọng trách của Kẻ Truy Hồn, tìm đến ngôi trường THPT Tân Kỳ để hoàn thành sứ mệnh đầu tiên trong cuộc đời mình. Từ đây, ngôi trường tai tiếng với vô vàn câu chuyện kỳ quái nhuốm màu huyền bí dần được hé mở.\n\nTại sao trường Tân Kỳ năm nào cũng có nữ sinh nhảy lầu tự tử vô cùng thương tâm?\n\nTại sao làng Tân Kỳ bé nhỏ trong ngần ấy năm lại xảy ra bao chuyện kinh thiên động địa khiến lòng người thấp thỏm không yên?\n\nLời sấm truyền của lão thầy pháp về làng Tân Kỳ hơn hai mươi năm sau liệu có ứng nghiệm?\n\nLiệu Xuân có thể hoàn thành sứ mệnh của mình? Hay cô cũng bị kéo vào vòng xoáy ma mị không lối thoát?\n\nHãy cùng khám phá hành trình của Xuân. Hành trình của những bí ẩn chưa có lời giải đáp.\n\nTác giả: Bạch Anh\n\nCHÚ Ý ĐỘ TUỔI: 18+",
+  "cover": "https://rookies.vn/uploads/user/23451uPsh/novels/2025_03/bia_app.png_1742953563.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Mở đầu",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/39990",
+      "file": "0001 - Mở đầu.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 1: Truyền thừa",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/39991",
+      "file": "0002 - Chương 1 Truyền thừa.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 2: Trường THPT Tân Kỳ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/39992",
+      "file": "0003 - Chương 2 Trường THPT Tân Kỳ.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 3: Ký túc xá kỳ lạ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/39993",
+      "file": "0004 - Chương 3 Ký túc xá kỳ lạ.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 4: Hắc Mạn Thạch biến mất",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40027",
+      "file": "0005 - Chương 4 Hắc Mạn Thạch biến mất.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 5: Chuyện cũ ở làng Tân Kỳ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40029",
+      "file": "0006 - Chương 5 Chuyện cũ ở làng Tân Kỳ.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 6: Lão trưởng thôn xấu số",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40033",
+      "file": "0007 - Chương 6 Lão trưởng thôn xấu số.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 7: Quỷ nhập tràng",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40058",
+      "file": "0008 - Chương 7 Quỷ nhập tràng.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 8: Oan hồn người thanh niên",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40131",
+      "file": "0009 - Chương 8 Oan hồn người thanh niên.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 9: Bóng đen sau cánh cửa",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40140",
+      "file": "0010 - Chương 9 Bóng đen sau cánh cửa.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 10: Buổi học đầu tiên và cậu bạn mới",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40193",
+      "file": "0011 - Chương 10 Buổi học đầu tiên và cậu bạn mới.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 11: Dưới gốc cây xà cừ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40619",
+      "file": "0012 - Chương 11 Dưới gốc cây xà cừ.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 12: Bức tranh kỳ quái",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40624",
+      "file": "0013 - Chương 12 Bức tranh kỳ quái.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chương 13: Ác mộng kinh hoàng",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40706",
+      "file": "0014 - Chương 13 Ác mộng kinh hoàng.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Chương 14: Giữ khoảng cách",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41408",
+      "file": "0015 - Chương 14 Giữ khoảng cách.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Chương 15: Hành động",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/40819",
+      "file": "0016 - Chương 15 Hành động.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Chương 16: Lời thú tội lạ lùng",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41103",
+      "file": "0017 - Chương 16 Lời thú tội lạ lùng.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Chương 17: Như Lan là ai?",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41113",
+      "file": "0018 - Chương 17 Như Lan là ai.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Chương 18: Giường của người chết",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41184",
+      "file": "0019 - Chương 18 Giường của người chết.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Chương 19: Cái chết của Hạnh",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41292",
+      "file": "0020 - Chương 19 Cái chết của Hạnh.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Chương 20: Nỗi lòng của chị Hồng",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41681",
+      "file": "0021 - Chương 20 Nỗi lòng của chị Hồng.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Chương 21: Ma nhập",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41682",
+      "file": "0022 - Chương 21 Ma nhập.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Chương 22: Tiếng vọng từ quá khứ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41773",
+      "file": "0023 - Chương 22 Tiếng vọng từ quá khứ.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Chương 23: Thổ Thần nổi giận",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/41877",
+      "file": "0024 - Chương 23 Thổ Thần nổi giận.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Chương 24: Đám tang của Hạnh",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/43541",
+      "file": "0025 - Chương 24 Đám tang của Hạnh.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Chương 25: Vật quy nguyên chủ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/43773",
+      "file": "0026 - Chương 25 Vật quy nguyên chủ.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Chương 26: Đối đầu bóng đen bí ẩn",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/43875",
+      "file": "0027 - Chương 26 Đối đầu bóng đen bí ẩn.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Chương 27: Là ai?",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/44058",
+      "file": "0028 - Chương 27 Là ai.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Chương 28: Sư tử Hà Đông",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/44371",
+      "file": "0029 - Chương 28 Sư tử Hà Đông.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Chương 29: Thanh mai trúc mã",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/44611",
+      "file": "0030 - Chương 29 Thanh mai trúc mã.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Chương 30: Tiếng chuông gọi hồn",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/44921",
+      "file": "0031 - Chương 30 Tiếng chuông gọi hồn.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Chương 31: Diễn văn nghệ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/45126",
+      "file": "0032 - Chương 31 Diễn văn nghệ.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Chương 32: Đồ lưu manh",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/45240",
+      "file": "0033 - Chương 32 Đồ lưu manh.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Chương 33: Bảo kê",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/45712",
+      "file": "0034 - Chương 33 Bảo kê.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Chương 34: Bài sấm truyền",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/46520",
+      "file": "0035 - Chương 34 Bài sấm truyền.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Chương 35: Cá cược",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/46686",
+      "file": "0036 - Chương 35 Cá cược.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Chương 36: Bao trà sữa",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/46831",
+      "file": "0037 - Chương 36 Bao trà sữa.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Chương 37: Dãy phòng học cũ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/46974",
+      "file": "0038 - Chương 37 Dãy phòng học cũ.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Chương 38: Nguyệt thực toàn phần",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/47120",
+      "file": "0039 - Chương 38 Nguyệt thực toàn phần.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Chương 39: Con rối người rơm",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/47275",
+      "file": "0040 - Chương 39 Con rối người rơm.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Chương 40: Biến cố bất ngờ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/47539",
+      "file": "0041 - Chương 40 Biến cố bất ngờ.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Chương 41: Người giữ làng",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/47650",
+      "file": "0042 - Chương 41 Người giữ làng.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Chương 42: Bốc mả",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/47846",
+      "file": "0043 - Chương 42 Bốc mả.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Chương 43: Cá trê ăn xác chết",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/48041",
+      "file": "0044 - Chương 43 Cá trê ăn xác chết.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Chương 44: Trùng tang",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/48100",
+      "file": "0045 - Chương 44 Trùng tang.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Chương 45: Người thầy pháp lạ mặt",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/48520",
+      "file": "0046 - Chương 45 Người thầy pháp lạ mặt.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Chương 46: Âm binh mượn đường",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/48711",
+      "file": "0047 - Chương 46 Âm binh mượn đường.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Chương 47: Thòng lọng treo cổ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/48997",
+      "file": "0048 - Chương 47 Thòng lọng treo cổ.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Chương 48: Cẩu Miêu giày xéo, quỷ trèo song",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/49226",
+      "file": "0049 - Chương 48 Cẩu Miêu giày xéo, quỷ trèo song.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Chương 49: Lộ diện",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/49517",
+      "file": "0050 - Chương 49 Lộ diện.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Chương 50: Hoài nghi",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/49612",
+      "file": "0051 - Chương 50 Hoài nghi.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Chương 51: Tỏ tình",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/49731",
+      "file": "0052 - Chương 51 Tỏ tình.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Chương 52: Mạnh Kiên đang nghĩ gì?",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/55556",
+      "file": "0053 - Chương 52 Mạnh Kiên đang nghĩ gì.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Chương 53: Gọi hồn",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/56376",
+      "file": "0054 - Chương 53 Gọi hồn.txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "Chương 54: Bùa Lỗ Ban",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/56900",
+      "file": "0055 - Chương 54 Bùa Lỗ Ban.txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "Chương 55: Náo loạn ở căng tin",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/57520",
+      "file": "0056 - Chương 55 Náo loạn ở căng tin.txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "Chương 56: Quay lại làng Tân Kỳ",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/58361",
+      "file": "0057 - Chương 56 Quay lại làng Tân Kỳ.txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "Chương 57: Huyết ngải",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/59201",
+      "file": "0058 - Chương 57 Huyết ngải.txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Chương 58: Trò đùa của số phận",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/60188",
+      "file": "0059 - Chương 58 Trò đùa của số phận.txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "Chương 59: Lệ quỷ dưới giếng sâu",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/60379",
+      "file": "0060 - Chương 59 Lệ quỷ dưới giếng sâu.txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "Chương 60: Giấc mơ điềm báo thành hiện thực",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/60812",
+      "file": "0061 - Chương 60 Giấc mơ điềm báo thành hiện thực.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "Chương 61: Hết bất ngờ này đến bất ngờ khác",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/61196",
+      "file": "0062 - Chương 61 Hết bất ngờ này đến bất ngờ khác.txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "Chương 62: Gia tộc phong thủy Trương Văn",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/61392",
+      "file": "0063 - Chương 62 Gia tộc phong thủy Trương Văn.txt",
+      "done": true
+    },
+    {
+      "index": 64,
+      "title": "Chương 63: Mũi tên bạc",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/61533",
+      "file": "0064 - Chương 63 Mũi tên bạc.txt",
+      "done": true
+    },
+    {
+      "index": 65,
+      "title": "Chương 64: Địa Châu xuất thế",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/61984",
+      "file": "0065 - Chương 64 Địa Châu xuất thế.txt",
+      "done": true
+    },
+    {
+      "index": 66,
+      "title": "Chương 65: Kẻ đứng sau tất cả",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/62506",
+      "file": "0066 - Chương 65 Kẻ đứng sau tất cả.txt",
+      "done": true
+    },
+    {
+      "index": 67,
+      "title": "Chương 66: Sự thật phơi bày",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/63104",
+      "file": "0067 - Chương 66 Sự thật phơi bày.txt",
+      "done": true
+    },
+    {
+      "index": 68,
+      "title": "Chương 67: Phong thủy âm sát",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/63405",
+      "file": "0068 - Chương 67 Phong thủy âm sát.txt",
+      "done": true
+    },
+    {
+      "index": 69,
+      "title": "Chương 68: Sương Mai hành động",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/63751",
+      "file": "0069 - Chương 68 Sương Mai hành động.txt",
+      "done": true
+    },
+    {
+      "index": 70,
+      "title": "Chương 69: Ai mới là kẻ đáng thương?",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/64327",
+      "file": "0070 - Chương 69 Ai mới là kẻ đáng thương.txt",
+      "done": true
+    },
+    {
+      "index": 71,
+      "title": "Chương 70: Kết thúc không trọn vẹn",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/64528",
+      "file": "0071 - Chương 70 Kết thúc không trọn vẹn.txt",
+      "done": true
+    },
+    {
+      "index": 72,
+      "title": "Chương 71: Hành trình mới",
+      "url": "https://rookies.vn/truyen/gian-nhan-ke-truy-hon/66611",
+      "file": "0072 - Chương 71 Hành trình mới.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T20:07:58+07:00",
+  "updated_at": "2026-10-01T20:09:26+07:00",
+  "chapter_count": 72,
+  "done_count": 72
+}

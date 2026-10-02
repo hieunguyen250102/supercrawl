@@ -1,0 +1,133 @@
+{
+  "url": "https://rookies.vn/truyen/mot-chu-tinh",
+  "site": "rookies",
+  "title": "Một Chữ Tình",
+  "author": "iamsoccc",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện ngắn",
+    "Truyện sáng tác",
+    "Nam x Nam",
+    "Thế giới giả tưởng",
+    "Cận đại",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Đam mỹ",
+    "Kết HE",
+    "Hài hước"
+  ],
+  "description": "Xoảng!\n\nCậu út đứng giữa phòng trong mớ hỗn độn mình vừa gây ra, cả căn phòng không còn một món đồ nào lành lặn ngoài cái giường ngủ.\n\nMặt cậu út đỏ phừng phừng, rõ là tức lắm nhưng mắt cậu cứ rưng rưng.\n\nCậu nhìn người trước mắt, giọng nói uất ức nghẹn ngào.\n\n\"Nè nghen! Anh nhìn tui! Anh sờ tui! Ôm tui cho đã nư anh mà giờ tui hỏi...hức...tui hỏi cái anh đòi lấy vợ hả? Cái đồ...cái đồ sở khanh!\"\n\nSửu đứng trong góc phòng, mặt ngơ ngác sau cơn bùng nổ của cậu út.\n\n\"Cậu út...là cậu bắt tui nhìn, bắt tui sờ....bắt tui ôm mà cậu?\"\n\nCậu út hít hít mũi.\n\n\"Kệ tui!!! Anh phải chịu trách nhiệm với cái đời trai này của tui! Anh mà đòi lấy vợ...hức...anh lấy bà nào tui đốt nhà bà đó á!!!\"",
+  "cover": "https://rookies.vn/uploads/user/66589PSAB/novels/2026_07/MtChTnh_1784825791.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chương 1 : Cậu Út.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/117100",
+      "file": "0001 - Chương 1 Cậu Út.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 2 : Dạy Chữ - Học Chữ.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/117101",
+      "file": "0002 - Chương 2 Dạy Chữ - Học Chữ.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 3 : Tặng Quà.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/117102",
+      "file": "0003 - Chương 3 Tặng Quà.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 4 : Tâm Cơ.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/117103",
+      "file": "0004 - Chương 4 Tâm Cơ.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 5 : Lý Do Lý Trấu.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/117104",
+      "file": "0005 - Chương 5 Lý Do Lý Trấu.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 6 : Mất Ngủ.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/119838",
+      "file": "0006 - Chương 6 Mất Ngủ.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 7 : Ngủ Chung.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/119839",
+      "file": "0007 - Chương 7 Ngủ Chung.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chương 8 : Cậu Tư.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/119840",
+      "file": "0008 - Chương 8 Cậu Tư.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chương 9 : Vừa Sợ Vừa Vui.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/119841",
+      "file": "0009 - Chương 9 Vừa Sợ Vừa Vui.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chương 10 : Hái Sen, Hái Người.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/119842",
+      "file": "0010 - Chương 10 Hái Sen, Hái Người.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chương 11 : Lý Thuyết - Thực Hành.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/122424",
+      "file": "0011 - Chương 11 Lý Thuyết - Thực Hành.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chương 12 : Thương Nhất Cái Kiếp Này!",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/122425",
+      "file": "0012 - Chương 12 Thương Nhất Cái Kiếp Này!.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chương 13 : Dạy Dỗ!",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/122426",
+      "file": "0013 - Chương 13 Dạy Dỗ!.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chương 14 : Đầm Sen.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/122427",
+      "file": "0014 - Chương 14 Đầm Sen.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Chương 15 : Một Chữ Tình.",
+      "url": "https://rookies.vn/truyen/mot-chu-tinh/122428",
+      "file": "0015 - Chương 15 Một Chữ Tình.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:45:52+07:00",
+  "updated_at": "2026-10-01T21:46:12+07:00",
+  "chapter_count": 15,
+  "done_count": 15
+}

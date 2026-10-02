@@ -1,0 +1,84 @@
+{
+  "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu",
+  "site": "rookies",
+  "title": "Khai Vị Tình Yêu",
+  "author": "112085900307929798314",
+  "status": "Đang ra",
+  "genres": [
+    "Lãng mạn",
+    "Ngọt ngào",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nữ",
+    "Việt Nam",
+    "Trí thức",
+    "Hiện đại",
+    "Thanh mai trúc mã",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Ngôn tình",
+    "Kết HE",
+    "Hài hước",
+    "Con nhà giàu",
+    "Yêu thầm",
+    "Tiểu thuyết"
+  ],
+  "description": "Giới thiệu: Trích 1.\nNhật Minh chống cằm nhìn cô.\n\"Tớ ở bên cậu từ khi cả hai còn chưa hiểu thế nào là thích.\"\n\"Từng chút một nhìn cậu lớn lên, thay đổi... rồi không biết từ lúc nào, ánh mắt cứ tự động dừng lại ở cậu.\"\nGiọng cậu trầm xuống.\n\"Nếu như vậy mà vẫn gọi là nhanh... thì chắc tớ đã chậm hơn rất nhiều người rồi.\n\"Chưa kể ... chúng ta còn có hôn ước từ nhỏ.\"\n\nTrích 2.\n“...Buông ra đi, Nhật Minh.\"\n\"Tớ không buông.\"\nGiọng cậu trầm xuống.\n\"Ít nhất... lần này thì không.\"\n\nXuất phát: 28/11/2024\nVề Đích: ...\n\nĐây là bộ tiểu thuyết đầu tay của mình. Mong mọi người góp ý nhẹ nhàng và thông cảm nếu còn thiếu sót ạ. Cảm ơn mọi người đã đọc.",
+  "cover": "https://rookies.vn/uploads/user/109687GkCJ/novels/2026_03/angChnhSaKhaiVTnhYu_1774011854.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chương 1. Một Khởi Đầu Mới",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47368",
+      "file": "0001 - Chương 1. Một Khởi Đầu Mới.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chương 2. Biến Số Ngoài Dự Tính",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47369",
+      "file": "0002 - Chương 2. Biến Số Ngoài Dự Tính.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chương 3. Vụ Án \"Vũ Nương\" Thời Hiện Đại",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47370",
+      "file": "0003 - Chương 3. Vụ Án Vũ Nương Thời Hiện Đại.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chương 4. Kí Ức Như Cơn Bão Ùa Về",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47371",
+      "file": "0004 - Chương 4. Kí Ức Như Cơn Bão Ùa Về.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chương 5. Nụ Hôn Bất Ngờ",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47372",
+      "file": "0005 - Chương 5. Nụ Hôn Bất Ngờ.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chương 6. Hợp Đồng “Bán Thân” Với Cậu Bạn Oan Gia",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47373",
+      "file": "0006 - Chương 6. Hợp Đồng “Bán Thân” Với Cậu Bạn Oan Gia.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chương 7. Màn \"Thương Lượng\" Đi Vào Lòng Đất",
+      "url": "https://rookies.vn/truyen/khai-vi-tinh-yeu/47374",
+      "file": "0007 - Chương 7. Màn Thương Lượng Đi Vào Lòng Đất.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T19:05:54+07:00",
+  "updated_at": "2026-10-01T19:12:25+07:00",
+  "chapter_count": 7,
+  "done_count": 7
+}

@@ -1,0 +1,199 @@
+Chương 10: Thiết lập kết nối
+
+“Anh làm việc bên lĩnh vực công nghệ à?” Hà An bỗng nhiên hỏi một câu.
+
+Phúc Lâm khựng lại, quay sang nhìn cô, không vội đáp lời.
+
+“Tôi thắc mắc nên hỏi. Anh không nói cũng không sao.” Cô ngượng ngùng bổ sung vì cảm thấy ánh mắt của anh đang săm soi mình.
+
+Anh thả tay khỏi bàn phím, cười nói: “Không giấu gì cô, đây là kiến thức tôi học lỏm từ những quyển sách đã đọc đấy.”
+
+Hà An không tin nhưng không nỡ vạch trần anh, cô gõ lên mặt đồng hồ thông minh. Một màn hình ảo hiện ra. Trên đó là một trang web trắng tinh. Cô chăm chú quan sát sắc mặt anh, như sợ bỏ lỡ điều gì đó, khẽ nói: “Tôi không tìm được thông tin về phần mềm anh đang sử dụng.”
+
+Anh nhướng mày, cân nhắc xong mới nhỏ giọng tiết lộ: “Đây là phần mềm tôi tự thiết kế, đang trong giai đoạn thử nghiệm, không chắc có thể thu được tín hiệu tần số vô tuyến ngoài…”
+
+[Xin chào, xin chào, xin chào.]
+
+Phúc Lâm im lặng nhìn tín hiệu không ngừng nhấp nháy trên máy tính bảng, hơi xấu hổ vì chưa nói xong đã nghe ba tiếng “Xin chào” liên tiếp vang lên, anh có cảm giác như bị vả mạnh vào mặt vì không thành thật. Bởi vì anh từng thu được tín hiệu này một lần, nhưng không trả lời lại.
+
+Năm giây sau, anh chợt hỏi cô: “Có phải giọng nói cô đã nghe thấy không?”
+
+“… Không giống lắm.” Dây chuyền nằm yên trên bàn trà, vừa nói, Hà An vừa chạm vào viên ngọc. “Giọng nói mà tôi từng nghe hình như…”
+
+[Ơ, tôi nghe được giọng cô rồi này!]
+
+“Cậu nghe được ư?” Hà An giật mình, khẩn trương hỏi thêm. “Cậu biết tôi à?”
+
+[Biết chứ. Cô là Hà An. Ôi trời, cuối cùng cô cũng chịu lên tiếng!]
+
+Hà An cố giữ tỉnh táo, thả tay khỏi viên ngọc. Có lẽ nó không phải nanobot như suy đoán của cô, có lẽ có người nào đó đang muốn kết nối với cô qua sóng vô tuyến. Cô lục tìm trí nhớ, không rõ mình đã quen một người như vậy từ khi nào.
+
+Phúc Lâm trầm ngâm hướng mắt nhìn dữ liệu dao động trên màn hình ảo. Anh hoàn toàn không nghe được bất kỳ âm thanh nào, chỉ một mình Hà An nghe được giọng nói từ viên ngọc rồi trả lời nó. Vậy tín hiệu vô tuyến lạ lẫm mà anh từng thu được tận hai lần ấy đến từ đâu? Ai là người truyền đi? Với mục đích gì?
+
+[Xin chào, xin chào, xin chào.]
+
+Âm thanh kia tiếp tục vang lên, đường truyền tín hiệu trên màn hình ảo nhấp nhô lên xuống một cách đều đặn không gián đoạn. Phúc Lâm nhìn sang Hà An, cô lại đặt tay lên viên ngọc, thấp giọng hỏi: “Cậu tên gì? Tại sao cậu lại biết tên tôi? Chúng ta đã từng gặp nhau chưa?”
+
+[Sao? Cô… quên tôi rồi á? Sao cô có thể quên tôi được? Cô nói giỡn đúng không?]
+
+Phúc Lâm ngờ vực nhìn đường truyền tín hiệu, nhanh tay gõ thêm một dòng chữ bằng tiếng Anh dưới khung tải dữ liệu. Cuối cùng nghi hoặc trong lòng anh đã được giải mã. Đầu thu của anh thu được hai tần số vô tuyến khác nhau nhưng nằm chồng chéo lên nhau, khó mà phân biệt nếu không tìm ra mã nguồn ẩn.
+
+“Xin lỗi, nhưng tôi thật sự không biết mình đang nói chuyện với ai nữa.”
+
+Hà An nhỏ giọng nói, cô nhận ra đối phương đã bị tổn thương khi biết cô không nhớ ra mình. Cô đã quên ai? Hay cô đã quên mất chuyện gì? Con ngươi đen láy dao động, ánh mắt cô trở nên mơ màng, cứ nhìn viên ngọc như bị thôi miên.
+
+[Kỳ lạ quá, sao cô lại quên tôi được chứ?]
+
+Giọng nói truyền đến chứa đựng cảm xúc u buồn xen lẫn tức giận. Một chuỗi tạp âm đinh tai nhức óc vang lên như đại diện cho cảm giác của người kia. Hà An xoa trán, cố vượt qua trạng thái choáng váng, nói: “Cho tôi biết tên của cậu nhé?”
+
+[Tôi tên Sao Băng.]
+
+Giọng nói trở nên lạnh lùng, không mang theo mừng vui như trước, tựa hờn dỗi.
+
+Cùng lúc, tiếng vo ve luẩn quẩn trong tai Hà An từ nãy đến giờ cũng kết thúc.
+
+Cô ngẩng đầu, thấy ánh mắt chứa đầy lo lắng của Phúc Lâm, trống ngực đập liên hồi. Anh bỗng vươn tay về phía cô, không để cô kịp phản ứng, tay anh áp lên trán cô, xua tan cơn choáng váng tức thì. Da thịt mát lạnh cận kề, hương tinh dầu trầm thoang thoảng ngay cánh mũi đầy mê hoặc.
+
+Cô không hiểu chuyện gì đang xảy ra, nhưng cảm giác mát lạnh từ tay anh… rất dễ chịu.
+
+“Tần số vô tuyến này ảnh hưởng đến sóng não của cô.”
+
+Dứt câu, anh thẳng tay ngắt kết nối với tần số vô tuyến, đồng thời tắt phần mềm trên máy tính bảng. Giọng nói kia vẫn xuất hiện trong đầu Hà An, tiếc là đối phương chẳng còn nghe được hồi âm của cô.
+
+Người kia không ngừng lặp lại tên mình, hỏi cô nhớ ra chưa. Thú thật, cô không nhớ mình quen người nào tên Sao Băng.
+
+Sao Băng?
+
+Hà An bất giác chau mày, cái tên này… hình như không hề xa lạ với cô.
+
+Vì lý do gì mà cô không nhớ ra người đó?
+
+“Còn muốn giữ sợi dây chuyền này không?”
+
+Phúc Lâm đột nhiên hỏi, tình cờ kéo Hà An khỏi dòng suy nghĩ đang trói buộc tâm thức cô. Cô cúi đầu nhìn dây chuyền trên bàn trà. Viên ngọc yên lặng tỏa ra ánh sáng mờ ảo như chứng minh sự tồn tại của mình, dù có bị chối bỏ thế nào thì nó vẫn hiện diện ở đây. Bỏ qua sự kỳ lạ của nó, cô rất thích sợi dây chuyền này, vẫn muốn giữ lại.
+
+Nhìn thấu suy nghĩ của Hà An, Phúc Lâm đè ngón trỏ lên viên ngọc. Anh cũng muốn cảm nhận sự kỳ lạ mà cô đang trải qua, nhưng anh không nghe được điều gì từ viên ngọc, nó từ chối kết nối với anh. Kẻ “phản chủ” nhỏ bé đáng ghét! Anh gõ mạnh vào viên ngọc như đang trút giận, chọc cho Hà An bật cười khúc khích.
+
+“Phúc Lâm, anh đang làm gì vậy?”
+
+Anh nói: “Mặc kệ là trò đùa của ai, tôi giúp cô loại bỏ tín hiệu một chiều này.”
+
+Cô nhịn cười, hoang mang hỏi: “Bằng cách… gõ vào nó hả?”
+
+“Bây giờ tôi sẽ chặn nó.”
+
+Tay anh thoăn thoắt gõ phím, liên tục viết ra những dòng mật mã mà Hà An không thể đọc hiểu được. Trong lúc đợi anh, cô dời mắt đến viên ngọc, học theo anh dùng ngón trỏ gõ mạnh vào nó.
+
+Hà An tin tưởng khả năng của Phúc Lâm hơn một trăm phần trăm. Sau khi anh “xử lý” viên ngọc xong, nó không thể “nói chuyện” với cô nữa. Cô muốn ở lại cửa hàng đồ cổ Nam Đông thêm vài giờ đồng hồ, nhưng lại bị cuộc gọi công việc triệu hồi. Tiễn Hà An ra ga tàu điện trên không, đợi cô lên tàu anh mới yên tâm quay về.
+
+Tối đó, ánh trăng giăng ngang bầu trời, chiếu sáng một vùng mênh mông. Tinh tú lấp ló sau những rặng mây mềm, háo hức khởi động ngọn đèn tự nhiên. Trong phòng ngủ, Phúc Lâm ngồi bên cửa sổ, mở phần mềm thu sóng vô tuyến. Một lần nữa, anh thu được tín hiệu vô tuyến kia, giống như người phát tín hiệu chưa từng tắt đường truyền. Vẫn là giọng nói của người đó, cùng lời chào quen tai.
+
+[Xin chào, xin chào, xin chào.]
+
+Bất kể bao nhiêu lần, âm thanh ấy luôn chứa đầy hy vọng, tin rằng rồi sẽ có người đáp lại mình, chẳng ngại phải đợi bao lâu. Giữa màn đêm hiu quạnh, trăng sao bên nhau, nhưng người đó còn đang lang thang khắp nơi tìm kiếm đồng loại.
+
+Anh chấp nhận kết nối với tần số vô tuyến của người đó.
+
+“Xin chào.”
+
+[Xin chào, là ai đang trả lời tôi thế?]
+
+“Tôi là… Magellan.”
+
+Phúc Lâm nói ra cái tên giả khi nhìn qua bầu trời đêm. Các vì tinh tú nằm rải rác khắp nơi, luân phiên chiếu sáng. Không biết người bên kia màn hình ảo là ai, dù sao cũng chẳng gặp được, hơn nữa anh cũng không thể để lộ quá nhiều thông tin về mình, điều này sẽ khiến anh và Nam Đông gặp rắc rối.
+
+Người kia cười rộ lên, giọng nói phấn khích không che giấu, như đứa trẻ vừa tìm được phần quà nó hằng ao ước.
+
+[Xin chào Magellan, tôi là Đám Mây! Tên của chúng ta hợp lại là thành Đám Mây Magellan rồi. Bầu trời phía Nam đẹp thật. Magellan, anh có thấy dải Ngân Hà không? Dải sáng ấy kéo dài từ chòm sao Tiên Hậu ở phía Bắc, đến chòm sao Nam Thập Tự ở phía Nam, sáng nhất là ở chòm sao Nhân Mã.]
+
+“Tiếc quá, chỗ tôi ở… không thấy được vẻ đẹp mà anh miêu tả.”
+
+[Anh đang ở đâu thế?]
+
+“Tôi sống ở vùng ngoại ô, còn anh thì sao?”
+
+[Vùng ngoại ô… là nơi thế nào vậy?]
+
+“Vùng ngoại ô của thành phố Thịnh Vượng, anh không biết ư?”
+
+[Ồ, tôi vừa phát hiện ra, chúng ta đang cách nhau quá xa.]
+
+“Tần số vô tuyến của anh không đến từ Trái Đất. Lẽ nào… anh là phi hành gia?”
+
+[Trái Đất? Hành tinh xanh? Anh là… Chờ đã, anh sống ở Trái Đất hả?]
+
+“Anh nói cứ như… anh không sống ở đây vậy.”
+
+[Để anh đoán trúng rồi. Anh đừng vì điều này mà ngắt kết nối nhé. Chỗ tôi vắng lắm, hiếm khi tìm được người có thể trò chuyện cùng mình, tôi thấy rất vui.]
+
+Sự nghi hoặc trong mắt Phúc Lâm nhạt dần theo lời nói của người kia, anh cười hưởng ứng theo: “Đám Mây, anh không sống trên Trái Đất thì sống ở đâu? Hành tinh đó đẹp không? Xã hội ở đó là một xã hội thế nào?”
+
+[Tôi nhìn thấy Trái Đất của anh rồi. Thật nhỏ bé làm sao! Cũng giống như những hành tinh khác, đều chẳng là gì giữa vũ trụ rộng lớn này. Tôi đang xem hình ảnh được mô phỏng lại qua lăng kính thiên văn. Có dịp tôi sẽ đến thăm Trái Đất.]
+
+“Những hành tinh khác? Đám Mây, anh đang nói… thật ư?”
+
+Phúc Lâm ngờ vực hỏi, hai tay không ngừng gõ phím, gắt gao truy tìm dấu vết của lời nói dối. Chuyện này khá giống trò đùa, nhưng lại chân thật một cách bất thường. Anh đột nhiên không thể phân biệt được đâu là thông tin chính xác. Anh hơi nhíu mày, nhanh chóng viết thêm một đoạn mã bằng tiếng Anh.
+
+Dựa vào kiến thức và sự hiểu biết của mình, Phúc Lâm chưa dừng việc tìm kiếm địa chỉ thật của Đám Mây. Dường như đối phương cũng là người am hiểu lĩnh vực này, bằng chứng là anh không thể nào xâm nhập vào nguồn dữ liệu của máy chủ bên kia, mặc dù việc này đối với anh dễ như trở bàn tay.
+
+Cuối cùng cũng có việc kích thích khát vọng muốn chiến thắng trong lòng anh.
+
+Phúc Lâm dừng gõ phím, cất giọng nói: “Đám Mây, anh không chặn tôi mà chỉ phòng thủ. Hay là anh đang thăm dò khả năng của tôi? Như anh thấy đó, năng lực của tôi có hạn, tôi không phá được bức tường phòng thủ của anh.”
+
+[Khả năng của anh không kém tôi đâu, Magellan. Anh là con người đầu tiên thu được tần số vô tuyến của tôi và không phải chỉ một lần duy nhất. Nếu tôi không cố gắng phòng thủ, có lẽ anh sẽ phá được bức tường ấy. Lấy đâu ra thời gian để tôi chặn anh đây? Vả lại, tôi cũng không muốn chặn anh.]
+
+“Đám Mây, anh đang sống trên hành tinh nào thế?”
+
+[Tôi sống trên hành tinh Trắng. Hành tinh gần chỗ tôi sống nhất có tên là Ánh Sáng. Tôi chưa từng đến đó, nghe nói nơi đó đã bị một đội quân dùng vũ lực chiếm đóng rồi. Năm ánh sáng giữa các hành tinh quá lớn, đừng nói là tìm được vị trí cụ thể của hai hành tinh này, con người không đến đây được đâu. Phương tiện của họ không đủ năng lượng để đi xa như thế khám phá vũ trụ.]
+
+“Hành tinh… Ánh Sáng?”
+
+Phúc Lâm chậm rãi lặp lại cái tên ấy, trong lòng chợt xuất hiện loại cảm xúc kỳ quặc khiến anh bất giác cau mày. Tuy nhiên, loại cảm xúc kia không có cơ hội khuấy động tâm trí anh quá lâu. Anh liếc nhìn đồng hồ, nói: “Đám Mây, chỗ tôi hơn mười giờ đêm rồi. Hôm nay đến đây thôi. Lần sau chúng ta nói chuyện tiếp.”
+
+[Thời gian chỗ anh… Magellan, chúc anh ngủ ngon.]
+
+…
+
+Sáng tinh mơ, chim robot cất tiếng kêu ríu rít bên ngoài, đánh thức vạn vật. Nam Đông đứng trên tầng thượng, ngẩng đầu nhìn trời cao, trong mắt là nỗi niềm khó tả.
+
+Dòng chảy không ngừng của thời gian vận hành mọi thứ, vũ trụ tiến hóa vô hạn tạo nên nhiều kỳ quan phi thường, đá Ánh Sáng là một trong số đó. Mang trên mình thân phận Sứ giả cuối cùng của Thời gian, nhiệm vụ của ông chưa bao giờ kết thúc. Đá Ánh Sáng không còn ở Trái Đất, ông mải miết hòa mình vào dòng thời gian chẳng có điểm dừng.
+
+Lâu dần, trong đầu Nam Đông hình thành vô vàn câu hỏi: Khi nào vũ trụ mới diệt vong? Nhiệm vụ mà hành tinh Thời Gian giao cho ông có thật sự cấp bách hay không? Đá Ánh Sáng đang trôi dạt nơi nào? Nó gây ra những ảnh hưởng gì rồi?
+
+Nam Đông cười nhạt, dáng vẻ ung dung. Ông không muốn biết, cũng không muốn tìm câu trả lời cho những câu hỏi oái oăm kia. Ông nhìn quanh khoảng sân trống được làm đầy bởi nhiều chậu cây nhân tạo, một suy nghĩ nhảy ra. Tại sao ông lại chọn nơi này nhỉ? Thế rồi, ông ném suy nghĩ ấy vào hư vô, thỏa thích tận hưởng sự yên bình vô thời hạn trước mắt.
+
+Đêm qua, lúc đi ngang phòng ngủ của Phúc Lâm, ông nghe thấy anh trò chuyện với người lạ ở nơi xa xôi. Ông bỗng nhớ về thiên hà, nhớ cả những ngày ngồi trong tàu vũ trụ phóng tầm mắt lên không gian bao la.
+
+Trước khi rời hành tinh Thời Gian, Nam Đông đã biết, chẳng một người nào trên đời có thể thay đổi tương lai. “Hiện tại” vẫn tiếp diễn, tiếp diễn, cho đến khi nó trở thành một hình hài mới với tên gọi… tương lai. Hiện tại? Nam Đông ngây người, sắc xanh lam của bầu trời chiếm ngự mắt ông bỗng chốc xuất hiện một vệt sáng nhạt màu. Thoáng cái, vệt sáng liền biến mất.
+
+Gió vờn qua quyển sách trong tay Nam Đông, mạnh mẽ đánh thức ông.
+
+Nam Đông cúi đầu đọc lại dòng chữ được viết bằng ngôn ngữ của hành tinh Thời Gian trên trang sách cuối cùng. Ông đã dịch nó thành ngôn ngữ mà nhân loại có thể đọc hiểu. Cuối sách kẹp một tờ giấy nhỏ, trên đó là bản dịch bằng tiếng Việt.
+
+Thời gian luân chuyển, xích bạc trói hồn, tia sáng yếu ớt, rời xa quỹ đạo.
+
+Ngược về quá khứ, tiến đến hiện tại, hiểu thấu tương lai, vượt qua thời không.
+
+Nương nhờ địa cầu, trở lại thiên hà, khôi phục ý thức.
+
+Tỉnh giấc quên mộng, trân trọng thời gian.
+
+Nam Đông xoay người đi tới chỗ bậc thang kim loại mỏng và nhỏ vừa hiện ra trong góc trái trên sân thượng. Một cánh cửa xuất hiện giữa khoảng không. Cảm nhận được năng lượng của chủ nhân, cánh cửa dày cộm đột ngột mở toang. Bên trong lạnh toát, chứa đầy những món đồ kim loại tối tân.
+
+Một giọng nói máy móc vang lên.
+
+[Sứ giả định bao giờ ngừng lười biếng?]
+
+Nam Đông sững người, khó chịu hỏi ngược lại: “Tôi lười biếng lúc nào?”
+
+Ông cảm thấy câu nói này rất quen. Như nhớ ra gì đó, ông thở phào nhẹ nhõm.
+
+Lần đầu ông nói thế với con tàu này là… hai mươi năm trước.
+
+Lâu như vậy rồi à?
+
+[Nhiệm vụ đã giao, Sứ giả hãy thi hành.]
+
+[Dò tìm thất bại, hãy thử lại sau một ngày.]
+
+Hai âm thanh máy móc đồng thời vang lên, Nam Đông nhăn trán nhìn đồng hồ thông minh. Tai ông chỉ toàn những tiếng ù ù kỳ lạ. Ông bịt tai lại, đanh giọng ra lệnh cho con tàu: “Tắt toàn bộ hệ thống trên tàu.”

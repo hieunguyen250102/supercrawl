@@ -1,0 +1,614 @@
+{
+  "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1",
+  "site": "rookies",
+  "title": "Đôi \"Bạn\" Cùng Tiến",
+  "author": "daibong309",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện Đời thường",
+    "Học sinh",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Nam x Nam",
+    "Trường học",
+    "Hiện đại",
+    "Bạn bè",
+    "Chữa lành",
+    "Truyện Đam mỹ",
+    "Kết HE",
+    "Hài hước",
+    "Tiểu thuyết",
+    "Truyện Đã xuất bản"
+  ],
+  "description": "Giới thiệu: Truyện như tên\n\nTình trạng: Đã hoàn thành\nNgày bắt đầu: 27/02/2024\nNgày viết xong: 28/01/2025\n\nĐề tài: Tình cảm, học đường, đời thường, truyện nhạt, truyện hâm nóng từ từ (ý là chậm nhiệt a.k.a slow burn), cháy chậm nhưng cháy to, truyện LGBT/boylove/tình trai/tình nam/nam x nam/trai x trai/boy x boy... (tóm lại truyện viết về hai thằng con trai iu nhau, gọi thế nào cũng được), switch/lật qua lật lại/thi nhau nằm trên/trên dưới linh hoạt\n\nCảnh báo độ tuổi: 18+ (Dù bối cảnh học đường nhưng đây không phải truyện trong sáng. Nếu ai không thích trong tối thì đừng đọc.)\n\nLưu ý: Mọi nhân vật, địa danh và các sự kiện trong truyện đều là hư cấu. Tất cả sự trùng hợp (nếu có) chỉ là ngẫu nhiên. Vui lòng không đối chiếu chi tiết trong truyện với đời thực. (Ví dụ: các mốc thời gian, dịch bệnh, quy chế các kỳ thi v.v...)",
+  "cover": "https://rookies.vn/uploads/user/37965HYFa/novels/2025_10/iBnCngTin_1759646162.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "THÔNG TIN SÁCH XUẤT BẢN [ĐÔI \"BẠN\" CÙNG TIẾN]",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/76696",
+      "file": "0001 - THÔNG TIN SÁCH XUẤT BẢN [ĐÔI BẠN CÙNG TIẾN].txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Thu - Chương 1",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26517",
+      "file": "0002 - Thu - Chương 1.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Thu - Chương 2",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26552",
+      "file": "0003 - Thu - Chương 2.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Thu - Chương 3",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26553",
+      "file": "0004 - Thu - Chương 3.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Thu - Chương 4",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26554",
+      "file": "0005 - Thu - Chương 4.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Thu - Chương 5",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26555",
+      "file": "0006 - Thu - Chương 5.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Thu - Chương 6",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26556",
+      "file": "0007 - Thu - Chương 6.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Thu - Chương 7",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26557",
+      "file": "0008 - Thu - Chương 7.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Thu - Chương 8",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26558",
+      "file": "0009 - Thu - Chương 8.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Thu - Chương 9",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26559",
+      "file": "0010 - Thu - Chương 9.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Thu - Chương 10",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26560",
+      "file": "0011 - Thu - Chương 10.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Thu - Chương 11",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26562",
+      "file": "0012 - Thu - Chương 11.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Thu - Chương 12",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26563",
+      "file": "0013 - Thu - Chương 12.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Thu - Chương 13",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26564",
+      "file": "0014 - Thu - Chương 13.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Thu - Chương 14",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26565",
+      "file": "0015 - Thu - Chương 14.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Thu - Chương 15",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26566",
+      "file": "0016 - Thu - Chương 15.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Thu - Chương 16",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26567",
+      "file": "0017 - Thu - Chương 16.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Thu - Chương 17",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26568",
+      "file": "0018 - Thu - Chương 17.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Thu - Chương 18",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26569",
+      "file": "0019 - Thu - Chương 18.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Thu - Chương 19",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26570",
+      "file": "0020 - Thu - Chương 19.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Thu - Chương 20",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26571",
+      "file": "0021 - Thu - Chương 20.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Thu - Chương 21",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26572",
+      "file": "0022 - Thu - Chương 21.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Thu - Chương 22",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26573",
+      "file": "0023 - Thu - Chương 22.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Hạ - Chương 23",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26574",
+      "file": "0024 - Hạ - Chương 23.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Hạ - Chương 24",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26575",
+      "file": "0025 - Hạ - Chương 24.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Hạ - Chương 25",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26576",
+      "file": "0026 - Hạ - Chương 25.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Hạ - Chương 26",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26577",
+      "file": "0027 - Hạ - Chương 26.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Hạ - Chương 27",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26578",
+      "file": "0028 - Hạ - Chương 27.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Hạ - Chương 28",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26579",
+      "file": "0029 - Hạ - Chương 28.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Hạ - Chương 29",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26580",
+      "file": "0030 - Hạ - Chương 29.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Hạ - Chương 30",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26581",
+      "file": "0031 - Hạ - Chương 30.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Hạ - Chương 31",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26582",
+      "file": "0032 - Hạ - Chương 31.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Hạ - Chương 32",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26583",
+      "file": "0033 - Hạ - Chương 32.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Hạ - Chương 33",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26584",
+      "file": "0034 - Hạ - Chương 33.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Hạ - Chương 34",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26585",
+      "file": "0035 - Hạ - Chương 34.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Hạ - Chương 35",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26586",
+      "file": "0036 - Hạ - Chương 35.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Hạ - Chương 36",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26587",
+      "file": "0037 - Hạ - Chương 36.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Hạ - Chương 37",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26588",
+      "file": "0038 - Hạ - Chương 37.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Hạ - Chương 38",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26590",
+      "file": "0039 - Hạ - Chương 38.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Hạ - Chương 39",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26591",
+      "file": "0040 - Hạ - Chương 39.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Hạ - Chương 40",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26592",
+      "file": "0041 - Hạ - Chương 40.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Hạ - Chương 41",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26593",
+      "file": "0042 - Hạ - Chương 41.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Hạ - Chương 42",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26594",
+      "file": "0043 - Hạ - Chương 42.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Hạ - Chương 43",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26595",
+      "file": "0044 - Hạ - Chương 43.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Hạ - Chương 44",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26596",
+      "file": "0045 - Hạ - Chương 44.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Xuân - Chương 45",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26597",
+      "file": "0046 - Xuân - Chương 45.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Xuân - Chương 46",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26598",
+      "file": "0047 - Xuân - Chương 46.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Xuân - Chương 47",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26599",
+      "file": "0048 - Xuân - Chương 47.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Xuân - Chương 48",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26600",
+      "file": "0049 - Xuân - Chương 48.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Xuân - Chương 49",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26601",
+      "file": "0050 - Xuân - Chương 49.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Xuân - Chương 50",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26602",
+      "file": "0051 - Xuân - Chương 50.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Xuân - Chương 51",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26603",
+      "file": "0052 - Xuân - Chương 51.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Xuân - Chương 52",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26604",
+      "file": "0053 - Xuân - Chương 52.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Xuân - Chương 53",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26605",
+      "file": "0054 - Xuân - Chương 53.txt",
+      "done": true
+    },
+    {
+      "index": 55,
+      "title": "Xuân - Chương 54",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26606",
+      "file": "0055 - Xuân - Chương 54.txt",
+      "done": true
+    },
+    {
+      "index": 56,
+      "title": "Xuân - Chương 55",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26607",
+      "file": "0056 - Xuân - Chương 55.txt",
+      "done": true
+    },
+    {
+      "index": 57,
+      "title": "Xuân - Chương 56",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26608",
+      "file": "0057 - Xuân - Chương 56.txt",
+      "done": true
+    },
+    {
+      "index": 58,
+      "title": "Xuân - Chương 57",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26609",
+      "file": "0058 - Xuân - Chương 57.txt",
+      "done": true
+    },
+    {
+      "index": 59,
+      "title": "Xuân - Chương 58",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26610",
+      "file": "0059 - Xuân - Chương 58.txt",
+      "done": true
+    },
+    {
+      "index": 60,
+      "title": "Xuân - Chương 59",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26612",
+      "file": "0060 - Xuân - Chương 59.txt",
+      "done": true
+    },
+    {
+      "index": 61,
+      "title": "Xuân - Chương 60",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26820",
+      "file": "0061 - Xuân - Chương 60.txt",
+      "done": true
+    },
+    {
+      "index": 62,
+      "title": "Xuân - Chương 61",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/26821",
+      "file": "0062 - Xuân - Chương 61.txt",
+      "done": true
+    },
+    {
+      "index": 63,
+      "title": "Xuân - Chương 62",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/28201",
+      "file": "0063 - Xuân - Chương 62.txt",
+      "done": true
+    },
+    {
+      "index": 64,
+      "title": "Xuân - Chương 63",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34961",
+      "file": "0064 - Xuân - Chương 63.txt",
+      "done": true
+    },
+    {
+      "index": 65,
+      "title": "Xuân - Chương 64",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34962",
+      "file": "0065 - Xuân - Chương 64.txt",
+      "done": true
+    },
+    {
+      "index": 66,
+      "title": "Xuân - Chương 65",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34963",
+      "file": "0066 - Xuân - Chương 65.txt",
+      "done": true
+    },
+    {
+      "index": 67,
+      "title": "Xuân - Chương 66",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34964",
+      "file": "0067 - Xuân - Chương 66.txt",
+      "done": true
+    },
+    {
+      "index": 68,
+      "title": "Xuân - Chương 67",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34965",
+      "file": "0068 - Xuân - Chương 67.txt",
+      "done": true
+    },
+    {
+      "index": 69,
+      "title": "Xuân - Chương 68",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34966",
+      "file": "0069 - Xuân - Chương 68.txt",
+      "done": true
+    },
+    {
+      "index": 70,
+      "title": "Xuân - Chương 69",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34967",
+      "file": "0070 - Xuân - Chương 69.txt",
+      "done": true
+    },
+    {
+      "index": 71,
+      "title": "Xuân - Chương 70",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34968",
+      "file": "0071 - Xuân - Chương 70.txt",
+      "done": true
+    },
+    {
+      "index": 72,
+      "title": "Xuân - Chương 71",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34969",
+      "file": "0072 - Xuân - Chương 71.txt",
+      "done": true
+    },
+    {
+      "index": 73,
+      "title": "Xuân - Chương 72",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34970",
+      "file": "0073 - Xuân - Chương 72.txt",
+      "done": true
+    },
+    {
+      "index": 74,
+      "title": "Đông - Chương 73",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34971",
+      "file": "0074 - Đông - Chương 73.txt",
+      "done": true
+    },
+    {
+      "index": 75,
+      "title": "Đông - Chương 74",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34972",
+      "file": "0075 - Đông - Chương 74.txt",
+      "done": true
+    },
+    {
+      "index": 76,
+      "title": "Đông - Chương 75",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34973",
+      "file": "0076 - Đông - Chương 75.txt",
+      "done": true
+    },
+    {
+      "index": 77,
+      "title": "Đông - Chương 76",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34974",
+      "file": "0077 - Đông - Chương 76.txt",
+      "done": true
+    },
+    {
+      "index": 78,
+      "title": "Đông - Chương 77",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/34975",
+      "file": "0078 - Đông - Chương 77.txt",
+      "done": true
+    },
+    {
+      "index": 79,
+      "title": "Đông - Chương 78",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/35214",
+      "file": "0079 - Đông - Chương 78.txt",
+      "done": true
+    },
+    {
+      "index": 80,
+      "title": "Đông - Chương 79",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/35215",
+      "file": "0080 - Đông - Chương 79.txt",
+      "done": true
+    },
+    {
+      "index": 81,
+      "title": "Đông - Chương 80",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/35216",
+      "file": "0081 - Đông - Chương 80.txt",
+      "done": true
+    },
+    {
+      "index": 82,
+      "title": "Đông - Chương 81",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/35217",
+      "file": "0082 - Đông - Chương 81.txt",
+      "done": true
+    },
+    {
+      "index": 83,
+      "title": "Đông - Chương 82",
+      "url": "https://rookies.vn/truyen/doi-ban-cung-tien-1/35218",
+      "file": "0083 - Đông - Chương 82.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T17:55:35+07:00",
+  "updated_at": "2026-10-01T18:50:18+07:00",
+  "chapter_count": 83,
+  "done_count": 83
+}

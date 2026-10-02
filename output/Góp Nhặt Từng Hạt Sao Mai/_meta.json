@@ -1,0 +1,366 @@
+{
+  "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai",
+  "site": "rookies",
+  "title": "Góp Nhặt Từng Hạt Sao Mai",
+  "author": "111468632134716197915",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Truyện Tình cảm lãng mạn",
+    "Truyện Ngôn tình"
+  ],
+  "description": "Thùy Anh là con gái nhưng tính tình ngỗ nghịch. Đá bóng với mấy thằng con trai trong xóm không bao giờ lép vế. Ngồi quán net chơi điện tử mạnh dạn chửi thề tới mấy đời nhà người ta. Mẹ Thùy Anh cho rằng trời ban nhầm giới tính cho con gái.\n\nĐến một ngày Thùy Anh bắt đầu dịu dàng, nó cài hoa lên tóc, mỉm cười duyên dáng với những thằng từng đá bóng cùng. Ngày đó Thùy Anh đã biết yêu.\n\nQuan trọng hơn hết là thằng nó yêu lại là cái thằng oan gia ngõ hẹp với nó. Thế mới quái!",
+  "cover": "https://rookies.vn/uploads/user/13455Bvab/BIA_Gop_nhat_tung_hat_sao_mai_.png",
+  "cover_file": "cover.png",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chap 1: Cuộc chiến",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22808",
+      "file": "0001 - Chap 1 Cuộc chiến.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "Chap 2: Thi đua",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22809",
+      "file": "0002 - Chap 2 Thi đua.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "Chap 3: Chó Rượt",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22844",
+      "file": "0003 - Chap 3 Chó Rượt.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "Chap 4: Quá khứ thuở bé",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22848",
+      "file": "0004 - Chap 4 Quá khứ thuở bé.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Chap 5: Xâu Bánh Tráng",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22874",
+      "file": "0005 - Chap 5 Xâu Bánh Tráng.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Chap 6: Tin Đồn",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22910",
+      "file": "0006 - Chap 6 Tin Đồn.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Chap 7: Kết quả thi đấu",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/22962",
+      "file": "0007 - Chap 7 Kết quả thi đấu.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Chap 8: Khung Cảnh Hoàng Hôn Ngày Ấy",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23149",
+      "file": "0008 - Chap 8 Khung Cảnh Hoàng Hôn Ngày Ấy.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Chap 9: Ngày Chủ Nhật",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23203",
+      "file": "0009 - Chap 9 Ngày Chủ Nhật.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Chap 10: Quán Net",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23290",
+      "file": "0010 - Chap 10 Quán Net.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Chap 11: Liệu đó có phải là thích?",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23361",
+      "file": "0011 - Chap 11 Liệu đó có phải là thích.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Chap 12: Xác Định",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23402",
+      "file": "0012 - Chap 12 Xác Định.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Chap 13: Hot Tiktoker",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23496",
+      "file": "0013 - Chap 13 Hot Tiktoker.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Chap 14: Gấu Bông",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23607",
+      "file": "0014 - Chap 14 Gấu Bông.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Chap 15: Kem",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23764",
+      "file": "0015 - Chap 15 Kem.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Chap 16: Căng Thẳng",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/23823",
+      "file": "0016 - Chap 16 Căng Thẳng.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Chap 17: Giao Đấu",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24014",
+      "file": "0017 - Chap 17 Giao Đấu.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Chap 18: Trên Tình Bạn, Dưới Tình Yêu",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24187",
+      "file": "0018 - Chap 18 Trên Tình Bạn, Dưới Tình Yêu.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Chap 19: Thừa Nhận Tình Cảm",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24305",
+      "file": "0019 - Chap 19 Thừa Nhận Tình Cảm.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Chap 20: Phá Đám",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24306",
+      "file": "0020 - Chap 20 Phá Đám.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Chap 21: Vào Phòng Y Tế",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24413",
+      "file": "0021 - Chap 21 Vào Phòng Y Tế.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Chap 22: Chăm Sóc \"Em Bé '",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24414",
+      "file": "0022 - Chap 22 Chăm Sóc Em Bé '.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Chap 23: Đi Ôn Tập",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24850",
+      "file": "0023 - Chap 23 Đi Ôn Tập.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Chap 24: Chở Về",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/24851",
+      "file": "0024 - Chap 24 Chở Về.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Chap 25: Em Xinh Đẹp Trong Đôi Mắt Anh",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25286",
+      "file": "0025 - Chap 25 Em Xinh Đẹp Trong Đôi Mắt Anh.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Chap 26: Album",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25287",
+      "file": "0026 - Chap 26 Album.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Chap 27: Gu",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25288",
+      "file": "0027 - Chap 27 Gu.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Chap 28: Ghép Cặp Tặng Quà",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25407",
+      "file": "0028 - Chap 28 Ghép Cặp Tặng Quà.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Chap 29: Xinh",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25408",
+      "file": "0029 - Chap 29 Xinh.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Chap 30: Đi Chơi (1)",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25409",
+      "file": "0030 - Chap 30 Đi Chơi (1).txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Chap 31: Đi Chơi (2)",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25465",
+      "file": "0031 - Chap 31 Đi Chơi (2).txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Chap 32: Rung Động",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/25591",
+      "file": "0032 - Chap 32 Rung Động.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Chap 33: Giáng Sinh",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/26708",
+      "file": "0033 - Chap 33 Giáng Sinh.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Chương 34: Thả Thính",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/63954",
+      "file": "0034 - Chương 34 Thả Thính.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Chap 35: Ẩu Đả",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/78922",
+      "file": "0035 - Chap 35 Ẩu Đả.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Chap 36: Tranh Cãi",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/78923",
+      "file": "0036 - Chap 36 Tranh Cãi.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Chương 37: Câu Trả Lời",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/80441",
+      "file": "0037 - Chương 37 Câu Trả Lời.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Chap 38: Bóc Phốt",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/83053",
+      "file": "0038 - Chap 38 Bóc Phốt.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Chap 39: Nói Chuyện",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/86241",
+      "file": "0039 - Chap 39 Nói Chuyện.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Chap 40: Mùa Lễ",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/86244",
+      "file": "0040 - Chap 40 Mùa Lễ.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Chap 41: Đau Bụng",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/87356",
+      "file": "0041 - Chap 41 Đau Bụng.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Chap 42: Đưa Đồ",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/87357",
+      "file": "0042 - Chap 42 Đưa Đồ.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Chap 43: Thi Đấu Bóng Chuyền",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/98654",
+      "file": "0043 - Chap 43 Thi Đấu Bóng Chuyền.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Chap 44: Lời hứa",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/98656",
+      "file": "0044 - Chap 44 Lời hứa.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Chap 45: Sóng Gió Dư Luận",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/127157",
+      "file": "0045 - Chap 45 Sóng Gió Dư Luận.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Chap 46: Lựa Váy Cưới",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/127158",
+      "file": "0046 - Chap 46 Lựa Váy Cưới.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Chap 47: Thổ Lộ",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/127160",
+      "file": "0047 - Chap 47 Thổ Lộ.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Chap 48: Cần Thêm Thời Gian",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/127164",
+      "file": "0048 - Chap 48 Cần Thêm Thời Gian.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Chap 49: End: Sao Mai",
+      "url": "https://rookies.vn/truyen/gop-nhat-tung-hat-sao-mai/127165",
+      "file": "0049 - Chap 49 End Sao Mai.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T21:44:17+07:00",
+  "updated_at": "2026-10-01T21:45:18+07:00",
+  "chapter_count": 49,
+  "done_count": 49
+}

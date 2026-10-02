@@ -1,0 +1,406 @@
+{
+  "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1",
+  "site": "rookies",
+  "title": "Gửi Thanh Xuân Vào Nắng Hạ",
+  "author": "Kit.T",
+  "status": "Hoàn thành",
+  "genres": [
+    "Truyện Đời thường",
+    "Ngọt ngào",
+    "Truyện sáng tác",
+    "Truyện Học đường",
+    "Hiện đại",
+    "Chữa lành",
+    "Truyện Ngôn tình",
+    "Kết HE",
+    "Tiểu thuyết"
+  ],
+  "description": "An tựa đầu vào vai Duy, ánh mắt cô lấp lánh.\n“Duy này.”\n“Hửm?”\n“Cậu biết không, tớ hình như rất thích cậu.”\nDuy im lặng một lúc. Trong nắng chiều, dưới cơn gió nhẹ mang theo sự dịu dàng của sóng biển, cậu đáp lại câu nói của An bằng tất cả sự chân thành mà cậu có:\n“Ừm… tớ thích cậu. Rất, rất thích cậu. Tớ thích Hạ An nhiều hơn cả thích chính bản thân mình nữa cơ.”\nAn ngẩng mặt lên nhìn cậu, nói:\n“Vậy tại sao không phải là cậu cũng thích tớ?”\nDuy nhìn thẳng vào mắt cô, nở một nụ cười nhẹ:\n“Tớ thích cậu không phải vì cậu thích tớ nên tớ phải thích lại, mà bởi vì việc tớ thích cậu chỉ đơn thuần là Đức Duy thích Hạ An mà thôi.”",
+  "cover": "https://rookies.vn/uploads/user/117389bkWT/novels/2026_01/GiThanhXunVoNngH_1767964054.jpg",
+  "cover_file": "cover.jpg",
+  "chapter_pages_done": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Điều gì đó mới lạ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52524",
+      "file": "0001 - Điều gì đó mới lạ.txt",
+      "done": true
+    },
+    {
+      "index": 2,
+      "title": "giờ học đặc biệt",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52526",
+      "file": "0002 - giờ học đặc biệt.txt",
+      "done": true
+    },
+    {
+      "index": 3,
+      "title": "học với ánh nắng",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52527",
+      "file": "0003 - học với ánh nắng.txt",
+      "done": true
+    },
+    {
+      "index": 4,
+      "title": "thay đổi nhỏ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52547",
+      "file": "0004 - thay đổi nhỏ.txt",
+      "done": true
+    },
+    {
+      "index": 5,
+      "title": "Tin nhắn lạ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52548",
+      "file": "0005 - Tin nhắn lạ.txt",
+      "done": true
+    },
+    {
+      "index": 6,
+      "title": "Trước cơn sóng",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/52998",
+      "file": "0006 - Trước cơn sóng.txt",
+      "done": true
+    },
+    {
+      "index": 7,
+      "title": "Đối mặt với nỗi sợ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/53000",
+      "file": "0007 - Đối mặt với nỗi sợ.txt",
+      "done": true
+    },
+    {
+      "index": 8,
+      "title": "Tờ giấy không chỉ chứa điểm số",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/53529",
+      "file": "0008 - Tờ giấy không chỉ chứa điểm số.txt",
+      "done": true
+    },
+    {
+      "index": 9,
+      "title": "Tiến bộ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/53530",
+      "file": "0009 - Tiến bộ.txt",
+      "done": true
+    },
+    {
+      "index": 10,
+      "title": "Cảm giác",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/53532",
+      "file": "0010 - Cảm giác.txt",
+      "done": true
+    },
+    {
+      "index": 11,
+      "title": "Hai cái tôi và sự thấu hiểu",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/54015",
+      "file": "0011 - Hai cái tôi và sự thấu hiểu.txt",
+      "done": true
+    },
+    {
+      "index": 12,
+      "title": "Sau cơn mưa là nắng",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/54869",
+      "file": "0012 - Sau cơn mưa là nắng.txt",
+      "done": true
+    },
+    {
+      "index": 13,
+      "title": "Áp lực cuối kì",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/54872",
+      "file": "0013 - Áp lực cuối kì.txt",
+      "done": true
+    },
+    {
+      "index": 14,
+      "title": "Lặng im trên những trang vở",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55140",
+      "file": "0014 - Lặng im trên những trang vở.txt",
+      "done": true
+    },
+    {
+      "index": 15,
+      "title": "Cùng nhau",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55172",
+      "file": "0015 - Cùng nhau.txt",
+      "done": true
+    },
+    {
+      "index": 16,
+      "title": "Khi gió lùa qua mùa thi",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55200",
+      "file": "0016 - Khi gió lùa qua mùa thi.txt",
+      "done": true
+    },
+    {
+      "index": 17,
+      "title": "Màu sắc của cảm xúc",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55201",
+      "file": "0017 - Màu sắc của cảm xúc.txt",
+      "done": true
+    },
+    {
+      "index": 18,
+      "title": "Sau cơn mưa",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55207",
+      "file": "0018 - Sau cơn mưa.txt",
+      "done": true
+    },
+    {
+      "index": 19,
+      "title": "Tết trong lòng mỗi người",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/55210",
+      "file": "0019 - Tết trong lòng mỗi người.txt",
+      "done": true
+    },
+    {
+      "index": 20,
+      "title": "Những bước chân đầu năm",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56095",
+      "file": "0020 - Những bước chân đầu năm.txt",
+      "done": true
+    },
+    {
+      "index": 21,
+      "title": "Những ngày đầu năm",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56097",
+      "file": "0021 - Những ngày đầu năm.txt",
+      "done": true
+    },
+    {
+      "index": 22,
+      "title": "Vào guồng",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56098",
+      "file": "0022 - Vào guồng.txt",
+      "done": true
+    },
+    {
+      "index": 23,
+      "title": "Mùa thi",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56490",
+      "file": "0023 - Mùa thi.txt",
+      "done": true
+    },
+    {
+      "index": 24,
+      "title": "Giai điệu mùa hạ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56491",
+      "file": "0024 - Giai điệu mùa hạ.txt",
+      "done": true
+    },
+    {
+      "index": 25,
+      "title": "Thanh Xuân trên sân khấu",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56852",
+      "file": "0025 - Thanh Xuân trên sân khấu.txt",
+      "done": true
+    },
+    {
+      "index": 26,
+      "title": "Chúng ta có nhau",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56855",
+      "file": "0026 - Chúng ta có nhau.txt",
+      "done": true
+    },
+    {
+      "index": 27,
+      "title": "Hè của chúng ta",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56857",
+      "file": "0027 - Hè của chúng ta.txt",
+      "done": true
+    },
+    {
+      "index": 28,
+      "title": "Trang sách nhỏ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/56858",
+      "file": "0028 - Trang sách nhỏ.txt",
+      "done": true
+    },
+    {
+      "index": 29,
+      "title": "Bất ngờ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/57391",
+      "file": "0029 - Bất ngờ.txt",
+      "done": true
+    },
+    {
+      "index": 30,
+      "title": "Bước tiến mới",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/57406",
+      "file": "0030 - Bước tiến mới.txt",
+      "done": true
+    },
+    {
+      "index": 31,
+      "title": "Khởi đầu mới",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/57771",
+      "file": "0031 - Khởi đầu mới.txt",
+      "done": true
+    },
+    {
+      "index": 32,
+      "title": "Những người ở phía sau",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/57772",
+      "file": "0032 - Những người ở phía sau.txt",
+      "done": true
+    },
+    {
+      "index": 33,
+      "title": "Người mới",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/57893",
+      "file": "0033 - Người mới.txt",
+      "done": true
+    },
+    {
+      "index": 34,
+      "title": "Xích mích nhỏ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/58277",
+      "file": "0034 - Xích mích nhỏ.txt",
+      "done": true
+    },
+    {
+      "index": 35,
+      "title": "Khoảng lặng",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/58278",
+      "file": "0035 - Khoảng lặng.txt",
+      "done": true
+    },
+    {
+      "index": 36,
+      "title": "Vị trí",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/58816",
+      "file": "0036 - Vị trí.txt",
+      "done": true
+    },
+    {
+      "index": 37,
+      "title": "Ánh lửa ấm",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/58959",
+      "file": "0037 - Ánh lửa ấm.txt",
+      "done": true
+    },
+    {
+      "index": 38,
+      "title": "Bắt đầu",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/59322",
+      "file": "0038 - Bắt đầu.txt",
+      "done": true
+    },
+    {
+      "index": 39,
+      "title": "Mỗi ngày một gần hơn",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/59699",
+      "file": "0039 - Mỗi ngày một gần hơn.txt",
+      "done": true
+    },
+    {
+      "index": 40,
+      "title": "Mỗi ngày một gần hơn",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/60985",
+      "file": "0040 - Mỗi ngày một gần hơn.txt",
+      "done": true
+    },
+    {
+      "index": 41,
+      "title": "Hội thể thao",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/62710",
+      "file": "0041 - Hội thể thao.txt",
+      "done": true
+    },
+    {
+      "index": 42,
+      "title": "Đêm giao thừa ngày bình yên",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/62730",
+      "file": "0042 - Đêm giao thừa ngày bình yên.txt",
+      "done": true
+    },
+    {
+      "index": 43,
+      "title": "Hạnh phúc",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/62732",
+      "file": "0043 - Hạnh phúc.txt",
+      "done": true
+    },
+    {
+      "index": 44,
+      "title": "Mùng 2 tết đến rồi",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/62736",
+      "file": "0044 - Mùng 2 tết đến rồi.txt",
+      "done": true
+    },
+    {
+      "index": 45,
+      "title": "Chào tháng 2",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63448",
+      "file": "0045 - Chào tháng 2.txt",
+      "done": true
+    },
+    {
+      "index": 46,
+      "title": "Những lựa chọn vì thương",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63450",
+      "file": "0046 - Những lựa chọn vì thương.txt",
+      "done": true
+    },
+    {
+      "index": 47,
+      "title": "Bánh xe lăn bánh",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63451",
+      "file": "0047 - Bánh xe lăn bánh.txt",
+      "done": true
+    },
+    {
+      "index": 48,
+      "title": "Đính chính",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63453",
+      "file": "0048 - Đính chính.txt",
+      "done": true
+    },
+    {
+      "index": 49,
+      "title": "Những ngày không còn dài",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63459",
+      "file": "0049 - Những ngày không còn dài.txt",
+      "done": true
+    },
+    {
+      "index": 50,
+      "title": "Trước ngày thi",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63603",
+      "file": "0050 - Trước ngày thi.txt",
+      "done": true
+    },
+    {
+      "index": 51,
+      "title": "Đi thi thôi",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63604",
+      "file": "0051 - Đi thi thôi.txt",
+      "done": true
+    },
+    {
+      "index": 52,
+      "title": "Cơn gió hạ",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63605",
+      "file": "0052 - Cơn gió hạ.txt",
+      "done": true
+    },
+    {
+      "index": 53,
+      "title": "Chúng ta",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63608",
+      "file": "0053 - Chúng ta.txt",
+      "done": true
+    },
+    {
+      "index": 54,
+      "title": "Chúc cho tất cả chúng ta hạnh phúc",
+      "url": "https://rookies.vn/truyen/buc-thu-mua-ha-1/63610",
+      "file": "0054 - Chúc cho tất cả chúng ta hạnh phúc.txt",
+      "done": true
+    }
+  ],
+  "created_at": "2026-10-01T17:44:38+07:00",
+  "updated_at": "2026-10-01T18:49:17+07:00",
+  "chapter_count": 54,
+  "done_count": 54
+}

@@ -1,0 +1,259 @@
+Chương 32: Kẻ điên thích một người khùng
+
+Để chào mừng năm học mới, Đoàn Thanh niên trường THPT X tổ chức giải Bóng đá nam giao hữu giữa các khối lớp trong trường.
+
+Vì số lượng học sinh nam và số lượng học sinh nam biết chơi bóng đá ở mỗi lớp có sự chênh lệch nên trường tiến hành bốc thăm ghép đội. Cứ năm lớp cùng khối gộp lại thành một đội. Tổng tất cả có sáu đội, chia thành hai bảng, thi đấu theo thể thức vòng tròn. Mỗi trận đấu kết thúc, đội thắng được 3 điểm, đội thua không được điểm, nếu hai đội hòa nhau thì mỗi đội được 1 điểm. Sau ba loạt trận, mỗi bảng sẽ chọn ra đội có tổng điểm cao nhất để bước vào vòng chung kết.
+
+Ở khối 12, kết quả chia đội như sau: Các lớp 12A1, 12A3, 12A6, 12A7 và 12A10 vào chung một liên quân 12A; liên quân còn lại 12B gồm các lớp: 12A2, 12A4, 12A5, 12A8 và 12A9. Sau loạt trận vòng bảng căng thẳng, hai đội bước vào trận chung kết bất ngờ lại là hai đội của khối 12.
+
+Ngân trước giờ không xem bóng đá thường xuyên. Nếu xem đội tuyển Việt Nam thi đấu qua màn ảnh nhỏ thì cô có xem. Còn xem bóng đá trực tiếp ngoài sân cỏ thì gần như chưa bao giờ.
+
+Nhưng riêng giải đấu của trường lần này, Ngân hào hứng lạ thường. Cô ở lại xem hết tất cả các trận đấu ở vòng bảng.
+
+Riêng trận chung kết sắp tới, Ngân càng không thể bỏ lỡ. Một phần, cô thuộc đội văn nghệ cổ vũ tinh thần liên quân 12B. Phần còn lại, đội đối thủ có người mà cô đặc biệt quan tâm.
+
+Trước khi tiếng còi khai cuộc trận chung kết được cất lên, cổ động viên hai đội thể hiện sự cổ vũ nhiệt tình bằng một tiết mục nhảy Dancesport và một bài phát biểu ngắn.
+
+Lớp 12A4 lần này chỉ đóng góp một chân sút là Minh Vũ ở vị trí hậu vệ. Nhưng ở đội văn nghệ, 12A4 lại đóng góp tới gần một nửa số thành viên. Và tiết mục nhảy ấy, Ngân nằm trong đội biên bài cùng với các bạn nữ ở bốn lớp còn lại. Tuy chỉ là một bài nhảy ngắn kéo dài hơn hai phút, nhưng liên quân 12B có phần khí thế và nhiệt huyết hơn hẳn. Chưa biết thi thố, đá đấm thế nào, nhưng phần nhảy và phát biểu, liên quân 12B vượt trội hơn.
+
+Còn liên quân 12A nếu có phần mạnh hơn thì chắc là phần “gáy”. Khỏi cần đoán cũng biết đội trưởng đội “gáy” không ai khác là Đức Dương lớp 12A1. Dương đang đứng dưới sân trong bộ trang phục màu trắng. Cậu đang thực hiện vài động tác khởi động cơ bản, trong đó có cả phần “khởi động miệng”:
+
+“Mình nghĩ các cổ động viên 12B nên tiết chế lại để cuối trận còn có sức mà an ủi các bạn nam.”
+
+Anh Quân - đội trưởng đội 12B đứng ở phía sân đối diện nghe vậy liền đi tới chỗ Dương kênh kiệu:
+
+“Gáy sớm thường ăn gì nhỉ? Không cần gáy nhiều, cứ để thực lực chứng minh đi.”
+
+Đức Dương khẽ nhếch mép một cái, cậu đi tới vỗ vai Anh Quân:
+
+“Oke ông bạn, về thực lực thì tôi e là hai đội chúng ta không chung “trình”!”
+
+Anh Quân nghe Dương nói vậy thì nổi máu nóng, cậu hất mạnh tay Dương ra, mặt đỏ bừng, đằng đằng sát khí.
+
+Liên quân 12B chưa kịp đáp trả thì ban tổ chức gọi hai đội xếp hàng chuẩn bị ra sân. Hai đội đành kìm nén sự bất hòa ban nãy để chuẩn bị cho một tinh thần thi đấu “fair play”.
+
+Trận đấu bắt đầu trong tiếng hò reo cổ vũ từ phía khán đài gần như đã kín chỗ ngồi. Liên quân 12A trong trang phục màu trắng, bảo vệ khung thành bên trái. Liên quân 12B trong trang phục màu xanh dương đậm, bảo vệ phần sân bên phải.
+
+Mỗi liên quân gồm 7 cầu thủ trên sân, cùng tranh giành trái bóng tròn trong thời gian 25 phút mỗi hiệp. Ngay từ phút thi đấu đầu tiên, trận đấu đã có diễn biến nhanh với nhiều pha bóng nguy hiểm, liên tiếp dồn về phía khung thành hai đội.
+
+Ngân cùng đám bạn sau khi diễn bài nhảy cổ động liền đi thay một bộ trang phục thể thao thoải mái, yên vị trên khán đài để xem hai đội thi đấu.
+
+Bên ngoài, Ngân cùng các bạn nữ lớp 12A4 hò hét ầm ĩ những cái tên của liên quân 12B: “Anh Quân”, “Ngọc Hưng”, “Hoàng Long”, “Minh Vũ”,…
+
+Nhưng sâu bên trong thân tâm, cô chỉ quan tâm một cái tên duy nhất “Đức Dương”.
+
+Quả bóng duy nhất trên sân liên tục lăn từ chân cầu thủ này tới chân cầu thủ khác. Bóng lăn đến đâu, tất cả cổ động viên đều hướng mắt theo đó. Chắc chỉ có mỗi Ngân là không rời mắt khỏi hình bóng Đức Dương, kể cả lúc cậu ta không cầm bóng, chỉ đi bộ phía dưới.
+
+Phải công nhận trong tất cả những bộ trang phục Dương từng mặc, có lẽ bộ quần áo bóng đá này là đẹp nhất. Bộ trang phục màu trắng, được lấy cảm hứng từ đội Real Madrid làm tôn lên dáng người cao và hơi gầy của Dương. Những tia nắng không quá gay gắt của buổi sáng cuối hè càng khiến cậu trở nên rực rỡ, bừng sáng giữa sân đấu.
+
+Ngân chăm chú quan sát, cô tự thắc mắc:
+
+“Người này suốt ngày lang thang phơi nắng mà chẳng hiểu sao vẫn sáng đến mức đáng ghét thế nhỉ?”
+
+Nhưng thứ làm Ngân chú ý nhất là cái tên và con số kỳ lạ trên lưng áo cậu. Lần này không phải là dòng chữ Dzuongdzai quen thuộc nữa.
+
+Đức Nam, dù cổ vũ cho liên quân 12A, nhưng vì muốn ngồi cùng Quỳnh Anh nên nằm vùng trong “lãnh thổ” của 12B.
+
+Trong lúc Ngân đang thắc mắc về cái tên kỳ lạ trên áo Dương, Quỳnh Anh ngồi bên cạnh như đọc được tiếng lòng của Ngân, liền quay sang hỏi Nam:
+
+“Ủa Dương nó để tên Endy là đặt theo tên cầu thủ nào hả Nam?”
+
+14 bạn nam trên sân hầu như đều để tên thật, có số ít đặt theo tên của cầu thủ nổi tiếng nhưng đều là những người mà bọn con gái biết. Riêng cái tên “Endy” này thì hơi lạ.
+
+Nam khẽ lắc đầu trong khi mắt vẫn tập trung vào dưới sân:
+
+“Làm gì có cầu thủ nào tên vậy đâu. Mình có hỏi thì nó bảo nó tự nghĩ ra.”
+
+Ngân nghe Nam nói lại càng thấy mờ ám. “Endy” hẳn phải có ý nghĩa gì ghê gớm lắm thì mới thay thế được “Dzuongdzai” đã đi vào huyền thoại. Ngân lén mở điện thoại ra tìm kiếm thử thì kết quả có ra một hãng chăn ga gối nệm gì đó ở nước ngoài, vậy chắc là không phải. Còn nếu nó là viết tắt của cụm từ Tiếng Việt thì Ngân nghĩ mãi cũng không ra cụm nào có nghĩa.
+
+Tạm thời bỏ qua “Endy” thì con số 26 có vẻ dễ đoán hơn. Dương sinh ngày 21 tháng 6. Mà nếu ghi 216 thì dài quá, nên chắc cậu ghi tắt thành 26. Ngân đoán vậy. Cô tắt điện thoại, cất vào balo. Cô nghĩ mình nên bớt ảo tưởng để tập trung vào trận đấu.
+
+Phút thứ 24, gần hết hiệp 1, kết quả vẫn hòa 0 đều thì giữa Đức Dương và Minh Vũ xảy ra pha tranh bóng kịch tính. Hai bên cứ lấy được bóng lại bị người kia giành lại. Đức Dương dù đứng rất gần khu vực cấm địa nhưng trước sự kèm cặp chắc chắn của Minh Vũ, cậu không thể chuyền bóng cho đồng đội. Cả khán đài đổ dồn ánh mắt về phía hai người, hồi hộp đến mức nín thở. Sau một hồi giằng co giữa đôi bạn thân, cuối cùng Dương cũng giành được bóng.
+
+Vì quá phấn khích, Ngân không kìm được mà vỗ tay, cảm thán:
+
+“Yeah, hay quá!”
+
+Cả một đám 12A4 quay ra nhìn Ngân:
+
+“Ủa Ngân? Bên mình mất bóng mà hay cái gì?”
+
+Ngân liền thu đôi tay của mình về, cô xấu hổ, trả lời một cách vụng về:
+
+“À vậy hả? Chắc tao nhìn lộn? Thôi xem tiếp đi kìa.”
+
+Sau khi Dương giành được bóng, 12A chuyền qua chuyền lại vài đường thì tới chân tiền đạo Văn Đạt – đề cử danh hiệu Vua phá lưới của giải đấu. Đạt bắt được tín hiệu, dùng chân thuận của mình sút bóng dứt khoát. Quả bóng bay thật nhanh về phía khung thành 12B khiến cả khán đài nín thở.
+
+Nhưng rất tiếc, quả bóng lại bướng bỉnh đập vào cột dọc. Sau pha phát bóng lên của thủ môn 12B, hiệp 1 kết thúc. Tuy hòa 0 đều nhưng 12A có phần tiếc nuối hơi cả vì ở phút cuối cùng, suýt chút nữa pha dứt điểm đã biến thành bàn thắng.
+
+Trong thời gian nghỉ ngơi giữa hai hiệp, cổ động viên hai đội tập trung cổ vũ, sốc lại tinh thần cho cầu thủ đội mình. Lúc này, một số đứa đã phát hiện ra Đức Nam đang ngồi “nhầm” phần sân của đội mình.
+
+“Cứ tưởng trai đẹp đều đang ở dưới sân hết, ai dè trên này còn sót một người. Đức Nam ông sang đây làm gì?”
+
+Nam quay đầu lại, nhưng cậu vẫn ngồi yên, không có ý định rời chỗ:
+
+“Thôi, mọi người cho tôi ngồi nhớ tí. Tôi không quan trọng kết quả lắm, miễn Quỳnh Anh vui là được.”
+
+Quỳnh Anh nhìn Nam rồi lại quay đầu nhìn đội mình, mỉm cười:
+
+“Tất nhiên là mình muốn 12B thắng rồi.”
+
+Nam gật đầu ngoan ngoãn:
+
+“Được. Vậy cổ vũ 12B cùng Quỳnh Anh.”
+
+Nghe Nam nói vậy, mọi người không “đuổi” cậu nữa. Đám con gái phía sau còn xuýt xoa ghen tỵ trước độ chiều bạn gái của cậu.
+
+Không biết Nam làm vậy có bị tính là phản bội, bán lớp, theo gái bỏ bạn không nữa? Chứ có mấy đứa con gái thuộc đội này nhưng người yêu hoặc crush lại đá ở đội kia rất khó xử. Ít ra, Nam không trực tiếp chơi bóng nên cậu theo phe trung lập cũng dễ hiểu.
+
+Cậu quay sang nói với Quỳnh Anh để củng cố thêm điều mình vừa nói:
+
+“Thật mà. Mình không quan trọng thắng thua, chỉ cần Dương không bị thương là được.”
+
+Ngân bật cười trong âm thầm. Đấy, bảo không là không thế nào, ít ra thì Nam vẫn phải quan tâm ông em trai yêu quý của mình chứ.
+
+Nam kể hồi cấp 2, có lần Dương đá bóng bị thương nặng ở chân phải chống nạng, hồi phục mất mấy tháng liền. Khi đó, Nam được bố mẹ giao cho nhiệm vụ trông chừng Dương, tuyệt đối không để Dương chơi bóng nữa. Sau khi khỏi hẳn, Dương phải thuyết phục mãi hai bác mới cho cậu tiếp tục đá bóng. Nhưng ít nhiều họ vẫn có phần không an tâm.
+
+Ngân nghe lỏm được câu chuyện càng thấy lo cho Endy, nhất là khi hiệp 2 đã bắt đầu với nhịp độ trận đấu còn nhanh hơn hiệp trước.
+
+Phút thứ 43, hai đội vẫn chưa ghi được bàn thắng.
+
+Phút thứ 44, sau pha va chạm do một thành viên bên 12B chơi xấu, Dương có dấu hiệu bị thương. Cậu ngã ngồi xuống sân, hai tay ôm đầu gối, mặt đỏ lên vì đau đớn. Bạn nam kia bị phạt thẻ vàng. Còn Dương được mọi người khuyên ra sân nghỉ ngơi cho đảm bảo sức khỏe.
+
+Ngân ngồi trên khán đài, cô mím môi, hai tay bấu chặt vạt áo đến mức nhăn nhúm. Bây giờ, cô còn cảm thấy căng thẳng hơi cả lúc đội mình đang bị tấn công dồn dập.
+
+Sau khi được đội ngũ y tế xử lý sơ qua, Dương dù vẫn còn chút đau đớn nhưng ngay khi đó, cậu nhìn lên khán đài thấy nhiều người đã và đang nhiệt tình cổ vũ cho mình cả trận đấu (trong đó có cả một số người ngồi nhầm khán đài), cậu cắn răng, dứt khoát đứng dậy.
+
+Dương ra hiệu “vẫn ổn”. Trọng tài cho trận đấu tiếp tục. 5 phút thi đấu cuối cùng gay cấn hơn bao giờ hết, các đội đều dáo diết tìm kiếm cơ hội tấn công. Bóng được chuyền đi liên tục, trong khi sức lực của các nam sinh cũng dần hao hụt.
+
+Trên khán đài, Nam và Ngân thậm chí không dám thở mạnh. Hai người cùng nhau cầu nguyện. Kết quả ra sao không quan trọng nữa, chỉ cần Dương bình an là được.
+
+Cứ tưởng trận đấu phải kéo dài sang hiệp phụ thì tới phút thi đấu bù giờ cuối cùng, 12A có cơ hội dẫn bóng. Sau pha bứt tốc bên cánh phải, Đức Dương thực hiện quả tạt hoàn hảo, vừa vặn tới chân Văn Đạt. Có được không gian thoáng phía trước, Văn Đạt dứt điểm bằng chân thuận mang theo ngôi sao hy vọng của toàn đội.
+
+Quả bóng xoáy với tốc độ cao, đập vào chân một cầu thủ đội bên làm bóng đi chệch hướng so với dự đoán của thủ môn. Khung thành của 12B rung lên, cùng với đó là tiếng hò reo vang trời của cổ động viên 12A.
+
+Bàn thắng đến bất ngờ, Nam, Quỳnh Anh và Ngân đồng loạt đứng lên ăn mừng, chúc mừng Dương. Ngay sau đó, họ nhận ra mình đang ngồi ở đâu nên kiềm chế lại, cả ba biết thân biết phận kéo nhau ngồi xuống.
+
+Riêng Tuấn Minh, một mình một băng rôn chạy tung tăng từ đội A sang đội B để chúc mừng thằng bạn thân.
+
+Tiếng còi mãn cuộc vang lên, cúp vô địch thuộc về liên quân 12A, một chiến thắng bất ngờ nhưng xứng đáng.
+
+Dù sao các bạn nam 12B cũng đã thi đấu hết sức và chiếc cúp quý giá nhất là chiếc cúp trong lòng người hâm mộ. Ngân cười nói động viên các thành viên đội mình, nhưng thi thoảng ánh mắt cô lại lén nhìn về phía đội bạn.
+
+Sau pha xử lý bóng xuất thần kiến tạo bàn thắng vừa rồi, Dương bỗng nhiên có thêm cả chục fangirl. Họ thi nhau kéo tới, người đưa nước, người giơ vở ra xin chữ ký, người xin chụp ảnh cùng khiến Dương ngộp thở. Cậu dù mệt nhưng vẫn phải cho chữ ký, tạo dáng liên tục.
+
+Ngân liếc sang thầm nhủ: công nhận cũng ngầu thật nhưng có đến nỗi phải làm lố lăng vậy không, cứ như nam thần hạng A không bằng. Nam và Quỳnh Anh rủ Ngân lại chúc mừng Dương nhưng Ngân không đi.
+
+Mãi đến lúc xuống sân chuẩn bị ra về, Ngân mới đụng mặt Dương. Ngân đi lấy xe, còn Dương đi “trốn” fan cuồng. Ngân vô tình đi tới đúng lúc Dương vén áo lên lau mồ hôi. Cứ thế bao nhiêu tinh hoa hội tụ lộ ra hết. Chân tay Dương vốn đã trắng rồi, phần được giấu kín sau lớp áo mỏng đẫm mồ hôi lại còn trắng hơn nữa.
+
+Nếu ví đôi mắt Ngân là một vì sao, thì cơ bụng Dương cứ như hố đen vũ trụ, không cần làm gì vẫn hút trọn ánh nhìn của Ngân. Chỗ đó quả thực rất cứng rắn, không phải kiểu sáu múi đâu, nhưng mà Ngân đoán cũng tầm 2-4 múi, không được múi bưởi thì cũng được múi cam, múi quýt.
+
+Dương sau khi lau mặt xong mới buông áo xuống. Cậu giật mình phát hiện có người đứng đằng trước đang nhìn chằm chằm mình. Cậu dùng hai tay ôm ấp che chắn cơ thể mình như thể sắp bị Ngân ăn tươi nuốt sống:
+
+“Này, mày nhìn cái gì vậy? Chưa thấy trai đẹp sáu múi bao giờ à?”
+
+Ngân giả vờ hoảng sợ, lấy hai tay che mắt, chỉ để lộ ra chút xíu:
+
+“Khiếp. Ai thèm nhìn? Mà mày làm gì được sáu múi?”
+
+Dương càng ôm chặt vai mình hơn nữa:
+
+“Mày nhìn rồi à mà biết?”
+
+“Đâu có. Tao đang nhìn cái huy chương vàng, nó tự đập vào mắt thôi.”
+
+Nói rồi Ngân vội lao tới, giả vờ cầm xem mặt huy chương để chữa quê:
+
+“Ồ, trông được đấy nhỉ, làm bằng vàng thật không vậy?”
+
+Vì chiếc huy chương ấy đang đeo trên cổ Dương nên khi Ngân ngước mắt lên đợi câu trả lời của cậu, cô mới phát hiện hai người đang đứng rất gần nhau.
+
+Dương nhìn xuống nhưng mặt vẫn lộ rõ nét kiêu ngạo:
+
+“Tránh ra. Đừng thân mật quá kẻo fangirl tao lại hiểu lầm.”
+
+“Oke.”
+
+Ngân liền buông tay ra khỏi chiếc huy chương, giơ hai tay như vừa bị Dương chĩa súng vào đầu. Cô định tránh xa vài mét nhưng chợt nhớ ra còn một điều chưa hỏi:
+
+“Mà Endy là gì vậy?”
+
+“Mày hỏi thì... tao không nói.”
+
+“Thôi không cần nói, tao biết rồi.”
+
+Dương có chút bối rối:
+
+“Biết… biết gì vậy?”
+
+Ngân đứng khoanh tay:
+
+“Thì “en đì” là “đi èn” là “điên” á. Hôm nay mày đá “điên” thật!”
+
+Ngân giơ hai nút like, tỏ ý cô đang khen Dương thật lòng.
+
+Điện thoại Dương réo thông báo liên tục, cậu nhìn nhưng chưa vội trả lời. Dương bất ngờ gỡ chiếc huy chương trên cổ mình, quàng vào đầu Ngân:
+
+“Giờ tao đi liên hoan, cho mày mượn. Về mà nghiên cứu xem có phải vàng thật không. Mất thì liệu hồn.”
+
+Ngân ngơ ngác đưa hai tay lên, gỡ chiếc dây đang mắc trên cột tóc đuôi ngựa của mình:
+
+“Gì đấy? Rối hết tóc tao rồi.”
+
+Dương đột nhiên bật chế độ gia trưởng:
+
+“Đi xem bóng thôi mà, buộc tóc, make-up làm gì không biết?”
+
+“Ủa khùng hả? Việc của mày à?”
+
+Ngân cầm chiếc huy chương trên tay, chưa kịp trả lại thì Dương đã vẫy tay bye bye cô. Dương vừa đi khuất, Ngân lại đeo ngay huy chương vào cổ, lôi điện thoại ra mở camera, liên tục ngắm nghía, rồi cô tung tăng lấy xe về nhà.
+
+“Cách để có huy chương vàng bóng đá của trường mà không cần thi đấu là gì? Dễ lắm, để Ngân chỉ cho. Đó là... có crush đá bóng siêu giỏi.”
+
+Ngân mang huy chương về nhà đu trend Tiktok, tất nhiên là không dám đăng chỉ quay ở chế độ riêng tư thôi. Ngân vừa nói vừa tủm tỉm cười, lăn lội mấy vòng trên giường, đập cả đầu vào tường cũng không thấy đau.
+
+***
+
+Lúc xếp hàng nhận giải, Đức Dương đứng cạnh Văn Đạt:
+
+“Chúc mừng ông đạt danh hiệu Vua phá lưới nhé!”
+
+Văn Đạt cầm danh hiệu trên tay, đầy tự hào, vỗ vai Dương:
+
+“Nhờ ông nữa đấy! Cảm ơn ông nhé! Pha vừa rồi ông xử lý hết 90% rồi còn gì. 10% còn lại, tôi mà không làm được nữa thì vứt.”
+
+Dương mỉm cười, khẽ nhún vai như thể chuyện đó không có gì quá to tát.
+
+Văn Đạt liếc về phía khán đài, cậu im lặng vài giây rồi quay sang hỏi Dương:
+
+“Mà này, hồi lớp 10 ông học bên A4 nhỉ?”
+
+“Đúng rồi. Sao thế?”
+
+“À, tôi vừa tia được một bạn nữ bên đấy.”
+
+Dương hứng thú:
+
+“Ồ, bạn nào đấy, tôi giới thiệu cho.”
+
+Đạt nói với khuôn mặt hớn hở trong khi vẫn nhìn về phía khán đài:
+
+“Cái bạn buộc tóc đuôi ngựa, trong đội nhảy kia kìa. Ông có info không cho tôi xin với.”
+
+Dương nhìn theo Đạt. Sắc mặt cậu liền thay đổi, nụ cười chợt tắt, ánh mắt tối sầm lại:
+
+“Không có. Không rõ. Cũng không thân. Thích à?”
+
+“Dễ thương vậy mà.”
+
+Dương im lặng vài giây rồi nói như ra lệnh.
+
+“Vậy đừng thích nữa!”
+
+Văn Đạt lộ rõ vẻ tiếc nuối:
+
+“Sao thế? Bạn ấy có người yêu rồi à?”
+
+Dương không nhìn Đạt, mà nhìn về phía khán đài, nơi Ngân đang nói chuyện với mấy bạn cùng lớp, vẫn là cái nụ cười dễ thương chết người ấy:
+
+“Chưa. Nhưng đừng dây vào! Nhìn xinh xinh thế thôi chứ bị khùng đấy.”

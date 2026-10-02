@@ -1,0 +1,149 @@
+Chương 9: Chỉ số ghép đôi (1)
+
+Thành phố cảng Tithonus nằm cách chuẩn tinh 3C 75 khoảng ba nghìn năm ánh sáng tại điểm Lagrange của một hệ sao đôi. Đây là trung tâm hậu cần khu vực, nơi chiến hạm và tàu bay thường xuyên ghé tiếp liệu trước khi tiến vào vùng lõi của cụm thiên hà.
+
+Blackburn đã tiến ra khỏi hành lang siêu không gian nối với Tithonus, nơi này được cấu thành từ nhiều vành đai chức năng nối với nhau bằng mạng lưới giao thông, phần vành đai tập trung các khu dân cư, quán ăn và khu thương mại phục vụ hành khách. Phía bắc thành phố là quân cảng Tithonus, một khu vực được bảo vệ nghiêm ngặt với các trục sửa chữa chiến hạm, kho tiếp liệu chiến lược và bến neo đậu dành riêng cho hạm đội. Những tàu thiết giáp, khu trục hạm dài hàng cây số nằm im lìm trong các ụ khổng lồ, được bao quanh bởi vô số tàu kéo và drone bảo trì.
+
+Những vết xước dài chạy dọc mạn phải Blackburn là di chứng của vụ tấn công hôm trước, Raymond đã quyết định cho Blackburn ghé Tithonus để tiến hành kiểm tra và bảo dưỡng sơ bộ trước khi quay về Đế Đô. Tiêu Kỳ và Nathanael ở lại lo việc đó sau khi ca thán hết mấy mươi bài về con vợ chiến hạm yêu quý của mình. Còn phần Raymond, tối nay anh ta ra ngoài một mình. Anh ta không tiết lộ mình đi đâu, v cũng chả ai màng gặng hỏi, đó dường như là một quy luật bất thành văn trên tàu Blackburn dành cho tất thảy mọi người, đính kèm luôn chàng thuyền trưởng nọ.
+
+Quán bar duy nhất trên Tithonus nằm ở tầng trung tâm, áp sát vành ngoài của kết cấu quay, quán còn trang hoàng thêm một mảng kính khổng lồ chạy dọc theo bức tường phía trước, nhìn thẳng xuống khoang neo đậu bên dưới. Nơi này chẳng có gì đặc biệt, đèn vàng mờ hắt lên những bộ bàn ghế bằng vật liệu tổng hợp đã cũ, counter chỉ đủ chỗ cho vài người ngồi, thực đơn ngắn đến mức có thể đọc hết trong chưa đầy một phút vì phần lớn khách cư nhiên chỉ ghé qua trong lúc tàu tiếp liệu hoặc chờ giấy phép rời bến. Raymond chọn chiếc bàn trong góc khuất của quán, lưng tựa vào tường, rồi gọi một ly Tom Collins.
+
+Từ vị trí của anh trông ra, Blackburn đang neo ở bến số bảy, lớp vỏ đen bạc của con tàu phản chiếu những mảng sáng loang lổ trên thân giáp dưới ánh đèn của trạm dừng. Các đội drone bảo trì đang di chuyển quanh mạn tàu và ô cửa của khoang sinh hoạt vẫn sáng đèn
+
+Vậy là có người còn thức
+
+Raymond đưa ly lên môi thêm lần nữa. Bên ngoài kia là vùng chân không lạnh lẽo của vũ trụ, còn bên trong quán bar là tiếng nói chuyện, tiếng ly tách chạm nhau và mùi cồn rẻ tiền quen thuộc.
+
+Trung tướng Trần không tình cờ xuất hiện khoảng hai mươi phút sau. Nếu Blackburn đang neo ở một trạm thuộc lãnh thổ Liên minh, ông già đó kiểu gì cũng biết trước khi Raymond kịp gọi ly thứ hai. Lão kéo ghế ngồi xuống đối diện rồi dứt khoát đặt lên bàn một tập văn kiện mỏng, giống hệt mấy mươi năm trước và có lẽ sẽ chẳng thay đổi cho tới ngày người ta phải khiêng ông khỏi quân đội. "Nghe nói thằng nhãi cậu vừa gây thêm rắc rối."
+
+Raymond nhấp một ngụm Tom Collins. "Rút tiền công đi uống rượu cũng tính là gây rắc rối?"
+
+Trung tướng Trần hừ mũi "Trùng tộc có thông tin mới nữa không?"
+
+"Ngài đọc báo cáo rồi còn gì"
+
+"Đọc rồi!" Ông gọi một ly trà từ phục vụ đi ngang qua.
+
+"Vấn đề là cái thứ cậu gửi lên chỉ dài có hai trang."
+
+"Tôi không biết viết báo cáo dài."
+
+"Nhiệm vụ vừa rồi đáng lẽ cậu phải viết hơn hai trang giấy” Chỉ nói qua nói lại vài ba câu, ông lão dường như đã già thêm được mấy tuổi "Hai cái đầu mà chú mày đã đưa lên theo đánh giá sơ bộ thì trùng khớp với danh sách hai hướng đạo mất tích trên tàu Hồng Hà."
+
+Câu nói cuối cùng của trung tướng Trần khiến khoảng lặng kéo dài thêm vài nhịp.
+
+Đúng lúc ấy, một tàu vận tải bên ngoài khoang neo đậu được cấp phép rời bến. Ánh động cơ xanh nhạt quét ngang lớp kính quan sát rồi nhanh chóng biến mất.
+
+"Không phải vật liệu sinh học tổng hợp." Giọng trung tướng Trần thấp xuống. "Không phải bản sao thần kinh cũng không phải mô hình mô phỏng."
+
+Raymond im lặng, ma sát ngón tay trên bàn, một lúc sau mới hỏi "Vậy họ là người thật?"
+
+"Ừ." Ông già gật đầu rồi tiếp "Hai mẫu vật đều khớp ADN"
+
+Raymond không trực tiếp nhìn vào người đang nói, anh lơ đãng nhìn ra khoang neo đậu bên ngoài lớp kính, ánh đèn trên thân Blackburn vẫn sáng, có tiếng thủy tinh khẽ chạm vào mặt bàn khi lão Trần đặt ly xuống.
+
+"Vậy là chúng đã tìm được cách giữ mô não hoạt động sau khi vật chủ chết."
+
+"Đó là kết luận lạc quan nhất."
+
+Raymond quay lại nhìn ông "Vậy thì kết luận nào bi quan hơn?"
+
+Trung tướng Trần không trả lời ngay, ông để tiếng nhạc đệm trong quán đi xa đi gần một chút, rồi bưng ly nước lên uống một ngụm nhỏ "Biết đâu chừng vật chủ chưa chết."
+
+“...”
+
+"Ta không thể phán đoán được chúng học hỏi những tư duy đó từ đâu, Raymond, hoặc là ai đã bày cách này cho chúng? Từ trước đến nay đám Euphoria chỉ bắt chước hình dạng mô phỏng dịch sinh học, sau đó là các nhân bản vô tính, còn bây giờ…"
+
+Ông ngừng lại Nếu báo cáo là chính xác, thứ đang diễn ra không chỉ là mô phỏng nữa.
+
+Raymond cũng không trả lời ông lão, trong quân đội Đế quốc, người có thể ngồi đối diện hắn mà thảnh thơi uống rượu như thế này không nhiều. Trung tướng Trần là một trong số đó, ông già chưa từng là kiểu cấp trên thích dò hỏi hay ép người khác phải mở miệng. Ông mặc kệ thằng nhãi con kia im lặng tù mù, lên tiếng tiếp sau khi xoay xoay cái ly trong tay "Ta sẽ cho người điều tra khu vực quanh lỗ đen, có vẻ như chuyện này lớn hơn dự đoán ban đầu"
+
+"À phải rồi." Trung tướng Trần như vừa nhớ ra điều gì thú vị "Trong báo cáo của cậu có nhắc tới một hướng đạo đi cùng."
+
+Raymond im lặng một chốc
+
+"Cậu báo là cấp F phải không?"
+
+Lần này anh ta mới ngẩng đầu về phía lão.
+
+"Tuy tôi không học khóa học của hướng đạo, nhưng tôi vẫn thắc mắc có hướng đạo cấp F nào có thể cùng lúc ổn định ý thức vân của ba lính gác không?" Raymond vừa tự hỏi ra tiếng "Tiện thể còn kết nối thần kinh với hệ điều khiển của một phi thuyền quân sự?"
+
+Ông già nhìn thằng nhóc tóc đen bên cạnh coi chừng buồn cười lắm, sau cùng, có lẽ không nhịn được, trung tướng Trần bật cười.
+
+"Mấy hôm trước thằng Nathan chia sẻ lên trang nó một cuốn tiểu thuyết trên mạng."
+
+"Ồ?"
+
+"Nhân vật chính là hướng đạo cấp F."
+
+Raymond nhướng mày "Rồi sao?"
+
+"Ba chương sau cậu ta trở thành cấp SSS."
+
+“...”
+
+"Ta đọc đến đó thì đóng lại."
+
+Khóe miệng Raymond nhếch một đường nhỏ như đang chửi thầm "Tôi hỏi nghiêm túc."
+
+"Tất nhiên là cậu hỏi nghiêm túc." Trung tướng Trần cười nhạt. Ông vuốt râu, ánh mắt hướng về phía lớp kính quan sát, lại một tàu hàng cỡ nhỏ rời bến, những chiếc kẹp từ trường lần lượt tách ra khỏi thân tàu, để nó chậm rãi trôi khỏi khoang neo đậu. "Hướng đạo cấp F phần lớn không được đưa ra chiến trường."
+
+Ông dừng lại, như đang cân nhắc cách diễn đạt để không có vẻ quá bất nhã. "Tinh thần lực thấp, khả năng chịu áp lực kém. Chỉ riêng việc duy trì kết nối với lính gác cấp cao đã đủ khó khăn rồi."
+
+Raymond lặng lẽ xoay đá trong ly, mấy viên đá va vào thành cốc phát ra tiếng lách tách nhỏ.
+
+"Nhưng phần lớn không có nghĩa là tất cả." Ông già cuối cùng cũng đi tới kết luận "Quân đội đúng là từng xuất hiện những trường hợp ngoại lệ."
+
+Anh giấu đôi mắt xanh thẳm đang gợn sóng kia bằng cách nhìn xuống mặt bàn.
+
+Tôi chẳng thấy người đó giống hướng đạo cấp F chỗ nào.
+
+Trong đầu anh thoáng lên hình ảnh trên CCTV của khoang điều khiển, anh đã lục lại bộ nhớ của nó sau khi đáp xuống Tithonus, một thiếu niên tóc nhạt màu đang ngồi giữa khoang, sắc mặt tái nhợt nhưng vẫn bảo vệ hàng rào ý thức của đồng đội, ngay cả những hướng đạo tự bảo mình là cao cấp, tốt nghiệp tinh anh hơn cũng chưa chắc làm được đến mức đó.
+
+"Với lại…”Những hàng ghế trước mặt vẫn đầy những người nói chuyện rôm rả, giữa những âm thanh ấy, giọng trung tướng Trần lại vang lên "Cậu nói ý thức vân của mình không bài xích người đó."
+
+Raymond ngước mắt "Tôi không viết vậy trong báo cáo."
+
+"Thì không” Tiếng cười từ quầy bar phía xa vọng lại rồi nhanh chóng chìm xuống. “Hai chữ đó không xuất hiện…nhưng cậu dành gần một phần ba bản báo cáo để viết về phản ứng của cậu ta khi công tác, còn tên của mấy người khác ta phải lật lại phụ lục mới nhớ nổi"
+
+"..."
+
+"Ta quen cậu bao nhiêu năm rồi..." ông chậm rãi "Ta chưa từng thấy thằng nhãi cậu hứng thú với ai, người ta đẹp lắm hả?"
+
+Raymond khẽ nhíu mày khó xử, điều khiến anh ta khó chịu là câu nói đó nghe chẳng giống đùa chút nào.
+
+Trung tướng không nói thêm gì nữa, ông ta đứng dậy, cầm lại tập hồ sơ trên bàn.
+
+"Về nghỉ đi, Fisher."
+
+Khi đi ngang qua, ông lão vỗ nhẹ lên vai Raymond "Trông cậu còn mệt hơn lần bị thương ở vành đai Perseus.”
+
+"Lần trước ngài gặp tôi, ngài cũng nói câu đó."
+
+"Vì lần nào gặp cậu cũng tàn tạ như vậy."
+
+Ông già quay lưng bước về phía cửa.
+
+Raymond nhìn theo đến khi bóng dáng ấy biến mất giữa dòng người ra vào quán bar. Anh ta đưa chiếc ly đã cạn lên nhìn rồi gọi thêm một ly khác.
+
+Ly thứ hai hết nhanh hơn ly đầu. Raymond uống chậm hơn khi phục vụ đem đến ly thứ 3, vừa uống vừa nhìn ra khoang neo đậu số bảy bên ngoài lớp kính. Pheromone trong quán bar hòa tan vào hệ thống tuần hoàn không khí hương hoa, xạ hương, gỗ, kim loại tổng hợp, đủ thứ mùi thuộc về những hướng đạo và lính gác từ các con tàu khác đang ghé trạm. Bình thường chỉ cần ngồi giữa đống mùi hỗn tạp ấy một lúc anh đã thấy khó chịu đến mức muốn đứng dậy bỏ đi. Tối nay lại không đến mức đó mặc dù liều thuốc tối nay vẫn còn nằm trong ngăn tủ trên tàu, anh đã quyết định bỏ qua nó để thử xem trạng thái tinh thần của mình như thế nào trước cuộc hẹn
+
+Cũng không tệ gì lắm
+
+Anh nhớ tới khuôn mặt trắng nhợt dưới ánh đèn vàng, nhớ giọng nói bình tĩnh gần như lạnh nhạt khi báo cáo tình hình, đến khi đưa ly lên lần nữa, Raymond mới nhận ra bên trong đã trống không, mấy viên đá tan gần hết, lăn khẽ vào thành cốc.
+
+Raymond cúi đầu nhìn đồng hồ đã qua nửa đêm. Python đang ở trạng thái nửa tỉnh nửa ngủ trong vùng ý thức, sự hiện diện quen thuộc ấy như một khối nhiệt nặng nề nằm yên trong bóng tối. Khi anh gọi thêm đồ uống, một cảm giác bất mãn mơ hồ truyền tới, không rõ là phản đối hay nhắc nhở. "Biết rồi." Raymond nói khẽ. Anh mở màn hình đồng hồ liên lạc trên tay. Sau này mỗi lần nhớ lại chuyện này, anh đều đổ lỗi cho mấy ly rượu quá trớn. Ngón tay anh dừng lại trên cái tên Alan vài giây rồi nhấn mở khung trò chuyện.
+
+*Cậu muốn đi kiểm tra chỉ số ghép đôi không?*
+
+Raymond nhìn màn hình vài giây, thông báo phản hồi hiện lên gần như ngay lập tức.
+
+*Thực hiện kết nối cuối cùng hoặc làm giấy chứng nhận kết hôn mới cần chỉ số ghép đôi.*
+
+Anh đọc xong một lần, rồi giống như người ở dòng tin nhắn bên kia có phần nôn nóng, hoặc có phần chột dạ, tin tiếp theo lại nhảy lên
+
+*Anh muốn cái nào?*
+
+Raymond nhìn hai dòng chữ này khá lâu. Qua kết nối tinh thần, anh cảm nhận được một sự hứng thú đột ngột và hoàn toàn không biết che giấu từ phía con tinh thần thể không biết xấu hổ của mình.
+
+Anh đứng dậy, trả tiền rồi rời khỏi quán.

@@ -1,0 +1,135 @@
+CHƯƠNG 57: KHÓ KHĂN LẮM SAO?
+
+Hồ Tấn bước chậm rãi, ánh mắt lướt qua từng góc nhỏ, từng cánh cửa, từng vị trí có thể gắn hoặc cải tạo thiết bị. Trong tay cậu là một chiếc máy tính bảng mỏng, màn hình sáng lên với bản đồ số hóa toàn bộ hệ thống camera an ninh của trường học. Những chấm màu đỏ, xanh và vàng đại diện cho các thiết bị hiện tại đang hoạt động, ngừng hoạt động hoặc cần bảo trì.
+
+Hôm nay cậu không đến với tư cách một sinh viên hay khách tham quan mà là một chuyên viên kỹ thuật được mời theo diện cố vấn, nhằm hỗ trợ tham khảo và đánh giá lại toàn bộ cơ sở hạ tầng công nghệ an ninh của trường một dự án hợp tác giữa cơ quan nơi cậu công tác và ban quản trị nhà trường. Đây là một nhiệm vụ quan trọng vì trường đang muốn nâng cấp hệ thống bảo vệ, đặc biệt sau một vài sự cố nhỏ về an ninh khuôn viên trong thời gian gần đây.
+
+Ánh sáng phản chiếu lên gương mặt Hồ Tấn, làm nổi bật vẻ trầm tĩnh và tập trung. Mỗi khi dừng lại trước một góc khuất hay lối rẽ cậu đều nghiêng máy tính bảng, phóng to bản đồ, ghi chú lại các thông tin cần thiết góc nhìn camera, độ bao quát, điểm mù tiềm ẩn. Bàn tay còn lại của cậu đôi khi rút ra một cây bút cảm ứng để đánh dấu nhanh vị trí cần khảo sát thêm hoặc là sẽ chụp vài bức ảnh làm minh chứng.
+
+Đi qua khu vực hành lang nối sang tòa nhà chính, Hồ Tấn nhanh chóng nhận ra một vài chiếc camera đã cũ, lớp vỏ nhựa bên ngoài ngả màu, ống kính phủ một lớp bụi mỏng pha lẫn vệt loang do mưa gió. Hồ Tấn khẽ nhíu mày, bàn tay siết chặt chiếc máy tính bảng vừa cúi đầu ghi chú lại vị trí và tình trạng từng thiết bị, vừa tính toán trong đầu các phương án thay thế. Nếu đổi sang loại góc rộng, chống nước lại có khả năng nhận diện thông minh thì không chỉ tăng hiệu quả giám sát mà còn giảm đáng kể điểm mù. Ý nghĩ ấy thoáng qua, gọn gàng tựa một bản thiết kế đã được định hình sẵn từ trước.
+
+Tiếng giày của Hồ Tấn nhịp nhàng hòa lẫn với âm thanh xa xa của nhóm sinh viên đang trò chuyện, cười đùa dưới sân trường. Nhưng tất cả âm thanh ấy như bị đẩy lùi ra khỏi thế giới của cậu một khoảng không tách biệt, nơi chỉ còn lại sự tập trung tuyệt đối và những suy tính chuyên môn đang vận hành mạch lạc của Hồ Tấn. Từng động tác đều toát lên sự chuyên nghiệp, trầm ổn và tự tin một phong thái khiến người đối diện vừa nể trọng cũng vừa muốn tìm hiểu nhiều hơn về con người này.
+
+Một vài sinh viên nữ đi ngang qua ban đầu chỉ liếc nhìn vì tò mò tuy nhiên ánh mắt lại vô thức dừng lâu hơn cần thiết. Có người khẽ huých tay bạn mình, mỉm cười ý nhị, như vừa bắt gặp một nam chính tiểu thuyết bước ra. Còn Hồ Tấn thì chẳng mấy để tâm, vẫn bước đi cũng đủ để khiến nhiều ánh mắt vô thức dõi theo cho đến khi bóng dáng cao gầy ấy khuất hẳn ở cuối hành lang.
+
+Đang dừng lại trước khu hành chính để xem xét hệ thống truyền tín hiệu, ánh mắt Hồ Tấn bất chợt dừng lại ở một cánh cửa mở hé của văn phòng khoa Công nghệ Thông tin. Bên trong đó là một cô gái với mái tóc rối tung, đầu cúi sát vào chồng giấy tờ và laptop đang chăm chú gõ bàn phím rồi thỉnh thoảng lại càu nhàu gì đó. Hồ Tấn nhướng mày, khóe môi khẽ nhếch thành nụ cười không rõ cảm xúc.
+
+Hồ Tấn bước đến gần, gõ nhẹ lên cánh cửa rồi lên tiếng: “Chào em.”
+
+Lưu Nghiên ngẩng đầu lên, ánh mắt ngơ ngác sau đó liền bắt gặp ngay ánh mắt của Hồ Tán. Mất mấy giây để định hình khuôn mặt quen thuộc kia, cô bé thốt lên: “Anh Hồ Tấn?”
+
+“Ừm. Thật khéo, tôi đang kiểm tra hệ thống an ninh không ngờ gặp em ở đây.” Hồ Tấn đáp.
+
+Lưu Nghiên vội cúi xuống vuốt lại mái tóc bù xù, ngượng nghịu cười: “Để anh Hồ Tấn cười chê rồi. Bài tập khoa nhiều quá nên em nhìn hơi khó coi.”
+
+Hồ Tấn bật cười nhẹ, giọng trầm ấm vang lên: “Không sao, nhìn đáng yêu mà. Bài tập khoa khó khăn lắm sao?”
+
+Cô gái đối diện khẽ gật đầu môi mím lại đầy bất lực: “Bài kiểm tra năng lực lần này mà nói là của kỹ sư hệ thống chuyên nghiệp thì đúng hơn. Em làm mãi vẫn không xong.”
+
+“Để tôi xem.”
+
+Cô bé lập tức đưa máy tính qua cho cậu động tác cẩn trọng như sợ làm rơi mất vật quý. Đôi mắt trong veo ánh lên tia hy vọng, hàng mi khẽ run: “Không biết chuyên gia có thể giúp em không? Được thì em vô cùng cảm kích ạ!”
+
+“Cảm kích à?” Hồ Tấn nhướng mày, khóe môi cong thành một nụ cười nhàn nhạt ánh mắt chứa đựng chút trêu chọc: “Vậy tôi phải giúp thật cẩn thận rồi.”
+
+Khi nói câu đó ý cười nơi khóe mắt Hồ Tấn càng thêm sâu. Cậu đưa tay đón lấy chiếc máy tính. Màn hình phản chiếu ánh sáng lên gương mặt, làm nổi bật đôi mắt sắc bén mà không kém phần ôn hòa.
+
+Ánh mắt Hồ Tấn nhìn qua giao diện bài kiểm tra chỉ trong vài giây, giống một người đã quen với việc đọc bản đồ phức tạp hay giải mã dữ liệu trong thời gian ngắn. Ngón tay cậu di chuyển nhịp nhàng trên bàn phím, mỗi lần gõ xuống đều nhanh, chuẩn xác và liền mạch.
+
+Toàn thân Hồ Tấn lúc này tỏa ra một thứ khí chất tự tin, điềm tĩnh đó là sự tự tin của một người chắc chắn sẽ đạt được kết quả như mong muốn. Sự tập trung của Hồ Tấn mang theo một sức hút khiến người đứng bên cạnh dù không hiểu hết những dòng lệnh hay sơ đồ đang hiện trên màn hình vẫn cảm thấy an tâm kỳ lạ. Lưu Nghiên cảm thấy có anh Hồ Tấn ở đây thì mọi vấn đề đều sẽ được giải quyết. Quả không hổ danh là chuyên gia kỹ thuật.
+
+Sau đó cả hai rời văn phòng, bước chậm rãi dọc theo hành lang dài dẫn đến phòng tự học ở tầng ba. Khi cánh cửa phòng tự học mở ra một luồng không khí yên tĩnh lập tức bao trùm. Bên trong chỉ có vài sinh viên đang cắm cúi đọc sách hoặc gõ máy tính, không gian trầm lắng nhưng dễ chịu.
+
+Lưu Nghiên đảo mắt một vòng rồi chọn ngay một bàn gần cửa sổ nơi có ánh sáng tự nhiên chan hòa và tầm nhìn hướng ra khoảng sân rợp bóng cây. Cô bé kéo ghế ngồi xuống, bật laptop lên âm thanh khởi động máy vang lên khe khẽ giữa không gian yên tĩnh. Tiếp theo cô bé lại lôi thêm một tập bài tập nữa từ túi xách, đặt ngay trước mặt Hồ Tấn.
+
+“Phải tranh thủ lúc có chuyên gia ở đây xử lý xong đống này mới được.” Lưu Nghiên nói, giọng nửa đùa nửa thật, khóe môi cong nhẹ.
+
+Hồ Tấn khẽ liếc sang ánh mắt pha chút bất lực tuy nhiên trong ánh mắt ấy vẫn ẩn chứa sự kiên nhẫn. Cậu kéo tập bài tập về phía mình, bàn tay dài và thon bắt đầu lật từng trang sách của Lưu Nghiên. Hình ảnh hai người ngồi đối diện nhau một chăm chú quan sát, một tập trung xử lý gợi lên cảm giác bình yên mà ấm áp.
+
+Đề bài yêu cầu mô phỏng hệ thống an ninh toàn diện cho một khu học xá. Hồ Tấn vừa đọc vừa nhận xét: “Phần này em chia bố cục khá ổn rồi. Nhưng mô hình phân lớp camera còn sơ sài. Em chưa tính đến điểm mù ở các hành lang phụ và khoảng chết ở khu nhà gửi xe.”
+
+Hồ Tấn lấy bút, phác họa sơ đồ mới lên giấy: “Ở đây ta cần ít nhất ba camera góc rộng lắp ở các giao điểm hành lang. Còn ở khu gửi xe nên sử dụng loại camera hồng ngoại để đảm bảo ghi hình ban đêm rõ nét. Ngoài ra có thể tích hợp hệ thống nhận diện khuôn mặt để quản lý ra vào hiệu quả hơn.”
+
+Lưu Nghiên chăm chú nhìn theo từng nét vẽ của Hồ Tấn, đôi mắt sáng rực: “Anh Hồ Tấn giỏi quá!”
+
+“Còn phải nói.” Hồ Tấn nở nụ cười nhẹ đầy tự tin.
+
+Hơn một giờ trôi qua bài tập của cô bé về cơ bản đã hoàn thiện. Hồ Tấn không chỉ rà soát lại các bước tính toán và kiểm tra tính đúng đắn của từng phần mà còn chỉnh lại toàn bộ cấu trúc logic sao cho mạch lạc, dễ ghi nhớ. Ở các phần mô tả kỹ thuật cậu bổ sung thêm những thuật ngữ chuyên ngành chuẩn xác hơn, giải thích cặn kẽ ý nghĩa của từng tham số và nguyên lý hoạt động của hệ thống.
+
+Thỉnh thoảng Hồ Tấn dừng lại để giải thích cho Lưu Nghiên những kiến thức nền tảng liên quan như cách phân tích luồng dữ liệu, phương pháp tối ưu hóa hiệu suất hay quy trình chuẩn khi thiết kế một hệ thống an ninh mạng. Bên cạnh đó Hồ Tấn còn đưa ra một số ví dụ thực tế từ các dự án cậu từng tham gia, giúp Lưu Nghiên có thể hình dung rõ hơn sự khác biệt giữa lý thuyết trên giấy và cách vận dụng trong môi trường thật.
+
+Nhờ vậy Lưu Nghiên tiếp thu thêm cả một kho kiến thức quý giá thứ mà cô bé khó lòng tìm thấy trong giáo trình thông thường. Cô bé bắt đầu nhận ra rằng lý thuyết trên lớp, dù quan trọng vẫn chỉ là phần nổi của tảng băng kiến thức còn những gì Hồ Tấn truyền đạt lại thuộc về lớp chìm thực tế, sống động và đầy tính ứng dụng. Mỗi lần cậu chỉ ra một điểm mù của camera, một sơ suất trong hệ thống hay một giải pháp tối ưu hơn ánh mắt cô bé lại sáng lên.
+
+Lưu Nghiên đang mải lật xem ghi chú, tay vô tình chạm vào mép bàn khiến cuốn sách dày trượt khỏi ngón tay rơi xuống nền với tiếng “bộp” nhỏ. Cô bé khẽ cúi người xuống, mái tóc dài rũ theo động tác che bớt gương mặt đang nghiêng nghiêng chăm chú. Ngón tay vừa chạm vào gáy sách Lưu Nghiên vội ngẩng đầu lên thì bất giác thấy khoảng cách giữa trán mình và cạnh bàn chỉ còn một chút, va đầu vào đó sẽ đau đến mức nào?
+
+Ngay sau đó một lực ấm áp và vững vàng đã kịp giữ lấy vai Lưu Nghiên, kéo nhẹ để tránh va chạm. Bàn tay ấy thuộc về Hồ Tấn, ống tay áo sơ mi của cậu được sắn gọn gàng lên tới khuỷu, để lộ phần cẳng tay rắn rỏi, những đường gân và cơ bắp nổi nhẹ dưới làn da khỏe khoắn. Ánh sáng từ cửa sổ hắt xuống, khẽ phản chiếu lên mặt kính của chiếc đồng hồ kim loại trên cổ tay cậu, làm nó sáng lên một cách tinh tế và đầy khí chất.
+
+Hồ Tấn nhẹ tay, giọng trầm ấm: “Cẩn thận.”
+
+Bàn tay còn lại của Hồ Tấn theo bản năng vòng lên khẽ đỡ lấy phía sau đầu Lưu Nghiên, ngăn cho cô khỏi va vào mép bàn gỗ sắc lạnh. Động tác ấy vừa dứt khoát vừa dịu dàng, như thể anh sợ chỉ cần mạnh tay một chút thôi sẽ khiến cô đau. Lòng bàn tay ấm áp ôm trọn mái tóc mềm từng sợi khẽ trượt qua kẽ tay mang theo mùi hương dịu nhẹ quen thuộc. Cảm giác ấy khiến Lưu Nghiên bất giác nín thở, tim đập rộn ràng toàn thân bị khóa chặt trong khoảng không an toàn chỉ thuộc về Hồ Tấn.
+
+Ánh mắt Hồ Tấn khẽ hạ xuống dừng lại nơi gương mặt Lưu Nghiên chỉ cách mình một khoảng gần đến mức có thể nghe rõ từng nhịp thở của cô bé. Cậu cẩn thận quan sát, muốn xác nhận đến từng chi tiết nhỏ rằng cô bé không hề bị thương mới yên tâm. Khi đã chắc chắn Hồ Tấn mới từ từ rút tay về, động tác có phần chậm rãi. Thế nhưng ở nơi vừa được chạm khẽ cảm giác nóng ấm mơ hồ vẫn còn đọng lại một dấu ấn mềm mại quẩn quanh, len lỏi vào cả trái tim Lưu Nghiên khiến cô bé bất giác muốn đưa tay lên chạm lại nhưng rồi vội thu về, sợ rằng mình sẽ làm lộ ra tâm tư đang rối bời.
+
+Khoảnh khắc ấy thoáng ngắn ngủi nhưng khiến nhịp tim Lưu Nghiên lỡ một nhịp. Mùi hương nhàn nhạt từ áo sơ mi của Hồ Tấn cộng với hơi ấm truyền qua bờ vai, khiến cô vừa bối rối vừa không dám ngẩng lên quá lâu. Cô khẽ lùi một bước, ôm cuốn sách vào ngực, lí nhí nói lời cảm ơn, trong khi Hồ Tấn chỉ mỉm cười nhạt, ánh mắt vẫn bình tĩnh nhưng sâu thẳm như chứa điều gì đó khó đoán.
+
+Lưu Nghiên hơi khựng lại, trái tim vẫn chưa kịp trở về nhịp bình thường. Cô bé khẽ cúi đầu mái tóc dài rủ xuống che bớt gương mặt đang đỏ bừng, đôi môi mím nhẹ để kìm lại sự bối rối. Giọng cô bé nhỏ nhẹ đủ để Hồ Tấn nghe rõ: “Cảm ơn anh Hồ Tấn ạ.”
+
+Ánh mắt Hồ Tấn lặng lẽ dừng trên gương mặt ửng hồng của Lưu Nghiên vài giây, khóe môi hơi cong lên, giữ lại cho mình một khoảng chừng mực, giọng nói trầm thấp và bình thản vang lên: “Ừm, lần sau chú ý.”
+
+Âm điệu không nặng dù thế mang theo chút nghiêm khắc rất riêng nhưng trong lời nói ấy có ẩn chứa sự quan tâm mà Hồ Tấn dành cho Lưu Nghiên, khiến Lưu Nghiên có cảm giác mình vừa được nhắc nhở bởi một người anh trầm tĩnh, đáng tin. Cô bé mím môi gật đầu đáp khẽ một tiếng “Vâng” rồi lập tức cúi xuống ôm chặt cuốn sách vào ngực, cố giấu đi trái tim đang đập loạn không theo ý mình.
+
+Đúng lúc đó nhóm bạn cùng lớp của Lưu Nghiên kéo nhau bước vào phòng tự học, tiếng bước chân và tiếng trò chuyện ríu rít phá vỡ bầu không khí yên tĩnh. Một cô nàng tóc ngắn nhanh mắt nhìn thấy cảnh Hồ Tấn đang ngồi cạnh Lưu Nghiên, lập tức bật cười tinh quái: “Ôi trời ơi, Lưu Nghiên học bài mà có trai đẹp kèm riêng thế này à? Giấu kỹ thế bạn hiền?”
+
+Cả nhóm lập tức ùa theo ánh mắt đầy vẻ trêu chọc. Một cô khác chống tay lên bàn, nghiêng đầu quan sát Hồ Tấn từ trên xuống dưới rồi cười khúc khích: “Cái anh trai này ngoại hình cũng không phải vừa đâu. Đúng là có tướng làm người ta rung rinh.”
+
+Tiếng cười lan khắp phòng tự học khiến Lưu Nghiên lập tức đỏ bừng từ má đến tai. Cô bé vội vàng xua tay, cúi đầu giải thích cho đám bạn này: “Không phải đâu. Đây là anh Hồ Tấn cố vấn công nghệ của trường ấy, không phải như mấy cậu nghĩ đâu.”
+
+Dù thế lời thanh minh ấy càng làm mấy cô bạn được đà trêu chọc hơn, tiếng “ồ” kéo dài cùng ánh mắt đầy ẩn ý cứ liên tục dồn về phía cả hai khiến Lưu Nghiên chỉ muốn chui ngay xuống gầm bàn trốn cho rồi.
+
+Mấy cô bạn đưa mắt nhìn nhau đầy ẩn ý, rồi cùng lúc liếc về phía Hồ Tấn. Cậu vẫn điềm nhiên ngồi đó, tay cầm bút ghi chú từng dòng một cách chỉn chu, hoàn toàn không để tâm với những tiếng xì xào và ánh mắt tò mò xung quanh. Sự trầm tĩnh ấy lại vô tình trở thành một thứ sức hút kỳ lạ khiến cả nhóm nữ sinh không thể rời mắt.
+
+Tiếng thì thầm bàn tán bắt đầu dày đặc hơn: “Người ta nói quả không sai, đàn ông cuốn hút nhất là khi đang tập trung làm việc. Lưu Nghiên số hưởng rồi.”
+
+“Công nhận cuốn hút thật. Nhất Lưu Nghiên đấy nhé!”
+
+Đúng lúc ấy Hồ Tấn khẽ đặt bút xuống bàn tay buông nhẹ cây bút bi lên tập giấy đã dày đặc những dòng ghi chú và ký hiệu kỹ thuật. Cậu xoay người một chút, phần lưng tựa hờ vào ghế rồi chậm rãi quay đầu lại. Ánh mắt lướt qua căn phòng cuối cùng dừng lại trên nhóm bạn của Lưu Nghiên đang tụ tập ở bàn phía sau.
+
+Ánh nhìn ấy không sắc bén cũng chẳng lạnh lùng mà vừa đủ sự chú ý để người đối diện cảm nhận được họ đã lọt vào tầm quan sát của cậu. Khoé môi Hồ Tấn cong nhẹ, tạo thành một nụ cười nhã nhặn không quá thân mật nhưng vẫn toát lên sự ấm áp của một người anh đi trước tự tin và điềm tĩnh.
+
+Hồ Tấn hơi nghiêng đầu gật đầu nhẹ đầy lịch thiệp, giọng nói trầm vang lên: “Chào các em.”
+
+Âm thanh ấy vừa đủ để nhóm bạn đang khúc khích trò chuyện phải dừng lại im bặt đôi giây. Một vài ánh mắt bối rối vội vã đảo đi, cũng có người không giấu nổi sự tò mò, kín đáo quan sát anh kỹ hơn. Sự xuất hiện và cách chào hỏi của Hồ Tấn để rất nhiều nỗi tò mò đặc biệt là các sinh viên nữ trong phòng tự học. Kể từ lúc cậu bước vào thì rất nhiều ánh mắt của nữ sinh đã dõi theo, bên cạnh đó cũng có những ánh mắt ngưỡng mộ của nam sinh.
+
+Giọng nam trầm ấm vang lên giữa không gian yên tĩnh, vừa đủ để nghe rõ mà không quá phô trương. Mấy cô bạn lập tức hét khẽ hai tay ôm lấy má cố kìm nén sự phấn khích.
+
+“Trời ơi giọng nói cũng hay quá!”
+
+“Người gì mà vừa đẹp trai vừa nói chuyện nhẹ nhàng.”
+
+“Bạn Lưu Nghiên của tôi ơi? Bạn tìm đâu ra được cực phẩm như vậy?”
+
+Lưu Nghiên chỉ biết ngồi im vừa ngượng vừa không biết nên làm gì, trong khi đó thì trái tim của cô gái nhỏ lúc này lại đập nhanh hơn hẳn bình thường.
+
+Sau một hồi rối rít tiếng cười nói và những câu hỏi tò mò liên tục vang lên, nhóm bạn của Lưu Nghiên cuối cùng cũng tinh ý nhận ra ánh mắt có phần nghiêm lại và sự im lặng kéo dài của Hồ Tấn. Dù cậu không hề tỏ ra thô lỗ hay cáu gắt song khí chất điềm tĩnh xen lẫn nét lạnh nhẹ ấy đủ để họ hiểu rằng mình đã hơi quá trớn.
+
+Một vài ánh mắt trao đổi nhanh giữa các thành viên, rồi cả nhóm chậm rãi thu dọn sách vở đứng dậy. Mặc dù trong lòng vẫn còn lưu luyến, cảm giác bỏ lỡ một “màn kịch hay” sau đó họ cũng đành miễn cưỡng rời khỏi phòng.
+
+Tiếng bước chân và tiếng ghế kéo nhẹ lùi dần về phía cửa để lại căn phòng tự học chìm vào một bầu không khí yên tĩnh. Giờ đây chỉ còn Lưu Nghiên và Hồ Tấn ở lại. Không gian bỗng trở nên rộng hơn, yên tĩnh hơn được dành riêng cho cuộc trò chuyện và những công việc còn dang dở của hai người.
+
+Lưu Nghiên cũng theo đó đóng laptop lại, bàn tay khẽ vuốt nhẹ lên nắp máy khép lại cả một buổi làm việc căng thẳng. Cô bé quay sang nhìn Hồ Tấn, đôi mắt ánh lên sự nhẹ nhõm và biết ơn: “Cảm ơn anh, Hồ Tấn. May mà có anh, không thì em cũng không biết làm sao mới có thể xử lý hết đống bài vở này được.”
+
+Hồ Tấn tay khoanh hờ trước ngực, đôi mắt vẫn giữ nét bình thản: “Chuyện nhỏ thôi. Đều là người quen cả.”
+
+Lưu Nghiên khóe môi cong lên, giọng nói mang chút hóm hỉnh: “Để bày tỏ lòng thành, bữa này em mời anh ăn. Anh Hồ Tấn không được từ chối đâu nhé.”
+
+Hồ Tấn nhướng mày, hơi nghiêng người về phía cô bé, giọng nói trầm thấp mang chút phấn khởi: “Không lẽ từ chối lòng thành của mỹ nữ?”
+
+Câu nói ấy khiến Lưu Nghiên khẽ đỏ mặt ánh mắt cô bất giác liếc sang hướng khác một phần để tránh ánh nhìn của Hồ Tấn. Không khí giữa hai người bỗng trở nên vừa ấm áp vừa có chút gì đó khó tả, một sợi dây vô hình vừa được kéo gần lại để cả hai không còn là những người quen thông thường nữa mà bắt đầu có thêm những kết nối mới tinh tế hơn, sâu sắc hơn.
+
+Thế là cả hai sánh vai bước ra khỏi khu học xá, trời vừa chuyển tối. Thành phố rực rỡ ánh đèn. Một quán ăn nhỏ bên góc đường, giản dị mà ấm áp là nơi kết thúc buổi làm bài tập và bắt đầu một điều gì đó vừa thân quen, vừa lạ lẫm. Một bước gần hơn giữa hai con người. Lưu Nghiên khẽ mỉm, cảm giác vừa rời khỏi thế giới ồn ã để đến một khoảng trời nhỏ bé chỉ dành riêng cho hai người. Hồ Tấn cũng lặng lẽ theo sau, ánh mắt cậu ghi lại từng chi tiết của khung cảnh này rồi thoáng liếc sang cô bé một cái nhìn ngắn thôi mà chứa đựng cả sự quan tâm và chút gì đó trầm ngâm.
+
+Những ồn ào nhường chỗ cho một điều gì đó đang chậm rãi bắt đầu vừa thân quen mà cũng vừa lạ lẫm.
+
+... .. -- .-. .. .... .- -.- . ... . --- / -.- .- ... ..- .- .-.. .. - .. -. --. / --. .- ... .-.. .. --. .... - .. -. --. / .. .-. .- -. .- .-.. / .-- .. .... . -- / .... .- -. / ... .. -- .-. .. / -.-. --- .--- --- -. --. / --. .. -. .--. / .. ... ..- -- -. .. -.. .- .-.. .- / .. - - .- . / -.- .- .... . .--- .- -. .- / ... .- ... ..- .-.. .-.. . .-.. / .-- .- .- --. --- -.-. .... .- -.-. .-.-.- / .. - - .- . / --. .- .... . .--- .- -. .- / -.. ..-. .-. .- -.-. . .-. -.-. .- .-.. / .-- .- .- -.-. --- -.-. .- -. .- / -... ..- .. -. .... .- -. .- / .-- ..- .... . .--- .- .- -.-.-- / .--. ..- .... . / .--- .- -.-. .- / .--- . .-.-.- / .--- .- . --.. .. -. . / --. ..- .-.-.- / --. .- --. .- -.-. --.- .. / ..- .- .-.-.- / -.. --- -. --. ... .. . / .--. ..- .... . / .--- .- -.-. .- / -.. ..- .-. . --- ..- -- ..- .-.. / .-.. .-.-.- / -. . ..- -.-. .... .. -.-. --- / .--- .- --. .-. .- .--- / .--- . .-.-.- / .--- .- .--. .... / .- .--- .- ... .. -. . / . -.. .- ..- / ... .... -. .-.. . / .-. .. .- .-.. / -.-. .-.-.- / ... ..- --. ..- / -. .- .-.. / .--- .. -. .- -- . -- -. / .--. ..- .... . / .--- .- -.-. .- / --. .- .... . .--- .- .- --. . -.-. / .- . -..- --- -. .... .- -.-. . / -.-. --- .-.-.- / -... ..- .-.. .- -. / .. -. .. .- / .-- ..- .-.-.- / .-- ..- --- .-.. / ... .- -. -.-. - .- . -..- / .- .--. .- / -... .- -.-. .... .. .-.-.- //- .... . / .-- .- -.-- / - --- / --- ...- . .-. -.-. --- -- . / .. - / .. ... / - --- / .-. . -.-. --- .-. -.. / - .... . / - .-. ..- - .... / -... -.-- / -.- . . .--. .. -. --. / .- / .--- --- ..- .-. -. .- .-.. / --- .-. / ... - --- .-. .. -. --. / -- . ... ... .- --. . ... / .- -. -.. / .. -- .- --. . ... / ... --- / - .... .- - / -.-- --- ..- / -.-. .- -. / .-. . ..-. . .-. / -... .- -.-. -.- / - --- / - .... . -- / .-- .... . -. / -. . . -.. . -.. / .- -. -.. / .-. . ..-. --- .-. -.-. . / -.-- --- ..- .-. / - .-. ..- ... - / .. -. / -.-- --- ..- .-. / --- .-- -. / -- . -- --- .-. .. . ... .-.-.- / .- - / - .... . / ... .- -- . / - .. -- . --..-- / ...- . .-. .. ..-. -.-- / .. -. ..-. --- .-. -- .- - .. --- -. / .-- .. - .... / --- - .... . .-. / .--. . --- .--. .-.. . .-.-.- / .. ..-. / .--. --- ... ... .. -... .-.. . --..-- / -.-. . . .--. / -.-- --- ..- .-. / -.. .. ... - .- -. -.-. . / --- .-. / -.-. ..- - / --- ..-. ..-. / -.-. --- -. - .- -.-. - / .-- .. - .... / - .... . / -- .- -. .. .--. ..- .-.. .- - --- .-. --..-- / .-- .... .. .-.. . / .- .-.. ... --- / ... . - - .. -. --. / -.-. .-.. . .- .-. / -... --- ..- -. -.. .- .-. .. . ... / .- -. -.. / ..-. .. .-. -- .-.. -.-- / .-. . ..-. ..- ... .. -. --. / - --- / . -. --. .- --. . / .. -. / -.-. --- -. ... . .-. ... .- - .. --- -. ... / - .... .- - / -- .- -.- . / -.-- --- ..- / ..- -. -.-. --- -- ..-. --- .-. - .- -... .-.. . .-.-.-//...- .. . -.-. / - .. -- / -.. . -. / -.-. .... ..- -.-- . -. / --. .. .- / - .- -- / .-.. -.-- / -.-. ..- -. --. / .-. .- - / -.-. .- -. / - .... .. . - / -.. . / -. .... .- -. / -.. .. . -. / .... .- -. .... / ...- .. / - .... .- --- / - ..- -. --. / ...- .- / -.- .... --- .. / .--. .... ..- -.-. / ... ..- / - ..- / - .. -. .-.-.- / -.-. ..- --- .. / -.-. ..- -. --. / -.. ..- -. --. / --.- ..- . -. / - ..- / -. .... .- -.-. / -. .... --- / ...- . / --. .. .- / - .-. .. / -... .- -. / - .... .- -. --..-- / - .- .--. / - .-. ..- -. --. / ...- .- --- / -. .... ..- -. --. / - .... .- -. .... / - ..- ..- / ...- .- / .--. .... .- -- / -.-. .... .- - / - --- - / -.. . .--. / -.. . / -.- .... --- -. --. / -... .. / .-.. --- .. / -. --- .. / -.-. ..- .- / -.- . / -.- .... .- -.-. / -.. .. -. .... / -. --. .... .. .- / -.-. --- -. / -. --. ..- --- .. / -- .. -. .... .-.-.-
+
+(Phương Thanh Mộng xin gửi tặng những bạn yêu thích về Morse code, trên đây là thủ thuật thao túng tâm lí mà mình thấy khá nguy hiểm và nhiều người mắc phải. Mình viết bảng code này được phiên từ tiếng Hàn, tiếng Anh và tiếng Việt không dấu. Nếu mọi người cảm thấy hứng thú có thể tự dịch hoặc có thể liên hệ mình, mình gửi bản dịch nhé! Cảm ơn mọi người rất nhiều ạ.)

@@ -1,0 +1,379 @@
+Chương 22: Lớp trưởng biết bay
+
+Học hành vốn đã đủ mệt. Kiểm tra nối tiếp kiểm tra, bài tập nhóm xoay vòng như chong chóng. Vậy mà gần đây, thời khóa biểu buổi tối của lớp trưởng lại xuất hiện thêm một “môn ngoại khóa” kỳ quặc. Đó là chơi game đến hơn mười giờ đêm, cùng người mà cô không muốn dây dưa nhất trần đời — Lê Hoàng Khánh Đăng.
+
+Màn hình điện thoại sáng xanh trong căn phòng yên tĩnh. Ngoài cửa sổ, đèn đường hắt vào từng vệt nhạt. Giọng Đăng vang lên liên hồi trong tai nghe.
+
+“Trời đất, mày chạy kiểu gì vậy? Đứng yên bắn hoài thì khác gì hiến mạng!”
+
+“Ê! Nhìn minimap kìa! Không thấy thằng rừng dí sát gáy hả?”
+
+“Né đi, né đi! Nó quăng chiêu vô mặt rồi kìa, còn trơ ra đó làm gì?”
+
+"Hết mana mà còn xông vào combat… Ngân ơi, mày định làm từ thiện cho team địch hả?”
+
+Ngân cắn môi, cố nhịn. Nhưng sau vài trận, sự kiên nhẫn của cô vỡ vụn.
+
+“Im coi! Tao đang tập trung đây!”
+
+“Ủa tao farm lính thì sao? Không farm thì lấy gì lên đồ? Mày muốn tao chơi tay không hả?”
+
+“Mày có thể đừng hét vô tai tao không? Trong cái quan hệ này, ai mới là lớp trưởng vậy?”
+
+“Phiền quá thì mày chơi luôn đi. Tao đi nấu mì cho khỏe!”
+
+Bên kia tai nghe im lặng một lúc, rồi khẽ “hừ” một tiếng.
+
+Thế là đêm nào trước màn hình cũng là một trận khẩu chiến nảy lửa. Nhưng kỳ lạ thay, mỗi lần nghe sự cằn nhằn của Đăng, Ngân lại càng ít chết hơn, bắn chính xác hơn, thậm chí còn bắt đầu biết gánh đồng đội. Tất nhiên, cô tuyệt đối không bao giờ thừa nhận công lao “huấn luyện” của Đăng.
+
+Chỉ sau một tuần, cô đã nắm vững vị trí trong giao tranh, canh được thời gian hồi chiêu, né kỹ năng và ping bản đồ trước cả khi Đăng kịp mở miệng.
+
+Những lời la hét từng làm cô tức điên nay trở thành phản xạ tự động. Thấy đồng đội lao vào giao tranh, cô tiến lại ngay. Thấy biểu tượng rừng bên địch vừa ló lên bản đồ, cô lập tức trốn vào bụi.
+
+Có hôm, hai đứa ngồi chơi trong im lặng, chẳng ai cà khịa câu nào. Vậy mà cuối trận, bảng kết quả hiện to đùng chữ MVP ngay cạnh tên Ngân.
+
+Một lần, rồi hai lần, đến ba lần liên tiếp.
+
+Lần nào Ngân cũng chụp màn hình, gửi cho Khánh một tin nhắn kèm biểu tượng mặt cười tủm tỉm.
+
+[Trình độ lớp trưởng. Nhớ đó.]
+
+Đăng nhìn bảng kết quả, khóe môi giật giật, mắt nheo lại.
+
+Lại MVP nữa.
+
+Không cam lòng, cậu gõ trả lời ngay:
+
+[Nãy giờ tao chơi tay trái thôi. Để tao dùng tay phải lại thì mày biết tay.]
+
+[Thế thì mày nên chơi cả hai tay đi. Chứ bữa giờ tao thấy mày phế lắm rồi.]
+
+Đăng đọc xong tức đến suýt cắn trúng lưỡi.
+
+Tối đó, cậu quyết tâm “lật kèo”. Đăng không chỉ phát trực tiếp trên Discord, cậu còn lôi cả Bách với Trân vào làm nhân chứng.
+
+Trân vừa hút trà sữa vừa xem, thỉnh thoảng “ồ” một tiếng như đang coi phim hành động. Bách thì lẳng lặng nhắn riêng cho Thịnh:
+
+[Tao thấy Khánh Đăng sắp bị hành tiếp.]
+
+[Ờ, hôm qua tao còn coi replay con Ngân cầm Fennik được Mega Kill.]
+
+Đúng như dự đoán, trận đó kết thúc bằng một màn thảm bại nữa. MVP tiếp tục gọi tên Ngân. Lần này cô tự mình càn quét cả bản đồ, giành Mega Kill. Fennik của Ngân lăn lộn trong giao tranh như cá gặp nước, khiến Đăng chỉ biết ôm đầu than trời.
+
+Lúc quay lại phòng chờ, giọng Ngân vang lên trong tai nghe:
+
+“Đăng này.”
+
+“Gì?”
+
+“Thầy có cần học trò dạy ngược lại không?”
+
+“…”
+
+Con nhỏ này muốn chết à?
+
+...
+
+Một buổi chiều, lớp học lặng như tờ, chỉ còn tiếng quạt trần kẽo kẹt và tiếng lật sách sột soạt. Thầy cô đang họp, cả lớp ngồi tự học.
+
+Ở bàn cuối, Đăng gác chân, lười nhác dựa ghế, tay cầm điện thoại lướt bảng xếp hạng game. Thấy tên mình vẫn đứng top, khóe môi cậu cong cong, ánh mắt loé lên vẻ tự mãn.
+
+Bỗng điện thoại rung, tin nhắn từ Ngân.
+
+[Solo không?]
+
+Đăng nhướng mày, gõ ngay:
+
+[Mày muốn thua nữa à?]
+
+[Thử xem.]
+
+Cái đứa vừa Mega Kill hôm qua, bây giờ lên giọng dữ vậy.
+
+Đăng nheo mắt, vừa thấy thú vị, vừa thấy nóng gáy. Cậu ngồi thẳng dậy, mở game, chuẩn bị một trận “hành” ra trò.
+
+Chỉ vài phút sau, cả hai đã trong trận. Đăng vẫn thong thả farm lính, miệng không quên cà khịa:
+
+“Đứng gần trụ thế kia, sắp thành nhân viên gác cổng luôn rồi lớp trưởng.”
+
+Ngân mở micro, giọng điềm nhiên:
+
+“Cười đi, coi chừng cười không được bao lâu.”
+
+Đăng phì cười. Tự tin dữ.
+
+Nhưng đến phút thứ ba, Ngân combo hụt liên tục, thậm chí còn lao nhầm vào trụ. Đăng khẽ nhướng mày, thầm thở phào:
+
+“Hên ghê, chắc nhỏ này lag rồi.”
+
+Phút thứ bảy, Đăng phá xong trụ đầu. Ngân vừa ló khỏi bụi đã dính trọn băng đạn, chưa kịp tốc biến thì ngã xuống. Đăng thừa thắng xông thẳng nhà chính.
+
+Màn hình sáng lên chữ “Victory”, kèm thống kê: 9/2/0.
+
+Đăng khoanh tay, nụ cười rạng rỡ:
+
+“Rồi, ai mới là người mở lớp dạy ai đây?”
+
+Đầu dây bên kia im lặng một nhịp. Giọng Ngân vang lên, lạnh tanh:
+
+“Chơi dơ, mày núp bụi ba lần.”
+
+“Chiến thuật thôi, ai bảo không biết đề phòng.”
+
+“Tao nhường mày đó.”
+
+“Ờ, nhường mà chết liên tục thì hơi nhiệt tình nha lớp trưởng.”
+
+Ngân đặt điện thoại xuống bàn, gương mặt nghiêm nghị càng lúc càng căng. Trong khi đó, Đăng chống cằm, vẻ hả hê không hề che giấu:
+
+“Solo AD với AD, tao thắng rồi. Lớp trưởng chịu chưa?”
+
+Ngân gằn giọng:
+
+“Lúc tao Mega Kill thì im thin thít.”
+
+“Tại hôm đó tao lag.”
+
+“Đổ thừa như con nít.”
+
+“Không phải lúc trước mày nói tao là con nít sao?”
+
+Ngân lặng thinh, khẽ thở ra. Đúng là cái đồ mặt dày, dám tự nhận luôn.
+
+Đăng bật cười lớn, nhưng lần này giọng chậm lại:
+
+“Từ giờ tao sẽ không nhường nữa, mỗi trận đều đánh hết sức. Biết vì sao không?”
+
+“Sao?”
+
+“Vì tao muốn mỗi lần mày thắng, mày phải cố gắng thật sự. Còn mỗi lần mày thua, mày sẽ nhớ đến tao nhiều hơn.”
+
+Ngân hét lên: “Biến.”
+
+Mấy đứa trong lớp ngẩng lên, ngơ ngác:
+
+“Cái gì vậy bây?”
+
+Ngân cười gượng: “Không có gì. Có thằng bị ảo tưởng sức mạnh thôi.”
+
+Cả lớp cười ồ, lại cúi xuống học tiếp.
+
+Đăng vẫn ngồi sau, mắt dán vào màn hình, miệng cười khẽ:
+
+“Chiến tranh mới bắt đầu thôi, lớp trưởng à.”
+
+...
+
+Tối Chủ nhật, Ngân ngồi ở bàn học, mắt dán vào tập Tiếng Anh. Cô đang mải gạch gạch, chép chép thì điện thoại rung lên.
+
+[Lớp trưởng, leo rank không?]
+
+[Ủa, rủ tao?]
+
+[Chứ sao, tụi tao đang thiếu một chân.]
+
+Ngân nhìn dòng tin nhắn, rồi khóe môi khẽ cong thành một nụ cười nhạt.
+
+Đội hình đêm ấy bao gồm:
+
+Khánh Đăng giữ vị trí xạ thủ, xạ thủ số một của lớp, trung thành với con bài tủ Violet.
+
+Phú Cường đảm nhiệm đi rừng, thao tác gắt gao không kém gì cái miệng lúc nào cũng ồn ào.
+
+Xuân Kha chuyên đi top.
+
+Hoàng Huy linh hoạt hơn, vừa có thể chơi trợ thủ, vừa có thể đi mid.
+
+Và cuối cùng là Châu Ngân, cô nàng lớp trưởng, người mới tập chơi game chưa bao lâu.
+
+Vừa vào sảnh chờ, cả đám bạn đã nhao nhao:
+
+“Ủa, lớp trưởng vô team kìa? Biết chơi game hả?”
+
+“Chắc cầm Annette hay Alice buff cho Đăng quá.”
+
+“Chuẩn luôn, AD mà có bồ support thì coi như win.”
+
+Ngân nghe mà khoé môi giật giật. Bớt bớt giùm cái.
+
+Đến khâu chọn tướng, cô không chần chừ, thẳng tay chọn Zata.
+
+Zata – pháp sư sát thủ cơ động, combo khó chịu bậc nhất, nhưng trong tay người thạo nó thì đủ sức xoay chuyển cục diện.
+
+Kha dụi mắt, tháo kính ra lau lại, sợ mình nhìn nhầm.
+
+“Châu Ngân pick Zata?”
+
+“Pick kiểu đó là chết cả đám đó.” Huy thì không giữ được bình tĩnh. Bị cướp mất đường giữa, cậu khá bực bội.
+
+Cường liếc sang Đăng, nói nhỏ:
+
+“Ê, mày dụ lớp trưởng vô team kiểu gì đấy?” Cậu nói tiếp. “Tao tưởng nó cầm Annette đứng sau buff thôi chứ. Giờ ai che cho mày bắn đây, Đăng?”
+
+Đăng cũng thoáng bất ngờ. Vài hôm trước, Ngân còn loay hoay với Tulen, chạy vòng vòng quanh trụ. Thế mà nay, lại thẳng thắn chọn Zata. Ánh mắt cậu hơi đổi, trong thoáng chốc như vừa gặp một điều thú vị ngoài dự đoán.
+
+Cậu khẽ nhếch môi:
+
+“Thôi cứ để lớp trưởng thể hiện đi. Mày chơi support đi Huy.”
+
+Huy chỉ có thể bất mãn mà nghe theo.
+
+Lúc này Ngân mới bật micro: “Chút nữa tụi bây dạt ra để chị mày bay.”
+
+Cả team đồng loạt im bặt. Đứa nào mới phát biểu đấy?
+
+Thật ra, mọi chuyện bắt đầu từ tuần trước. Châu Kha đã chỉ cho Ngân combo Zata. Nhờ vậy, cô tập dần, bắt đầu quen tay, không còn vụng về như trước nữa.
+
+Trận đấu bắt đầu. Ngay từ phút đầu, Ngân di chuyển mượt mà, last hit chuẩn xác. Cách cô giữ vị trí và căn lính hoàn toàn không mang dáng vẻ của “tân thủ” như Huy vẫn nghĩ.
+
+Phút thứ năm, giao tranh nổ ra ở đường rồng. Ngân lao vào đúng khoảnh khắc hỗn loạn nhất. Ngón tay cô hấm chiêu liên tiếp, ánh sáng xanh của Zata xẹt ngang màn hình.
+
+“Double Kill!” Âm thanh vang lên dứt khoát.
+
+“Ghê nha, lớp trưởng.” Đăng không ngại buông lời khen.
+
+“Ủa Ngân? Mày chơi mid hay dữ vậy?” Huy nuốt nước bọt, rút lại mấy lời khinh thường ban nãy.
+
+“Đã nói rồi. Dạt ra để chị mày bay.”
+
+Huy ôm trán: “Tao nghi ngờ cuộc đời này rồi đó…”
+
+Cường cười lớn: “Đúng gu bạn gái lý tưởng nha.”
+
+Kha còn cố chọc: “Đăng, coi chừng. Không khéo tụi tao theo lớp trưởng hết.”
+
+Đăng không đáp, chỉ dựa lưng vào ghế, mắt chăm chú dán vào màn hình.
+
+Ngân vẫn lạnh lùng, ngón tay lướt màn hình không chút do dự. Trong lòng, một cảm giác hả hê lặng lẽ dâng lên. Cuối cùng cũng có thể đòi lại công bằng rồi.
+
+Tình hình căng như dây đàn. Nakroth bên kia xanh lè, cứ chăm chăm dí xạ thủ bên này không tha. Đăng vừa ló mặt đã bị ép đến nỗi chưa kịp nhả sát thương đã lên bảng đếm số.
+
+Huy trầm giọng: “Bị dí riết, giờ sao?”
+
+Ngân lia mắt nhìn bản đồ, ngón tay gõ nhè nhẹ:
+
+“Dụ nó ra mid, để tao bay sau lưng.”
+
+“Mày chắc không đấy?” Đăng ngờ vực, cười cười.
+
+“Tin tao một lần đi, bạn Khánh Đăng.”
+
+Đám bạn im lặng một giây, rồi Kha nói: “Làm theo lớp trưởng đi.”
+
+Đúng như dự đoán, Nakroth lao thẳng vào Đăng, hí hửng tưởng vớ được mồi ngon. Đội Ngân tản ra, giả vờ bỏ chạy.
+
+Ngay khoảnh khắc Nakroth chuẩn bị ulti để lấy “Double Kill”, bụi cỏ phía sau chợt lóe sáng. Một luồng xanh trắng bật lên không trung, xoáy mạnh như chim ưng sà xuống con mồi.
+
+Zata bật ulti. Ngón tay Ngân nhảy múa loạn xạ trên màn hình. Thông báo nhảy liên tục:
+
+“Triple Kill!”
+
+“Quad Kill!”
+
+“Mega Kill!”
+
+Huy hét toáng: “Ngân, mày gánh cả team rồi!!!”
+
+Kha đập bàn rầm rầm: “Đẹp! Pha đó đẹp hết chỗ chê!”
+
+Cường ôm đầu than: “Ủa alo? Tụi mình là con trai mà phế hơn lớp trưởng hả? Nhục dữ vậy trời!”
+
+Ngân không nói gì, chỉ vuốt nhẹ tóc mái bị rớt xuống trán, ping lạnh lùng “đẩy mid”.
+
+Đội bạn chẳng ai dám ló đầu ra nữa. Bên này, cả bọn bỗng hừng hực khí thế, kéo thẳng một đường giữa đến tận nhà chính.
+
+Màn hình sáng rực chữ vàng: Victory.
+
+Tên “Julyyyx” hiện lên ngay cạnh danh hiệu MVP, nổi bật giữa bảng tổng kết cuối trận. Đăng nhìn cái tên đó, khóe môi khẽ cong lên. Không ngờ, lớp trưởng lại có ngày chơi giỏi đến vậy. Lần này, đúng là cậu đã đánh giá thấp Ngân thật rồi.
+
+“Ngân, tao chính thức công nhận mày.” Kha vỗ tay bốp bốp.
+
+“Best mid của lớp!” Cường cười hề hề.
+
+Huy chen vào qua micro, cố tình nói to: “Ai đó nhớ giữ bồ cho kỹ nha. Lớp trưởng đánh kiểu này, khối đứa xin ID liền.”
+
+“Mà hình như có người im im hơi lâu thì phải?” Kha bật cười.
+
+Cả nhóm đồng loạt liếc về phía Đăng. Cậu ta ngồi đó, im ru từ nãy, như đang tính toán chuyện gì khác ngoài game. Rồi bất chợt, giọng trầm lười nhác vang lên qua micro:
+
+“Bạn gái tao chơi không tệ.”
+
+Ngân: “...”
+
+Lại nữa. Chỉ một câu vu vơ, nhưng cái giọng kéo dài chậm rãi kia làm tim Ngân khựng mất một nhịp.
+
+“Trời đất ơi!!!” Kha hét toáng.
+
+“Phát cơm chó từ lớp tới game luôn hả?!” Huy gào.
+
+“Mic còn nghe mùi ngọt nè, ai cứu tôi với!” Cường ôm ngực.
+
+“Lo làm bài tiếng Anh đi, mai cô Diệp kiểm tra miệng đột xuất đó.” Giọng lạnh tanh vang lên, cắt phăng tiếng cười la.
+
+Không khí đang ầm ĩ chợt lắng xuống. Cường ngưng cười, Kha im lặng, Huy thì lầm bầm chửi thề. Lớp trưởng thật biết làm người khác mất hứng.
+
+Chỉ có Đăng là chẳng hề hấn gì. Cậu ta ngả lưng vào ghế, cười nhạt trông cứ như đang rất hài lòng với phản ứng của ai kia.
+
+Ngân đưa tay vuốt tóc mái, gương mặt giữ nguyên vẻ thản nhiên. Chỉ có điều, vành tai khẽ ửng đỏ. May mắn là chẳng ai ngồi ngay trước mặt để thấy.
+
+...
+
+Sau khi thoát game, Ngân mở Messenger, định nhắn tin khoe với em trai rằng mình vừa thắng một trận xuất sắc. Nhưng chưa kịp gõ chữ, một khung chat khác bật lên.
+
+[Mày học combo Zata từ ai vậy?]
+
+Ngân nhìn chằm chằm. Bình thường Đăng có bao giờ chủ động hỏi han kiểu này đâu?
+
+Cô gõ một dòng ngắn gọn:
+
+[Em tao chỉ.]
+
+[Kêu nó chỉ thêm đi. Còn vài chỗ chưa chuẩn.]
+
+[Tao mới MVP đó nha?]
+
+[MVP thì sao? Gánh team không có nghĩa là không cần cải thiện.]
+
+Ngân lườm chằm chằm màn hình, tức tối mà không tìm ra được lý lẽ phản bác. Thế quái nào, cãi lại thì nghe như mình đang thừa nhận cậu ta đúng.
+
+Cô còn đang gõ rồi lại xóa, chưa nghĩ ra cách đáp trả thì tin nhắn tiếp theo đã nhảy tới:
+
+[Tối mai 8 giờ, chơi tiếp không?]
+
+[Ủa mắc gì?]
+
+[Tao muốn kiểm tra mày có xứng đáng là best mid không.]
+
+Cái thằng này ngoài miệng thì lười nhác, mà phát ngôn câu nào liền muốn đấm câu đó.
+
+Cô thở hắt ra, đắn đo vài giây, cuối cùng vẫn gõ:
+
+[Chơi thì chơi.]
+
+Gửi xong, Ngân ngồi thẫn thờ nhìn màn hình.
+
+Ơ khoan… cô vừa đồng ý chơi riêng với cậu ta?
+
+Ngân nằm ngửa xuống giường, mắt nhìn chằm chằm trần nhà, đầu óc rối như mớ bòng bong.
+
+Rõ ràng trước đây, cô cực ghét game. Thấy nó vừa phí thời gian, vừa phiền phức. Thế mà dạo này, tối nào cũng bật game, học xong thì xem highlight, rảnh thì nghiên cứu phân tích tướng. Đến mức tụi bạn thân còn đùa:
+
+“Hai đứa này yêu nhau thật rồi, cơm chó phát từ lớp tới game.”
+
+Nếu vài tháng trước có ai nói cô sẽ chơi game riêng với Đăng, chắc Ngân sẽ cười khẩy rồi bắn lại ba chữ: “Mơ à cưng?”
+
+Vì chính cậu ta là đứa từng cà khịa cô tơi tả trong vụ cá cược điểm Lý. Là người cô từng nghiến răng tuyên bố: “Ghét không đội trời chung.”
+
+Ngân chống tay ngồi bật dậy, cắn môi. Cô vẫn chưa quên nỗi cay cú vì thua cá cược lần trước. Cô vẫn muốn thắng cậu ta, chứng minh cậu ta chẳng hơn gì mình cả.
+
+Nhưng cái cảm giác lúc này lạ thật.
+
+Ánh mắt cô khẽ rơi xuống dòng tin nhắn chưa tắt sáng:
+
+[Tối mai 8 giờ, duo không?]
+
+[Chơi thì chơi.]
+
+Khóe môi Ngân mím lại, gò má nóng lên lúc nào chẳng hay. Cô hít một hơi thật sâu, tắt phụp màn hình điện thoại, ép bản thân phải tỉnh táo.
+
+Chỉ là chơi game thôi. Một trận game thì có là gì đâu chứ.

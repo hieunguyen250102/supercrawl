@@ -1,6 +1,9 @@
 __pycache__/
-data/
-output/
-import-staging/
-.test-tmp/
 *.pyc
+.test-tmp/
+
+# Profile Chrome: chứa cookie/session đăng nhập, không đẩy lên remote.
+data/profiles/
+
+# Sinh lại được từ output/ bằng `python prepare_import.py`.
+import-staging/

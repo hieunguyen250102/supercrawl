@@ -1,0 +1,203 @@
+Chương 17: Mã lỗi hệ thống
+
+[Hệ thống kiểm tra giấc ngủ đang tạm ngưng hoạt động. Bạn hãy chờ trong giây lát. Rất xin lỗi vì làm gián đoạn trải nghiệm của người dùng.]
+
+Dòng điện trong nhà bỗng chập chờn lúc mở lúc tắt, Hà An ngẩn người nhìn bản thân trong gương. Tóc tai rối bời, cặp mắt vô hồn, làn da xanh xao như người bệnh. Hệ thống điện năng đột nhiên tắt hẳn, ba giây sau thì tự khởi động lại.
+
+Viền kim loại quanh gương tròn bất ngờ sáng lên.
+
+[Chào ngày mới. Phiên bản nâng cấp đã được cập nhật xong. Hệ thống kiểm tra giấc ngủ đang hoạt động. Có vẻ như bạn đã có một đêm không ngon giấc. Bạn nên đi ngủ sớm hơn, hạn chế sử dụng chất kích thích như viên nước uống liền vị cà phê, thanh protein vị cà phê. Bạn có thể thử trải nghiệm chế độ massage, xoa bóp của robot y tế. Kiến nghị, bạn hãy mua một con robot y tế.]
+
+Hà An không vui chau mày. Phiên bản mới này nói nhiều thật đấy! Cô vừa định tắt quách cái hệ thống kiểm tra giấc ngủ ấy đi thì lại nghe giọng nói thân thiện nhàm tai tiếp tục phát ra.
+
+[Bạn phải mua một con robot y tế. Nhà nào cũng cần có một con robot y tế.]
+
+“Không cần đâu, cảm ơn nha.”
+
+[Đang tiến hành đặt hàng. Xác nhận thành công. Hoàn tất đặt hàng.]
+
+“…”
+
+Hà An đen mặt. Phiên bản nâng cấp còn có thể tự tiện truy cập tài khoản thanh toán cá nhân của chủ nhà cơ à? Cô nhanh chóng đánh răng rửa mặt rồi đi nhanh đến bàn làm việc. Cô mở máy tính bảng, bực dọc gửi mail phản ánh cách làm việc ngày càng quá quắt của Chính phủ.
+
+Rất nhanh đã có mail phản hồi. Họ bảo sẽ có cảnh sát ghé qua khu vực cô sống để xác minh sự việc và bồi thường thỏa đáng. Hà An đọc xong, hài lòng tắt mail, ngả lưng lên ghế mềm. Giai điệu du dương của một bản nhạc không lời cất lên từ chiếc máy phát nhạc thông minh nhẹ khuấy đảo không gian yên tĩnh.
+
+Cô hít sâu, lấy lại tinh thần, cầm bút cảm ứng vẽ những nét đầu tiên cho bức tranh mới. Hai tiếng đồng hồ trôi qua, cô vẫn miệt mài vẽ tranh. Con robot mini hồng nhạt cẩn thận kiểm tra khắp nhà, xịt khử khuẩn ở mọi chỗ nó cảm thấy có vi trùng. Nó im lặng làm việc, không biết mệt, chẳng kêu ca.
+
+Chuông cửa kêu vang, con robot mini hồng nhạt tiến đến mở cửa. Nhờ mệnh lệnh thiết lập sẵn, nó nhận ra người đứng trước mặt là cảnh sát, thế là nó ngoan ngoãn nép sang bên cạnh. Người nọ ung dung bước vào nhà mà không cần hỏi han xin phép chủ nhà. Anh ta nhìn quanh một lượt, ánh mắt rơi trúng Hà An.
+
+Cô buông bút cảm ứng xuống, đứng lên: “Chào anh.”
+
+“Chào cô, Hà An.” Chàng cảnh sát trẻ tuổi với mái tóc húi cua, gương mặt xán lạn mỉm cười nói. “Tôi nhận được phản ánh của cô nên đến kiểm tra thực hư.”
+
+Hà An gật đầu, đưa máy tính bảng cho chàng cảnh sát trẻ. Anh ta dùng đồng hồ thông minh quét mã code nơi góc trái màn hình ảo trên máy tính bảng. Xác minh xong, anh ta lịch sự giải thích: “Mã lỗi này xuất hiện trong quá trình nâng cấp hệ thống an ninh mạng của toàn thành phố. Những căn hộ bên cạnh cũng gặp tình trạng tương tự. Lát nữa tiền sẽ được hoàn trả vào tài khoản của cô thôi.”
+
+Nghe vậy, Hà An tiếp tục gật đầu.
+
+“Cô không nhận ra tôi hả?” Chàng cảnh sát trẻ cười hỏi Hà An khi thấy cô cứ phớt lờ mình. “Chúng ta từng ngồi chung một toa tàu… Cô nhớ ra chưa, Hà An?”
+
+“… Anh cố tình bắt chuyện với tôi hả?”
+
+“Cô đừng vội hiểu lầm.” Hoài vội xua tay, mặt đầy khó xử. “Tôi thấy trùng hợp nên mới… Thôi, việc đã giải quyết xong rồi, tôi không làm phiền cô nữa.”
+
+Ra ngoài, Hoài đứng đưa lưng về phía cửa, anh cảm thấy mình nên trịnh trọng cảm ơn mã lỗi lần này. Nếu không có nó, anh sẽ không tìm được lý do chính đáng để “vô tình” gặp Hà An. Lẽ ra mục tiêu của Hoài vốn là Mạnh Duy, nhưng vì Mạnh Duy là bác sĩ nên anh đã thay đổi lộ trình. Anh không dám tin tưởng bác sĩ của bệnh viện Nhân Ái.
+
+Từ cái chết đầu tiên của một bác sĩ trong bệnh viện Nhân Ái, đến cái chết của tên khốn đã cưỡng bức Liên, cái chết của Liên và con gái chị ấy… Tất cả chỉ là bề nổi của tảng băng chìm. Đằng sau cái chết của từng người trong số họ đều liên quan tới một dự án thử thuốc. Loại thuốc kia mới chính là thứ giết chết họ.
+
+Hoài không ngờ, anh càng đào sâu, càng tìm kiếm manh mối, mọi con đường điều dẫn anh tới trụ sở nghiên cứu năng lượng của Chính phủ. Để chạm mặt người có khả năng giúp được mình, trước hết, Hoài phải làm quen với người dễ tiếp cận hơn - Hà An. Anh muốn thông qua cô tạo một cơ hội gặp Phúc Lâm.
+
+Hoài cúi đầu xem xét dữ liệu trên mặt đồng hồ thông minh, sau đó anh bỏ tất cả vào một tệp tin, khóa lại bằng mật mã, lưu trữ trên một đám mây ẩn. Làm xong, anh xoay người nhìn cánh cửa đóng chặt hồi lâu mới rời đi.
+
+…
+
+Chẳng biết đã bao lâu trôi qua, Phúc Lâm mơ màng nhấc mi mắt. Nhận ra mình đang nằm trên giường, anh liền ngồi bật dậy. Cơn choáng ập tới làm anh nhất thời nhíu chặt lông mày. Hương tinh dầu trầm thanh dịu tỏa ra xung quanh, giúp anh dễ chịu hơn chút. Anh đờ đẫn nhìn vào không trung. Đây là phòng của anh.
+
+Anh về phòng bằng cách nào thế?
+
+“Cuối cùng cũng tỉnh.”
+
+Nam Đông khoanh tay dựa vào cửa phòng, mặt vô cảm, lạnh nhạt nhìn anh như đang nhìn người xa lạ. Không rõ ông đã đứng đó bao lâu, không rõ ông đang suy nghĩ điều gì, nhưng Phúc Lâm chưa từng thấy dáng vẻ hiện tại của ông.
+
+Thật xa lạ!
+
+Anh vội xuống giường, lo lắng hỏi ông: “Chú không sao…”
+
+Bộp.
+
+Câu nói dang dở bị cắt ngang, Phúc Lâm nhịn đau, nhìn Nam Đông không chớp mắt. Anh hoàn toàn bất ngờ trước hành động của ông, mọi suy nghĩ đình trệ.
+
+Ông đè chặt anh vào tường, hờ hững cất giọng: “Muốn chết thì nói với chú. Chú có thể giúp cháu chết một cách thoải mái hơn thế này nhiều.”
+
+Phúc Lâm: “…”
+
+Trong tay Nam Đông là một con dao sắc bén sáng loáng, lực sát thương không cao. Ông chĩa mũi dao vào ngực anh, ấn nhẹ, mũi dao cứa lên da anh, để lại vết thương nhỏ. Phúc Lâm cúi đầu, chẳng phản kháng, mặc ông làm gì thì làm.
+
+Nam Đông biết, dù ông có thẳng tay tặng anh một nhát dao để kỷ niệm thì anh cũng im lặng chịu đựng nó. Đứa trẻ mà ông nuôi dưỡng bấy lâu sẵn sàng hy sinh cả tính mạng của mình vì ông. Ông nghĩ, hay là bây giờ… giết anh cho rồi? Cứ thế mặc kệ nhiệm vụ.
+
+Quay về bên trong mình, Nam Đông đối mặt với câu hỏi mơ hồ trú ngụ nơi bản ngã đã lâu. Ông vẫn luôn tìm kiếm câu trả lời. Ông thực sự muốn chết sao? Ông từng muốn chết. Nay lại… không muốn nữa. Ông không nỡ. Ông bắt đầu có điều luyến tiếc. Cuộc sống đang quá tốt đẹp, ai lại muốn chết chứ?
+
+Nam Đông hạ tay, lùi về sau, ngắm mũi dao dính máu, bật cười: “Năng lượng của cháu không phải nguồn cung vô hạn. Cháu cố chấp dùng năng lượng lấy viên đạn ra giúp chú, trị thương cho chú đã đành, không ngờ cháu còn dám dùng máu của mình cứu chú?”
+
+“Chú là người thân duy nhất của cháu. Cháu không thể mất chú.” Anh nói thầm.
+
+“Nghĩa là cháu sẽ bất chấp tất cả, can thiệp vào sinh tử của mọi người à?”
+
+“Cháu…” Anh ngập ngừng không đáp được.
+
+Nam Đông lườm anh: “Vũ khí chúng dùng có thể giết chú và cháu đấy!”
+
+“Những kẻ đó là ai vậy chú?”
+
+“Chúng là cướp.” Ông nghiến răng. “Chúng muốn giết người cướp của.”
+
+“Chúng suýt chút đã giết được chú.” Anh nhỏ giọng lầm bầm, nghĩ rằng Nam Đông không nghe được. “Tại sao chú không cho cháu giết chúng chứ?”
+
+“Ranh con, giết người là phạm pháp!”
+
+“… Giết người vào ban đêm không phạm pháp mà chú.”
+
+Cốc!
+
+Nam Đông thẳng tay gõ mạnh một cái lên đầu Phúc Lâm. Anh đau đến ứa nước mắt nhưng im lặng cam chịu. Ông tức giận gõ thêm một cái thật mạnh vì muốn khiến anh nhớ rõ phải tuân thủ pháp luật, không thể xem việc giết người vào ban đêm là điều hiển nhiên. Anh đưa tay ôm đầu, tự giác lùi về sau một bước.
+
+Ông hừ một tiếng, cảnh cáo anh: “Mỗi người chỉ có một mạng sống, làm gì cũng phải cẩn thận. Nếu có lần sau, không cần đợi chúng ra tay, tự chú… sẽ giết cháu.”
+
+Phúc Lâm: “…”
+
+Chú của anh đang nói gì vậy?
+
+Một câu nối tiếp một câu, cuối cùng là đòi giết anh?
+
+“Theo chú đến chỗ tàu vũ trụ.” Nam Đông bỏ lại câu này, khắc sau đã biến mất.
+
+Phúc Lâm rầu rĩ sờ vào vết xước nhỏ trên ngực, suy tư nhíu mày. Thái độ của ông rất lạ, như đang giấu anh chuyện gì đó. Họa chăng, trong tương lai, một ngày không xa, anh chẳng thể kiểm soát được năng lượng của mình, bắt đầu làm hại mọi người? Ông lo lắng điều này ư? Lẽ nào… anh là một tai họa ngầm?
+
+“Năng lượng của cháu bị tổn hại quá nhiều. Vào kén đi.”
+
+Phúc Lâm vừa xuất hiện trong tàu vũ trụ đã nghe Nam Đông nói. Anh do dự nhìn ông: “Chú, tại sao năng lượng trong kén không giúp chú hồi phục khi bị thương?”
+
+“Cháu thật sự đã đặt chú nằm vào cái kén này à?” Nam Đông nghi ngờ hỏi vặn lại. Ông cứ cảm giác trong người là lạ, nhưng không dám khẳng định.
+
+Anh chậm chạp gật đầu, không quên bổ sung thêm: “Cháu cứ nghĩ nó cũng sẽ giúp chú khỏe lại, nhưng chẳng có tác dụng gì cả.”
+
+Nam Đông mím môi, nhìn anh chăm chăm như thể giây tiếp theo sẽ đi tới đánh anh một trận. Ông siết chặt bàn tay, từ từ thả lỏng. Anh lẳng lặng nằm vào cái kén, không dám nói nữa, sợ sẽ kích thích tiềm năng bạo lực trong ông.
+
+Khoảnh khắc cái kén sắp đóng kín, Nam Đông dùng tay ngăn lại, giọng nói ẩn nhẫn: “Năng lượng chứa trong kén thuộc về cháu, dĩ nhiên nó sẽ từ chối tiếp nhận chú. May mà nó nhận ra người quen nên không xảy ra tình trạng xung đột năng lượng. Không thì chú đã sớm bị nó giết chết rồi.”
+
+Phúc Lâm: “…”
+
+Đây là lý do chính khiến chú anh muốn giết quách anh đi cho rồi phải không?
+
+Ông mạnh tay đóng chặt cái kén, hầm hầm đi đến ghế ngồi. Hai lần. Đã hai lần rồi. Tròn hai lần ông bắt Phúc Lâm nằm vào kén năng lượng. Ngày toàn bộ năng lượng của anh được hoàn trả lên người anh không còn xa nữa.
+
+Những ngày đầu đưa Phúc Lâm đến Trái Đất, để tránh hiểm họa về sau, để tránh việc anh mất khống chế khi năng lượng vượt khỏi kiểm soát của mình, ông chọn cách trữ một phần năng lượng của anh trong cái kén kia. Quá trình khá gian truân, nhưng ông đã làm được mà không gây ra tổn hại gì cho anh.
+
+Nay, vì những tác nhân bên ngoài, nguồn năng lượng đặc biệt ấy bắt đầu tìm về cơ thể chủ nhân. Số mệnh của anh định sẵn không thể sống một đời bình thường như bao người. Cuộc sống hiện tại của anh cũng chỉ là một cột mốc tạm thời.
+
+Ngày tinh tú về lại với trời, sẽ tỏa sáng rực rỡ hay lụi tàn trong bóng tối vô tận?
+
+Nam Đông khởi động máy tính bảng, một âm thanh máy móc vang lên.
+
+[Xin chào Sứ giả, đã có kết quả từ tàu thăm dò. Xác nhận tín hiệu của vật thể lạ trong không gian là một mảnh vỡ của đá Ánh Sáng. Tàu thăm dò đã thu hồi mảnh vỡ, đang trên đường quay về tàu mẹ. Thời gian đến nơi còn hai ngày.]
+
+Ông tưởng mình nghe nhầm nên ra lệnh: “Đọc lại báo cáo.”
+
+[Xin chào Sứ giả, đã có kết quả từ tàu thăm dò. Xác nhận tín hiệu của vật thể lạ trong không gian là một mảnh vỡ của đá Ánh Sáng. Tàu thăm dò đã thu hồi mảnh vỡ, đang trên đường quay về tàu mẹ. Thời gian đến nơi còn hai ngày.]
+
+Một mảnh vỡ… của đá Ánh Sáng ư?
+
+Tại sao đá Ánh Sáng lại vỡ? Nó vỡ thành bao nhiêu mảnh? Vị trí cụ thể của từng mảnh vỡ là ở đâu trong không gian vô tận ngoài kia? Vô số câu hỏi không lời đáp chiếm lấy tâm trí Nam Đông, ông nhẫn nại phân tích từng điều một, mắt không rời màn hình ảo. Thông số hiển thị nhiều hơn, cột số liệu vẫn đang thay đổi…
+
+Ông không lấy được đá Ánh Sáng lúc nó còn nguyên vẹn, giờ nó lại vỡ thành nhiều mảnh nhỏ, khác nào gây thêm khó khăn cho quá trình tìm kiếm và hủy nó?
+
+Nam Đông bình tĩnh nhập vài dữ liệu vào máy tính bảng, nhiều thông tin liên tiếp xuất hiện. Ông nhanh tay thiết lập công cụ giải mã khi nhìn thấy những dòng kí tự được mã hóa không ngừng hiển thị trên màn hình lớn.
+
+[Báo cáo Sứ giả, đã phân tích xong toàn bộ nguồn dữ liệu.]
+
+Mấy giây trôi qua, Nam Đông nghe thấy giọng nói máy móc phát ra từ loa.
+
+[Máy quét thu được tín hiệu của tất cả mảnh vỡ đá Ánh Sáng. Cánh cổng thời không bị đóng vĩnh viễn. Có một thông điệp từ hành tinh Thời Gian vừa được tải xuống hệ thống. Nếu Sứ giả muốn mở cánh cổng thời không thì phải đi tìm những mảnh vỡ còn lại của đá Ánh Sáng. Ngài có muốn mở cánh cổng ấy không?]
+
+Nam Đông không trả lời câu hỏi kia, chỉ thờ ơ cất giọng: “Tại sao đá Ánh Sáng lại vỡ? Có bao nhiêu mảnh vỡ ngoài kia?”
+
+[Đá Ánh Sáng vẫn luôn hấp thụ năng lượng từ các hành tinh, vì hấp thụ quá nhiều nguồn năng lượng khác nhau, dẫn đến sự bùng nổ năng lượng, vỡ thành bốn viên, trong đó có một viên là mặt thiện bị chối bỏ đã rơi vào vùng tối của vũ trụ.]
+
+“Vùng tối của vũ trụ ở đâu?” Ông đưa tay miết nhẹ thái dương, tự nhiên cảm thấy đau đầu. Đang yên đang lành, tự dưng lại xuất hiện bốn viên đá nhỏ vì viên đá to bị vỡ. Ông muốn đầu ông vỡ làm bốn, chẳng biết hành tinh Thời Gian đáp ứng không? Ý định đánh sập hành tinh Thời Gian lần nữa trồi lên trong đầu ông.
+
+[Vùng tối của vũ trụ là nơi vô cùng nguy hiểm. Số người sống sót trở ra từ nơi đó gần như không có. Hiện tại Sứ giả đã sở hữu một viên đá Ánh Sáng, chúng ta cần tìm hai viên còn lại trước những người khác.]
+
+“Rốt cuộc có những ai đang tìm kiếm viên đá vậy?” Ông sầu khổ thở than. “Vẫn chưa xác minh được danh tính của người từng mang đá Ánh Sáng đến Trái Đất hay sao? Nhiều năm trôi qua rồi, ít nhất cũng phải truy được vài manh mối chứ.”
+
+[Mong Sứ giả thông cảm, hiện chưa thể xác minh được.]
+
+“Tại sao chúng ta luôn chậm một bước nhỉ?” Nam Đông nghiền ngẫm những thông số trên màn hình ảo, tự nói chuyện một mình. “Kẻ đứng sau mọi chuyện đang muốn làm gì đây? Đầu tiên là để đá Ánh Sáng hấp thu năng lượng của địa cầu, sau đó đưa nó tới các hành tinh khác. Hắn muốn làm sạch năng lượng ư?”
+
+[Nói chính xác thì đây là quá trình tái tạo năng lượng mới, thưa Sứ giả.]
+
+“Tái tạo năng lượng mới?” Ông trầm ngâm nheo mắt. “Những gì hắn làm là để kích nổ viên đá ư? Thú vị rồi đấy! Hắn muốn viên đá ấy nhận chủ đúng không?”
+
+[Đá Ánh Sáng là vật vô chủ, nó tuyệt đối không khuất phục bất kỳ ai.]
+
+Nguồn năng lượng ban đầu của viên đá là năng lượng nguyên thủy, có là người của Hệ Vinh Diệu cũng khó mà tiếp nhận nổi. Kẻ đó gián tiếp hủy hoại viên đá, giúp nó tái sinh từ tro tàn. Nhờ thế, khi hắn đi nhặt lại từng mảnh vỡ của nó, sẽ dùng năng lượng của mình dẫn dắt nó nhận chủ nhân. Nam Đông cảm nhận rõ ràng mối nguy hại trong tương lai, ông siết chặt tay, bật cười thành tiếng.
+
+Thảo nào, tận hai mươi năm…
+
+“Đó là lý do sự diệt vong chưa xảy ra đúng không?”
+
+Hắn sẽ tìm ông sớm thôi, khi nghe tin có người muốn hủy “báu vật” của hắn.
+
+[Báo cáo Sứ giả, có một tin tốt và một tin xấu, ngài muốn nghe tin nào trước?]
+
+“Tin xấu là gì?” Nam Đông sầm mặt hỏi.
+
+[Lại có thêm vết nứt mới xuất hiện ở vài nơi trên Trái Đất sau các vụ động đất.]
+
+Cũng chưa xấu lắm. Ông vuốt trán, kéo dài giọng: “Vậy còn tin tốt?”
+
+[Ngọn đèn trên hành tinh Thời Gian đang có dấu hiệu sáng trở lại.]
+
+“Điềm báo trong sách cổ thì sao? Vũ trụ không diệt vong nữa đúng không?”
+
+[Câu trả lời chờ ngài ở hành tinh Thời Gian.]
+
+Nam Đông vươn tay gõ một dãy số lên máy tính bảng. Đợi hệ thống xác nhận xong, ông thoải mái duỗi vai: “Vậy thì về nhà một chuyến xem sao. Chuyện còn lại nên giao cho con người xử lý. Họ cần học cách bảo vệ ngôi nhà của mình.”

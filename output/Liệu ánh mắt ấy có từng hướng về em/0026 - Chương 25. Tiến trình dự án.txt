@@ -1,0 +1,183 @@
+Chương 25. Tiến trình dự án
+
+Sáng hôm sau, An Diệp có mặt tại phòng Dự án. Trước khi bước vào trong, cô khẽ vuốt lại nếp áo, hít một hơi sâu để lấy lại sự tự tin. Qua lớp kính mờ, cô thấy bóng dáng mọi người đang tụm lại xì xào chuyện gì đó trông rất khoái chí.
+
+Khỏi phải đoán vòng vo cô cũng biết, nhân vật chính trong câu chuyện của bọn họ chẳng ai khác ngoài cô.
+
+Không thể chần chừ nghe họ xì xào về mình thêm nữa, An Diệp dứt khoát đẩy cửa bước vào. Vừa trông thấy cô, sắc mặt từng người trong phòng ban nãy còn vui cười lập tức im lặng. Mọi ánh mắt từ khinh rẻ, tò mò thậm chí là thách thức đồng loạt hướng về phía Diệp.
+
+An Diệp không quan tâm lắm, cô bước đến giữa phòng, đặt thẻ công tác lên bàn họp chính:
+
+"Chào mọi người, tôi là Dương An Diệp. Từ hôm nay, tôi sẽ đồng hành cùng các bạn trong dự án lần này. Hy vọng chúng ta sẽ làm việc trên tinh thần chuyên môn thay vì cảm tính."
+
+Vừa dứt lời, một tiếng cười khẩy vang lên. Quốc Hùng khoanh tay, tựa lưng vào ghế với biểu cảm mỉa mai thấy rõ:
+
+"Chuyên môn sao? Hy vọng cô không nhầm lẫn giữa năng lực thực tế và tấm bằng làm cảnh. Ở đây chúng tôi làm việc dựa trên kết quả chứ không phải tấm thẻ nhân viên mới toanh kia đâu."
+
+Anh ta vừa nói, mắt vừa ám chỉ vào tấm thẻ hành nghề Diệp đang đeo, ngụ ý khinh thường cô không xứng ở vị trí đấy.
+
+Trái ngược với vẻ hằn học của Quốc Hùng, Minh Lan vẫn thong thả ngồi gõ phím. Sự xuất hiện của Diệp với cô ấy mà nói cũng chỉ như một biến số mới. Nếu biến số này giúp dự án phát triển tốt hơn, cô ấy sẽ vui vẻ chấp nhận.
+
+Còn nếu chỉ là bình hoa di động, cô ấy cũng chẳng ngại mà gạt sang một bên.
+
+Đối mặt với bầu không khí đặc quánh mùi thuốc súng này, An Diệp chỉ đành mỉm cười bất lực.
+
+Để xoa dịu tình hình hiện tại, giám đốc Hoàng tiến về phía cô, chìa tay ra: "Hợp tác tốt, làm việc hết sức mình nghen em!"
+
+An Diệp hơi ngạc nhiên trước vẻ đôn hậu nồng nhiệt của anh Hoàng. Trong công ty đồn anh là người vô cùng khó tính và gay gắt. Suy cho cùng lời đồn thổi cũng không chính xác bằng việc tự mình trải nghiệm.
+
+"Dạ em cảm ơn anh! Rất mong được anh chiếu cố thêm ạ."
+
+Anh Hoàng gõ nhẹ lên mặt bàn, chính thức công bố: "Tôi xin nhắc lại lần nữa, từ giờ An Diệp là Leader điều phối chính cho dự án công nghệ tim mạch của chúng ta. Mọi báo cáo chuyên môn và tiến độ sẽ thông qua cô ấy."
+
+"Tôi nhắc lại, đây là dự án sống còn của công ty." Anh Hoàng lên tiếng, giọng trầm thấp mang đầy uy lực của một vị cấp trên.
+
+"Phần việc của Diệp là dẫn dắt các bạn về mặt giải pháp chuyên môn. Còn tôi sẽ chịu trách nhiệm trực tiếp với Hội đồng quản trị về nguồn vốn và liên kết với các chuyên gia tim mạch đầu ngành tại bệnh viện để chúng ta có dữ liệu thực tế cho dự án này."
+
+Anh Hoàng chuyển ánh mắt sang nhóm nhân sự cốt lõi, giọng sắc lẹm:
+
+"Tôi không cần biết ba người các cậu ở các dự án trước làm việc thế nào. Nhưng trong dự án này, tôi mong các bạn hợp tác để có kết quả tốt đẹp."
+
+Tiếng nói của anh Hoàng lúc này quả thật rất có sức nặng. Lời anh vừa cất đã ngầm phân định rõ thứ bậc của từng người trong phòng.
+
+Sau khi anh Hoàng rời đi, bầu không khí trong phòng vẫn còn ngột ngạt. Xét thấy tình hình này mà giao việc liền thì sẽ hỏng bét, cho nên điều đầu tiên cô nghĩ mình cần làm chính là làm quen với mọi người trước.
+
+"Chào mọi người, chúng ta làm quen một chút nha! Diệp đã xem qua các module các bạn đang phụ trách, nhưng vẫn muốn nghe trực tiếp từ mọi người về những vướng mắc hiện tại. Sáng nay mình cứ trao đổi thoải mái để khớp lại cách làm việc đã, rồi mới tính đến lộ trình chi tiết sau."
+
+"Chào Diệp, hy vọng chúng ta sẽ hợp tác tốt," Minh Lan đáp.
+
+Diệp dừng lại trước bàn của Quốc Hùng, ánh mắt điềm tĩnh nhưng không hề nhượng bộ: "Chào anh Hùng, rất mong nhận được sự hỗ trợ từ mảng Backend của anh để dự án nhanh chóng đạt kết quả tốt đẹp."
+
+"Backend của dự án này phức tạp lắm đấy." Hùng buông một câu cộc lốc, giọng đầy tính mỉa mai đến nỗi không thèm quay lại nhìn Diệp một cái.
+
+"Muốn cái gì thì cứ gửi qua mail, tôi sẽ xem xét khi có thời gian rảnh ha!"
+
+Diệp hơi nheo mắt. Cô thừa hiểu với một người có cái tôi cao ngất ngưởng như Quốc Hùng, việc hạ mình chấp nhận một leader mới là điều không thể diễn ra trong ngày một ngày hai. Thay vì đôi co vô nghĩa, cô chỉ khẽ gật đầu rồi thong thả bước về chỗ ngồi của mình.
+
+Vì đây là trận đánh đầu tiên của cô trên cương vị là một leader, nên phải hết sức cẩn trọng trong việc phân bổ nhiệm vụ cho từng người.
+
+Ba tuần đầu tiên của dự án, An Diệp trải bản kế hoạch thô lên bàn mà mình đã thức trắng đêm soạn ra.
+
+Anh Hoàng đẩy nhẹ gọng kính, ánh mắt chậm rãi lướt qua tập hồ sơ dày cộp còn vương mùi mực in mới. Những sơ đồ chi chít và bảng phân tích rủi ro là minh chứng cho việc An Diệp rất tận tâm với dự án này.
+
+"Chỉ là bản kế hoạch thô mà chi tiết đến mức này... Diệp à, em thật sự khiến anh bất ngờ đấy!" Hoàng ngẩng lên nhìn Diệp, hình như anh đã đánh giá thấp cô gái này quá rồi.
+
+"Dạ em muốn mọi thứ phải hoàn hảo ngay từ trận đầu, thưa anh." Cô đáp.
+
+Hoàng gõ nhẹ ngón tay xuống mặt bàn, ngay vị trí những dòng phân bổ nhân sự dày đặc: "Về độ nhiệt huyết của em anh sẽ cho điểm tuyệt đối. Nhưng với tư cách là Project Manager, anh sẽ nói chưa ổn với cách em phân bổ nhiệm vụ cho từng bạn.”
+
+Anh Hoàng chỉ vào bảng thống kê chia việc cho từng bạn mà Diệp đề ra, nếu nhìn tổng quan hết thì nó thật sự chênh lệch rất nhiều.
+
+"Nhìn xem, em dồn cho cậu Hùng 4 phần quan trọng cùng lúc ở tuần thứ hai. Anh công nhận Hùng rất tài giỏi, nhưng cậu ấy không phải là siêu nhân. Nếu chẳng may cậu ta ngã ngựa, toàn bộ dây chuyền phía sau của em sẽ sụp đổ ngay!"
+
+An Diệp hơi sững người, cô mải nhìn vào mục tiêu mà quên mất nhịp sinh học của đội ngũ.
+
+Hoàng đẩy bản kế hoạch ngược lại phía cô, từng chữ gãy gọn: "Đừng vội cầm bút chia việc khi em chưa ướm thử áp lực lên vai từng người. Bây giờ, việc của em là cầm cái bản thảo này đi nói chuyện riêng với từng bạn rồi ngồi nghe họ nói về khả năng làm việc của họ trước."
+
+"Sau đó hãy quay lại đây chốt hạ danh sách nhiệm vụ, biết chưa?" Anh Hoàng nói tiếp.
+
+Sau khi nghe lời khuyên của anh Hoàng, An Diệp nhận thấy hành động của mình quá khinh suất. Thế là cô dành cả một ngày ngồi lại bàn bạc với từng người trong team. Khi đã nắm chắc khả năng của họ, cô mới tự tin mở cuộc họp chính thức:
+
+"Bây giờ chúng ta bắt đầu vào việc xây dựng Phễu lọc dữ liệu."
+
+Diệp quay sang nhìn Hùng, nói: "Anh Hùng, tôi cần anh thiết lập một hệ thống phân loại tự động dựa trên tiêu chuẩn của Hội Tim mạch học Việt Nam đề ra. Chúng ta không nạp dữ liệu thô như thông thường nữa mà phải bóc tách từng cái chỉ số cốt lõi như huyết áp, nhịp tim và SpO2."
+
+Cô chỉ tay vào màn hình đồ họa, nhấn mạnh:
+
+"Đặc biệt là dữ liệu hình ảnh mô phỏng. Thiết bị này phải phân tích được nhịp bình thường lẫn bất thường của cơ tim để phát hiện những biến dạng nhỏ nhất mà mắt thường rất dễ bỏ sót."
+
+Một khoảnh khắc im lặng bao trùm phòng họp. Mọi người nhìn sang Quốc Hùng – người vốn dĩ rất khắt khe với các yêu cầu kỹ thuật cao. Nhưng trái với dự đoán của họ, Hùng không hề tỏ ra thái độ phản đối kịch liệt. Vì anh ta đã được Diệp thuyết phục từ trước về tính khả thi và ý nghĩa của công việc này.
+
+"Tôi hiểu rồi." Quốc Hùng chăm chú ghi chép, thái độ hoàn toàn thay đổi so với lúc đầu.
+
+Nghe vậy An Diệp mới khẽ thở phào trong bụng, cảm giác nhẹ nhõm vừa len lỏi đã bị cô nhanh chóng thu lại. Bởi đây chỉ mới là bước nhỏ trong nhiều bước tiến lớn, nên cô không cho phép mình dừng lại phút giây nào.
+
+Phải nói team này đúng kiểu "tránh vỏ dưa gặp vỏ dừa" Vừa giải quyết xong hai phần kia thì va phải thử thách khó nhằn.
+
+Minh Lan phải liên hệ với Bệnh viện Tim Tâm Đức hoặc các đơn vị bệnh viện cùng tuyến trên địa bàn để xin truy cập vào kho dữ liệu sạch. Đó là nguồn nguyên liệu sống còn để đảm bảo tỷ lệ sai số không vượt quá ngưỡng 5%.
+
+Tuy nhiên, muốn xin được cũng không phải chuyện dễ dàng gì. Phía bệnh viện lo ngại về bảo mật dữ liệu bệnh nhân, họ buộc Lan phải ký cam kết về việc không tiết lộ bất kỳ thông tin nào của bệnh nhân ra ngoài.
+
+Và để có được nguồn dữ liệu này, Lan đành miễn cưỡng chấp nhận.
+
+Thế nhưng, dữ liệu mới chỉ là một nửa cuộc chơi. Giao diện thực thi gọi tắt là UI mới là bài toán hóc búa khiến cả đội đau đầu. Giám đốc Hoàng nãy giờ im lặng quan sát từ góc phòng bỗng tiến đến chỗ họ, sắc mặt anh trông rất khó coi.
+
+Anh nhìn bản phác thảo chi chít biểu đồ của nhóm rồi lắc đầu, giọng đanh thép:
+
+"Mấy cô cậu đừng có chăm chăm vào mấy cái dữ liệu quá. Các bác sĩ không có thời gian xem kỹ mấy biểu đồ phức tạp này đâu."
+
+Rồi anh chỉ tay vào màn hình, nhấn mạnh từng chữ: "Họ chỉ cần 3 màu cơ bản đó là xanh lá chỉ an toàn, vàng chỉ theo dõi và đỏ chỉ cấp cứu thôi."
+
+"Nhớ cho kỹ lời tôi này, mỗi giây các cô cậu tiết kiệm được cho bác sĩ đồng nghĩa với việc kéo dài thời gian sống cho bệnh nhân."
+
+Lần trình bày đầu tiên, cả đội mang đến một bản Dashboard cực kỳ bắt mắt. Họ khéo léo lồng ghép các biểu đồ dạng sóng chạy mượt mà bên cạnh các khối màu Xanh, Vàng, Đỏ. Anh Hoàng nhìn chưa gì hết đã hỏi ngược, giọng gay gắt:
+
+"Tôi hỏi này, giả sử bây giờ có 10 bệnh nhân cùng lúc nằm cấp cứu, các cậu định bắt bác sĩ nhìn 10 cái đường sóng đang nhảy múa này để tìm người sắp ngưng thở à?"
+
+"Dẹp ngay mấy cái hiệu ứng rườm rà này giùm đi mấy đứa ơi!" Anh quát.
+
+Ngồi nghe anh Hoàng giáo huấn một trận xong, nhóm lầm lũi quay về bàn bạc lại. Họ bắt đầu nghiên cứu về Hệ thống phân loại bệnh nhân để hiểu áp lực thực sự của một ca trực cấp cứu là như thế nào.
+
+Lần thứ hai, Dashboard được tinh giản tối đa, chỉ còn các ô vuông màu sắc rực rỡ.
+
+Nhưng khi nhìn vào, Hoàng vẫn nhíu mày. Anh tắt bớt đèn phòng họp, chỉ để lại ánh sáng lờ mờ: "Thử tưởng tượng đây là hành lang bệnh viện lúc 3 giờ sáng đi. Mắt bác sĩ thì đã mỏi nhừ, ánh sáng đèn lại yếu nữa. Tại sao màu Đỏ cấp cứu của các cậu lại có tông trầm thế này? Nó phải nổi bật để họ chú ý tới chứ?"
+
+Anh gõ mạnh tay vào màn hình: "Sao không dùng tiêu chuẩn tương phản để chắc chắn một người bị mù màu vẫn nhận diện được nguy hiểm đi?"
+
+Đến lần thứ tư, thứ năm...
+
+Có những lúc cả đội đã muốn bỏ cuộc khi anh Hoàng cứ bắt họ cân chỉnh từng điểm ảnh một, miệng thì không ngừng liên thuyên về sai sót của team.
+
+Nhìn tất cả bản thảo từ đầu đến cuối đều bị anh Hoàng không ưng ý mà khiển trách mấy hôm liền. Chỗ nào anh không ưng, Diệp và mọi người lập tức lao vào sửa, nhưng vừa lấp kín xong lỗ hổng này thì vấn đề khác lại nảy sinh như vòng lặp không có điểm kết thúc.
+
+Giữa cơn đau đầu và cảm giác mông lung, Diệp trải hàng chục bản phác thảo bị loại ra mặt bàn. Khi đặt chúng cạnh nhau, cô mới bàng hoàng nhận ra nhóm mình đã sai ở đâu, thiếu sót điểm nào để tinh chỉnh lại.
+
+Nếu rực rỡ gây rối mắt và khó nhận diện ngay được, vậy sao mình không thiết kế một bảng điều khiển tối giản? Một ý nghĩ táo bạo lóe lên trong đầu Diệp.
+
+Thế là những đêm sau đó, Diệp tự trói mình trên bàn làm việc. Cô kiên nhẫn ngồi gọt bỏ những chi tiết được cho là thừa thãi, chắt lọc lại những gì tinh túy nhất để tạo nên một bảng điều khiển tối giản vừa nhìn vào liền bắt kịp tín hiệu.
+
+Ngay lúc đang chật vật không biết làm sao, chợt Gia Thành nhắn tin hỏi:
+
+- Dạo này sức khỏe chị thế nào? Công việc thuận lợi hết không ạ?
+
+Nhìn dòng tin nhắn, Diệp bất giác mỉm cười. Cậu em trai vừa tốt nghiệp đại học xong là về quê nhận công tác giảng dạy Toán ở một trường cấp hai gần nhà. Cuộc sống của Thành hiện tại có lẽ nhẹ nhàng hơn cô nhiều.
+
+Diệp gõ nhanh câu trả lời:
+
+- Chị vẫn ổn, thầy giáo trẻ dạo này đi dạy có vất vả lắm không?
+
+Gia Thành trả lời ngay tắp lự:
+
+- Tụi học sinh vất vả mới đúng á! Nay em cho lớp làm bài kiểm tra 15 phút, mấy đứa cứ than đề khó hiểu cái viết lung tung.
+
+- Em liền bảo cái gì quan trọng thì tô đậm lên, gạch chân rõ vào, còn lại bỏ hết đi cho đỡ vướng. Cái gì càng ôm đồm vào người thì lại càng dễ bị sai!
+
+Dòng tin nhắn vô tình của cậu em trai như một tia chớp xẹt qua đại não đang đình trệ của Diệp.
+
+Càng tham càng dễ sai... bỏ hết đi cho đỡ vướng... Đúng rồi! Sao mình không nhận ra cơ chứ??
+
+***
+
+Một tháng sau, Diệp trình chiếu bản thảo dashboard do mình thiết kế. Cấu tạo của nó đơn giản đến mức ai nấy đều kinh ngạc. Một màn hình đen sâu thẳm làm nổi bật những thẻ thông tin lớn với ba sắc thái màu chủ đạo là xanh lá, đỏ và vàng.
+
+Anh Hoàng đứng lặng trước màn hình rất lâu. Mãi sau anh mới bước tới chỉ tay vào khối vuông màu đỏ đang nhấp nháy trên màn hình trình chiếu.
+
+"Được rồi, chính là nó!"
+
+Rồi Hoàng gấp laptop lại, nhìn cả đội đang thở phào mà dội một gáo nước lạnh: "Phần giao diện xong rồi, giờ mình phải làm sao để cái Dashboard này không báo động giả đây này."
+
+***
+
+Thoáng chốc, kim đồng hồ đã nhích đến số 5. Ánh nắng cuối ngày hắt qua khung cửa kính, nhuộm vàng những gương mặt mệt mỏi vẫn đang miệt mài với công việc.
+
+An Diệp đưa mắt nhìn về phía chân trời rực rỡ, tiếng bụng đói cồn cào nhắc nhở cô rằng mình đã bỏ lỡ cả bữa trưa hôm nay.
+
+"Hết giờ hành chính rồi. Nghỉ thôi mọi người ơi!"
+
+Giám đốc Hoàng nhìn đồng hồ, rồi nhìn qua ánh mắt đờ đẫn của từng người. Anh tháo kính, sắc mặt dịu đi trông thấy:
+
+"Vậy thôi về đi mấy đứa! Để mắt nghỉ ngơi cho tinh tường rồi mai chúng ta sẽ test cái hệ thống này xem nó chạy như nào."
+
+Cả nhóm nhìn nhau, những tiếng cười nhẹ bắt đầu phá tan bầu không khí đặc quánh áp lực lúc nãy. Họ dọn dẹp bàn làm việc, bỏ lại sau lưng những dòng code dang dở và những biểu đồ còn chưa thành hình trên màn hình máy tính.
+
+_END CHƯƠNG 25_
